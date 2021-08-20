@@ -1,4 +1,11 @@
 {
+  "manual": {
+    "SKYBLOCK_MENU": 0,
+    "SUPERBOOM_TNT": 2500,
+    "SAPLING:5": 0,
+    "RED_ROSE:6": 4,
+    "ROOKIE_HOE": 10
+  },
   "automatic": {
     "BANNER": 0,
     "WOOL:10": 0,
