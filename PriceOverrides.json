@@ -1,11 +1,4 @@
 {
-  "manual": {
-    "SKYBLOCK_MENU": 0,
-    "SUPERBOOM_TNT": 2500,
-    "SAPLING:5": 0,
-    "RED_ROSE:6": 4,
-    "ROOKIE_HOE": 10
-  },
   "automatic": {
     "DROPPER": 0,
     "JUNGLE_FENCE_GATE": 0,
@@ -210,7 +203,7 @@
     "GOLD_BLOCK": 0,
     "JUNGLE_DOOR_ITEM": 0,
     "FLOWER_POT_ITEM": 500005,
-    "BARRIER": 1084,
+    "BARRIER": 1557,
     "STONE_HOE": 0,
     "STAINED_GLASS_PANE:10": 0,
     "STONE_BUTTON": 0,
