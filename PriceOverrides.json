@@ -4,7 +4,8 @@
     "SUPERBOOM_TNT": 2500,
     "SAPLING:5": 0,
     "RED_ROSE:6": 4,
-    "ROOKIE_HOE": 10
+    "ROOKIE_HOE": 10,
+    "DIRT:2": 0
   },
   "automatic": {
     "DROPPER": 0,
