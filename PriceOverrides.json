@@ -6,7 +6,8 @@
     "RED_ROSE:6": 4,
     "ROOKIE_HOE": 10,
     "DIRT:2": 0,
-    "MINING_RAFFLE_TICKET": 0
+    "MINING_RAFFLE_TICKET": 0,
+    "RUNE": 0
   },
   "automatic": {
     "JUNGLE_FENCE": 0,
