@@ -11,7 +11,8 @@
     "DWARVEN_METAL_DETECTOR": 0,
     "MITHRIL_GOURMAND": 0,
     "LEAVES:2": 0,
-    "SMOOTH_BRICK:2": 0
+    "SMOOTH_BRICK:2": 0,
+    "PRISMAPUMP": 25000
   },
   "automatic": {
     "BANNER": 0,
