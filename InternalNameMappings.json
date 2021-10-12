@@ -618,6 +618,9 @@
   "LEGENDARY_BLACK_CAT": [
     "BLACK_CAT;4"
   ],
+  "BLACK_CAT_PLUSH": [
+    "BLACK_CAT_PLUSH"
+  ],
   "BLAST_PROTECTION_I": [
     "BLAST_PROTECTION;1"
   ],
@@ -1040,6 +1043,9 @@
   ],
   "CANDLE_ARCH": [
     "CANDLE_ARCH"
+  ],
+  "CANDLE_TABLE": [
+    "CANDLE_TABLE"
   ],
   "CANDY_ARTIFACT": [
     "CANDY_ARTIFACT"
@@ -1831,6 +1837,9 @@
   ],
   "CULTIVATING_I": [
     "CULTIVATING;1"
+  ],
+  "CYCLOPS_MINION_SKIN": [
+    "CYCLOPS_PERSONALITY"
   ],
   "DAEDALUS_AXE": [
     "DAEDALUS_AXE"
@@ -7906,6 +7915,9 @@
   "SCARECROW": [
     "SCARECROW"
   ],
+  "SCARECROW_MINION_SKIN": [
+    "SCARECROW_PERSONALITY"
+  ],
   "SCARF_FRAGMENT": [
     "SCARF_FRAGMENT"
   ],
@@ -8337,6 +8349,9 @@
   ],
   "SKULL_MINION_SKIN": [
     "SKULL_PERSONALITY"
+  ],
+  "SKULL_VASE": [
+    "SKULL_VASE"
   ],
   "DARK_OAK_BENCH": [
     "SKYBLOCK_BENCH"
@@ -10533,6 +10548,9 @@
   ],
   "WISHING_COMPASS": [
     "WISHING_COMPASS"
+  ],
+  "WITCH_BROOMSTICK": [
+    "WITCH_BROOMSTICK"
   ],
   "WITCH_MASK": [
     "WITCH_MASK"
