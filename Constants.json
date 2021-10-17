@@ -857,5 +857,25 @@
     "48000": "Godlike VIII",
     "52000": "Godlike IX ",
     "56000": "Godlike X"
+  },
+  "HOTM_PERK_ID_TO_NAME": {
+    "forge_time": "quick forge",
+    "random_event": "luck of the cave",
+    "mining_experience": "seasoned mineman",
+    "special_0": "peak of the mountain"
+  },
+  "HOTM_PERK_MAX_LEVEL": {
+    "mining_speed_boost": 1,
+    "special_0": 5,
+    "great_explorer": 20,
+    "forge_time": 20,
+    "fortunate": 20,
+    "lonesome_miner": 45,
+    "random_event": 45,
+    "daily_powder": 100,
+    "efficient_miner": 100,
+    "mining_experience": 100,
+    "professional": 140,
+    "mole": 190
   }
 }
