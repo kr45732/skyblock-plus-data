@@ -2332,6 +2332,10 @@
     "name": "Crystal Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crystal_Armor"
   },
+  "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Crystal Hollows",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
+  },
   "CRYSTAL_LEGGINGS": {
     "name": "Crystal Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crystal_Armor"
@@ -4579,6 +4583,10 @@
   "FOREST_BIOME_STICK": {
     "name": "Forest Biome Stick",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Biome_Stick"
+  },
+  "FORGE_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Dwarven Forge",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
   "FORTUNE;1": {
     "name": "Fortune I"
