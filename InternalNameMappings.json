@@ -2499,7 +2499,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Death_Bow"
   },
   "DECAYED_BAT": {
-    "name": "Decayed Bat"
+    "name": "Decayed Bat",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decayed_Bat"
   },
   "DECENT_BOW": {
     "name": "Decent Bow",
@@ -4471,6 +4472,10 @@
   },
   "FLOWER_GENERATOR_11": {
     "name": "Flower Minion XI",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flower_Minion"
+  },
+  "FLOWER_GENERATOR_12": {
+    "name": "Flower Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flower_Minion"
   },
   "FLOWER_GENERATOR_2": {
@@ -7662,7 +7667,8 @@
     "name": "Netherrack"
   },
   "NETHER_ARTIFACT": {
-    "name": "Nether Artifact"
+    "name": "Nether Artifact",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Artifact"
   },
   "NETHER_BIOME_STICK": {
     "name": "Nether Biome Stick",
