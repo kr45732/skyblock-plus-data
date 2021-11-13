@@ -95,7 +95,6 @@
     "catacombs": 0.0002149604615
   },
   "FETCHUR_ITEMS": [
-    "**Item:** Red Wool\n**Quantity:** 50|WOOL:14",
     "**Item:** Yellow Stained Glass\n**Quantity:** 20|STAINED_GLASS:4",
     "**Item:** Compass\n**Quantity:** 1|COMPASS",
     "**Item:** Mithril\n**Quantity:** 20|MITHRIL_ORE",
@@ -107,7 +106,7 @@
     "**Item:** Pumpkin\n**Quantity:** 1|PUMPKIN",
     "**Item:** Flint and Steel\n**Quantity:** 1|FLINT_AND_STEEL",
     "**Item:** Nether Quartz Ore\n**Quantity:** 50|QUARTZ",
-    "**Item:** Ender Pearl\n**Quantity:** 16|ENDER_PEARL"
+    "**Item:** Red Wool\n**Quantity:** 50|WOOL:14"
   ],
   "GUILD_EXP_TO_LEVEL": [
     100000,
