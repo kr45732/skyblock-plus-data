@@ -882,5 +882,28 @@
         "mining_experience": 100,
         "professional": 140,
         "mole": 190
-    }
+    },
+    "ESSENCE_EMOJI_MAP": {
+        "ice": "<:ice_essence:915013073159487488>",
+        "gold": "<:gold_essence:915013073285312582>",
+        "dragon": "<:dragon_essence:915013073255940126>",
+        "spider": "<:spider_essence:915013073146892308>",
+        "undead": "<:undead_essence:915013073268510780>",
+        "wither": "<:wither_essence:915013073113317417>",
+        "diamond": "<:diamond_essence:915013073167859763>",
+        "permanent_speed": "<:sugar:915015355661971506>",
+        "forbidden_blessing": "<:blessing:915015802913185852>",
+        "catacombs_boss_luck": "<:chest:915015802850271292>",
+        "catacombs_looting": "<:rabbits_foot:915016239548596235>",
+        "revive_stone": "<:revive_stone:915019991156404234>",
+        "catacombs_health": "<:golden_apple:814689788359082004>",
+        "permanent_health": "<:golden_apple:814689788359082004>",
+        "catacombs_defense": "<:iron_chestplate:915019991093485618>",
+        "permanent_defense": "<:iron_chestplate:915019991093485618>",
+        "catacombs_strength": "<:blaze_powder:915020472108851261>",
+        "permanent_strength": "<:blaze_powder:915020472108851261>",
+        "catacombs_intelligence": "<:enchanted_book:915020959281451018>",
+        "permanent_intelligence": "<:enchanted_book:915020959281451018>",
+        "catacombs_crit_damage": "<:crit_damage:915021312714489936>"
+  }
 }
