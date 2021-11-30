@@ -710,6 +710,15 @@
     "name": "Tall Holiday Tree",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "BINGO_DISPLAY": {
+    "name": "Bingo Display"
+  },
+  "BINGO_RING": {
+    "name": "Bingo Ring"
+  },
+  "BINGO_TALISMAN": {
+    "name": "Bingo Talisman"
+  },
   "BIOFUEL": {
     "name": "Biofuel",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Biofuel"
@@ -992,6 +1001,9 @@
     "name": "Bonzo\u0027s Staff",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bonzo\u0027s_Staff"
   },
+  "BONZO_STATUE": {
+    "name": "Bonzo Statue"
+  },
   "BOOK": {
     "name": "Book",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Book"
@@ -1006,6 +1018,9 @@
   },
   "BOOK_AND_QUILL": {
     "name": "Book and Quill"
+  },
+  "BOOK_OF_STATS": {
+    "name": "Book of Stats"
   },
   "BOOSTER_COOKIE": {
     "name": "Booster Cookie",
@@ -2059,6 +2074,9 @@
     "name": "Cola Cooler",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "COLLECTION_DISPLAY": {
+    "name": "Collection Display"
+  },
   "COLOSSAL_EXP_BOTTLE": {
     "name": "Colossal Experience Bottle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Colossal_Experience_Bottle"
@@ -2734,6 +2752,9 @@
   },
   "DISPENSER": {
     "name": "Dispenser"
+  },
+  "DITTO_SKULL": {
+    "name": "Ditto Skull"
   },
   "DIVAN_ALLOY": {
     "name": "Divan\u0027s Alloy",
@@ -5087,6 +5108,9 @@
   },
   "GOLDEN_CARROT": {
     "name": "Golden Carrot"
+  },
+  "GOLDEN_DANTE_STATUE": {
+    "name": "Golden Dante Statue"
   },
   "GOLDEN_DRAGON;4": {
     "name": "Legendary Golden Dragon",
@@ -11453,6 +11477,9 @@
   "SPRAY_CAN": {
     "name": "Spray Can",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spray_Can"
+  },
+  "SPRING_BOOTS": {
+    "name": "Spring Boots"
   },
   "SPRUCE_DOOR_ITEM": {
     "name": "Spruce Door"
