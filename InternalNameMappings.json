@@ -4198,6 +4198,18 @@
   "FERMENTED_SPIDER_EYE": {
     "name": "Fermented Spider Eye"
   },
+  "FESTIVE_JERRY_PERSONALITY": {
+    "name": "Festive Jerry Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "FESTIVE_SKELETON_PERSONALITY": {
+    "name": "Festive Skeleton Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "FESTIVE_ZOMBIE_PERSONALITY": {
+    "name": "Festive Zombie Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
   "FINAL_DESTINATION_BOOTS": {
     "name": "Final Destination Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Final_Destination_Armor"
@@ -5575,6 +5587,10 @@
     "name": "Happy Mask",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Happy_Mask"
   },
+  "HAPPY_SNOWMAN": {
+    "name": "Happy Snowman",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "HARDENED_DIAMOND_BOOTS": {
     "name": "Hardened Diamond Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hardened_Diamond_Armor"
@@ -5938,6 +5954,14 @@
     "name": "Ice Cream Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
+  "ICE_DINNER_TABLE": {
+    "name": "Ice Dinner Table",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "ICE_FIREPLACE": {
+    "name": "Ice Fireplace",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "ICE_GENERATOR_1": {
     "name": "Ice Minion I",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ice_Minion"
@@ -5986,6 +6010,10 @@
     "name": "Hunk of Ice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hunk_of_Ice"
   },
+  "ICE_KNIGHT_STATUE": {
+    "name": "Ice Knight Statue",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "ICE_LOLLY_PERSONALITY": {
     "name": "Ice Lolly Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
@@ -5993,6 +6021,10 @@
   "ICE_ROD": {
     "name": "Ice Rod",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ice_Rod"
+  },
+  "ICE_SOFA": {
+    "name": "Ice Sofa",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "ICE_SPRAY_WAND": {
     "name": "Ice Spray Wand",
