@@ -710,6 +710,10 @@
     "name": "Tall Holiday Tree",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "BINGO_CARD": {
+    "name": "Bingo Card",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Card_(Item)"
+  },
   "BINGO_DISPLAY": {
     "name": "Bingo Display"
   },
@@ -717,7 +721,8 @@
     "name": "Bingo Ring"
   },
   "BINGO_TALISMAN": {
-    "name": "Bingo Talisman"
+    "name": "Bingo Talisman",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Talisman"
   },
   "BIOFUEL": {
     "name": "Biofuel",
@@ -1002,7 +1007,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bonzo\u0027s_Staff"
   },
   "BONZO_STATUE": {
-    "name": "Bonzo Statue"
+    "name": "Bonzo Statue",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bonzo_Statue"
   },
   "BOOK": {
     "name": "Book",
@@ -1020,7 +1026,8 @@
     "name": "Book and Quill"
   },
   "BOOK_OF_STATS": {
-    "name": "Book of Stats"
+    "name": "Book of Stats",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Book_of_Stats"
   },
   "BOOSTER_COOKIE": {
     "name": "Booster Cookie",
@@ -2075,7 +2082,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "COLLECTION_DISPLAY": {
-    "name": "Collection Display"
+    "name": "Collection Display",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Collection_Display"
   },
   "COLOSSAL_EXP_BOTTLE": {
     "name": "Colossal Experience Bottle",
@@ -2754,7 +2762,8 @@
     "name": "Dispenser"
   },
   "DITTO_SKULL": {
-    "name": "Ditto Skull"
+    "name": "Ditto Skull",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ditto_Skull"
   },
   "DIVAN_ALLOY": {
     "name": "Divan\u0027s Alloy",
@@ -5122,7 +5131,8 @@
     "name": "Golden Carrot"
   },
   "GOLDEN_DANTE_STATUE": {
-    "name": "Golden Dante Statue"
+    "name": "Golden Dante Statue",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Dante_Statue"
   },
   "GOLDEN_DRAGON;4": {
     "name": "Legendary Golden Dragon",
@@ -11511,7 +11521,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spray_Can"
   },
   "SPRING_BOOTS": {
-    "name": "Spring Boots"
+    "name": "Spring Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spring_Boots"
   },
   "SPRUCE_DOOR_ITEM": {
     "name": "Spruce Door"
