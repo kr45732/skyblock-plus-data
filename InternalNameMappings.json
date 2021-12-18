@@ -8640,6 +8640,10 @@
     "name": "Gorilla Monkey Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_OCELOT_SNOW_TIGER": {
+    "name": "Snow Tiger Ocelot Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
   "PET_SKIN_PARROT_GOLD_MACAW": {
     "name": "Gold Macaw Parrot Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -12789,19 +12793,19 @@
     "name": "Turbo-Carrot V"
   },
   "TURBO_COCO;1": {
-    "name": "Turbo-Coco I"
+    "name": "Turbo-Cocoa I"
   },
   "TURBO_COCO;2": {
-    "name": "Turbo-Coco II"
+    "name": "Turbo-Cocoa II"
   },
   "TURBO_COCO;3": {
-    "name": "Turbo-Coco III"
+    "name": "Turbo-Cocoa III"
   },
   "TURBO_COCO;4": {
-    "name": "Turbo-Coco IV"
+    "name": "Turbo-Cocoa IV"
   },
   "TURBO_COCO;5": {
-    "name": "Turbo-Coco V"
+    "name": "Turbo-Cocoa V"
   },
   "TURBO_MELON;1": {
     "name": "Turbo-Melon I"
