@@ -12,7 +12,9 @@
     "MITHRIL_GOURMAND": 0,
     "LEAVES:2": 0,
     "SMOOTH_BRICK:2": 0,
-    "PRISMAPUMP": 20000
+    "PRISMAPUMP": 20000,
+    "DUNGEON_TRAP": 0,
+    "DUNGEON_DECOY": 0
   },
   "automatic": {
     "CARROT_STICK": 0,
