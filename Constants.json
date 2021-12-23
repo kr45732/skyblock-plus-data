@@ -105,7 +105,7 @@
         "**Item:** Superboom TNT\n**Quantity:** 1|SUPERBOOM_TNT",
         "**Item:** Pumpkin\n**Quantity:** 1|PUMPKIN",
         "**Item:** Flint and Steel\n**Quantity:** 1|FLINT_AND_STEEL",
-        "**Item:** Nether Quartz Ore\n**Quantity:** 50|QUARTZ",
+        "**Item:** Nether Quartz Ore\n**Quantity:** 50|QUARTZ_ORE",
         "**Item:** Red Wool\n**Quantity:** 50|WOOL:14"
     ],
     "GUILD_EXP_TO_LEVEL": [
