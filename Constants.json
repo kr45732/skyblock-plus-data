@@ -896,7 +896,7 @@
         "efficient_miner": 100,
         "mining_experience": 100,
         "professional": 140,
-        "mole": 190,
+        "mole": 190
     },
     "ESSENCE_EMOJI_MAP": {
         "ice": "<:ice_essence:915013073159487488>",
