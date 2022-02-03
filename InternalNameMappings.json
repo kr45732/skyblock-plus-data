@@ -7092,6 +7092,9 @@
   "FRAIL;6": {
     "name": "Frail VI"
   },
+  "FREE_COOKIE": {
+    "name": "Booster Cookie (FREE)"
+  },
   "FRENCH_BREAD": {
     "name": "French Bread",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/French_Bread"
@@ -8049,6 +8052,9 @@
   },
   "GOLD_PICKAXE": {
     "name": "Golden Pickaxe"
+  },
+  "GOLD_PLATE": {
+    "name": "Weighted Pressure Plate (Light)"
   },
   "GOLD_PROFESSOR_HEAD": {
     "name": "Golden Professor Head",
@@ -9537,6 +9543,9 @@
   "IRON_PICKAXE": {
     "name": "Iron Pickaxe"
   },
+  "IRON_PLATE": {
+    "name": "Weighted Pressure Plate (Heavy)"
+  },
   "IRON_SPADE": {
     "name": "Iron Shovel"
   },
@@ -10210,6 +10219,9 @@
   "LAUNCH_PAD": {
     "name": "Launch Pad",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Launch_Pad"
+  },
+  "LAVA": {
+    "name": "Lava (No Spread)"
   },
   "LAVA_BUCKET": {
     "name": "Lava Bucket"
@@ -11729,6 +11741,10 @@
   "NECROMANCER_SWORD": {
     "name": "Necromancer Sword",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necromancer_Sword"
+  },
+  "NECRON_BLADE": {
+    "name": "Necron\u0027s Blade (Unrefined)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron\u0027s_Blade"
   },
   "NECRON_HANDLE": {
     "name": "Necron\u0027s Handle",
@@ -14937,6 +14953,10 @@
     "name": "Reforge Anvil",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil"
   },
+  "REFUND_COOKIE": {
+    "name": "Booster Cookie (Untradable)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Booster_Cookie"
+  },
   "REGENERATION": {
     "name": "Regeneration Potion"
   },
@@ -16452,6 +16472,10 @@
   "SKYBLOCK_CHAIR": {
     "name": "Dark Oak Chair",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "SKYBLOCK_MENU": {
+    "name": "SkyBlock Menu (Right Click)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/SkyBlock_Menu"
   },
   "SKYBLOCK_TABLE": {
     "name": "Dark Oak Table",
@@ -19808,6 +19832,9 @@
   },
   "WATCH": {
     "name": "Clock"
+  },
+  "WATER": {
+    "name": "Water (No Spread)"
   },
   "WATER_BREATHING": {
     "name": "Water Breathing Potion"
