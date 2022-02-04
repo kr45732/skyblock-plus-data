@@ -3957,6 +3957,9 @@
   "CUBISM;6": {
     "name": "Cubism VI"
   },
+  "CUBISM;7": {
+    "name": "Cubism VII"
+  },
   "CULTIVATING;1": {
     "name": "Cultivating I"
   },
@@ -4702,6 +4705,10 @@
   "DR_PAPER": {
     "name": "Dctr. Paper",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Brews"
+  },
+  "DUECES_BUILDER_CLAY": {
+    "name": "The Builder\u0027s Clay",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/The_Builder%27s_Clay"
   },
   "DULL_SHARK_TOOTH_NECKLACE": {
     "name": "Dull Shark Tooth Necklace",
@@ -6518,7 +6525,7 @@
       "A2": "RAW_FISH:8",
       "A3": "RAW_FISH:8",
       "B1": "RAW_FISH:8",
-      "B2": "WOOD_SWORD:1",
+      "B2": "FISHING_ROD:1",
       "B3": "RAW_FISH:8",
       "C1": "RAW_FISH:8",
       "C2": "RAW_FISH:8",
@@ -7092,9 +7099,6 @@
   "FRAIL;6": {
     "name": "Frail VI"
   },
-  "FREE_COOKIE": {
-    "name": "Booster Cookie (FREE)"
-  },
   "FRENCH_BREAD": {
     "name": "French Bread",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/French_Bread"
@@ -7180,13 +7184,16 @@
     "name": "Gemstone Chamber",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Chamber"
   },
+  "GEMSTONE_COLLECTION": {
+    "name": "Gemstone"
+  },
   "GEMSTONE_DRILL_1": {
     "name": "Ruby Drill TX-15",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ruby_Drill_Model_TX-15"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ruby_Drill_TX-15"
   },
   "GEMSTONE_DRILL_2": {
     "name": "Gemstone Drill LT-522",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Drill_Model_LT-522"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Drill_LT-522"
   },
   "GEMSTONE_DRILL_3": {
     "name": "Topaz Drill KGR-12",
@@ -7194,7 +7201,7 @@
   },
   "GEMSTONE_DRILL_4": {
     "name": "Jasper Drill X",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jasper_Drill_Model_X"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jasper_Drill_X"
   },
   "GEMSTONE_FUEL_TANK": {
     "name": "Gemstone Fuel Tank",
@@ -8052,9 +8059,6 @@
   },
   "GOLD_PICKAXE": {
     "name": "Golden Pickaxe"
-  },
-  "GOLD_PLATE": {
-    "name": "Weighted Pressure Plate (Light)"
   },
   "GOLD_PROFESSOR_HEAD": {
     "name": "Golden Professor Head",
@@ -9543,9 +9547,6 @@
   "IRON_PICKAXE": {
     "name": "Iron Pickaxe"
   },
-  "IRON_PLATE": {
-    "name": "Weighted Pressure Plate (Heavy)"
-  },
   "IRON_SPADE": {
     "name": "Iron Shovel"
   },
@@ -10219,9 +10220,6 @@
   "LAUNCH_PAD": {
     "name": "Launch Pad",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Launch_Pad"
-  },
-  "LAVA": {
-    "name": "Lava (No Spread)"
   },
   "LAVA_BUCKET": {
     "name": "Lava Bucket"
@@ -11742,10 +11740,6 @@
     "name": "Necromancer Sword",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necromancer_Sword"
   },
-  "NECRON_BLADE": {
-    "name": "Necron\u0027s Blade (Unrefined)",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron\u0027s_Blade"
-  },
   "NECRON_HANDLE": {
     "name": "Necron\u0027s Handle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Handle"
@@ -13126,6 +13120,10 @@
   },
   "PET_SKIN_SQUID_GLOW": {
     "name": "Glow Squid Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_TIGER_GOLDEN": {
+    "name": "Golden Tiger Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_TIGER_SABER_TOOTH": {
@@ -14953,10 +14951,6 @@
     "name": "Reforge Anvil",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Reforge_Anvil"
   },
-  "REFUND_COOKIE": {
-    "name": "Booster Cookie (Untradable)",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Booster_Cookie"
-  },
   "REGENERATION": {
     "name": "Regeneration Potion"
   },
@@ -16472,10 +16466,6 @@
   "SKYBLOCK_CHAIR": {
     "name": "Dark Oak Chair",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
-  },
-  "SKYBLOCK_MENU": {
-    "name": "SkyBlock Menu (Right Click)",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/SkyBlock_Menu"
   },
   "SKYBLOCK_TABLE": {
     "name": "Dark Oak Table",
@@ -19832,9 +19822,6 @@
   },
   "WATCH": {
     "name": "Clock"
-  },
-  "WATER": {
-    "name": "Water (No Spread)"
   },
   "WATER_BREATHING": {
     "name": "Water Breathing Potion"
