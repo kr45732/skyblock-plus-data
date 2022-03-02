@@ -7073,6 +7073,21 @@
     "name": "Decoy",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decoy"
   },
+  "DUNGEON_DISC_1": {
+    "name": "Dungeon Disc"
+  },
+  "DUNGEON_DISC_2": {
+    "name": "Clown Disc"
+  },
+  "DUNGEON_DISC_3": {
+    "name": "Watcher Disc"
+  },
+  "DUNGEON_DISC_4": {
+    "name": "Old Disc"
+  },
+  "DUNGEON_DISC_5": {
+    "name": "Necron Disc"
+  },
   "DUNGEON_LORE_PAPER": {
     "name": "Journal Entry",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Journal_Entry"
@@ -7135,6 +7150,9 @@
   "DWARVEN_TANKARD": {
     "name": "Dwarven Tankard",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decorations"
+  },
+  "DYE_WILD_STRAWBERRY": {
+    "name": "Wild Strawberry Dye"
   },
   "EARTH_SHARD": {
     "name": "Earth Shard",
