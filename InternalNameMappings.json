@@ -5987,6 +5987,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait"
   },
+  "DARK_CLAYMORE": {
+    "name": "Dark Claymore"
+  },
   "DARK_GOGGLES": {
     "name": "Dark Goggles",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dark_Goggles"
@@ -7152,10 +7155,16 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decorations"
   },
   "DYE_MANGO": {
-    "name": "Mango Dye"
+    "name": "Mango Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
+  },
+  "DYE_NECRON": {
+    "name": "Necron Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
   },
   "DYE_WILD_STRAWBERRY": {
-    "name": "Wild Strawberry Dye"
+    "name": "Wild Strawberry Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
   },
   "EARTH_SHARD": {
     "name": "Earth Shard",
@@ -10733,6 +10742,10 @@
   "FESTIVE_ZOMBIE_PERSONALITY": {
     "name": "Festive Zombie Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "FIFTH_MASTER_STAR": {
+    "name": "Fifth Master Star",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Master_Star"
   },
   "FINAL_DESTINATION_BOOTS": {
     "name": "Final Destination Boots",
