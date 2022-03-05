@@ -1,7 +1,7 @@
 {
   "manual": {
     "SKYBLOCK_MENU": 0,
-    "SUPERBOOM_TNT": 2500,
+    "SUPERBOOM_TNT": 1000,
     "SAPLING:5": 0,
     "RED_ROSE:6": 4,
     "ROOKIE_HOE": 10,
@@ -14,7 +14,8 @@
     "SMOOTH_BRICK:2": 0,
     "PRISMAPUMP": 20000,
     "DUNGEON_TRAP": 0,
-    "DUNGEON_DECOY": 0
+    "DUNGEON_DECOY": 0,
+    "ASSISTANT": 0
   },
   "automatic": {
     "CARROT_STICK": 3.0,
