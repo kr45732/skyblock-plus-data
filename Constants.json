@@ -50,7 +50,7 @@
     "4": 387.5,
     "5": 500,
     "6": 700,
-    "7": 1100
+    "7": 1500
   },
   "DUNGEON_COMPLETION_WORTH": {
     "catacombs_0": 0.0827,
@@ -62,11 +62,12 @@
     "catacombs_6": 43.7857,
     "catacombs_7": 63.3437,
     "master_catacombs_1": 29.048912,
-    "master_catacombs_2": 38.548912,
-    "master_catacombs_3": 51.623912,
-    "master_catacombs_4": 67.004212,
-    "master_catacombs_5": 75.233412,
-    "master_catacombs_6": 99.17424
+    "master_catacombs_2": 38.548938,
+    "master_catacombs_3": 51.624065,
+    "master_catacombs_4": 67.004612,
+    "master_catacombs_5": 75.234512,
+    "master_catacombs_6": 99.20524,
+    "master_catacombs_7": 295.090592
   },
   "DUNGEON_EMOJI_MAP": {
     "healer": "<:healer:867508034914091058>",
