@@ -1066,5 +1066,144 @@
     "DERPY": "f450d12692886c47b078a38f4d492acfe61216e2d0237ab82433409b3046b464",
     "SCORPIUS": "8f26fa0c47536e78e337257d898af8b1ebc87c0894503375234035ff2c7ef8f0",
     "JERRY": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b"
+  },
+  "ESSENCE_SHOP_TIERS": {
+    "permanent_speed": {
+      "type": "wither",
+      "tiers": [
+        100,
+        250
+      ]
+    },
+    "forbidden_blessing": {
+      "type": "wither",
+      "tiers": [
+        200,
+        400,
+        600,
+        800,
+        1000,
+        1200,
+        1400,
+        1600,
+        1800,
+        2000
+      ]
+    },
+    "catacombs_boss_luck": {
+      "type": "undead",
+      "tiers": [
+        100,
+        1000,
+        10000,
+        100000
+      ]
+    },
+    "catacombs_looting": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        2000,
+        3000,
+        4000,
+        5000
+      ]
+    },
+    "revive_stone": {
+      "type": "undead",
+      "tiers": [
+        200000
+      ]
+    },
+    "catacombs_health": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        2500,
+        5000,
+        10000,
+        10000
+      ]
+    },
+    "permanent_health": {
+      "type": "wither",
+      "tiers": [
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ]
+    },
+    "catacombs_defense": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        4000,
+        6000,
+        8000,
+        10000
+      ]
+    },
+    "permanent_defense": {
+      "type": "wither",
+      "tiers": [
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ]
+    },
+    "catacombs_strength": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        4000,
+        6000,
+        8000,
+        10000
+      ]
+    },
+    "permanent_strength": {
+      "type": "wither",
+      "tiers": [
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ]
+    },
+    "catacombs_intelligence": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        4000,
+        6000,
+        8000,
+        10000
+      ]
+    },
+    "permanent_intelligence": {
+      "type": "wither",
+      "tiers": [
+        100,
+        250,
+        500,
+        1000,
+        1500
+      ]
+    },
+    "catacombs_crit_damage": {
+      "type": "undead",
+      "tiers": [
+        1000,
+        3000,
+        10000,
+        20000,
+        50000
+      ]
+    }
   }
 }
