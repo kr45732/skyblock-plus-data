@@ -1,3 +1,4 @@
 {
-  "useAlternativeApi": false
+  "useAlternativeApi": false,
+  "useAlternativeAhApi": true
 }
