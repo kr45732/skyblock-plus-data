@@ -1678,6 +1678,22 @@
     "name": "Tall Holiday Tree",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "BINGO;0": {
+    "name": "Common Bingo",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
+  },
+  "BINGO;1": {
+    "name": "Uncommon Bingo",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
+  },
+  "BINGO;2": {
+    "name": "Rare Bingo",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
+  },
+  "BINGO;3": {
+    "name": "Epic Bingo",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
+  },
   "BINGO_CARD": {
     "name": "Bingo Card",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Card_(Item)"
@@ -10207,6 +10223,17 @@
   },
   "EXPERIMENTATION_TABLE": {
     "name": "Experimentation Table",
+    "recipe": {
+      "A1": "LOG:1",
+      "A2": "LOG:1",
+      "A3": "LOG:1",
+      "B1": "LOG:1",
+      "B2": "EXP_BOTTLE:1",
+      "B3": "LOG:1",
+      "C1": "LOG:1",
+      "C2": "LOG:1",
+      "C3": "LOG:1"
+    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Experimentation_Table"
   },
   "EXPERIMENT_THE_FISH": {
