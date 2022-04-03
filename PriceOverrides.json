@@ -16,7 +16,8 @@
     "DUNGEON_TRAP": 0,
     "DUNGEON_DECOY": 0,
     "ASSISTANT": 0,
-    "ZOMBIE_COMMANDER_WHIP": 0
+    "ZOMBIE_COMMANDER_WHIP": 0,
+    "PARKOUR_POINT": 0
   },
   "automatic": {
     "CARROT_STICK": 3.0,
