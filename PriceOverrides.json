@@ -15,7 +15,8 @@
     "PRISMAPUMP": 20000,
     "DUNGEON_TRAP": 0,
     "DUNGEON_DECOY": 0,
-    "ASSISTANT": 0
+    "ASSISTANT": 0,
+    "ZOMBIE_COMMANDER_WHIP": 1000
   },
   "automatic": {
     "CARROT_STICK": 3.0,
