@@ -10088,6 +10088,14 @@
     "name": "Sea Emperor Century Cake",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
   },
+  "EPOCH_CAKE_BROWN": {
+    "name": "Chocolate Century Cake",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
+  },
+  "EPOCH_CAKE_CYAN": {
+    "name": "Century Cake of Hype",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
+  },
   "EPOCH_CAKE_GREEN": {
     "name": "Pet Rock Century Cake",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
@@ -10106,6 +10114,10 @@
   },
   "EPOCH_CAKE_RED": {
     "name": "aPunch Century Cake",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
+  },
+  "EPOCH_CAKE_WHITE": {
+    "name": "Cloudy Century Cake",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
   },
   "EPOCH_CAKE_YELLOW": {
@@ -12931,7 +12943,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/God_Potion"
   },
   "GOLDEN_APPLE:1": {
-    "name": "Golden Apple",
+    "name": "Enchanted Golden Apple",
     "recipe": {
       "A1": "GOLD_BLOCK:1",
       "A2": "GOLD_BLOCK:1",
