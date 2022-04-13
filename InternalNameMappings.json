@@ -1948,6 +1948,10 @@
       "C3": "WOOD-2:1"
     }
   },
+  "BIRD_HOUSE": {
+    "name": "Bird House",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "BITS_TALISMAN": {
     "name": "Bits Talisman",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bits_Talisman"
@@ -32113,6 +32117,10 @@
       "C3": ""
     }
   },
+  "TROPICAL_BIRD_1_PERSONALITY": {
+    "name": "Tropical Bird 1 Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
   "TRUE_DEFENSE": {
     "name": "True Resistance Potion"
   },
@@ -33527,9 +33535,17 @@
     "name": "White Gift",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/White_Gift"
   },
+  "WHITE_TIGER_PERSONALITY": {
+    "name": "White Tiger Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
   "WIKI_JOURNAL": {
     "name": "Wiki Journal",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wiki_Journal"
+  },
+  "WIND_CHIMES": {
+    "name": "Wind Chimes",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "WINTER_DISC": {
     "name": "Winter Disc",
