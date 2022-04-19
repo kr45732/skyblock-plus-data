@@ -7186,6 +7186,10 @@
     "name": "Byzantium Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
   },
+  "DYE_CARMINE": {
+    "name": "Carmine Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
+  },
   "DYE_DARK_PURPLE": {
     "name": "Dark Purple Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
@@ -11663,6 +11667,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flint_Shovel"
   },
+  "FLORAL_LAMPPOST": {
+    "name": "Floral Lamppost",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "FLORID_ZOMBIE_SWORD": {
     "name": "Florid Zombie Sword",
     "recipe": {
@@ -15518,7 +15526,7 @@
     }
   },
   "INK_SACK": {
-    "name": "Ink Sac"
+    "name": "Ink Sack"
   },
   "INK_WAND": {
     "name": "Ink Wand",
@@ -18241,7 +18249,7 @@
       "A2": "FLAWED_RUBY_GEM:10",
       "A3": "FLAWED_RUBY_GEM:10",
       "B1": "FLAWED_RUBY_GEM:10",
-      "B2": "ENCHANTED_LEATHER:1",
+      "B2": "SMALL_GEMSTONE_SACK:1",
       "B3": "FLAWED_RUBY_GEM:10",
       "C1": "FLAWED_RUBY_GEM:10",
       "C2": "FLAWED_RUBY_GEM:10",
@@ -32119,6 +32127,10 @@
   },
   "TROPICAL_BIRD_1_PERSONALITY": {
     "name": "Tropical Bird 1 Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "TROPICAL_BIRD_2_PERSONALITY": {
+    "name": "Tropical Bird 2 Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
   "TRUE_DEFENSE": {
