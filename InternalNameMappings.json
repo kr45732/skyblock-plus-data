@@ -18,6 +18,15 @@
     "name": "Maddox\u0027s Phone Number",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Maddox\u0027s_Phone_Number"
   },
+  "ABIPHONE_XIII_PRO_GIGA": {
+    "name": "Abiphone XIII Pro Giga"
+  },
+  "ABIPHONE_XII_MEGA_COLOR": {
+    "name": "Abiphone XII Mega Color"
+  },
+  "ABIPHONE_X_PLUS": {
+    "name": "Abiphone X Plus"
+  },
   "ABSOLUTE_ENDER_PEARL": {
     "name": "Absolute Ender Pearl",
     "recipe": {
@@ -35,6 +44,9 @@
   },
   "ABSORPTION": {
     "name": "Absorption Potion"
+  },
+  "ACACIA_BIRDHOUSE": {
+    "name": "Acacia Birdhouse"
   },
   "ACACIA_DOOR_ITEM": {
     "name": "Acacia Door",
@@ -319,6 +331,9 @@
   "AIMING;5": {
     "name": "Dragon Tracer V"
   },
+  "ALCHEMISTS_STAFF": {
+    "name": "The Alchemist\u0027s Staff"
+  },
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion"
   },
@@ -340,6 +355,20 @@
   "ALPHA_PICK": {
     "name": "Pioneer Pickaxe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pioneer_Pickaxe"
+  },
+  "AMALGAMATED_CRIMSONITE": {
+    "name": "Amalgamated Crimsonite",
+    "recipe": {
+      "A1": "MYCEL:40",
+      "A2": "ENCHANTED_SULPHUR:1",
+      "A3": "",
+      "B1": "ENCHANTED_MAGMA_CREAM:1",
+      "B2": "",
+      "B3": "ENCHANTED_BLAZE_POWDER:1",
+      "C1": "",
+      "C2": "ENCHANTED_NETHER_STALK:1",
+      "C3": "SAND-1:40"
+    }
   },
   "AMBER_MATERIAL": {
     "name": "Amber Material",
@@ -390,6 +419,20 @@
   "ANCIENT_CLAW": {
     "name": "Ancient Claw",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ancient_Claw"
+  },
+  "ANCIENT_CLOAK": {
+    "name": "Ancient Cloak",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "WITHER_SOUL:64",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "ENCHANTED_RED_SAND_CUBE:1",
+      "C2": "",
+      "C3": "ENCHANTED_RED_SAND_CUBE:1"
+    }
   },
   "ANCIENT_ELEVATOR": {
     "name": "Ancient Elevator",
@@ -732,6 +775,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrows"
   },
+  "ARROW_BUNDLE_MAGMA": {
+    "name": "Bundle of Magma Arrows"
+  },
   "ARROW_SWAPPER": {
     "name": "Arrow Swapper",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrow_Swapper"
@@ -857,6 +903,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Atomsplit_Katana"
   },
+  "ATTRIBUTE_SHARD": {
+    "name": "Attribute Shard"
+  },
   "AUGER_ROD": {
     "name": "Auger Rod",
     "recipe": {
@@ -871,6 +920,18 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Auger_Rod"
+  },
+  "AURORA_BOOTS": {
+    "name": "Aurora Boots"
+  },
+  "AURORA_CHESTPLATE": {
+    "name": "Aurora Chestplate"
+  },
+  "AURORA_HELMET": {
+    "name": "Aurora Helmet"
+  },
+  "AURORA_LEGGINGS": {
+    "name": "Aurora Leggings"
   },
   "AUTOPET_RULES_2": {
     "name": "Autopet Rules 2-Pack",
@@ -1646,9 +1707,68 @@
     "name": "Bejeweled Handle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bejeweled_Handle"
   },
+  "BERSERKER_BOOTS": {
+    "name": "Berserker Boots",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "MAGMA_CHUNK:20",
+      "B2": "",
+      "B3": "MAGMA_CHUNK:20",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "BERSERKER_CHESTPLATE": {
+    "name": "Berserker Chestplate",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "BURNING_EYE:50",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "MAGMA_CHUNK:20",
+      "C2": "ENCHANTED_RED_SAND_CUBE:1",
+      "C3": "MAGMA_CHUNK:20"
+    }
+  },
+  "BERSERKER_HELMET": {
+    "name": "Berserker Helmet",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "BURNING_EYE:50",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "MAGMA_CHUNK:20",
+      "B2": "",
+      "B3": "MAGMA_CHUNK:20",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "BERSERKER_LEGGINGS": {
+    "name": "Berserker Leggings",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "BURNING_EYE:50",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "MAGMA_CHUNK:20",
+      "B2": "",
+      "B3": "MAGMA_CHUNK:20",
+      "C1": "ENCHANTED_RED_SAND_CUBE:1",
+      "C2": "",
+      "C3": "ENCHANTED_RED_SAND_CUBE:1"
+    }
+  },
   "BEST_WEAPON_RACK": {
     "name": "Weapon Rack+",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "BEZOS": {
+    "name": "Bezos"
   },
   "BIGGER_TEETH": {
     "name": "Bigger Teeth",
@@ -1972,6 +2092,12 @@
     "name": "Black Cat Plush",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "BLACK_COFFEE": {
+    "name": "Black Coffee"
+  },
+  "BLADE_OF_THE_VOLCANO": {
+    "name": "Blade of the Volcano"
+  },
   "BLAST_PROTECTION;1": {
     "name": "Blast Protection I"
   },
@@ -2033,6 +2159,9 @@
       "C3": "ENCHANTED_BLAZE_ROD:8"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Pet"
+  },
+  "BLAZE_ASHES": {
+    "name": "Blaze Ashes"
   },
   "BLAZE_BOOTS": {
     "name": "Blaze Boots",
@@ -2107,6 +2236,10 @@
       "C2": "ENCHANTED_BLAZE_ROD:1",
       "C3": "ENCHANTED_BLAZE_ROD:1"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Minion"
+  },
+  "BLAZE_GENERATOR_12": {
+    "name": "Blaze Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Minion"
   },
   "BLAZE_GENERATOR_2": {
@@ -2282,6 +2415,9 @@
     "name": "Blaze Rod",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Rod"
   },
+  "BLAZE_ROD_DISTILLATE": {
+    "name": "Blaze Rod Distillate"
+  },
   "BLESSED_BAIT": {
     "name": "Blessed Bait",
     "recipe": {
@@ -2330,6 +2466,9 @@
   "BLINDNESS": {
     "name": "Blindness Potion"
   },
+  "BLOBFISH_BRONZE": {
+    "name": "Blobfish BRONZE"
+  },
   "BLOBFISH_HAT": {
     "name": "Blobfish Hat",
     "recipe": {
@@ -2344,6 +2483,9 @@
       "C3": "CLAY_BALL:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blobfish_Hat"
+  },
+  "BLOBFISH_SILVER": {
+    "name": "Blobfish SILVER"
   },
   "BLOCK_ZAPPER": {
     "name": "Block Zapper",
@@ -2801,6 +2943,83 @@
   },
   "BURNING": {
     "name": "Burning Potion"
+  },
+  "BURNING_AURORA_BOOTS": {
+    "name": "Burning Aurora Boots"
+  },
+  "BURNING_AURORA_CHESTPLATE": {
+    "name": "Burning Aurora Chestplate"
+  },
+  "BURNING_AURORA_HELMET": {
+    "name": "Burning Aurora Helmet"
+  },
+  "BURNING_AURORA_LEGGINGS": {
+    "name": "Burning Aurora Leggings"
+  },
+  "BURNING_CRIMSON_BOOTS": {
+    "name": "Burning Crimson Boots"
+  },
+  "BURNING_CRIMSON_CHESTPLATE": {
+    "name": "Burning Crimson Chestplate"
+  },
+  "BURNING_CRIMSON_HELMET": {
+    "name": "Burning Crimson Helmet"
+  },
+  "BURNING_CRIMSON_LEGGINGS": {
+    "name": "Burning Crimson Leggings"
+  },
+  "BURNING_EYE": {
+    "name": "Burning Eye"
+  },
+  "BURNING_FERVOR_BOOTS": {
+    "name": "Burning Fervor Boots"
+  },
+  "BURNING_FERVOR_CHESTPLATE": {
+    "name": "Burning Fervor Chestplate"
+  },
+  "BURNING_FERVOR_HELMET": {
+    "name": "Burning Fervor Helmet"
+  },
+  "BURNING_FERVOR_LEGGINGS": {
+    "name": "Burning Fervor Leggings"
+  },
+  "BURNING_HOLLOW_BOOTS": {
+    "name": "Burning Hollow Boots"
+  },
+  "BURNING_HOLLOW_CHESTPLATE": {
+    "name": "Burning Hollow Chestplate"
+  },
+  "BURNING_HOLLOW_HELMET": {
+    "name": "Burning Hollow Helmet"
+  },
+  "BURNING_HOLLOW_LEGGINGS": {
+    "name": "Burning Hollow Leggings"
+  },
+  "BURNING_TERROR_BOOTS": {
+    "name": "Burning Terror Boots"
+  },
+  "BURNING_TERROR_CHESTPLATE": {
+    "name": "Burning Terror Chestplate"
+  },
+  "BURNING_TERROR_HELMET": {
+    "name": "Burning Terror Helmet"
+  },
+  "BURNING_TERROR_LEGGINGS": {
+    "name": "Burning Terror Leggings"
+  },
+  "BURSTSTOPPER_TALISMAN": {
+    "name": "Burststopper Talisman",
+    "recipe": {
+      "A1": "WHIPPED_MAGMA_CREAM:1",
+      "A2": "MOLTEN_POWDER:32",
+      "A3": "WHIPPED_MAGMA_CREAM:1",
+      "B1": "MOLTEN_POWDER:32",
+      "B2": "REFINED_TITANIUM:6",
+      "B3": "MOLTEN_POWDER:32",
+      "C1": "WHIPPED_MAGMA_CREAM:1",
+      "C2": "MOLTEN_POWDER:32",
+      "C3": "WHIPPED_MAGMA_CREAM:1"
+    }
   },
   "CACTUS": {
     "name": "Cactus",
@@ -4307,6 +4526,9 @@
     "name": "Chill the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chill_the_Fish"
   },
+  "CHYME": {
+    "name": "Chyme"
+  },
   "CLAY": {
     "name": "Clay",
     "recipe": {
@@ -5209,6 +5431,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Compactor"
   },
+  "COMPACT_OOZE": {
+    "name": "Compact Ooze"
+  },
   "COMPASS": {
     "name": "Compass",
     "recipe": {
@@ -5282,6 +5507,37 @@
   "CORLEONITE": {
     "name": "Corleonite",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Corleonite"
+  },
+  "CORRUPTED_BAIT": {
+    "name": "Corrupted Bait",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "CORRUPTED_FRAGMENT:1",
+      "B2": "MAGMAFISH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "CORRUPTED_FRAGMENT": {
+    "name": "Corrupted Fragment"
+  },
+  "CORRUPT_SOIL": {
+    "name": "Corrupt Soil",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:20",
+      "A2": "ENCHANTED_MYCELIUM:20",
+      "A3": "ENCHANTED_MYCELIUM:20",
+      "B1": "ENCHANTED_MYCELIUM:20",
+      "B2": "CORRUPTED_FRAGMENT:20",
+      "B3": "ENCHANTED_MYCELIUM:20",
+      "C1": "ENCHANTED_MYCELIUM:20",
+      "C2": "ENCHANTED_MYCELIUM:20",
+      "C3": "ENCHANTED_MYCELIUM:20"
+    }
   },
   "COUNTER_STRIKE;5": {
     "name": "Counter-Strike V"
@@ -5681,6 +5937,18 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Creeper_Pants"
   },
+  "CRIMSON_BOOTS": {
+    "name": "Crimson Boots"
+  },
+  "CRIMSON_CHESTPLATE": {
+    "name": "Crimson Chestplate"
+  },
+  "CRIMSON_HELMET": {
+    "name": "Crimson Helmet"
+  },
+  "CRIMSON_LEGGINGS": {
+    "name": "Crimson Leggings"
+  },
   "CRITICAL;1": {
     "name": "Critical I"
   },
@@ -5724,6 +5992,12 @@
   "CROWN_OF_GREED": {
     "name": "Crown of Greed",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crown_of_Greed"
+  },
+  "CRUDE_GABAGOOL": {
+    "name": "Crude Gabagool"
+  },
+  "CRUDE_GABAGOOL_DISTILLATE": {
+    "name": "Gabagool Distillate"
   },
   "CRYPT_BOW": {
     "name": "Soulstealer Bow",
@@ -5871,6 +6145,9 @@
   },
   "CULTIVATING;1": {
     "name": "Cultivating I"
+  },
+  "CUP_OF_BLOOD": {
+    "name": "Cup of Blood"
   },
   "CYCLOPS_PERSONALITY": {
     "name": "Cyclops Minion Skin",
@@ -6344,6 +6621,20 @@
   "DELICATE;5": {
     "name": "Delicate V"
   },
+  "DELIRIUM_NECKLACE": {
+    "name": "Delirium Necklace",
+    "recipe": {
+      "A1": "GAZING_PEARL:5",
+      "A2": "",
+      "A3": "GAZING_PEARL:5",
+      "B1": "GAZING_PEARL:5",
+      "B2": "",
+      "B3": "GAZING_PEARL:5",
+      "C1": "",
+      "C2": "REKINDLED_EMBER_FRAGMENT:5",
+      "C3": ""
+    }
+  },
   "DEPTH_STRIDER;1": {
     "name": "Depth Strider I"
   },
@@ -6363,6 +6654,9 @@
   },
   "DEPTH_STRIDER;3": {
     "name": "Depth Strider III"
+  },
+  "DERELICT_ASHE": {
+    "name": "Derelict Ashe"
   },
   "DESERT_BIOME_STICK": {
     "name": "Desert Biome Stick",
@@ -6822,6 +7116,9 @@
     "name": "Digested Mosquito",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Digested_Mosquito"
   },
+  "DIGESTED_MUSHROOMS": {
+    "name": "Digested Mushrooms"
+  },
   "DINGY": {
     "name": "Dingy",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -6990,6 +7287,24 @@
   "DODGE": {
     "name": "Dodge Potion"
   },
+  "DOJO_BLACK_BELT": {
+    "name": "Black Belt"
+  },
+  "DOJO_BLUE_BELT": {
+    "name": "Blue Belt"
+  },
+  "DOJO_BROWN_BELT": {
+    "name": "Brown Belt"
+  },
+  "DOJO_GREEN_BELT": {
+    "name": "Green Belt"
+  },
+  "DOJO_WHITE_BELT": {
+    "name": "White Belt"
+  },
+  "DOJO_YELLOW_BELT": {
+    "name": "Yellow Belt"
+  },
   "DOLPHIN;0": {
     "name": "Common Dolphin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
@@ -7050,6 +7365,20 @@
   "DRILL_ENGINE": {
     "name": "Drill Engine",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Drill_Engine"
+  },
+  "DROPLET_WISP;1": {
+    "name": "Uncommon Droplet Wisp",
+    "recipe": {
+      "A1": "DERELICT_ASHE:1",
+      "A2": "DERELICT_ASHE:1",
+      "A3": "DERELICT_ASHE:1",
+      "B1": "DERELICT_ASHE:1",
+      "B2": "OMEGA_EGG:1",
+      "B3": "DERELICT_ASHE:1",
+      "C1": "DERELICT_ASHE:1",
+      "C2": "DERELICT_ASHE:1",
+      "C3": "DERELICT_ASHE:1"
+    }
   },
   "DROPPER": {
     "name": "Dropper",
@@ -8779,6 +9108,34 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Mutton"
   },
+  "ENCHANTED_MYCELIUM": {
+    "name": "Enchanted Mycelium",
+    "recipe": {
+      "A1": "",
+      "A2": "MYCEL:32",
+      "A3": "",
+      "B1": "MYCEL:32",
+      "B2": "MYCEL:32",
+      "B3": "MYCEL:32",
+      "C1": "",
+      "C2": "MYCEL:32",
+      "C3": ""
+    }
+  },
+  "ENCHANTED_MYCELIUM_CUBE": {
+    "name": "Enchanted Mycelium Cube",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "ENCHANTED_MYCELIUM:32",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": ""
+    }
+  },
   "ENCHANTED_NETHERRACK": {
     "name": "Enchanted Netherrack",
     "recipe": {
@@ -9184,6 +9541,34 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Red_Mushroom"
   },
+  "ENCHANTED_RED_SAND": {
+    "name": "Enchanted Red Sand",
+    "recipe": {
+      "A1": "",
+      "A2": "SAND-1:32",
+      "A3": "",
+      "B1": "SAND-1:32",
+      "B2": "SAND-1:32",
+      "B3": "SAND-1:32",
+      "C1": "",
+      "C2": "SAND-1:32",
+      "C3": ""
+    }
+  },
+  "ENCHANTED_RED_SAND_CUBE": {
+    "name": "Enchanted Red Sand Cube",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "ENCHANTED_RED_SAND:32",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": ""
+    }
+  },
   "ENCHANTED_ROTTEN_FLESH": {
     "name": "Enchanted Rotten Flesh",
     "recipe": {
@@ -9378,6 +9763,34 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Sugar_Cane"
+  },
+  "ENCHANTED_SULPHUR": {
+    "name": "Enchanted Sulphur",
+    "recipe": {
+      "A1": "",
+      "A2": "SULPHUR_ORE:32",
+      "A3": "",
+      "B1": "SULPHUR_ORE:32",
+      "B2": "SULPHUR_ORE:32",
+      "B3": "SULPHUR_ORE:32",
+      "C1": "",
+      "C2": "SULPHUR_ORE:32",
+      "C3": ""
+    }
+  },
+  "ENCHANTED_SULPHUR_CUBE": {
+    "name": "Enchanted Sulphur Cube",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:32",
+      "A3": "",
+      "B1": "ENCHANTED_SULPHUR:32",
+      "B2": "ENCHANTED_SULPHUR:32",
+      "B3": "ENCHANTED_SULPHUR:32",
+      "C1": "",
+      "C2": "ENCHANTED_SULPHUR:32",
+      "C3": ""
+    }
   },
   "ENCHANTED_TITANIUM": {
     "name": "Enchanted Titanium",
@@ -9777,6 +10190,9 @@
     "name": "Legendary Ender Dragon",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Dragon_Pet"
   },
+  "ENDER_MONOCLE": {
+    "name": "Ender Monocle"
+  },
   "ENDER_PEARL": {
     "name": "Ender Pearl"
   },
@@ -10054,6 +10470,9 @@
     "name": "End Stone Bow",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Bow"
   },
+  "END_STONE_SHULKER": {
+    "name": "End Stone Shulker"
+  },
   "END_STONE_SWORD": {
     "name": "End Stone Sword",
     "recipe": {
@@ -10083,6 +10502,9 @@
       "C3": "STICK:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/End_Sword"
+  },
+  "ENRAGER": {
+    "name": "Enrager"
   },
   "EPOCH_CAKE_AQUA": {
     "name": "Barry Century Cake",
@@ -10169,6 +10591,20 @@
   "ETHERWARP_MERGER": {
     "name": "Etherwarp Merger",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Etherwarp_Merger"
+  },
+  "EVERBURNING_FLAME": {
+    "name": "Everburning Flame",
+    "recipe": {
+      "A1": "FLAMES:4",
+      "A2": "ENCHANTED_RED_SAND_CUBE:1",
+      "A3": "FLAMES:4",
+      "B1": "ENCHANTED_SULPHUR_CUBE:1",
+      "B2": "PLASMA_BUCKET:1",
+      "B3": "ENCHANTED_SULPHUR_CUBE:1",
+      "C1": "FLAMES:4",
+      "C2": "ENCHANTED_RED_SAND_CUBE:1",
+      "C3": "FLAMES:4"
+    }
   },
   "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": {
     "name": "Exceedingly Rare Ender Artifact Upgrader",
@@ -10798,6 +11234,18 @@
       "C3": ""
     }
   },
+  "FERVOR_BOOTS": {
+    "name": "Fervor Boots"
+  },
+  "FERVOR_CHESTPLATE": {
+    "name": "Fervor Chestplate"
+  },
+  "FERVOR_HELMET": {
+    "name": "Fervor Helmet"
+  },
+  "FERVOR_LEGGINGS": {
+    "name": "Fervor Leggings"
+  },
   "FESTIVE_JERRY_PERSONALITY": {
     "name": "Festive Jerry Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
@@ -10809,6 +11257,66 @@
   "FESTIVE_ZOMBIE_PERSONALITY": {
     "name": "Festive Zombie Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "FIERY_AURORA_BOOTS": {
+    "name": "Fiery Aurora Boots"
+  },
+  "FIERY_AURORA_CHESTPLATE": {
+    "name": "Fiery Aurora Chestplate"
+  },
+  "FIERY_AURORA_HELMET": {
+    "name": "Fiery Aurora Helmet"
+  },
+  "FIERY_AURORA_LEGGINGS": {
+    "name": "Fiery Aurora Leggings"
+  },
+  "FIERY_CRIMSON_BOOTS": {
+    "name": "Fiery Crimson Boots"
+  },
+  "FIERY_CRIMSON_CHESTPLATE": {
+    "name": "Fiery Crimson Chestplate"
+  },
+  "FIERY_CRIMSON_HELMET": {
+    "name": "Fiery Crimson Helmet"
+  },
+  "FIERY_CRIMSON_LEGGINGS": {
+    "name": "Fiery Crimson Leggings"
+  },
+  "FIERY_FERVOR_BOOTS": {
+    "name": "Fiery Fervor Boots"
+  },
+  "FIERY_FERVOR_CHESTPLATE": {
+    "name": "Fiery Fervor Chestplate"
+  },
+  "FIERY_FERVOR_HELMET": {
+    "name": "Fiery Fervor Helmet"
+  },
+  "FIERY_FERVOR_LEGGINGS": {
+    "name": "Fiery Fervor Leggings"
+  },
+  "FIERY_HOLLOW_BOOTS": {
+    "name": "Fiery Hollow Boots"
+  },
+  "FIERY_HOLLOW_CHESTPLATE": {
+    "name": "Fiery Hollow Chestplate"
+  },
+  "FIERY_HOLLOW_HELMET": {
+    "name": "Fiery Hollow Helmet"
+  },
+  "FIERY_HOLLOW_LEGGINGS": {
+    "name": "Fiery Hollow Leggings"
+  },
+  "FIERY_TERROR_BOOTS": {
+    "name": "Fiery Terror Boots"
+  },
+  "FIERY_TERROR_CHESTPLATE": {
+    "name": "Fiery Terror Chestplate"
+  },
+  "FIERY_TERROR_HELMET": {
+    "name": "Fiery Terror Helmet"
+  },
+  "FIERY_TERROR_LEGGINGS": {
+    "name": "Fiery Terror Leggings"
   },
   "FIFTH_MASTER_STAR": {
     "name": "Fifth Master Star",
@@ -10993,6 +11501,20 @@
       "C3": ""
     }
   },
+  "FIREDUST_DAGGER": {
+    "name": "Firedust Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_SILVER_FISH:32",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    }
+  },
   "FIREPLACE": {
     "name": "Fireplace",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -11031,6 +11553,23 @@
   "FIRE_ASPECT;2": {
     "name": "Fire Aspect II"
   },
+  "FIRE_FREEZE_STAFF": {
+    "name": "Fire Freeze Staff",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "SPELL_POWDER:5",
+      "B1": "",
+      "B2": "WITHER_SOUL:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "FIRE_FURY_STAFF": {
+    "name": "Fire Fury Staff"
+  },
   "FIRE_PROTECTION;1": {
     "name": "Fire Protection I"
   },
@@ -11067,19 +11606,10 @@
     "name": "Fire Resistance I Potion"
   },
   "FIRE_TALISMAN": {
-    "name": "Fire Talisman",
-    "recipe": {
-      "A1": "ENCHANTED_BLAZE_POWDER:1",
-      "A2": "ENCHANTED_BLAZE_POWDER:1",
-      "A3": "ENCHANTED_BLAZE_POWDER:1",
-      "B1": "ENCHANTED_BLAZE_POWDER:1",
-      "B2": "ENCHANTED_BLAZE_POWDER:1",
-      "B3": "ENCHANTED_BLAZE_POWDER:1",
-      "C1": "ENCHANTED_BLAZE_POWDER:1",
-      "C2": "ENCHANTED_BLAZE_POWDER:1",
-      "C3": "ENCHANTED_BLAZE_POWDER:1"
-    },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Talisman"
+    "name": "Fire Talisman"
+  },
+  "FIRE_VEIL_WAND": {
+    "name": "Fire Veil Wand"
   },
   "FIRST_MASTER_STAR": {
     "name": "First Master Star",
@@ -11361,6 +11891,9 @@
     "name": "Ember Ash Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flamebreaker_Armor"
   },
+  "FLAMES": {
+    "name": "Flames"
+  },
   "FLAME_BREAKER_BOOTS": {
     "name": "Flamebreaker Boots",
     "recipe": {
@@ -11420,6 +11953,26 @@
       "C3": "ENCHANTED_HARD_STONE:20"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flamebreaker_Armor"
+  },
+  "FLAMING_CHESTPLATE": {
+    "name": "Flaming Chestplate"
+  },
+  "FLAMING_FIST": {
+    "name": "Flaming Fist",
+    "recipe": {
+      "A1": "FLAMES:1",
+      "A2": "FLAMES:1",
+      "A3": "FLAMES:1",
+      "B1": "LEATHER_CLOTH:6",
+      "B2": "LEATHER_CLOTH:6",
+      "B3": "LEATHER_CLOTH:6",
+      "C1": "LEATHER_CLOTH:6",
+      "C2": "LEATHER_CLOTH:6",
+      "C3": "LEATHER_CLOTH:6"
+    }
+  },
+  "FLAMING_HEART": {
+    "name": "Flaming Heart"
   },
   "FLAMING_SWORD": {
     "name": "Flaming Sword",
@@ -11907,6 +12460,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flycatcher"
   },
+  "FLYFISH_BRONZE": {
+    "name": "Flyfish BRONZE"
+  },
   "FLYING_BATS": {
     "name": "Flying Bats",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -12215,6 +12771,20 @@
     "name": "FTX 3070",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Automaton_Parts"
   },
+  "FUEL_GABAGOOL": {
+    "name": "Fuel Gabagool",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL:4",
+      "A2": "CRUDE_GABAGOOL:4",
+      "A3": "CRUDE_GABAGOOL:4",
+      "B1": "CRUDE_GABAGOOL:4",
+      "B2": "SULPHURIC_COAL:1",
+      "B3": "CRUDE_GABAGOOL:4",
+      "C1": "CRUDE_GABAGOOL:4",
+      "C2": "CRUDE_GABAGOOL:4",
+      "C3": "CRUDE_GABAGOOL:4"
+    }
+  },
   "FUEL_TANK": {
     "name": "Fuel Tank",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fuel_Tank"
@@ -12226,6 +12796,9 @@
   "FUNGI_CUTTER": {
     "name": "Fungi Cutter",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fungi_Cutter"
+  },
+  "FURBALL": {
+    "name": "Furball"
   },
   "FURNACE": {
     "name": "Furnace",
@@ -12256,6 +12829,23 @@
   "GARLAND": {
     "name": "Garland",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "GAUNTLET_OF_CONTAGION": {
+    "name": "Gauntlet of Contagion",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "LEATHER_CLOTH:6",
+      "B2": "LEATHER_CLOTH:6",
+      "B3": "LEATHER_CLOTH:6",
+      "C1": "LEATHER_CLOTH:6",
+      "C2": "LEATHER_CLOTH:6",
+      "C3": "LEATHER_CLOTH:6"
+    }
+  },
+  "GAZING_PEARL": {
+    "name": "Gazing Pearl"
   },
   "GEMSTONE_CHAMBER": {
     "name": "Gemstone Chamber",
@@ -12366,6 +12956,10 @@
       "C2": "SILVER_FANG:64",
       "C3": "SILVER_FANG:64"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghast_Minion"
+  },
+  "GHAST_GENERATOR_12": {
+    "name": "Ghast Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghast_Minion"
   },
   "GHAST_GENERATOR_2": {
@@ -12710,6 +13304,12 @@
   "GLOWSTONE_DUST": {
     "name": "Glowstone Dust"
   },
+  "GLOWSTONE_DUST_DISTILLATE": {
+    "name": "Glowstone Distillate"
+  },
+  "GLOWSTONE_GAUNTLET": {
+    "name": "Glowstone Gauntlet"
+  },
   "GLOWSTONE_GENERATOR_1": {
     "name": "Glowstone Minion I",
     "recipe": {
@@ -12753,6 +13353,10 @@
       "C2": "ENCHANTED_GLOWSTONE:2",
       "C3": "ENCHANTED_GLOWSTONE:2"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion"
+  },
+  "GLOWSTONE_GENERATOR_12": {
+    "name": "Glowstone Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion"
   },
   "GLOWSTONE_GENERATOR_2": {
@@ -14088,6 +14692,12 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Chestplate"
   },
+  "GUSHER_BRONZE": {
+    "name": "Gusher BRONZE"
+  },
+  "GUSHER_SILVER": {
+    "name": "Gusher SILVER"
+  },
   "GYROKINETIC_WAND": {
     "name": "Gyrokinetic Wand",
     "recipe": {
@@ -14102,6 +14712,9 @@
       "C3": "NULL_OVOID:16"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gyrokinetic_Wand"
+  },
+  "HALLOWED_SKULL": {
+    "name": "Hallowed Skull"
   },
   "HALLOWEEN_CANDLES": {
     "name": "Halloween Candles",
@@ -14466,6 +15079,9 @@
       "C3": "WHEAT:1"
     }
   },
+  "HAZMAT_ENDERMAN": {
+    "name": "Hazmat Enderman"
+  },
   "HEALING": {
     "name": "Healing Potion"
   },
@@ -14575,6 +15191,20 @@
     "name": "Heavy Chestplate",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Heavy_Armor"
   },
+  "HEAVY_GABAGOOL": {
+    "name": "Heavy Gabagool",
+    "recipe": {
+      "A1": "FUEL_GABAGOOL:4",
+      "A2": "FUEL_GABAGOOL:4",
+      "A3": "FUEL_GABAGOOL:4",
+      "B1": "FUEL_GABAGOOL:4",
+      "B2": "SULPHURIC_COAL:1",
+      "B3": "FUEL_GABAGOOL:4",
+      "C1": "FUEL_GABAGOOL:4",
+      "C2": "FUEL_GABAGOOL:4",
+      "C3": "FUEL_GABAGOOL:4"
+    }
+  },
   "HEAVY_HELMET": {
     "name": "Heavy Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Heavy_Armor"
@@ -14590,6 +15220,23 @@
   "HELIX": {
     "name": "Helix",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Helix"
+  },
+  "HELLFIRE_ROD": {
+    "name": "Hellfire Rod",
+    "recipe": {
+      "A1": "MAGMA_FISH_GOLD:10",
+      "A2": "MAGMA_FISH_GOLD:10",
+      "A3": "MAGMA_FISH_GOLD:10",
+      "B1": "MAGMA_FISH_GOLD:10",
+      "B2": "INFERNO_ROD:1",
+      "B3": "MAGMA_FISH_GOLD:10",
+      "C1": "MAGMA_FISH_GOLD:10",
+      "C2": "MAGMA_FISH_GOLD:10",
+      "C3": "MAGMA_FISH_GOLD:10"
+    }
+  },
+  "HELLSTORM_STAFF": {
+    "name": "Hellstorm Wand"
   },
   "HELMET_OF_THE_PACK": {
     "name": "Helmet of the Pack",
@@ -14621,6 +15268,18 @@
   "HOE_OF_GREAT_TILLING": {
     "name": "Hoe of Great Tilling",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hoe_of_Great_Tilling"
+  },
+  "HOLLOW_BOOTS": {
+    "name": "Hollow Boots"
+  },
+  "HOLLOW_CHESTPLATE": {
+    "name": "Hollow Chestplate"
+  },
+  "HOLLOW_HELMET": {
+    "name": "Hollow Helmet"
+  },
+  "HOLLOW_LEGGINGS": {
+    "name": "Hollow Leggings"
   },
   "HOLOGRAM": {
     "name": "Hologram",
@@ -14824,6 +15483,71 @@
     "name": "Horseman\u0027s Candle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horseman\u0027s_Candle"
   },
+  "HOT_AURORA_BOOTS": {
+    "name": "Hot Aurora Boots"
+  },
+  "HOT_AURORA_CHESTPLATE": {
+    "name": "Hot Aurora Chestplate"
+  },
+  "HOT_AURORA_HELMET": {
+    "name": "Hot Aurora Helmet"
+  },
+  "HOT_AURORA_LEGGINGS": {
+    "name": "Hot Aurora Leggings"
+  },
+  "HOT_BAIT": {
+    "name": "Hot Bait",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "BLAZE_ASHES:1",
+      "B2": "MAGMAFISH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "HOT_CHOCOLATE": {
+    "name": "Hot Chocolate"
+  },
+  "HOT_CRIMSON_BOOTS": {
+    "name": "Hot Crimson Boots"
+  },
+  "HOT_CRIMSON_CHESTPLATE": {
+    "name": "Hot Crimson Chestplate"
+  },
+  "HOT_CRIMSON_HELMET": {
+    "name": "Hot Crimson Helmet"
+  },
+  "HOT_CRIMSON_LEGGINGS": {
+    "name": "Hot Crimson Leggings"
+  },
+  "HOT_FERVOR_BOOTS": {
+    "name": "Hot Fervor Boots"
+  },
+  "HOT_FERVOR_CHESTPLATE": {
+    "name": "Hot Fervor Chestplate"
+  },
+  "HOT_FERVOR_HELMET": {
+    "name": "Hot Fervor Helmet"
+  },
+  "HOT_FERVOR_LEGGINGS": {
+    "name": "Hot Fervor Leggings"
+  },
+  "HOT_HOLLOW_BOOTS": {
+    "name": "Hot Hollow Boots"
+  },
+  "HOT_HOLLOW_CHESTPLATE": {
+    "name": "Hot Hollow Chestplate"
+  },
+  "HOT_HOLLOW_HELMET": {
+    "name": "Hot Hollow Helmet"
+  },
+  "HOT_HOLLOW_LEGGINGS": {
+    "name": "Hot Hollow Leggings"
+  },
   "HOT_POTATO_BOOK": {
     "name": "Hot Potato Book",
     "recipe": {
@@ -14853,6 +15577,18 @@
       "C3": "ENCHANTED_HARD_STONE:12"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hot_Stuff"
+  },
+  "HOT_TERROR_BOOTS": {
+    "name": "Hot Terror Boots"
+  },
+  "HOT_TERROR_CHESTPLATE": {
+    "name": "Hot Terror Chestplate"
+  },
+  "HOT_TERROR_HELMET": {
+    "name": "Hot Terror Helmet"
+  },
+  "HOT_TERROR_LEGGINGS": {
+    "name": "Hot Terror Leggings"
   },
   "HOUND;3": {
     "name": "Epic Hound",
@@ -14967,6 +15703,20 @@
       "C3": "STRING:32"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hurricane_Bow"
+  },
+  "HYPERGOLIC_GABAGOOL": {
+    "name": "Hypergolic Gabagool",
+    "recipe": {
+      "A1": "HEAVY_GABAGOOL:4",
+      "A2": "HEAVY_GABAGOOL:4",
+      "A3": "HEAVY_GABAGOOL:4",
+      "B1": "HEAVY_GABAGOOL:4",
+      "B2": "SULPHURIC_COAL:1",
+      "B3": "HEAVY_GABAGOOL:4",
+      "C1": "HEAVY_GABAGOOL:4",
+      "C2": "HEAVY_GABAGOOL:4",
+      "C3": "HEAVY_GABAGOOL:4"
+    }
   },
   "HYPERION": {
     "name": "Hyperion",
@@ -15276,9 +16026,470 @@
   "IMPALING;3": {
     "name": "Impaling III"
   },
+  "IMPLOSION_BELT": {
+    "name": "Implosion Belt",
+    "recipe": {
+      "A1": "MATCH_STICKS:32",
+      "A2": "ENCHANTED_SULPHUR_CUBE:1",
+      "A3": "MATCH_STICKS:32",
+      "B1": "ENCHANTED_SULPHUR_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_SULPHUR_CUBE:1",
+      "C1": "MATCH_STICKS:32",
+      "C2": "ENCHANTED_SULPHUR_CUBE:1",
+      "C3": "MATCH_STICKS:32"
+    }
+  },
   "IMPLOSION_SCROLL": {
     "name": "Implosion",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Blade_Scrolls"
+  },
+  "INFERNAL_AURORA_BOOTS": {
+    "name": "Infernal Aurora Boots"
+  },
+  "INFERNAL_AURORA_CHESTPLATE": {
+    "name": "Infernal Aurora Chestplate"
+  },
+  "INFERNAL_AURORA_HELMET": {
+    "name": "Infernal Aurora Helmet"
+  },
+  "INFERNAL_AURORA_LEGGINGS": {
+    "name": "Infernal Aurora Leggings"
+  },
+  "INFERNAL_CRIMSON_BOOTS": {
+    "name": "Infernal Crimson Boots"
+  },
+  "INFERNAL_CRIMSON_CHESTPLATE": {
+    "name": "Infernal Crimson Chestplate"
+  },
+  "INFERNAL_CRIMSON_HELMET": {
+    "name": "Infernal Crimson Helmet"
+  },
+  "INFERNAL_CRIMSON_LEGGINGS": {
+    "name": "Infernal Crimson Leggings"
+  },
+  "INFERNAL_FERVOR_BOOTS": {
+    "name": "Infernal Fervor Boots"
+  },
+  "INFERNAL_FERVOR_CHESTPLATE": {
+    "name": "Infernal Fervor Chestplate"
+  },
+  "INFERNAL_FERVOR_HELMET": {
+    "name": "Infernal Fervor Helmet"
+  },
+  "INFERNAL_FERVOR_LEGGINGS": {
+    "name": "Infernal Fervor Leggings"
+  },
+  "INFERNAL_HOLLOW_BOOTS": {
+    "name": "Infernal Hollow Boots"
+  },
+  "INFERNAL_HOLLOW_CHESTPLATE": {
+    "name": "Infernal Hollow Chestplate"
+  },
+  "INFERNAL_HOLLOW_HELMET": {
+    "name": "Infernal Hollow Helmet"
+  },
+  "INFERNAL_HOLLOW_LEGGINGS": {
+    "name": "Infernal Hollow Leggings"
+  },
+  "INFERNAL_TERROR_BOOTS": {
+    "name": "Infernal Terror Boots"
+  },
+  "INFERNAL_TERROR_CHESTPLATE": {
+    "name": "Infernal Terror Chestplate"
+  },
+  "INFERNAL_TERROR_HELMET": {
+    "name": "Infernal Terror Helmet"
+  },
+  "INFERNAL_TERROR_LEGGINGS": {
+    "name": "Infernal Terror Leggings"
+  },
+  "INFERNO_APEX": {
+    "name": "Inferno Apex"
+  },
+  "INFERNO_FUEL_BLAZE_ROD": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "BLAZE_ROD_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "BLAZE_ROD_DISTILLATE:1",
+      "B1": "BLAZE_ROD_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "BLAZE_ROD_DISTILLATE:1",
+      "C1": "BLAZE_ROD_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "BLAZE_ROD_DISTILLATE:1"
+    }
+  },
+  "INFERNO_FUEL_BLOCK": {
+    "name": "Inferno Fuel Block"
+  },
+  "INFERNO_FUEL_CRUDE_GABAGOOL": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "CRUDE_GABAGOOL_DISTILLATE:1"
+    }
+  },
+  "INFERNO_FUEL_GLOWSTONE_DUST": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "GLOWSTONE_DUST_DISTILLATE:1"
+    }
+  },
+  "INFERNO_FUEL_MAGMA_CREAM": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "MAGMA_CREAM_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "MAGMA_CREAM_DISTILLATE:1",
+      "B1": "MAGMA_CREAM_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "MAGMA_CREAM_DISTILLATE:1",
+      "C1": "MAGMA_CREAM_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "MAGMA_CREAM_DISTILLATE:1"
+    }
+  },
+  "INFERNO_FUEL_NETHER_STALK": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "NETHER_STALK_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "NETHER_STALK_DISTILLATE:1",
+      "B1": "NETHER_STALK_DISTILLATE:1",
+      "B2": "FUEL_GABAGOOL:1",
+      "B3": "NETHER_STALK_DISTILLATE:1",
+      "C1": "NETHER_STALK_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "NETHER_STALK_DISTILLATE:1"
+    }
+  },
+  "INFERNO_GENERATOR_1": {
+    "name": "Inferno Minion I",
+    "recipe": {
+      "A1": "DERELICT_ASHE:10",
+      "A2": "DERELICT_ASHE:10",
+      "A3": "DERELICT_ASHE:10",
+      "B1": "DERELICT_ASHE:10",
+      "B2": "BLAZE_GENERATOR_1:1",
+      "B3": "DERELICT_ASHE:10",
+      "C1": "DERELICT_ASHE:10",
+      "C2": "DERELICT_ASHE:10",
+      "C3": "DERELICT_ASHE:10"
+    }
+  },
+  "INFERNO_GENERATOR_10": {
+    "name": "Inferno Minion X",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:64",
+      "A2": "INFERNO_VERTEX:12",
+      "A3": "MOLTEN_POWDER:64",
+      "B1": "INFERNO_VERTEX:12",
+      "B2": "INFERNO_GENERATOR_9:1",
+      "B3": "INFERNO_VERTEX:12",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "INFERNO_VERTEX:12",
+      "C3": "MOLTEN_POWDER:64"
+    }
+  },
+  "INFERNO_GENERATOR_11": {
+    "name": "Inferno Minion XI",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:64",
+      "A2": "INFERNO_APEX:11",
+      "A3": "MOLTEN_POWDER:64",
+      "B1": "INFERNO_VERTEX:24",
+      "B2": "INFERNO_GENERATOR_10:1",
+      "B3": "INFERNO_VERTEX:24",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "INFERNO_GENERATOR_8:1",
+      "C3": "MOLTEN_POWDER:64"
+    }
+  },
+  "INFERNO_GENERATOR_2": {
+    "name": "Inferno Minion II",
+    "recipe": {
+      "A1": "DERELICT_ASHE:40",
+      "A2": "DERELICT_ASHE:40",
+      "A3": "DERELICT_ASHE:40",
+      "B1": "DERELICT_ASHE:40",
+      "B2": "INFERNO_GENERATOR_1:1",
+      "B3": "DERELICT_ASHE:40",
+      "C1": "DERELICT_ASHE:40",
+      "C2": "DERELICT_ASHE:40",
+      "C3": "DERELICT_ASHE:40"
+    }
+  },
+  "INFERNO_GENERATOR_3": {
+    "name": "Inferno Minion III",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:1",
+      "A2": "MOLTEN_POWDER:1",
+      "A3": "MOLTEN_POWDER:1",
+      "B1": "MOLTEN_POWDER:1",
+      "B2": "INFERNO_GENERATOR_2:1",
+      "B3": "MOLTEN_POWDER:1",
+      "C1": "MOLTEN_POWDER:1",
+      "C2": "MOLTEN_POWDER:1",
+      "C3": "MOLTEN_POWDER:1"
+    }
+  },
+  "INFERNO_GENERATOR_4": {
+    "name": "Inferno Minion IV",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:2",
+      "A2": "MOLTEN_POWDER:2",
+      "A3": "MOLTEN_POWDER:2",
+      "B1": "MOLTEN_POWDER:2",
+      "B2": "INFERNO_GENERATOR_3:1",
+      "B3": "MOLTEN_POWDER:2",
+      "C1": "MOLTEN_POWDER:2",
+      "C2": "MOLTEN_POWDER:2",
+      "C3": "MOLTEN_POWDER:2"
+    }
+  },
+  "INFERNO_GENERATOR_5": {
+    "name": "Inferno Minion V",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:4",
+      "A2": "MOLTEN_POWDER:4",
+      "A3": "MOLTEN_POWDER:4",
+      "B1": "MOLTEN_POWDER:4",
+      "B2": "INFERNO_GENERATOR_4:1",
+      "B3": "MOLTEN_POWDER:4",
+      "C1": "MOLTEN_POWDER:4",
+      "C2": "MOLTEN_POWDER:4",
+      "C3": "MOLTEN_POWDER:4"
+    }
+  },
+  "INFERNO_GENERATOR_6": {
+    "name": "Inferno Minion VI",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:1",
+      "A2": "MOLTEN_POWDER:1",
+      "A3": "MOLTEN_POWDER:1",
+      "B1": "MOLTEN_POWDER:1",
+      "B2": "INFERNO_GENERATOR_5:1",
+      "B3": "MOLTEN_POWDER:1",
+      "C1": "MOLTEN_POWDER:1",
+      "C2": "MOLTEN_POWDER:1",
+      "C3": "MOLTEN_POWDER:1"
+    }
+  },
+  "INFERNO_GENERATOR_7": {
+    "name": "Inferno Minion VII",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:16",
+      "A2": "MOLTEN_POWDER:16",
+      "A3": "MOLTEN_POWDER:16",
+      "B1": "MOLTEN_POWDER:16",
+      "B2": "INFERNO_GENERATOR_6:1",
+      "B3": "MOLTEN_POWDER:16",
+      "C1": "MOLTEN_POWDER:16",
+      "C2": "MOLTEN_POWDER:16",
+      "C3": "MOLTEN_POWDER:16"
+    }
+  },
+  "INFERNO_GENERATOR_8": {
+    "name": "Inferno Minion VIII",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:32",
+      "A2": "MOLTEN_POWDER:32",
+      "A3": "MOLTEN_POWDER:32",
+      "B1": "MOLTEN_POWDER:32",
+      "B2": "INFERNO_GENERATOR_7:1",
+      "B3": "MOLTEN_POWDER:32",
+      "C1": "MOLTEN_POWDER:32",
+      "C2": "MOLTEN_POWDER:32",
+      "C3": "MOLTEN_POWDER:32"
+    }
+  },
+  "INFERNO_GENERATOR_9": {
+    "name": "Inferno Minion IX",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:64",
+      "A2": "MOLTEN_POWDER:64",
+      "A3": "MOLTEN_POWDER:64",
+      "B1": "MOLTEN_POWDER:64",
+      "B2": "INFERNO_GENERATOR_8:1",
+      "B3": "MOLTEN_POWDER:64",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "MOLTEN_POWDER:64",
+      "C3": "MOLTEN_POWDER:64"
+    }
+  },
+  "INFERNO_HEAVY_BLAZE_ROD": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "BLAZE_ROD_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "BLAZE_ROD_DISTILLATE:1",
+      "B1": "BLAZE_ROD_DISTILLATE:1",
+      "B2": "HEAVY_GABAGOOL:1",
+      "B3": "BLAZE_ROD_DISTILLATE:1",
+      "C1": "BLAZE_ROD_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "BLAZE_ROD_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HEAVY_CRUDE_GABAGOOL": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B2": "HEAVY_GABAGOOL:1",
+      "B3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "CRUDE_GABAGOOL_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HEAVY_GLOWSTONE_DUST": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B2": "HEAVY_GABAGOOL:1",
+      "B3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "GLOWSTONE_DUST_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HEAVY_MAGMA_CREAM": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "MAGMA_CREAM_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "MAGMA_CREAM_DISTILLATE:1",
+      "B1": "MAGMA_CREAM_DISTILLATE:1",
+      "B2": "HEAVY_GABAGOOL:1",
+      "B3": "MAGMA_CREAM_DISTILLATE:1",
+      "C1": "MAGMA_CREAM_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "MAGMA_CREAM_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HEAVY_NETHER_STALK": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "NETHER_STALK_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "NETHER_STALK_DISTILLATE:1",
+      "B1": "NETHER_STALK_DISTILLATE:1",
+      "B2": "HEAVY_GABAGOOL:1",
+      "B3": "NETHER_STALK_DISTILLATE:1",
+      "C1": "NETHER_STALK_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "NETHER_STALK_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HYPERGOLIC_BLAZE_ROD": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "BLAZE_ROD_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "BLAZE_ROD_DISTILLATE:1",
+      "B1": "BLAZE_ROD_DISTILLATE:1",
+      "B2": "HYPERGOLIC_GABAGOOL:1",
+      "B3": "BLAZE_ROD_DISTILLATE:1",
+      "C1": "BLAZE_ROD_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "BLAZE_ROD_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "B2": "HYPERGOLIC_GABAGOOL:1",
+      "B3": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C1": "CRUDE_GABAGOOL_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "CRUDE_GABAGOOL_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HYPERGOLIC_GLOWSTONE_DUST": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "B2": "HYPERGOLIC_GABAGOOL:1",
+      "B3": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C1": "GLOWSTONE_DUST_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "GLOWSTONE_DUST_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HYPERGOLIC_MAGMA_CREAM": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "MAGMA_CREAM_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "MAGMA_CREAM_DISTILLATE:1",
+      "B1": "MAGMA_CREAM_DISTILLATE:1",
+      "B2": "HYPERGOLIC_GABAGOOL:1",
+      "B3": "MAGMA_CREAM_DISTILLATE:1",
+      "C1": "MAGMA_CREAM_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "MAGMA_CREAM_DISTILLATE:1"
+    }
+  },
+  "INFERNO_HYPERGOLIC_NETHER_STALK": {
+    "name": "Inferno Minion Fuel",
+    "recipe": {
+      "A1": "NETHER_STALK_DISTILLATE:1",
+      "A2": "INFERNO_FUEL_BLOCK:1",
+      "A3": "NETHER_STALK_DISTILLATE:1",
+      "B1": "NETHER_STALK_DISTILLATE:1",
+      "B2": "HYPERGOLIC_GABAGOOL:1",
+      "B3": "NETHER_STALK_DISTILLATE:1",
+      "C1": "NETHER_STALK_DISTILLATE:1",
+      "C2": "INFERNO_FUEL_BLOCK:1",
+      "C3": "NETHER_STALK_DISTILLATE:1"
+    }
+  },
+  "INFERNO_ROD": {
+    "name": "Inferno Rod",
+    "recipe": {
+      "A1": "MAGMA_FISH_GOLD:2",
+      "A2": "MAGMA_FISH_GOLD:2",
+      "A3": "MAGMA_FISH_GOLD:2",
+      "B1": "MAGMA_FISH_GOLD:2",
+      "B2": "MAGMA_ROD:1",
+      "B3": "MAGMA_FISH_GOLD:2",
+      "C1": "MAGMA_FISH_GOLD:2",
+      "C2": "MAGMA_FISH_GOLD:2",
+      "C3": "MAGMA_FISH_GOLD:2"
+    }
+  },
+  "INFERNO_VERTEX": {
+    "name": "Inferno Vertex"
   },
   "INFINIDIRT_WAND": {
     "name": "InfiniDirt Wand",
@@ -15988,6 +17199,9 @@
     "name": "Jacob\u0027s Ticket",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jacob\u0027s_Ticket"
   },
+  "JACOBUS_REGISTER": {
+    "name": "Jacobus Register"
+  },
   "JADERALD": {
     "name": "Jaderald",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jaderald"
@@ -16497,6 +17711,9 @@
       "C3": "WOOD-3:1"
     }
   },
+  "KADA_LEAD": {
+    "name": "Kada Lead"
+  },
   "KALHUIKI_MASK": {
     "name": "Kalhuiki Mask",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kalhuiki_Mask"
@@ -16504,6 +17721,9 @@
   "KAT_FLOWER": {
     "name": "Kat Flower",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kat_Flower"
+  },
+  "KELVIN_INVERTER": {
+    "name": "Kelvin Inverter"
   },
   "KILLER_PERSONALITY": {
     "name": "Killer Minion Skin",
@@ -16546,6 +17766,9 @@
     "name": "Krampus Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Krampus_Helmet"
   },
+  "KUUDRA_TIER_KEY": {
+    "name": "Kuudra Key"
+  },
   "LADDER": {
     "name": "Ladder",
     "recipe": {
@@ -16563,6 +17786,60 @@
   "LADY_BUG_PERSONALITY": {
     "name": "Lady Bug Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "LAMP_BLACK": {
+    "name": "Black Lamp"
+  },
+  "LAMP_BLUE": {
+    "name": "Blue Lamp"
+  },
+  "LAMP_BROWN": {
+    "name": "Brown Lamp"
+  },
+  "LAMP_CYAN": {
+    "name": "Cyan Lamp"
+  },
+  "LAMP_GRAY": {
+    "name": "Gray Lamp"
+  },
+  "LAMP_GREEN": {
+    "name": "Green Lamp"
+  },
+  "LAMP_LIGHT_BLUE": {
+    "name": "Light Blue Lamp"
+  },
+  "LAMP_LIGHT_GRAY": {
+    "name": "Light Gray Lamp"
+  },
+  "LAMP_LILAC": {
+    "name": "Lilac Lamp"
+  },
+  "LAMP_LIME": {
+    "name": "Lime Lamp"
+  },
+  "LAMP_MAGENTA": {
+    "name": "Magenta Lamp"
+  },
+  "LAMP_ORANGE": {
+    "name": "Orange Lamp"
+  },
+  "LAMP_PINK": {
+    "name": "Pink Lamp"
+  },
+  "LAMP_PURPLE": {
+    "name": "Purple Lamp"
+  },
+  "LAMP_RAINBOW": {
+    "name": "Rainbow Lamp"
+  },
+  "LAMP_RED": {
+    "name": "Red Lamp"
+  },
+  "LAMP_WHITE": {
+    "name": "White Lamp"
+  },
+  "LAMP_YELLOW": {
+    "name": "Yellow Lamp"
   },
   "LANTERN": {
     "name": "Lantern",
@@ -17011,6 +18288,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Husbandry_Sack"
   },
+  "LARGE_LAVA_FISHING_SACK": {
+    "name": "Large Lava Fishing Sack",
+    "recipe": {
+      "A1": "MAGMA_FISH_SILVER:40",
+      "A2": "MAGMA_FISH_SILVER:40",
+      "A3": "MAGMA_FISH_SILVER:40",
+      "B1": "MAGMA_FISH_SILVER:40",
+      "B2": "MEDIUM_LAVA_FISHING_SACK:1",
+      "B3": "MAGMA_FISH_SILVER:40",
+      "C1": "MAGMA_FISH_SILVER:40",
+      "C2": "MAGMA_FISH_SILVER:40",
+      "C3": "MAGMA_FISH_SILVER:40"
+    }
+  },
   "LARGE_MINING_SACK": {
     "name": "Large Mining Sack",
     "recipe": {
@@ -17025,6 +18316,20 @@
       "C3": "ENCHANTED_COAL:8"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mining_Sack"
+  },
+  "LARGE_NETHER_SACK": {
+    "name": "Large Nether Sack",
+    "recipe": {
+      "A1": "ENCHANTED_SULPHUR_CUBE:1",
+      "A2": "KADA_LEAD:60",
+      "A3": "ENCHANTED_SULPHUR_CUBE:1",
+      "B1": "KADA_LEAD:60",
+      "B2": "MEDIUM_NETHER_SACK",
+      "B3": "KADA_LEAD:60",
+      "C1": "ENCHANTED_SULPHUR_CUBE:1",
+      "C2": "KADA_LEAD:60",
+      "C3": "ENCHANTED_SULPHUR_CUBE:1"
+    }
   },
   "LARGE_SLAYER_SACK": {
     "name": "Large Slayer Sack",
@@ -17069,6 +18374,26 @@
   },
   "LAVA_BUCKET": {
     "name": "Lava Bucket"
+  },
+  "LAVA_HORSE_BRONZE": {
+    "name": "Lava Horse BRONZE"
+  },
+  "LAVA_HORSE_SILVER": {
+    "name": "Lava Horse SILVER"
+  },
+  "LAVA_SHELL_NECKLACE": {
+    "name": "Lava Shell Necklace",
+    "recipe": {
+      "A1": "LAVA_SHELL:1",
+      "A2": "LAVA_SHELL:1",
+      "A3": "LAVA_SHELL:1",
+      "B1": "LAVA_SHELL:1",
+      "B2": "GAZING_PEARL:5",
+      "B3": "LAVA_SHELL:1",
+      "C1": "LAVA_SHELL:1",
+      "C2": "LAVA_SHELL:1",
+      "C3": "LAVA_SHELL:1"
+    }
   },
   "LAVA_TALISMAN": {
     "name": "Lava Talisman",
@@ -17215,6 +18540,9 @@
       "C2": "LEATHER:1",
       "C3": "LEATHER:1"
     }
+  },
+  "LEATHER_CLOTH": {
+    "name": "Leather Cloth"
   },
   "LEATHER_HELMET": {
     "name": "Leather Helmet",
@@ -17560,6 +18888,9 @@
   "LUCK_OF_THE_SEA;6": {
     "name": "Luck of the Sea VI"
   },
+  "LUMP_OF_MAGMA": {
+    "name": "Lump of Magma"
+  },
   "LURE;1": {
     "name": "Lure I"
   },
@@ -17653,6 +18984,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magical_Mushroom_Soup"
   },
+  "MAGMAG": {
+    "name": "Magmag"
+  },
   "MAGMA_BOW": {
     "name": "Magma Bow",
     "recipe": {
@@ -17683,6 +19017,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Bucket"
   },
+  "MAGMA_CHUNK": {
+    "name": "Magma Chunk"
+  },
   "MAGMA_CORE": {
     "name": "Magma Core",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Core"
@@ -17701,6 +19038,9 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cream"
+  },
+  "MAGMA_CREAM_DISTILLATE": {
+    "name": "Magma Cream Distillate"
   },
   "MAGMA_CUBE;0": {
     "name": "Common Magma Cube",
@@ -17765,6 +19105,10 @@
       "C2": "ENCHANTED_MAGMA_CREAM:64",
       "C3": "ENCHANTED_MAGMA_CREAM:64"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Minion"
+  },
+  "MAGMA_CUBE_GENERATOR_12": {
+    "name": "Magma Cube Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Minion"
   },
   "MAGMA_CUBE_GENERATOR_2": {
@@ -17902,6 +19246,105 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Head"
   },
+  "MAGMA_FISH": {
+    "name": "Magmafish"
+  },
+  "MAGMA_FISH_DIAMOND": {
+    "name": "Diamond Magmafish",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_GOLD:16",
+      "A3": "",
+      "B1": "MAGMA_FISH_GOLD:16",
+      "B2": "MAGMA_FISH_GOLD:16",
+      "B3": "MAGMA_FISH_GOLD:16",
+      "C1": "",
+      "C2": "MAGMA_FISH_GOLD:16",
+      "C3": ""
+    }
+  },
+  "MAGMA_FISH_GOLD": {
+    "name": "Gold Magmafish",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_SILVER:10",
+      "A3": "",
+      "B1": "MAGMA_FISH_SILVER:10",
+      "B2": "MAGMA_FISH_SILVER:10",
+      "B3": "MAGMA_FISH_SILVER:10",
+      "C1": "",
+      "C2": "MAGMA_FISH_SILVER:10",
+      "C3": ""
+    }
+  },
+  "MAGMA_FISH_HAT": {
+    "name": "Magmafish Hat",
+    "recipe": {
+      "A1": "MAGMA_FISH:1",
+      "A2": "MAGMA_FISH:1",
+      "A3": "MAGMA_FISH:1",
+      "B1": "MAGMA_FISH:1",
+      "B2": "",
+      "B3": "MAGMA_FISH:1",
+      "C1": "MAGMA_FISH:1",
+      "C2": "MAGMA_FISH:1",
+      "C3": "MAGMA_FISH:1"
+    }
+  },
+  "MAGMA_FISH_SILVER": {
+    "name": "Silver Magmafish",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH:16",
+      "A3": "",
+      "B1": "MAGMA_FISH:16",
+      "B2": "MAGMA_FISH:16",
+      "B3": "MAGMA_FISH:16",
+      "C1": "",
+      "C2": "MAGMA_FISH:16",
+      "C3": ""
+    }
+  },
+  "MAGMA_LORD_BOOTS": {
+    "name": "Magma Lord Boots"
+  },
+  "MAGMA_LORD_CHESTPLATE": {
+    "name": "Magma Lord Chestplate"
+  },
+  "MAGMA_LORD_HELMET": {
+    "name": "Magma Lord Helmet"
+  },
+  "MAGMA_LORD_LEGGINGS": {
+    "name": "Magma Lord Leggings"
+  },
+  "MAGMA_NECKLACE": {
+    "name": "Magma Necklace",
+    "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:3",
+      "A2": "",
+      "A3": "ENCHANTED_MAGMA_CREAM:3",
+      "B1": "ENCHANTED_MAGMA_CREAM:3",
+      "B2": "",
+      "B3": "ENCHANTED_MAGMA_CREAM:3",
+      "C1": "",
+      "C2": "MAGMA_CHUNK:20",
+      "C3": ""
+    }
+  },
+  "MAGMA_ROD": {
+    "name": "Magma Rod",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "STICK:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "MAGMA_FISH_SILVER:5",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": "MAGMA_FISH_SILVER:5"
+    }
+  },
   "MAGNET;1": {
     "name": "Magnet I"
   },
@@ -17986,6 +19429,9 @@
       "C2": "PAPER:1",
       "C3": "PAPER:1"
     }
+  },
+  "MARSH_SPORE_SOUP": {
+    "name": "Marsh Spore Soup"
   },
   "MASTER_SKULL_TIER_1": {
     "name": "Master Skull - Tier 1",
@@ -18145,6 +19591,34 @@
     "name": "Puppy Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "MATCH_STICKS": {
+    "name": "Match-Sticks",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "SULPHUR_ORE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    }
+  },
+  "MAWDUST_DAGGER": {
+    "name": "Twilight Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:5",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    }
+  },
   "MAXED_ENCHANT_BOOK": {
     "name": "Max Enchanted Book"
   },
@@ -18272,6 +19746,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Husbandry_Sack"
   },
+  "MEDIUM_LAVA_FISHING_SACK": {
+    "name": "Medium Lava Fishing Sack",
+    "recipe": {
+      "A1": "MAGMA_FISH_SILVER:10",
+      "A2": "MAGMA_FISH_SILVER:10",
+      "A3": "MAGMA_FISH_SILVER:10",
+      "B1": "MAGMA_FISH_SILVER:10",
+      "B2": "SMALL_LAVA_FISHING_SACK:1",
+      "B3": "MAGMA_FISH_SILVER:10",
+      "C1": "MAGMA_FISH_SILVER:10",
+      "C2": "MAGMA_FISH_SILVER:10",
+      "C3": "MAGMA_FISH_SILVER:10"
+    }
+  },
   "MEDIUM_MINING_SACK": {
     "name": "Medium Mining Sack",
     "recipe": {
@@ -18286,6 +19774,20 @@
       "C3": "ENCHANTED_COAL:4"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mining_Sack"
+  },
+  "MEDIUM_NETHER_SACK": {
+    "name": "Medium Nether Sack",
+    "recipe": {
+      "A1": "ENCHANTED_SULPHUR:16",
+      "A2": "KADA_LEAD:40",
+      "A3": "ENCHANTED_SULPHUR:16",
+      "B1": "KADA_LEAD:40",
+      "B2": "SMALL_NETHER_SACK",
+      "B3": "KADA_LEAD:40",
+      "C1": "ENCHANTED_SULPHUR:16",
+      "C2": "KADA_LEAD:40",
+      "C3": "ENCHANTED_SULPHUR:16"
+    }
   },
   "MEDIUM_SHELVES": {
     "name": "Medium Shelves",
@@ -18557,6 +20059,20 @@
   "MERCENARY_LEGGINGS": {
     "name": "Mercenary Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mercenary_Armor"
+  },
+  "MESA_BIOME_STICK": {
+    "name": "Mesa Biome Stick",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "ENCHANTED_RED_SAND:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    }
   },
   "METAL_CHESTPLATE": {
     "name": "Metal Chestplate",
@@ -19183,9 +20699,35 @@
     "name": "Moil Log",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Moil_Log"
   },
+  "MOLTEN_BELT": {
+    "name": "Molten Belt"
+  },
+  "MOLTEN_BRACELET": {
+    "name": "Molten Bracelet"
+  },
+  "MOLTEN_CLOAK": {
+    "name": "Molten Cloak"
+  },
   "MOLTEN_CUBE": {
     "name": "Molten Cube",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Molten_Cube"
+  },
+  "MOLTEN_NECKLACE": {
+    "name": "Molten Necklace"
+  },
+  "MOLTEN_POWDER": {
+    "name": "Molten Powder",
+    "recipe": {
+      "A1": "",
+      "A2": "DERELICT_ASHE:32",
+      "A3": "",
+      "B1": "DERELICT_ASHE:32",
+      "B2": "AMALGAMATED_CRIMSONITE:32",
+      "B3": "DERELICT_ASHE:32",
+      "C1": "",
+      "C2": "DERELICT_ASHE:32",
+      "C3": ""
+    }
   },
   "MONKEY;0": {
     "name": "Common Monkey",
@@ -19212,6 +20754,15 @@
   },
   "MONSTER_EGGS": {
     "name": "Spawn"
+  },
+  "MOODY_GRAPPLESHOT": {
+    "name": "Moody Grappleshot"
+  },
+  "MOOGMA_LEGGINGS": {
+    "name": "Moogma Leggings"
+  },
+  "MOOGMA_PELT": {
+    "name": "Moogma Pelt"
   },
   "MOON_CHUNK": {
     "name": "Chunk of the Moon",
@@ -19268,6 +20819,20 @@
       "C3": "ENCHANTED_BONE:16"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
+  },
+  "MUSHROOM_BIOME_STICK": {
+    "name": "Mushroom Biome Stick",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "ENCHANTED_MYCELIUM:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    }
   },
   "MUSHROOM_BOOTS": {
     "name": "Mushroom Boots",
@@ -19546,11 +21111,185 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mutant_Nether_Wart"
   },
+  "MUTATED_BLAZE_ASHES": {
+    "name": "Mutated Blaze Ashes"
+  },
   "MUTTON": {
     "name": "Raw Mutton"
   },
   "MYCEL": {
     "name": "Mycelium"
+  },
+  "MYCELIUM_DUST": {
+    "name": "Mycelium Dust",
+    "recipe": {
+      "A1": "",
+      "A2": "SPECTRE_DUST:1",
+      "A3": "",
+      "B1": "BLAZE_ASHES:1",
+      "B2": "ENCHANTED_MYCELIUM:1",
+      "B3": "BLAZE_ASHES:1",
+      "C1": "",
+      "C2": "SPECTRE_DUST:1",
+      "C3": ""
+    }
+  },
+  "MYCELIUM_GENERATOR_1": {
+    "name": "Mycelium Minion I",
+    "recipe": {
+      "A1": "MYCEL:10",
+      "A2": "MYCEL:10",
+      "A3": "MYCEL:10",
+      "B1": "MYCEL:10",
+      "B2": "WOOD_SPADE",
+      "B3": "MYCEL:10",
+      "C1": "MYCEL:10",
+      "C2": "MYCEL:10",
+      "C3": "MYCEL:10"
+    }
+  },
+  "MYCELIUM_GENERATOR_10": {
+    "name": "Mycelium Minion X",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B2": "MYCELIUM_GENERATOR_9:1",
+      "B3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:1"
+    }
+  },
+  "MYCELIUM_GENERATOR_11": {
+    "name": "Mycelium Minion XI",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "A2": "ENCHANTED_MYCELIUM_CUBE:2",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:2",
+      "B1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "B2": "MYCELIUM_GENERATOR_10:1",
+      "B3": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C2": "ENCHANTED_MYCELIUM_CUBE:2",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:2"
+    }
+  },
+  "MYCELIUM_GENERATOR_12": {
+    "name": "Mycelium Minion XII"
+  },
+  "MYCELIUM_GENERATOR_2": {
+    "name": "Mycelium Minion II",
+    "recipe": {
+      "A1": "MYCEL:32",
+      "A2": "MYCEL:32",
+      "A3": "MYCEL:32",
+      "B1": "MYCEL:32",
+      "B2": "MYCELIUM_GENERATOR_1:1",
+      "B3": "MYCEL:32",
+      "C1": "MYCEL:32",
+      "C2": "MYCEL:32",
+      "C3": "MYCEL:32"
+    }
+  },
+  "MYCELIUM_GENERATOR_3": {
+    "name": "Mycelium Minion III",
+    "recipe": {
+      "A1": "MYCEL:64",
+      "A2": "MYCEL:64",
+      "A3": "MYCEL:64",
+      "B1": "MYCEL:64",
+      "B2": "MYCELIUM_GENERATOR_2:1",
+      "B3": "MYCEL:64",
+      "C1": "MYCEL:64",
+      "C2": "MYCEL:64",
+      "C3": "MYCEL:64"
+    }
+  },
+  "MYCELIUM_GENERATOR_4": {
+    "name": "Mycelium Minion IV",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:2",
+      "A2": "ENCHANTED_MYCELIUM:2",
+      "A3": "ENCHANTED_MYCELIUM:2",
+      "B1": "ENCHANTED_MYCELIUM:2",
+      "B2": "MYCELIUM_GENERATOR_3:1",
+      "B3": "ENCHANTED_MYCELIUM:2",
+      "C1": "ENCHANTED_MYCELIUM:2",
+      "C2": "ENCHANTED_MYCELIUM:2",
+      "C3": "ENCHANTED_MYCELIUM:2"
+    }
+  },
+  "MYCELIUM_GENERATOR_5": {
+    "name": "Mycelium Minion V",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:4",
+      "A2": "ENCHANTED_MYCELIUM:4",
+      "A3": "ENCHANTED_MYCELIUM:4",
+      "B1": "ENCHANTED_MYCELIUM:4",
+      "B2": "MYCELIUM_GENERATOR_4:1",
+      "B3": "ENCHANTED_MYCELIUM:4",
+      "C1": "ENCHANTED_MYCELIUM:4",
+      "C2": "ENCHANTED_MYCELIUM:4",
+      "C3": "ENCHANTED_MYCELIUM:4"
+    }
+  },
+  "MYCELIUM_GENERATOR_6": {
+    "name": "Mycelium Minion VI",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:8",
+      "A2": "ENCHANTED_MYCELIUM:8",
+      "A3": "ENCHANTED_MYCELIUM:8",
+      "B1": "ENCHANTED_MYCELIUM:8",
+      "B2": "MYCELIUM_GENERATOR_5:1",
+      "B3": "ENCHANTED_MYCELIUM:8",
+      "C1": "ENCHANTED_MYCELIUM:8",
+      "C2": "ENCHANTED_MYCELIUM:8",
+      "C3": "ENCHANTED_MYCELIUM:8"
+    }
+  },
+  "MYCELIUM_GENERATOR_7": {
+    "name": "Mycelium Minion VII",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:16",
+      "A2": "ENCHANTED_MYCELIUM:16",
+      "A3": "ENCHANTED_MYCELIUM:16",
+      "B1": "ENCHANTED_MYCELIUM:16",
+      "B2": "MYCELIUM_GENERATOR_6:1",
+      "B3": "ENCHANTED_MYCELIUM:16",
+      "C1": "ENCHANTED_MYCELIUM:16",
+      "C2": "ENCHANTED_MYCELIUM:16",
+      "C3": "ENCHANTED_MYCELIUM:16"
+    }
+  },
+  "MYCELIUM_GENERATOR_8": {
+    "name": "Mycelium Minion VIII",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "ENCHANTED_MYCELIUM:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "MYCELIUM_GENERATOR_7:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "ENCHANTED_MYCELIUM:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "ENCHANTED_MYCELIUM:32"
+    }
+  },
+  "MYCELIUM_GENERATOR_9": {
+    "name": "Mycelium Minion IX",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM:64",
+      "A2": "ENCHANTED_MYCELIUM:64",
+      "A3": "ENCHANTED_MYCELIUM:64",
+      "B1": "ENCHANTED_MYCELIUM:64",
+      "B2": "MYCELIUM_GENERATOR_8:1",
+      "B3": "ENCHANTED_MYCELIUM:64",
+      "C1": "ENCHANTED_MYCELIUM:64",
+      "C2": "ENCHANTED_MYCELIUM:64",
+      "C3": "ENCHANTED_MYCELIUM:64"
+    }
   },
   "MYSTERIOUS_MEAT": {
     "name": "Mysterious Meat",
@@ -19691,6 +21430,9 @@
   "NETHER_STALK": {
     "name": "Nether Wart",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart"
+  },
+  "NETHER_STALK_DISTILLATE": {
+    "name": "Nether Wart Distillate"
   },
   "NETHER_STAR": {
     "name": "Nether Star"
@@ -20187,6 +21929,12 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oak_Minion"
   },
+  "OBFUSCATED_FISH_1_BRONZE": {
+    "name": "Obfuscated 1 BRONZE"
+  },
+  "OBFUSCATED_FISH_1_SILVER": {
+    "name": "Obfuscated 1 SILVER"
+  },
   "OBSIDIAN": {
     "name": "Obsidian"
   },
@@ -20363,6 +22111,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Obsidian_Minion"
   },
+  "OBSIDIAN_TABLET": {
+    "name": "Obsidian Tablet"
+  },
   "OCELOT;0": {
     "name": "Common Ocelot",
     "recipe": {
@@ -20514,6 +22265,20 @@
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "OMEGA_EGG": {
+    "name": "Omega Enchanted Egg",
+    "recipe": {
+      "A1": "SUPER_EGG:1",
+      "A2": "SUPER_EGG:1",
+      "A3": "SUPER_EGG:1",
+      "B1": "SUPER_EGG:1",
+      "B2": "SUPER_EGG:1",
+      "B3": "SUPER_EGG:1",
+      "C1": "SUPER_EGG:1",
+      "C2": "SUPER_EGG:1",
+      "C3": "SUPER_EGG:1"
+    }
+  },
   "ONYX": {
     "name": "Onyx",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Onyx"
@@ -20525,6 +22290,9 @@
   "OPTICAL_LENS": {
     "name": "Optical Lens",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Optical_Lens"
+  },
+  "ORB_OF_ENERGY": {
+    "name": "Orb of Energy"
   },
   "ORNATE_ZOMBIE_SWORD": {
     "name": "Ornate Zombie Sword",
@@ -23577,6 +25345,9 @@
     "name": "Small Backpack",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Backpack"
   },
+  "PYROCLASTIC_SCALE": {
+    "name": "Pyroclastic Scale"
+  },
   "QUALITY_MAP": {
     "name": "Quality Map",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quality_Map"
@@ -23669,6 +25440,10 @@
       "C2": "ENCHANTED_QUARTZ_BLOCK:1",
       "C3": "ENCHANTED_QUARTZ_BLOCK:1"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quartz_Minion"
+  },
+  "QUARTZ_GENERATOR_12": {
+    "name": "Quartz Minion XII",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quartz_Minion"
   },
   "QUARTZ_GENERATOR_2": {
@@ -24117,6 +25892,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Raggedy_Shark_Tooth_Necklace"
   },
+  "RAGNAROCK_AXE": {
+    "name": "Ragnarock Axe"
+  },
   "RAIDER_AXE": {
     "name": "Raider Axe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Raider_Axe"
@@ -24148,6 +25926,18 @@
       "C2": "PAPER:1",
       "C3": "WOOL:5"
     }
+  },
+  "RAMPART_BOOTS": {
+    "name": "Rampart Boots"
+  },
+  "RAMPART_CHESTPLATE": {
+    "name": "Rampart Chestplate"
+  },
+  "RAMPART_HELMET": {
+    "name": "Rampart Helmet"
+  },
+  "RAMPART_LEGGINGS": {
+    "name": "Rampart Leggings"
   },
   "RANCHERS_BOOTS": {
     "name": "Rancher\u0027s Boots",
@@ -24290,6 +26080,9 @@
       "C3": "SCYTHE_BLADE:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Reaper_Orb"
+  },
+  "REAPER_PEPPER": {
+    "name": "Reaper Pepper"
   },
   "REAPER_SCYTHE": {
     "name": "Reaper Scythe",
@@ -24747,6 +26540,163 @@
       "C3": "RED_SANDSTONE:1"
     }
   },
+  "RED_SAND_GENERATOR_1": {
+    "name": "Red Sand Minion I",
+    "recipe": {
+      "A1": "SAND-1:10",
+      "A2": "SAND-1:10",
+      "A3": "SAND-1:10",
+      "B1": "SAND-1:10",
+      "B2": "WOOD_SPADE:1",
+      "B3": "SAND-1:10",
+      "C1": "SAND-1:10",
+      "C2": "SAND-1:10",
+      "C3": "SAND-1:10"
+    }
+  },
+  "RED_SAND_GENERATOR_10": {
+    "name": "Red Sand Minion X",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:1",
+      "A2": "ENCHANTED_RED_SAND_CUBE:1",
+      "A3": "ENCHANTED_RED_SAND_CUBE:1",
+      "B1": "ENCHANTED_RED_SAND_CUBE:1",
+      "B2": "RED_SAND_GENERATOR_9:1",
+      "B3": "ENCHANTED_RED_SAND_CUBE:1",
+      "C1": "ENCHANTED_RED_SAND_CUBE:1",
+      "C2": "ENCHANTED_RED_SAND_CUBE:1",
+      "C3": "ENCHANTED_RED_SAND_CUBE:1"
+    }
+  },
+  "RED_SAND_GENERATOR_11": {
+    "name": "Red Sand Minion XI",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND_CUBE:2",
+      "A2": "ENCHANTED_RED_SAND_CUBE:2",
+      "A3": "ENCHANTED_RED_SAND_CUBE:2",
+      "B1": "ENCHANTED_RED_SAND_CUBE:2",
+      "B2": "RED_SAND_GENERATOR_10:1",
+      "B3": "ENCHANTED_RED_SAND_CUBE:2",
+      "C1": "ENCHANTED_RED_SAND_CUBE:2",
+      "C2": "ENCHANTED_RED_SAND_CUBE:2",
+      "C3": "ENCHANTED_RED_SAND_CUBE:2"
+    }
+  },
+  "RED_SAND_GENERATOR_12": {
+    "name": "Red Sand Minion XII"
+  },
+  "RED_SAND_GENERATOR_2": {
+    "name": "Red Sand Minion II",
+    "recipe": {
+      "A1": "SAND-1:32",
+      "A2": "SAND-1:32",
+      "A3": "SAND-1:32",
+      "B1": "SAND-1:32",
+      "B2": "RED_SAND_GENERATOR_1:1",
+      "B3": "SAND-1:32",
+      "C1": "SAND-1:32",
+      "C2": "SAND-1:32",
+      "C3": "SAND-1:32"
+    }
+  },
+  "RED_SAND_GENERATOR_3": {
+    "name": "Red Sand Minion III",
+    "recipe": {
+      "A1": "SAND-1:64",
+      "A2": "SAND-1:64",
+      "A3": "SAND-1:64",
+      "B1": "SAND-1:64",
+      "B2": "RED_SAND_GENERATOR_2:1",
+      "B3": "SAND-1:64",
+      "C1": "SAND-1:64",
+      "C2": "SAND-1:64",
+      "C3": "SAND-1:64"
+    }
+  },
+  "RED_SAND_GENERATOR_4": {
+    "name": "Red Sand Minion IV",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:2",
+      "A2": "ENCHANTED_RED_SAND:2",
+      "A3": "ENCHANTED_RED_SAND:2",
+      "B1": "ENCHANTED_RED_SAND:2",
+      "B2": "RED_SAND_GENERATOR_3:1",
+      "B3": "ENCHANTED_RED_SAND:2",
+      "C1": "ENCHANTED_RED_SAND:2",
+      "C2": "ENCHANTED_RED_SAND:2",
+      "C3": "ENCHANTED_RED_SAND:2"
+    }
+  },
+  "RED_SAND_GENERATOR_5": {
+    "name": "Red Sand Minion V",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:4",
+      "A2": "ENCHANTED_RED_SAND:4",
+      "A3": "ENCHANTED_RED_SAND:4",
+      "B1": "ENCHANTED_RED_SAND:4",
+      "B2": "RED_SAND_GENERATOR_4:1",
+      "B3": "ENCHANTED_RED_SAND:4",
+      "C1": "ENCHANTED_RED_SAND:4",
+      "C2": "ENCHANTED_RED_SAND:4",
+      "C3": "ENCHANTED_RED_SAND:4"
+    }
+  },
+  "RED_SAND_GENERATOR_6": {
+    "name": "Red Sand Minion VI",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:8",
+      "A2": "ENCHANTED_RED_SAND:8",
+      "A3": "ENCHANTED_RED_SAND:8",
+      "B1": "ENCHANTED_RED_SAND:8",
+      "B2": "RED_SAND_GENERATOR_5:1",
+      "B3": "ENCHANTED_RED_SAND:8",
+      "C1": "ENCHANTED_RED_SAND:8",
+      "C2": "ENCHANTED_RED_SAND:8",
+      "C3": "ENCHANTED_RED_SAND:8"
+    }
+  },
+  "RED_SAND_GENERATOR_7": {
+    "name": "Red Sand Minion VII",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:16",
+      "A2": "ENCHANTED_RED_SAND:16",
+      "A3": "ENCHANTED_RED_SAND:16",
+      "B1": "ENCHANTED_RED_SAND:16",
+      "B2": "RED_SAND_GENERATOR_6:1",
+      "B3": "ENCHANTED_RED_SAND:16",
+      "C1": "ENCHANTED_RED_SAND:16",
+      "C2": "ENCHANTED_RED_SAND:16",
+      "C3": "ENCHANTED_RED_SAND:16"
+    }
+  },
+  "RED_SAND_GENERATOR_8": {
+    "name": "Red Sand Minion VIII",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "ENCHANTED_RED_SAND:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "RED_SAND_GENERATOR_7:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "ENCHANTED_RED_SAND:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "ENCHANTED_RED_SAND:32"
+    }
+  },
+  "RED_SAND_GENERATOR_9": {
+    "name": "Red Sand Minion IX",
+    "recipe": {
+      "A1": "ENCHANTED_RED_SAND:64",
+      "A2": "ENCHANTED_RED_SAND:64",
+      "A3": "ENCHANTED_RED_SAND:64",
+      "B1": "ENCHANTED_RED_SAND:64",
+      "B2": "RED_SAND_GENERATOR_8:1",
+      "B3": "ENCHANTED_RED_SAND:64",
+      "C1": "ENCHANTED_RED_SAND:64",
+      "C2": "ENCHANTED_RED_SAND:64",
+      "C3": "ENCHANTED_RED_SAND:64"
+    }
+  },
   "RED_SCARF": {
     "name": "Red Scarf",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Scarf"
@@ -24754,6 +26704,9 @@
   "RED_TENT": {
     "name": "Red Tent",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "RED_THORNLEAF_TEA": {
+    "name": "Red Thornleaf Tea"
   },
   "REFINED_AMBER": {
     "name": "Refined Amber",
@@ -24846,6 +26799,65 @@
   },
   "REJUVENATE;5": {
     "name": "Rejuvenate V"
+  },
+  "REKINDLED_EMBER_BOOTS": {
+    "name": "Rekindled Ember Boots",
+    "recipe": {
+      "A1": "REKINDLED_EMBER_FRAGMENT:1",
+      "A2": "",
+      "A3": "REKINDLED_EMBER_FRAGMENT:1",
+      "B1": "REKINDLED_EMBER_FRAGMENT:1",
+      "B2": "",
+      "B3": "REKINDLED_EMBER_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "REKINDLED_EMBER_CHESTPLATE": {
+    "name": "Rekindled Ember Chestplate",
+    "recipe": {
+      "A1": "REKINDLED_EMBER_FRAGMENT:1",
+      "A2": "",
+      "A3": "REKINDLED_EMBER_FRAGMENT:1",
+      "B1": "REKINDLED_EMBER_FRAGMENT:1",
+      "B2": "REKINDLED_EMBER_FRAGMENT:1",
+      "B3": "REKINDLED_EMBER_FRAGMENT:1",
+      "C1": "REKINDLED_EMBER_FRAGMENT:1",
+      "C2": "REKINDLED_EMBER_FRAGMENT:1",
+      "C3": "REKINDLED_EMBER_FRAGMENT:1"
+    }
+  },
+  "REKINDLED_EMBER_FRAGMENT": {
+    "name": "Rekindled Ember Fragment"
+  },
+  "REKINDLED_EMBER_HELMET": {
+    "name": "Rekindled Ember Helmet",
+    "recipe": {
+      "A1": "REKINDLED_EMBER_FRAGMENT:1",
+      "A2": "REKINDLED_EMBER_FRAGMENT:1",
+      "A3": "REKINDLED_EMBER_FRAGMENT:1",
+      "B1": "REKINDLED_EMBER_FRAGMENT:1",
+      "B2": "",
+      "B3": "REKINDLED_EMBER_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "REKINDLED_EMBER_LEGGINGS": {
+    "name": "Rekindled Ember Leggings",
+    "recipe": {
+      "A1": "REKINDLED_EMBER_FRAGMENT:1",
+      "A2": "REKINDLED_EMBER_FRAGMENT:1",
+      "A3": "REKINDLED_EMBER_FRAGMENT:1",
+      "B1": "REKINDLED_EMBER_FRAGMENT:1",
+      "B2": "",
+      "B3": "REKINDLED_EMBER_FRAGMENT:1",
+      "C1": "REKINDLED_EMBER_FRAGMENT:1",
+      "C2": "",
+      "C3": "REKINDLED_EMBER_FRAGMENT:1"
+    }
   },
   "REMNANT_OF_THE_EYE": {
     "name": "Remnant of the Eye",
@@ -25853,6 +27865,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scarf%27s_Thesis"
   },
+  "SCARLETON_PREMIUM": {
+    "name": "Scarleton Premium"
+  },
   "SCATHA;0": {
     "name": "Common Scatha",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
@@ -25903,6 +27918,9 @@
     "name": "Scavenger Talisman",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scavenger_Talisman"
   },
+  "SCORNCLAW_BREW": {
+    "name": "Scornclaw Brew"
+  },
   "SCORPION_BOW": {
     "name": "Scorpion Bow",
     "recipe": {
@@ -25932,6 +27950,34 @@
       "C3": "TARANTULA_SILK:4"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorpion_Foil"
+  },
+  "SCOURGE_CLOAK": {
+    "name": "Scourge Cloak",
+    "recipe": {
+      "A1": "MUTATED_BLAZE_ASHES:5",
+      "A2": "COMPACT_OOZE:",
+      "A3": "MUTATED_BLAZE_ASHES:5",
+      "B1": "COMPACT_OOZE:",
+      "B2": "REKINDLED_EMBER_FRAGMENT:5",
+      "B3": "COMPACT_OOZE:",
+      "C1": "MUTATED_BLAZE_ASHES:5",
+      "C2": "COMPACT_OOZE:5",
+      "C3": "MUTATED_BLAZE_ASHES:5"
+    }
+  },
+  "SCOVILLE_BELT": {
+    "name": "Scoville Belt",
+    "recipe": {
+      "A1": "COMPACT_OOZE:5",
+      "A2": "",
+      "A3": "COMPACT_OOZE:5",
+      "B1": "COMPACT_OOZE:5",
+      "B2": "REKINDLED_EMBER_FRAGMENT:5",
+      "B3": "COMPACT_OOZE:5",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
   },
   "SCULPTORS_AXE": {
     "name": "Sculptor\u0027s Axe",
@@ -25970,6 +28016,20 @@
   "SEAL_OF_THE_FAMILY": {
     "name": "Seal of the Family",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Seal_of_the_Family"
+  },
+  "SEARING_STONE": {
+    "name": "Searing Stone",
+    "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:10",
+      "A2": "ENCHANTED_MAGMA_CREAM:10",
+      "A3": "ENCHANTED_MAGMA_CREAM:10",
+      "B1": "ENCHANTED_MAGMA_CREAM:10",
+      "B2": "MAGMA_CHUNK:50",
+      "B3": "ENCHANTED_MAGMA_CREAM:10",
+      "C1": "ENCHANTED_NETHERRACK:10",
+      "C2": "ENCHANTED_NETHERRACK:10",
+      "C3": "ENCHANTED_NETHERRACK:10"
+    }
   },
   "SEA_CREATURE_ARTIFACT": {
     "name": "Sea Creature Artifact",
@@ -26525,6 +28585,62 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
   },
+  "SHIMMERING_LIGHT_HOOD": {
+    "name": "Shimmering Light Hood",
+    "recipe": {
+      "A1": "X:50",
+      "A2": "X:50",
+      "A3": "X:50",
+      "B1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B2": "",
+      "B3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "SHIMMERING_LIGHT_SLIPPERS": {
+    "name": "Shimmering Light Slippers",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "X:50",
+      "B2": "",
+      "B3": "X:50",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "SHIMMERING_LIGHT_TROUSERS": {
+    "name": "Shimmering Light Trousers",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "Y:30",
+      "B2": "Z:10",
+      "B3": "Y:30",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:1"
+    }
+  },
+  "SHIMMERING_LIGHT_TUNIC": {
+    "name": "Shimmering Light Tunic",
+    "recipe": {
+      "A1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "A2": "",
+      "A3": "ENCHANTED_MYCELIUM_CUBE:1",
+      "B1": "Y:30",
+      "B2": "Z:10",
+      "B3": "Y:30",
+      "C1": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C3": "ENCHANTED_MYCELIUM_CUBE:1"
+    }
+  },
   "SHINY_ORB": {
     "name": "Shiny Orb",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shiny_Orb"
@@ -26847,6 +28963,9 @@
       "C3": "ENCHANTED_BONE:16"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
+  },
+  "SKELETON_FISH_BRONZE": {
+    "name": "Skeleton Fish BRONZE"
   },
   "SKELETON_GENERATOR_1": {
     "name": "Skeleton Minion I",
@@ -27404,6 +29523,9 @@
     "name": "Sludge Juice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sludge_Juice"
   },
+  "SLUG_BOOTS": {
+    "name": "Slug Boots"
+  },
   "SMALL_AGRONOMY_SACK": {
     "name": "Small Agronomy Sack",
     "recipe": {
@@ -27524,6 +29646,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Husbandry_Sack"
   },
+  "SMALL_LAVA_FISHING_SACK": {
+    "name": "Small Lava Fishing Sack",
+    "recipe": {
+      "A1": "MAGMA_FISH_SILVER:1",
+      "A2": "MAGMA_FISH_SILVER:1",
+      "A3": "MAGMA_FISH_SILVER:1",
+      "B1": "MAGMA_FISH_SILVER:1",
+      "B2": "ENCHANTED_LEATHER:1",
+      "B3": "MAGMA_FISH_SILVER:1",
+      "C1": "MAGMA_FISH_SILVER:1",
+      "C2": "MAGMA_FISH_SILVER:1",
+      "C3": "MAGMA_FISH_SILVER:1"
+    }
+  },
   "SMALL_MINING_SACK": {
     "name": "Small Mining Sack",
     "recipe": {
@@ -27538,6 +29674,20 @@
       "C3": "ENCHANTED_COAL:2"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mining_Sack"
+  },
+  "SMALL_NETHER_SACK": {
+    "name": "Small Nether Sack",
+    "recipe": {
+      "A1": "ENCHANTED_SULPHUR:1",
+      "A2": "ENCHANTED_SULPHUR:1",
+      "A3": "ENCHANTED_SULPHUR:1",
+      "B1": "ENCHANTED_SULPHUR:1",
+      "B2": "KADA_LEAD:20",
+      "B3": "ENCHANTED_SULPHUR:1",
+      "C1": "ENCHANTED_SULPHUR:1",
+      "C2": "ENCHANTED_SULPHUR:1",
+      "C3": "ENCHANTED_SULPHUR:1"
+    }
   },
   "SMALL_SHELVES": {
     "name": "Small Shelves",
@@ -28171,6 +30321,9 @@
       "C3": "GOLD_NUGGET:1"
     }
   },
+  "SPECTRE_DUST": {
+    "name": "Spectre Dust"
+  },
   "SPEED": {
     "name": "Speed Potion"
   },
@@ -28353,6 +30506,9 @@
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Maxor%27s_Armor"
+  },
+  "SPELL_POWDER": {
+    "name": "Spell Powder"
   },
   "SPIDER;0": {
     "name": "Common Spider",
@@ -29224,6 +31380,9 @@
   "STACKED_PUMPKINS": {
     "name": "Stacked Pumpkins",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "STAFF_OF_THE_VOLCANO": {
+    "name": "Staff of the Volcano"
   },
   "STAINED_CLAY:1": {
     "name": "Orange Stained Clay",
@@ -30147,6 +32306,9 @@
       "C3": "SOUL_STRING:50"
     }
   },
+  "STARTER_LAVA_ROD": {
+    "name": "Starter Lava Rod"
+  },
   "STAR_DECORATIONS": {
     "name": "Star Decorations",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decorations"
@@ -30156,6 +32318,9 @@
   },
   "STATIONARY_WATER": {
     "name": "Water"
+  },
+  "STEAMING_HOT_FLOUNDER_BRONZE": {
+    "name": "Steaming-Hot Flounder BRONZE"
   },
   "STEEL_CHESTPLATE": {
     "name": "Steel Chestplate",
@@ -30813,6 +32978,37 @@
   "SULPHUR": {
     "name": "Gunpowder"
   },
+  "SULPHURIC_COAL": {
+    "name": "Sulphuric Coal",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_COAL:1",
+      "A3": "",
+      "B1": "ENCHANTED_COAL:1",
+      "B2": "ENCHANTED_SULPHUR:1",
+      "B3": "ENCHANTED_COAL:1",
+      "C1": "",
+      "C2": "ENCHANTED_COAL:1",
+      "C3": ""
+    }
+  },
+  "SULPHUR_BOW": {
+    "name": "Sulphur Bow",
+    "recipe": {
+      "A1": "ENCHANTED_STRING:50",
+      "A2": "ENCHANTED_SULPHUR:50",
+      "A3": "",
+      "B1": "ENCHANTED_STRING:50",
+      "B2": "",
+      "B3": "BEZOS:50",
+      "C1": "ENCHANTED_STRING:50",
+      "C2": "ENCHANTED_SULPHUR:50",
+      "C3": ""
+    }
+  },
+  "SULPHUR_ORE": {
+    "name": "Sulphur"
+  },
   "SUMMONING_EYE": {
     "name": "Summoning Eye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Summoning_Eye"
@@ -30996,6 +33192,20 @@
     "name": "Survivor Cube",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Survivor_Cube"
   },
+  "SUSPICIOUS_STEW": {
+    "name": "Suspicious Stew",
+    "recipe": {
+      "A1": "BROWN_MUSHROOM:1",
+      "A2": "",
+      "A3": "",
+      "B1": "BURNING_EYE:1",
+      "B2": "MYCEL:1",
+      "B3": "SPECTRE_DUST:1",
+      "C1": "",
+      "C2": "BOWL:1",
+      "C3": ""
+    }
+  },
   "SUSPICIOUS_VIAL": {
     "name": "Suspicious Vial",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Suspicious_Vial"
@@ -31007,6 +33217,9 @@
   "SWEET_FLESH": {
     "name": "Sweet Flesh",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sweet_Flesh"
+  },
+  "SWORD_OF_BAD_HEALTH": {
+    "name": "Sword of Bad Health"
   },
   "SWORD_OF_REVELATIONS": {
     "name": "Sword of Revelations",
@@ -31022,6 +33235,9 @@
       "C3": "GRIFFIN_FEATHER:32"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sword_of_Revelations"
+  },
+  "SYNTHESIZER_V1": {
+    "name": "Synthesizer v1"
   },
   "SYNTHETIC_HEART": {
     "name": "Synthetic Heart"
@@ -31444,12 +33660,18 @@
     "name": "Tarantula Web",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Web"
   },
+  "TAURUS_HELMET": {
+    "name": "Taurus Helmet"
+  },
   "TELEKINESIS;1": {
     "name": "Telekinesis I"
   },
   "TELEPORT_PAD": {
     "name": "Teleport Pad",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Teleport_Pad"
+  },
+  "TENTACLE_MEAT": {
+    "name": "Tentacle Meat"
   },
   "TEPID_GREEN_TEA": {
     "name": "Tepid Green Tea",
@@ -31469,6 +33691,18 @@
       "C3": "TARANTULA_SILK:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Terminator"
+  },
+  "TERROR_BOOTS": {
+    "name": "Terror Boots"
+  },
+  "TERROR_CHESTPLATE": {
+    "name": "Terror Chestplate"
+  },
+  "TERROR_HELMET": {
+    "name": "Terror Helmet"
+  },
+  "TERROR_LEGGINGS": {
+    "name": "Terror Leggings"
   },
   "TESSELLATED_ENDER_PEARL": {
     "name": "Tesselated Ender Pearl",
@@ -31818,6 +34052,79 @@
   "THUNDERLORD;7": {
     "name": "Thunderlord VII"
   },
+  "THUNDER_BOOTS": {
+    "name": "Thunder Boots",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "THUNDER_SHARD:1",
+      "B2": "",
+      "B3": "THUNDER_SHARD:1",
+      "C1": "THUNDER_SHARD:1",
+      "C2": "",
+      "C3": "THUNDER_SHARD:1"
+    }
+  },
+  "THUNDER_CHESTPLATE": {
+    "name": "Thunder Chestplate",
+    "recipe": {
+      "A1": "THUNDER_SHARD:1",
+      "A2": "",
+      "A3": "THUNDER_SHARD:1",
+      "B1": "THUNDER_SHARD:1",
+      "B2": "THUNDER_SHARD:1",
+      "B3": "THUNDER_SHARD:1",
+      "C1": "THUNDER_SHARD:1",
+      "C2": "THUNDER_SHARD:1",
+      "C3": "THUNDER_SHARD:1"
+    }
+  },
+  "THUNDER_HELMET": {
+    "name": "Thunder Helmet",
+    "recipe": {
+      "A1": "THUNDER_SHARD:1",
+      "A2": "THUNDER_SHARD:1",
+      "A3": "THUNDER_SHARD:1",
+      "B1": "THUNDER_SHARD:1",
+      "B2": "",
+      "B3": "THUNDER_SHARD:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "THUNDER_IN_A_BOTTLE_EMPTY": {
+    "name": "Empty Thunder Bottle",
+    "recipe": {
+      "A1": "",
+      "A2": "ORB_OF_ENERGY:1",
+      "A3": "",
+      "B1": "ORB_OF_ENERGY:1",
+      "B2": "GLASS_BOTTLE:1",
+      "B3": "ORB_OF_ENERGY:1",
+      "C1": "",
+      "C2": "ORB_OF_ENERGY:1",
+      "C3": ""
+    }
+  },
+  "THUNDER_LEGGINGS": {
+    "name": "Thunder Leggings",
+    "recipe": {
+      "A1": "THUNDER_SHARD:1",
+      "A2": "THUNDER_SHARD:1",
+      "A3": "THUNDER_SHARD:1",
+      "B1": "THUNDER_SHARD:1",
+      "B2": "",
+      "B3": "THUNDER_SHARD:1",
+      "C1": "THUNDER_SHARD:1",
+      "C2": "",
+      "C3": "THUNDER_SHARD:1"
+    }
+  },
+  "THUNDER_SHARDS": {
+    "name": "Thunder Shards"
+  },
   "TIC_TAC_TOE": {
     "name": "Tic Tac Toe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tic_Tac_Toe"
@@ -31981,9 +34288,26 @@
       "C3": ""
     }
   },
+  "TOTEM_OF_CORRUPTION": {
+    "name": "Totem of Corruption",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:10",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_SULPHUR:10",
+      "B3": "",
+      "C1": "MAGMA_CHUNK:20",
+      "C2": "CORRUPTED_FRAGMENT:20",
+      "C3": "MAGMA_CHUNK:20"
+    }
+  },
   "TOXIC_ARROW_POISON": {
     "name": "Toxic Arrow Poison",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Toxic_Arrow_Poison"
+  },
+  "TOY": {
+    "name": "Toy"
   },
   "TRAINING_DUMMY": {
     "name": "Training Dummy",
@@ -32663,6 +34987,20 @@
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "UPGRADE_STONE_FROST": {
+    "name": "Wisp Upgrade Stone",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:4",
+      "A2": "INFERNO_VERETEX:1",
+      "A3": "MOLTEN_POWDER:4",
+      "B1": "INFERNO_VERETEX:1",
+      "B2": "KELVIN_INVERTER:1",
+      "B3": "INFERNO_VERETEX:1",
+      "C1": "MOLTEN_POWDER:4",
+      "C2": "INFERNO_VERETEX:1",
+      "C3": "MOLTEN_POWDER:4"
+    }
+  },
   "VACCINE_TALISMAN": {
     "name": "Vaccine Talisman",
     "recipe": {
@@ -32741,6 +35079,9 @@
   "VAMPIRISM;6": {
     "name": "Vampirism VI"
   },
+  "VANILLE_BRONZE": {
+    "name": "Vanille BRONZE"
+  },
   "VENOMOUS;1": {
     "name": "Venomous I"
   },
@@ -32808,6 +35149,9 @@
   },
   "VINE": {
     "name": "Vines"
+  },
+  "VITAMIN_DEATH": {
+    "name": "Vitamin Death"
   },
   "VOIDEDGE_KATANA": {
     "name": "Voidedge Katana",
@@ -33019,6 +35363,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
+  "VOLCANIC_STONEFISH_BRONZE": {
+    "name": "Volcanic Stonefish BRONZE"
+  },
   "VOLTA": {
     "name": "Volta",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Volta"
@@ -33113,6 +35460,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wand_of_Restoration"
   },
+  "WAND_OF_STRENGTH": {
+    "name": "Wand of Strength"
+  },
   "WARDEN_HEART": {
     "name": "Warden Heart",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Warden_Heart"
@@ -33131,6 +35481,20 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Warden_Helmet"
+  },
+  "WARNING_FLARE": {
+    "name": "Warning Flare",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:16",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:8",
+      "B3": "",
+      "C1": "",
+      "C2": "MOLTEN_POWDER:8",
+      "C3": ""
+    }
   },
   "WARTS_STEW": {
     "name": "Mushroom \u0026 Warts Stew",
@@ -33543,6 +35907,20 @@
     "name": "Wheat Crystal",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Floating_Crystals"
   },
+  "WHIPPED_MAGMA_CREAM": {
+    "name": "Whipped Magma Cream",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_MAGMA_CREAM:32",
+      "A3": "",
+      "B1": "ENCHANTED_MAGMA_CREAM:32",
+      "B2": "ENCHANTED_MAGMA_CREAM:32",
+      "B3": "ENCHANTED_MAGMA_CREAM:32",
+      "C1": "",
+      "C2": "ENCHANTED_MAGMA_CREAM:32",
+      "C3": ""
+    }
+  },
   "WHITE_GIFT": {
     "name": "White Gift",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/White_Gift"
@@ -33799,6 +36177,9 @@
       "C3": "ENCHANTED_COAL_BLOCK:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Skeleton_Pet"
+  },
+  "WITHER_SOUL": {
+    "name": "Wither Soul"
   },
   "WOLF;0": {
     "name": "Common Wolf",
@@ -34483,6 +36864,9 @@
   "WRITTEN_BOOK": {
     "name": "Written Book"
   },
+  "X": {
+    "name": "X"
+  },
   "XLARGE_ENCHANTED_CHEST": {
     "name": "X-Large Storage",
     "recipe": {
@@ -34512,6 +36896,9 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Chests"
+  },
+  "Y": {
+    "name": "Y"
   },
   "YELLOW_FLOWER": {
     "name": "Dandelion"
@@ -34613,6 +37000,9 @@
   "YOUNG_SHIMMER": {
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "Z": {
+    "name": "Z"
   },
   "ZOG_ANVIL": {
     "name": "Zog Anvil",
