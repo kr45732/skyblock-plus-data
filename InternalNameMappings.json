@@ -18,14 +18,29 @@
     "name": "Maddox\u0027s Phone Number",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Maddox\u0027s_Phone_Number"
   },
+  "ABIPHONE_XIII_PRO": {
+    "name": "Abiphone XIII Pro"
+  },
   "ABIPHONE_XIII_PRO_GIGA": {
     "name": "Abiphone XIII Pro Giga"
+  },
+  "ABIPHONE_XII_MEGA": {
+    "name": "Abiphone XII Mega"
   },
   "ABIPHONE_XII_MEGA_COLOR": {
     "name": "Abiphone XII Mega Color"
   },
+  "ABIPHONE_XI_ULTRA": {
+    "name": "Abiphone XI Ultra"
+  },
+  "ABIPHONE_XI_ULTRA_STYLE": {
+    "name": "Abiphone XI Ultra Style"
+  },
   "ABIPHONE_X_PLUS": {
     "name": "Abiphone X Plus"
+  },
+  "ABIPHONE_X_PLUS_SPECIAL_EDITION": {
+    "name": "Abiphone X Plus Special Edition"
   },
   "ABSOLUTE_ENDER_PEARL": {
     "name": "Absolute Ender Pearl",
@@ -332,7 +347,8 @@
     "name": "Dragon Tracer V"
   },
   "ALCHEMISTS_STAFF": {
-    "name": "The Alchemist\u0027s Staff"
+    "name": "The Alchemist\u0027s Staff",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/The_Alchemist\u0027s_Staff"
   },
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion"
@@ -432,7 +448,8 @@
       "C1": "ENCHANTED_RED_SAND_CUBE:1",
       "C2": "",
       "C3": "ENCHANTED_RED_SAND_CUBE:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ancient_Cloak"
   },
   "ANCIENT_ELEVATOR": {
     "name": "Ancient Elevator",
@@ -581,6 +598,10 @@
   },
   "ARCHERY": {
     "name": "Archery Potion"
+  },
+  "ARCHFIEND_DICE": {
+    "name": "Archfiend Dice",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Archfiend_Dice"
   },
   "ARMADILLO;0": {
     "name": "Common Armadillo",
@@ -776,7 +797,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrows"
   },
   "ARROW_BUNDLE_MAGMA": {
-    "name": "Bundle of Magma Arrows"
+    "name": "Bundle of Magma Arrows",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bundle_of_Magma_Arrows"
   },
   "ARROW_SWAPPER": {
     "name": "Arrow Swapper",
@@ -1768,7 +1790,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "BEZOS": {
-    "name": "Bezos"
+    "name": "Bezos",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bezos"
   },
   "BIGGER_TEETH": {
     "name": "Bigger Teeth",
@@ -2163,6 +2186,20 @@
   "BLAZE_ASHES": {
     "name": "Blaze Ashes"
   },
+  "BLAZE_BELT": {
+    "name": "Blaze Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_BLAZE_POWDER:3",
+      "B2": "",
+      "B3": "ENCHANTED_BLAZE_POWDER:3",
+      "C1": "ENCHANTED_BLAZE_POWDER:3",
+      "C2": "BLAZE_ASHES:25",
+      "C3": "ENCHANTED_BLAZE_POWDER:3"
+    }
+  },
   "BLAZE_BOOTS": {
     "name": "Blaze Boots",
     "recipe": {
@@ -2418,6 +2455,9 @@
   "BLAZE_ROD_DISTILLATE": {
     "name": "Blaze Rod Distillate"
   },
+  "BLAZE_WAX": {
+    "name": "Blaze Wax"
+  },
   "BLESSED_BAIT": {
     "name": "Blessed Bait",
     "recipe": {
@@ -2468,6 +2508,12 @@
   },
   "BLOBFISH_BRONZE": {
     "name": "Blobfish BRONZE"
+  },
+  "BLOBFISH_DIAMOND": {
+    "name": "Blobfish DIAMOND"
+  },
+  "BLOBFISH_GOLD": {
+    "name": "Blobfish GOLD"
   },
   "BLOBFISH_HAT": {
     "name": "Blobfish Hat",
@@ -3006,6 +3052,12 @@
   },
   "BURNING_TERROR_LEGGINGS": {
     "name": "Burning Terror Leggings"
+  },
+  "BURSTFIRE_DAGGER": {
+    "name": "Kindlebane Dagger"
+  },
+  "BURSTMAW_DAGGER": {
+    "name": "Mawdredge Dagger"
   },
   "BURSTSTOPPER_TALISMAN": {
     "name": "Burststopper Talisman",
@@ -4193,6 +4245,24 @@
   },
   "CHANCE;5": {
     "name": "Chance V"
+  },
+  "CHARM;1": {
+    "name": "Charm I"
+  },
+  "CHARM;2": {
+    "name": "Charm II"
+  },
+  "CHARM;3": {
+    "name": "Charm III"
+  },
+  "CHARM;4": {
+    "name": "Charm IV"
+  },
+  "CHARM;5": {
+    "name": "Charm V"
+  },
+  "CHARMINIZER": {
+    "name": "Charminizer"
   },
   "CHEAP_COFFEE": {
     "name": "Cheap Coffee",
@@ -5515,15 +5585,20 @@
       "A2": "",
       "A3": "",
       "B1": "CORRUPTED_FRAGMENT:1",
-      "B2": "MAGMAFISH:1",
+      "B2": "MAGMA_FISH:1",
       "B3": "",
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait"
   },
   "CORRUPTED_FRAGMENT": {
     "name": "Corrupted Fragment"
+  },
+  "CORRUPTED_NETHER_STAR": {
+    "name": "Nether Star",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Star_(disambiguation)"
   },
   "CORRUPT_SOIL": {
     "name": "Corrupt Soil",
@@ -7503,6 +7578,10 @@
     "name": "Dwarven Tankard",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decorations"
   },
+  "DYE_AQUAMARINE": {
+    "name": "Aquamarine Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
+  },
   "DYE_BONE": {
     "name": "Bone Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
@@ -7550,6 +7629,9 @@
   "EASTER_EGG_PERSONALITY": {
     "name": "Easter Egg Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "ECCENTRIC_PAINTING": {
+    "name": "Eccentric Painting"
   },
   "ECHOLOCATOR": {
     "name": "Echolocator",
@@ -11442,6 +11524,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
   },
+  "FINE_OPAL_GEM": {
+    "name": "❂ Fine Opal Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FLAWED_OPAL_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_OPAL_GEM:16",
+      "B2": "FLAWED_OPAL_GEM:16",
+      "B3": "FLAWED_OPAL_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_OPAL_GEM:16",
+      "C3": ""
+    }
+  },
   "FINE_RUBY_GEM": {
     "name": "❤ Fine Ruby Gemstone",
     "recipe": {
@@ -12038,6 +12134,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
   },
+  "FLAWED_OPAL_GEM": {
+    "name": "❂ Flawed Opal Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "ROUGH_OPAL_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_OPAL_GEM:16",
+      "B2": "ROUGH_OPAL_GEM:16",
+      "B3": "ROUGH_OPAL_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_OPAL_GEM:16",
+      "C3": ""
+    }
+  },
   "FLAWED_RUBY_GEM": {
     "name": "❤ Flawed Ruby Gemstone",
     "recipe": {
@@ -12142,6 +12252,20 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
+  },
+  "FLAWLESS_OPAL_GEM": {
+    "name": "❂ Flawless Opal Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FINE_OPAL_GEM:16",
+      "A3": "",
+      "B1": "FINE_OPAL_GEM:16",
+      "B2": "FINE_OPAL_GEM:16",
+      "B3": "FINE_OPAL_GEM:16",
+      "C1": "",
+      "C2": "FINE_OPAL_GEM:16",
+      "C3": ""
+    }
   },
   "FLAWLESS_RUBY_GEM": {
     "name": "❤ Flawless Ruby Gemstone",
@@ -12462,6 +12586,15 @@
   },
   "FLYFISH_BRONZE": {
     "name": "Flyfish BRONZE"
+  },
+  "FLYFISH_DIAMOND": {
+    "name": "Flyfish DIAMOND"
+  },
+  "FLYFISH_GOLD": {
+    "name": "Flyfish GOLD"
+  },
+  "FLYFISH_SILVER": {
+    "name": "Flyfish SILVER"
   },
   "FLYING_BATS": {
     "name": "Flying Bats",
@@ -12912,6 +13045,20 @@
   "GENERALS_HOPE_OF_THE_RESISTANCE": {
     "name": "Staff of the Rising Sun",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Staff_of_the_Rising_Sun"
+  },
+  "GHAST_CLOAK": {
+    "name": "Ghast Cloak",
+    "recipe": {
+      "A1": "ENCHANTED_GHAST_TEAR:32",
+      "A2": "TENTACLE_MEAT:10",
+      "A3": "ENCHANTED_GHAST_TEAR:32",
+      "B1": "ENCHANTED_GHAST_TEAR:32",
+      "B2": "",
+      "B3": "ENCHANTED_GHAST_TEAR:32",
+      "C1": "ENCHANTED_GHAST_TEAR:32",
+      "C2": "",
+      "C3": "ENCHANTED_GHAST_TEAR:32"
+    }
   },
   "GHAST_GENERATOR_1": {
     "name": "Ghast Minion I",
@@ -13611,6 +13758,18 @@
   "GOLDEN_DRAGON;4": {
     "name": "Legendary Golden Dragon",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Dragon_Pet"
+  },
+  "GOLDEN_FISH_BRONZE": {
+    "name": "Golden Fish BRONZE"
+  },
+  "GOLDEN_FISH_DIAMOND": {
+    "name": "Golden Fish DIAMOND"
+  },
+  "GOLDEN_FISH_GOLD": {
+    "name": "Golden Fish GOLD"
+  },
+  "GOLDEN_FISH_SILVER": {
+    "name": "Golden Fish SILVER"
   },
   "GOLDEN_PLATE": {
     "name": "Golden Plate",
@@ -14695,6 +14854,12 @@
   "GUSHER_BRONZE": {
     "name": "Gusher BRONZE"
   },
+  "GUSHER_DIAMOND": {
+    "name": "Gusher DIAMOND"
+  },
+  "GUSHER_GOLD": {
+    "name": "Gusher GOLD"
+  },
   "GUSHER_SILVER": {
     "name": "Gusher SILVER"
   },
@@ -15213,6 +15378,10 @@
     "name": "Heavy Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Heavy_Armor"
   },
+  "HEAVY_PEARL": {
+    "name": "Heavy Pearl",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Heavy_Pearl"
+  },
   "HEGEMONY_ARTIFACT": {
     "name": "Hegemony Artifact",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hegemony_Artifact"
@@ -15403,6 +15572,23 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "HORNS_OF_TORMENT": {
+    "name": "Horns of Torment",
+    "recipe": {
+      "A1": "ENCHANTED_MUTTON:24",
+      "A2": "ENCHANTED_MUTTON:24",
+      "A3": "ENCHANTED_MUTTON:24",
+      "B1": "ENCHANTED_MUTTON:24",
+      "B2": "HORN_OF_TAURUS:32",
+      "B3": "ENCHANTED_MUTTON:24",
+      "C1": "ENCHANTED_MUTTON:24",
+      "C2": "ENCHANTED_MUTTON:24",
+      "C3": "ENCHANTED_MUTTON:24"
+    }
+  },
+  "HORN_OF_TAURUS": {
+    "name": "Horn of Taurus"
   },
   "HORSE;0": {
     "name": "Common Horse",
@@ -17200,7 +17386,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jacob\u0027s_Ticket"
   },
   "JACOBUS_REGISTER": {
-    "name": "Jacobus Register"
+    "name": "Jacobus Register",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jacobus_Register"
   },
   "JADERALD": {
     "name": "Jaderald",
@@ -17765,6 +17952,9 @@
   "KRAMPUS_HELMET": {
     "name": "Krampus Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Krampus_Helmet"
+  },
+  "KUUDRA_MANDIBLE": {
+    "name": "Kuudra Mandible"
   },
   "KUUDRA_TIER_KEY": {
     "name": "Kuudra Key"
@@ -18376,7 +18566,13 @@
     "name": "Lava Bucket"
   },
   "LAVA_HORSE_BRONZE": {
-    "name": "Lava Horse BRONZE"
+    "name": "Lavahorse BRONZE"
+  },
+  "LAVA_HORSE_DIAMOND": {
+    "name": "Lavahorse DIAMOND"
+  },
+  "LAVA_HORSE_GOLD": {
+    "name": "Lavahorse GOLD"
   },
   "LAVA_HORSE_SILVER": {
     "name": "Lava Horse SILVER"
@@ -19345,6 +19541,9 @@
       "C3": "MAGMA_FISH_SILVER:5"
     }
   },
+  "MAGMA_URCHIN": {
+    "name": "Magma Urchin"
+  },
   "MAGNET;1": {
     "name": "Magnet I"
   },
@@ -19407,6 +19606,18 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mana_Flux_Power_Orb"
   },
+  "MANA_RAY_BRONZE": {
+    "name": "Mana Ray BRONZE"
+  },
+  "MANA_RAY_DIAMOND": {
+    "name": "Mana Ray DIAMOND"
+  },
+  "MANA_RAY_GOLD": {
+    "name": "Mana Ray GOLD"
+  },
+  "MANA_RAY_SILVER": {
+    "name": "Mana Ray SILVER"
+  },
   "MANA_STEAL;1": {
     "name": "Mana Steal I"
   },
@@ -19415,6 +19626,9 @@
   },
   "MANA_STEAL;3": {
     "name": "Mana Steal III"
+  },
+  "MANDRAA": {
+    "name": "Mandraa"
   },
   "MAP": {
     "name": "Empty Map",
@@ -20078,6 +20292,20 @@
     "name": "Metal Chestplate",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Metal_Chestplate"
   },
+  "METEOR_SHARD": {
+    "name": "Meteor Shard",
+    "recipe": {
+      "A1": "SILVER_FANG:10",
+      "A2": "STARFALL:5",
+      "A3": "SILVER_FANG:10",
+      "B1": "STARFALL:5",
+      "B2": "TENTACLE_MEAT:10",
+      "B3": "STARFALL:5",
+      "C1": "SILVER_FANG:10",
+      "C2": "STARFALL:5",
+      "C3": "SILVER_FANG:10"
+    }
+  },
   "MIDAS_JEWEL": {
     "name": "Midas Jewel",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Midas_Jewel"
@@ -20699,6 +20927,18 @@
     "name": "Moil Log",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Moil_Log"
   },
+  "MOLDFIN_BRONZE": {
+    "name": "Moldfin BRONZE"
+  },
+  "MOLDFIN_DIAMOND": {
+    "name": "Moldfin DIAMOND"
+  },
+  "MOLDFIN_GOLD": {
+    "name": "Moldfin GOLD"
+  },
+  "MOLDFIN_SILVER": {
+    "name": "Moldfin SILVER"
+  },
   "MOLTEN_BELT": {
     "name": "Molten Belt"
   },
@@ -20767,6 +21007,81 @@
   "MOON_CHUNK": {
     "name": "Chunk of the Moon",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chunk_of_the_Moon"
+  },
+  "MOOSHROOM_COW;0": {
+    "name": "Common Mooshroom Cow",
+    "recipe": {
+      "A1": "DIGESTED_MUSHROOMS:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "DIGESTED_MUSHROOMS:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "DIGESTED_MUSHROOMS:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "DIGESTED_MUSHROOMS:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
+  },
+  "MOOSHROOM_COW;1": {
+    "name": "Uncommon Mooshroom Cow",
+    "recipe": {
+      "A1": "DIGESTED_MUSHROOMS:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "DIGESTED_MUSHROOMS:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "DIGESTED_MUSHROOMS:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "DIGESTED_MUSHROOMS:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
+  },
+  "MOOSHROOM_COW;2": {
+    "name": "Rare Mooshroom Cow",
+    "recipe": {
+      "A1": "DIGESTED_MUSHROOMS:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "DIGESTED_MUSHROOMS:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "DIGESTED_MUSHROOMS:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "DIGESTED_MUSHROOMS:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
+  },
+  "MOOSHROOM_COW;3": {
+    "name": "Epic Mooshroom Cow",
+    "recipe": {
+      "A1": "DIGESTED_MUSHROOMS:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "DIGESTED_MUSHROOMS:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "SUPER_EGG:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "DIGESTED_MUSHROOMS:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "DIGESTED_MUSHROOMS:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
+  },
+  "MOOSHROOM_COW;4": {
+    "name": "Legendary Mooshroom Cow",
+    "recipe": {
+      "A1": "DIGESTED_MUSHROOMS:32",
+      "A2": "ENCHANTED_MYCELIUM:32",
+      "A3": "DIGESTED_MUSHROOMS:32",
+      "B1": "ENCHANTED_MYCELIUM:32",
+      "B2": "SUPER_EGG:1",
+      "B3": "ENCHANTED_MYCELIUM:32",
+      "C1": "DIGESTED_MUSHROOMS:32",
+      "C2": "ENCHANTED_MYCELIUM:32",
+      "C3": "DIGESTED_MUSHROOMS:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOSQUITO_BOW": {
     "name": "Mosquito Bow",
@@ -21080,6 +21395,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "MUSHROOM_SPORE": {
+    "name": "Mushroom Spore"
   },
   "MUSIC_PANTS": {
     "name": "Stereo Pants",
@@ -21931,6 +22249,12 @@
   },
   "OBFUSCATED_FISH_1_BRONZE": {
     "name": "Obfuscated 1 BRONZE"
+  },
+  "OBFUSCATED_FISH_1_DIAMOND": {
+    "name": "Obfuscated 1 DIAMOND"
+  },
+  "OBFUSCATED_FISH_1_GOLD": {
+    "name": "Obfuscated 1 GOLD"
   },
   "OBFUSCATED_FISH_1_SILVER": {
     "name": "Obfuscated 1 SILVER"
@@ -23168,6 +23492,9 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Perfect_Armor"
+  },
+  "PERFECT_OPAL_GEM": {
+    "name": "❂ Perfect Opal Gemstone"
   },
   "PERFECT_RUBY_GEM": {
     "name": "❤ Perfect Ruby Gemstone",
@@ -24666,6 +24993,9 @@
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Armor"
+  },
+  "PRECIOUS_PEARL": {
+    "name": "Precious Pearl"
   },
   "PRECURSOR_EYE": {
     "name": "Precursor Eye",
@@ -26705,6 +27035,9 @@
     "name": "Red Tent",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "RED_THORNLEAF": {
+    "name": "Red Thornleaf"
+  },
   "RED_THORNLEAF_TEA": {
     "name": "Red Thornleaf Tea"
   },
@@ -27371,6 +27704,9 @@
   "ROUGH_JASPER_GEM": {
     "name": "❁ Rough Jasper Gemstone",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
+  },
+  "ROUGH_OPAL_GEM": {
+    "name": "❂ Rough Opal Gemstone"
   },
   "ROUGH_RUBY_GEM": {
     "name": "❤ Rough Ruby Gemstone",
@@ -28645,6 +28981,9 @@
     "name": "Shiny Orb",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shiny_Orb"
   },
+  "SHINY_PRISM": {
+    "name": "Shiny Prism"
+  },
   "SHINY_RELIC": {
     "name": "Shiny Relic #1-7",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shiny_Relic"
@@ -28966,6 +29305,15 @@
   },
   "SKELETON_FISH_BRONZE": {
     "name": "Skeleton Fish BRONZE"
+  },
+  "SKELETON_FISH_DIAMOND": {
+    "name": "Skeleton Fish DIAMOND"
+  },
+  "SKELETON_FISH_GOLD": {
+    "name": "Skeleton Fish GOLD"
+  },
+  "SKELETON_FISH_SILVER": {
+    "name": "Skeleton Fish SILVER"
   },
   "SKELETON_GENERATOR_1": {
     "name": "Skeleton Minion I",
@@ -29523,6 +29871,18 @@
     "name": "Sludge Juice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sludge_Juice"
   },
+  "SLUGFISH_BRONZE": {
+    "name": "Slugfish BRONZE"
+  },
+  "SLUGFISH_DIAMOND": {
+    "name": "Slugfish DIAMOND"
+  },
+  "SLUGFISH_GOLD": {
+    "name": "Slugfish GOLD"
+  },
+  "SLUGFISH_SILVER": {
+    "name": "Slugfish SILVER"
+  },
   "SLUG_BOOTS": {
     "name": "Slug Boots"
   },
@@ -29828,6 +30188,81 @@
       "C2": "SMOOTH_BRICK:1",
       "C3": "SMOOTH_BRICK:1"
     }
+  },
+  "SNAIL;0": {
+    "name": "Common Snail",
+    "recipe": {
+      "A1": "BURNING_EYE:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "BURNING_EYE:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "BURNING_EYE:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "BURNING_EYE:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
+  },
+  "SNAIL;1": {
+    "name": "Uncommon Snail",
+    "recipe": {
+      "A1": "BURNING_EYE:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "BURNING_EYE:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "BURNING_EYE:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "BURNING_EYE:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
+  },
+  "SNAIL;2": {
+    "name": "Rare Snail",
+    "recipe": {
+      "A1": "BURNING_EYE:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "BURNING_EYE:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "ENCHANTED_EGG:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "BURNING_EYE:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "BURNING_EYE:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
+  },
+  "SNAIL;3": {
+    "name": "Epic Snail",
+    "recipe": {
+      "A1": "BURNING_EYE:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "BURNING_EYE:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "SUPER_EGG:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "BURNING_EYE:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "BURNING_EYE:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
+  },
+  "SNAIL;4": {
+    "name": "Legendary Snail",
+    "recipe": {
+      "A1": "BURNING_EYE:32",
+      "A2": "ENCHANTED_RED_SAND:32",
+      "A3": "BURNING_EYE:32",
+      "B1": "ENCHANTED_RED_SAND:32",
+      "B2": "SUPER_EGG:1",
+      "B3": "ENCHANTED_RED_SAND:32",
+      "C1": "BURNING_EYE:32",
+      "C2": "ENCHANTED_RED_SAND:32",
+      "C3": "BURNING_EYE:32"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
   },
   "SNIPE;1": {
     "name": "Snipe I"
@@ -30280,6 +30715,15 @@
       "C3": "NULL_OVOID:2"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Soul_Esoward"
+  },
+  "SOUL_FISH_BRONZE": {
+    "name": "Soul Fish BRONZE"
+  },
+  "SOUL_FISH_GOLD": {
+    "name": "Soul Fish GOLD"
+  },
+  "SOUL_FISH_SILVER": {
+    "name": "Soul Fish SILVER"
   },
   "SOUL_FRAGMENT": {
     "name": "Soul Fragment",
@@ -32322,6 +32766,12 @@
   "STEAMING_HOT_FLOUNDER_BRONZE": {
     "name": "Steaming-Hot Flounder BRONZE"
   },
+  "STEAMING_HOT_FLOUNDER_GOLD": {
+    "name": "Steaming-Hot Flounder GOLD"
+  },
+  "STEAMING_HOT_FLOUNDER_SILVER": {
+    "name": "Steaming-Hot Flounder SILVER"
+  },
   "STEEL_CHESTPLATE": {
     "name": "Steel Chestplate",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Steel_Chestplate"
@@ -33008,6 +33458,15 @@
   },
   "SULPHUR_ORE": {
     "name": "Sulphur"
+  },
+  "SULPHUR_SKITTER_BRONZE": {
+    "name": "Sulphur Skitter BRONZE"
+  },
+  "SULPHUR_SKITTER_GOLD": {
+    "name": "Sulphur Skitter GOLD"
+  },
+  "SULPHUR_SKITTER_SILVER": {
+    "name": "Sulphur Skitter SILVER"
   },
   "SUMMONING_EYE": {
     "name": "Summoning Eye",
@@ -34799,6 +35258,9 @@
     "name": "One For All I",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   },
+  "ULTIMATE_REITERATE;1": {
+    "name": "Duplex I"
+  },
   "ULTIMATE_REND;1": {
     "name": "Rend I",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
@@ -35081,6 +35543,38 @@
   },
   "VANILLE_BRONZE": {
     "name": "Vanille BRONZE"
+  },
+  "VANILLE_DIAMOND": {
+    "name": "Vanille DIAMOND"
+  },
+  "VANILLE_GOLD": {
+    "name": "Vanille GOLD"
+  },
+  "VANILLE_SILVER": {
+    "name": "Vanille SILVER"
+  },
+  "VANQUISHED_BLAZE_BELT": {
+    "name": "Vanquished Blaze Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_BLAZE_ROD:1",
+      "B2": "BLAZE_BELT:1",
+      "B3": "ENCHANTED_BLAZE_ROD:1",
+      "C1": "CORRUPTED_NETHER_STAR:1",
+      "C2": "CORRUPTED_NETHER_STAR:1",
+      "C3": "CORRUPTED_NETHER_STAR:1"
+    }
+  },
+  "VANQUISHED_GHAST_CLOAK": {
+    "name": "Vanquished Ghast Cloak"
+  },
+  "VANQUISHED_GLOWSTONE_GAUNTLET": {
+    "name": "Vanquished Glowstone Gauntlet"
+  },
+  "VANQUISHED_MAGMA_NECKLACE": {
+    "name": "Vanquished Magma Necklace"
   },
   "VENOMOUS;1": {
     "name": "Venomous I"
@@ -35365,6 +35859,15 @@
   },
   "VOLCANIC_STONEFISH_BRONZE": {
     "name": "Volcanic Stonefish BRONZE"
+  },
+  "VOLCANIC_STONEFISH_DIAMOND": {
+    "name": "Volcanic Stonefish DIAMOND"
+  },
+  "VOLCANIC_STONEFISH_GOLD": {
+    "name": "Volcanic Stonefish GOLD"
+  },
+  "VOLCANIC_STONEFISH_SILVER": {
+    "name": "Volcanic Stonefish SILVER"
   },
   "VOLTA": {
     "name": "Volta",
