@@ -2455,6 +2455,20 @@
   "BLAZE_ROD_DISTILLATE": {
     "name": "Blaze Rod Distillate"
   },
+  "BLAZE_TALISMAN": {
+    "name": "Blaze Talisman",
+    "recipe": {
+      "A1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "A2": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "A3": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "B1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "B2": "ENCHANTED_BLAZE_ROD:8",
+      "B3": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C1": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C2": "MILLENIA_OLD_BLAZE_ASHES:1",
+      "C3": "MILLENIA_OLD_BLAZE_ASHES:1"
+    }
+  },
   "BLAZE_WAX": {
     "name": "Blaze Wax"
   },
@@ -3054,10 +3068,32 @@
     "name": "Burning Terror Leggings"
   },
   "BURSTFIRE_DAGGER": {
-    "name": "Kindlebane Dagger"
+    "name": "Kindlebane Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_GOLD:1",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "FIREDUST_DAGGER:1",
+      "C3": ""
+    }
   },
   "BURSTMAW_DAGGER": {
-    "name": "Mawdredge Dagger"
+    "name": "Mawdredge Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR_CUBE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:1",
+      "B3": "",
+      "C1": "",
+      "C2": "MAWDUST_DAGGER:1",
+      "C3": ""
+    }
   },
   "BURSTSTOPPER_TALISMAN": {
     "name": "Burststopper Talisman",
@@ -6296,7 +6332,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Portals"
   },
   "DANGER_2_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to Blazing Fortress",
+    "name": "Travel Scroll to Crimson Isle",
     "recipe": {
       "A1": "ENCHANTED_GLOWSTONE_DUST:16",
       "A2": "ENCHANTED_GLOWSTONE_DUST:16",
@@ -6708,6 +6744,20 @@
       "C1": "",
       "C2": "REKINDLED_EMBER_FRAGMENT:5",
       "C3": ""
+    }
+  },
+  "DEMONLORD_GAUNTLET": {
+    "name": "Demonslayer Gauntlet",
+    "recipe": {
+      "A1": "ENCHANTED_GLOWSTONE:32",
+      "A2": "",
+      "A3": "ENCHANTED_GLOWSTONE:32",
+      "B1": "MOLTEN_POWDER:32",
+      "B2": "MOLTEN_POWDER:32",
+      "B3": "MOLTEN_POWDER:32",
+      "C1": "ENCHANTED_RABBIT_HIDE:32",
+      "C2": "ENCHANTED_RABBIT_HIDE:32",
+      "C3": "ENCHANTED_RABBIT_HIDE:32"
     }
   },
   "DEPTH_STRIDER;1": {
@@ -11601,7 +11651,7 @@
     "name": "Firedust Dagger",
     "recipe": {
       "A1": "",
-      "A2": "MAGMA_SILVER_FISH:32",
+      "A2": "MAGMA_FISH_SILVER:32",
       "A3": "",
       "B1": "",
       "B2": "MOLTEN_POWDER:1",
@@ -12784,6 +12834,9 @@
   },
   "FRAIL;6": {
     "name": "Frail VI"
+  },
+  "FRAMED_VOLCANIC_STONEFISH": {
+    "name": "Framed Volcanic Stonefish"
   },
   "FREE_COOKIE": {
     "name": "Booster Cookie (FREE)"
@@ -20321,6 +20374,9 @@
   "MILK_BUCKET": {
     "name": "Milk"
   },
+  "MILLENIA_OLD_BLAZE_ASHES": {
+    "name": "Millenia-Old Blaze Ashes"
+  },
   "MIMIC_FRAGMENT": {
     "name": "Mimic Fragment",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mimic_Fragment"
@@ -21742,7 +21798,7 @@
     }
   },
   "NETHER_FORTRESS_BOSS_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to Magma Fields",
+    "name": "Dusty Travel Scroll to the Kuudra Skull",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
   "NETHER_STALK": {
@@ -30133,6 +30189,23 @@
   "SMITE;7": {
     "name": "Smite VII"
   },
+  "SMOLDERING;1": {
+    "name": "Smoldering I"
+  },
+  "SMOLDERING_CHAMBERS_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Smoldering Tomb",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:8",
+      "A2": "INFERNO_VERTEX:1",
+      "A3": "MOLTEN_POWDER:8",
+      "B1": "INFERNO_VERTEX:1",
+      "B2": "MAGMA_FISH_GOLD",
+      "B3": "INFERNO_VERTEX:1",
+      "C1": "MOLTEN_POWDER:8",
+      "C2": "INFERNO_VERTEX:1",
+      "C3": "MOLTEN_POWDER:8"
+    }
+  },
   "SMOOTH_BRICK:1": {
     "name": "Mossy Stone Bricks",
     "recipe": {
@@ -31521,6 +31594,9 @@
   "SPOOK_THE_FISH": {
     "name": "Spook the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spook_the_Fish"
+  },
+  "SPORE_HARVESTER": {
+    "name": "Spore Harvester"
   },
   "SPRAY_CAN": {
     "name": "Spray Can",
@@ -34125,6 +34201,20 @@
   "TELEKINESIS;1": {
     "name": "Telekinesis I"
   },
+  "TELEPORTER_PILL": {
+    "name": "Teleporter Pill",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:1",
+      "A2": "ENCHANTED_CAKE:64",
+      "A3": "MOLTEN_POWDER:1",
+      "B1": "INFERNO_VERTEX:1",
+      "B2": "TELEPORT_PAD:64",
+      "B3": "INFERNO_VERTEX:1",
+      "C1": "MOLTEN_POWDER:1",
+      "C2": "ENCHANTED_CAKE:64",
+      "C3": "MOLTEN_POWDER:1"
+    }
+  },
   "TELEPORT_PAD": {
     "name": "Teleport Pad",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Teleport_Pad"
@@ -35453,13 +35543,13 @@
     "name": "Wisp Upgrade Stone",
     "recipe": {
       "A1": "MOLTEN_POWDER:4",
-      "A2": "INFERNO_VERETEX:1",
+      "A2": "INFERNO_VERTEX:1",
       "A3": "MOLTEN_POWDER:4",
-      "B1": "INFERNO_VERETEX:1",
+      "B1": "INFERNO_VERTEX:1",
       "B2": "KELVIN_INVERTER:1",
-      "B3": "INFERNO_VERETEX:1",
+      "B3": "INFERNO_VERTEX:1",
       "C1": "MOLTEN_POWDER:4",
-      "C2": "INFERNO_VERETEX:1",
+      "C2": "INFERNO_VERTEX:1",
       "C3": "MOLTEN_POWDER:4"
     }
   },
