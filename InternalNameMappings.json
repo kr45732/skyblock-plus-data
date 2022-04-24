@@ -2867,6 +2867,18 @@
     "name": "Broken Piggy Bank",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Piggy_Bank"
   },
+  "BRONZE_HUNTER_BOOTS": {
+    "name": "Bronze Hunter Boots"
+  },
+  "BRONZE_HUNTER_CHESTPLATE": {
+    "name": "Bronze Hunter Chestplate"
+  },
+  "BRONZE_HUNTER_HELMET": {
+    "name": "Bronze Hunter Helmet"
+  },
+  "BRONZE_HUNTER_LEGGINGS": {
+    "name": "Bronze Hunter Leggings"
+  },
   "BROWN_MUSHROOM": {
     "name": "Mushroom",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mushroom"
@@ -7161,6 +7173,18 @@
       "C2": "STICK:1",
       "C3": ""
     }
+  },
+  "DIAMOND_HUNTER_BOOTS": {
+    "name": "Diamond Hunter Boots"
+  },
+  "DIAMOND_HUNTER_CHESTPLATE": {
+    "name": "Diamond Hunter Chestplate"
+  },
+  "DIAMOND_HUNTER_HELMET": {
+    "name": "Diamond Hunter Helmet"
+  },
+  "DIAMOND_HUNTER_LEGGINGS": {
+    "name": "Diamond Hunter Leggings"
   },
   "DIAMOND_LEGGINGS": {
     "name": "Diamond Leggings",
@@ -14224,6 +14248,18 @@
       "C3": ""
     }
   },
+  "GOLD_HUNTER_BOOTS": {
+    "name": "Gold Hunter Boots"
+  },
+  "GOLD_HUNTER_CHESTPLATE": {
+    "name": "Gold Hunter Chestplate"
+  },
+  "GOLD_HUNTER_HELMET": {
+    "name": "Gold Hunter Helmet"
+  },
+  "GOLD_HUNTER_LEGGINGS": {
+    "name": "Gold Hunter Leggings"
+  },
   "GOLD_INGOT": {
     "name": "Gold Ingot",
     "recipe": {
@@ -15854,7 +15890,7 @@
       "A2": "",
       "A3": "",
       "B1": "BLAZE_ASHES:1",
-      "B2": "MAGMAFISH:1",
+      "B2": "MAGMA_FISH:1",
       "B3": "",
       "C1": "",
       "C2": "",
@@ -16570,7 +16606,8 @@
       "C1": "MOLTEN_POWDER:64",
       "C2": "INFERNO_VERTEX:12",
       "C3": "MOLTEN_POWDER:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_11": {
     "name": "Inferno Minion XI",
@@ -16584,7 +16621,8 @@
       "C1": "MOLTEN_POWDER:64",
       "C2": "INFERNO_GENERATOR_8:1",
       "C3": "MOLTEN_POWDER:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_2": {
     "name": "Inferno Minion II",
@@ -16612,7 +16650,8 @@
       "C1": "MOLTEN_POWDER:1",
       "C2": "MOLTEN_POWDER:1",
       "C3": "MOLTEN_POWDER:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_4": {
     "name": "Inferno Minion IV",
@@ -16626,7 +16665,8 @@
       "C1": "MOLTEN_POWDER:2",
       "C2": "MOLTEN_POWDER:2",
       "C3": "MOLTEN_POWDER:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_5": {
     "name": "Inferno Minion V",
@@ -16640,7 +16680,8 @@
       "C1": "MOLTEN_POWDER:4",
       "C2": "MOLTEN_POWDER:4",
       "C3": "MOLTEN_POWDER:4"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_6": {
     "name": "Inferno Minion VI",
@@ -16654,7 +16695,8 @@
       "C1": "MOLTEN_POWDER:1",
       "C2": "MOLTEN_POWDER:1",
       "C3": "MOLTEN_POWDER:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_7": {
     "name": "Inferno Minion VII",
@@ -16668,7 +16710,8 @@
       "C1": "MOLTEN_POWDER:16",
       "C2": "MOLTEN_POWDER:16",
       "C3": "MOLTEN_POWDER:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_8": {
     "name": "Inferno Minion VIII",
@@ -16682,7 +16725,8 @@
       "C1": "MOLTEN_POWDER:32",
       "C2": "MOLTEN_POWDER:32",
       "C3": "MOLTEN_POWDER:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_GENERATOR_9": {
     "name": "Inferno Minion IX",
@@ -16696,7 +16740,8 @@
       "C1": "MOLTEN_POWDER:64",
       "C2": "MOLTEN_POWDER:64",
       "C3": "MOLTEN_POWDER:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
   },
   "INFERNO_HEAVY_BLAZE_ROD": {
     "name": "Inferno Minion Fuel",
@@ -18084,6 +18129,18 @@
   "KALHUIKI_MASK": {
     "name": "Kalhuiki Mask",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kalhuiki_Mask"
+  },
+  "KARATE_FISH_BRONZE": {
+    "name": "Karate Fish BRONZE"
+  },
+  "KARATE_FISH_DIAMOND": {
+    "name": "Karate Fish DIAMOND"
+  },
+  "KARATE_FISH_GOLD": {
+    "name": "Karate Fish GOLD"
+  },
+  "KARATE_FISH_SILVER": {
+    "name": "Karate Fish SILVER"
   },
   "KAT_FLOWER": {
     "name": "Kat Flower",
@@ -21697,7 +21754,8 @@
       "C1": "MYCEL:10",
       "C2": "MYCEL:10",
       "C3": "MYCEL:10"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_10": {
     "name": "Mycelium Minion X",
@@ -21711,7 +21769,8 @@
       "C1": "ENCHANTED_MYCELIUM_CUBE:1",
       "C2": "ENCHANTED_MYCELIUM_CUBE:1",
       "C3": "ENCHANTED_MYCELIUM_CUBE:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_11": {
     "name": "Mycelium Minion XI",
@@ -21725,10 +21784,12 @@
       "C1": "ENCHANTED_MYCELIUM_CUBE:2",
       "C2": "ENCHANTED_MYCELIUM_CUBE:2",
       "C3": "ENCHANTED_MYCELIUM_CUBE:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_12": {
-    "name": "Mycelium Minion XII"
+    "name": "Mycelium Minion XII",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_2": {
     "name": "Mycelium Minion II",
@@ -21742,7 +21803,8 @@
       "C1": "MYCEL:32",
       "C2": "MYCEL:32",
       "C3": "MYCEL:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_3": {
     "name": "Mycelium Minion III",
@@ -21756,7 +21818,8 @@
       "C1": "MYCEL:64",
       "C2": "MYCEL:64",
       "C3": "MYCEL:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_4": {
     "name": "Mycelium Minion IV",
@@ -21770,7 +21833,8 @@
       "C1": "ENCHANTED_MYCELIUM:2",
       "C2": "ENCHANTED_MYCELIUM:2",
       "C3": "ENCHANTED_MYCELIUM:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_5": {
     "name": "Mycelium Minion V",
@@ -21784,7 +21848,8 @@
       "C1": "ENCHANTED_MYCELIUM:4",
       "C2": "ENCHANTED_MYCELIUM:4",
       "C3": "ENCHANTED_MYCELIUM:4"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_6": {
     "name": "Mycelium Minion VI",
@@ -21798,7 +21863,8 @@
       "C1": "ENCHANTED_MYCELIUM:8",
       "C2": "ENCHANTED_MYCELIUM:8",
       "C3": "ENCHANTED_MYCELIUM:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_7": {
     "name": "Mycelium Minion VII",
@@ -21812,7 +21878,8 @@
       "C1": "ENCHANTED_MYCELIUM:16",
       "C2": "ENCHANTED_MYCELIUM:16",
       "C3": "ENCHANTED_MYCELIUM:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_8": {
     "name": "Mycelium Minion VIII",
@@ -21826,7 +21893,8 @@
       "C1": "ENCHANTED_MYCELIUM:32",
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "ENCHANTED_MYCELIUM:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYCELIUM_GENERATOR_9": {
     "name": "Mycelium Minion IX",
@@ -21840,7 +21908,8 @@
       "C1": "ENCHANTED_MYCELIUM:64",
       "C2": "ENCHANTED_MYCELIUM:64",
       "C3": "ENCHANTED_MYCELIUM:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mycelium_Minion"
   },
   "MYSTERIOUS_MEAT": {
     "name": "Mysterious Meat",
@@ -22747,6 +22816,18 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
+  "ODGERS_BRONZE_TOOTH": {
+    "name": "Odger\u0027s Bronze Tooth"
+  },
+  "ODGERS_DIAMOND_TOOTH": {
+    "name": "Odger\u0027s Diamond Tooth"
+  },
+  "ODGERS_GOLD_TOOTH": {
+    "name": "Odger\u0027s Gold Tooth"
+  },
+  "ODGERS_SILVER_TOOTH": {
+    "name": "Odger\u0027s Silver Tooth"
+  },
   "OIL_BARREL": {
     "name": "Oil Barrel",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oil_Barrel"
@@ -22845,6 +22926,21 @@
   "OOPS_THE_FISH": {
     "name": "Oops the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oops_the_Fish"
+  },
+  "OPAL_POWER_SCROLL": {
+    "name": "Opal Power Scroll",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_PAPER:16",
+      "B3": "ENCHANTED_PAPER:16",
+      "C1": "",
+      "C2": "ENCHANTED_PAPER:16",
+      "C3": "FINE_OPAL_GEM:16"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Power_Scroll"
   },
   "OPTICAL_LENS": {
     "name": "Optical Lens",
@@ -27125,7 +27221,8 @@
       "C1": "SAND-1:10",
       "C2": "SAND-1:10",
       "C3": "SAND-1:10"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_10": {
     "name": "Red Sand Minion X",
@@ -27139,7 +27236,8 @@
       "C1": "ENCHANTED_RED_SAND_CUBE:1",
       "C2": "ENCHANTED_RED_SAND_CUBE:1",
       "C3": "ENCHANTED_RED_SAND_CUBE:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_11": {
     "name": "Red Sand Minion XI",
@@ -27153,10 +27251,12 @@
       "C1": "ENCHANTED_RED_SAND_CUBE:2",
       "C2": "ENCHANTED_RED_SAND_CUBE:2",
       "C3": "ENCHANTED_RED_SAND_CUBE:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_12": {
-    "name": "Red Sand Minion XII"
+    "name": "Red Sand Minion XII",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_2": {
     "name": "Red Sand Minion II",
@@ -27170,7 +27270,8 @@
       "C1": "SAND-1:32",
       "C2": "SAND-1:32",
       "C3": "SAND-1:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_3": {
     "name": "Red Sand Minion III",
@@ -27184,7 +27285,8 @@
       "C1": "SAND-1:64",
       "C2": "SAND-1:64",
       "C3": "SAND-1:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_4": {
     "name": "Red Sand Minion IV",
@@ -27198,7 +27300,8 @@
       "C1": "ENCHANTED_RED_SAND:2",
       "C2": "ENCHANTED_RED_SAND:2",
       "C3": "ENCHANTED_RED_SAND:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_5": {
     "name": "Red Sand Minion V",
@@ -27212,7 +27315,8 @@
       "C1": "ENCHANTED_RED_SAND:4",
       "C2": "ENCHANTED_RED_SAND:4",
       "C3": "ENCHANTED_RED_SAND:4"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_6": {
     "name": "Red Sand Minion VI",
@@ -27226,7 +27330,8 @@
       "C1": "ENCHANTED_RED_SAND:8",
       "C2": "ENCHANTED_RED_SAND:8",
       "C3": "ENCHANTED_RED_SAND:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_7": {
     "name": "Red Sand Minion VII",
@@ -27240,7 +27345,8 @@
       "C1": "ENCHANTED_RED_SAND:16",
       "C2": "ENCHANTED_RED_SAND:16",
       "C3": "ENCHANTED_RED_SAND:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_8": {
     "name": "Red Sand Minion VIII",
@@ -27254,7 +27360,8 @@
       "C1": "ENCHANTED_RED_SAND:32",
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "ENCHANTED_RED_SAND:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SAND_GENERATOR_9": {
     "name": "Red Sand Minion IX",
@@ -27268,7 +27375,8 @@
       "C1": "ENCHANTED_RED_SAND:64",
       "C2": "ENCHANTED_RED_SAND:64",
       "C3": "ENCHANTED_RED_SAND:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Sand_Minion"
   },
   "RED_SCARF": {
     "name": "Red Scarf",
@@ -29429,6 +29537,18 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silver_Fang"
   },
+  "SILVER_HUNTER_BOOTS": {
+    "name": "Silver Hunter Boots"
+  },
+  "SILVER_HUNTER_CHESTPLATE": {
+    "name": "Silver Hunter Chestplate"
+  },
+  "SILVER_HUNTER_HELMET": {
+    "name": "Silver Hunter Helmet"
+  },
+  "SILVER_HUNTER_LEGGINGS": {
+    "name": "Silver Hunter Leggings"
+  },
   "SIL_EX": {
     "name": "Silex",
     "recipe": {
@@ -30388,6 +30508,18 @@
   "SMOLDERING;1": {
     "name": "Smoldering I"
   },
+  "SMOLDERING;2": {
+    "name": "Smoldering II"
+  },
+  "SMOLDERING;3": {
+    "name": "Smoldering III"
+  },
+  "SMOLDERING;4": {
+    "name": "Smoldering IV"
+  },
+  "SMOLDERING;5": {
+    "name": "Smoldering V"
+  },
   "SMOLDERING_CHAMBERS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Smoldering Tomb",
     "recipe": {
@@ -30987,6 +31119,9 @@
   },
   "SOUL_FISH_BRONZE": {
     "name": "Soul Fish BRONZE"
+  },
+  "SOUL_FISH_DIAMOND": {
+    "name": "Soul Fish DIAMOND"
   },
   "SOUL_FISH_GOLD": {
     "name": "Soul Fish GOLD"
@@ -33041,6 +33176,9 @@
   "STEAMING_HOT_FLOUNDER_BRONZE": {
     "name": "Steaming-Hot Flounder BRONZE"
   },
+  "STEAMING_HOT_FLOUNDER_DIAMOND": {
+    "name": "Steaming-Hot Flounder DIAMOND"
+  },
   "STEAMING_HOT_FLOUNDER_GOLD": {
     "name": "Steaming-Hot Flounder GOLD"
   },
@@ -34762,6 +34900,9 @@
     "name": "Third Master Star",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Master_Star"
   },
+  "THORNLEAF_SCYTHE": {
+    "name": "Thornleaf Scythe"
+  },
   "THORNS;1": {
     "name": "Thorns I"
   },
@@ -35903,13 +36044,46 @@
     }
   },
   "VANQUISHED_GHAST_CLOAK": {
-    "name": "Vanquished Ghast Cloak"
+    "name": "Vanquished Ghast Cloak",
+    "recipe": {
+      "A1": "CORRUPTED_NETHER_STAR:1",
+      "A2": "CORRUPTED_NETHER_STAR:1",
+      "A3": "CORRUPTED_NETHER_STAR:1",
+      "B1": "SILVER_FANG:64",
+      "B2": "GHAST_CLOAK:1",
+      "B3": "SILVER_FANG:64",
+      "C1": "SILVER_FANG:64",
+      "C2": "",
+      "C3": "SILVER_FANG:64"
+    }
   },
   "VANQUISHED_GLOWSTONE_GAUNTLET": {
-    "name": "Vanquished Glowstone Gauntlet"
+    "name": "Vanquished Glowstone Gauntlet",
+    "recipe": {
+      "A1": "CORRUPTED_NETHER_STAR:1",
+      "A2": "CORRUPTED_NETHER_STAR:1",
+      "A3": "CORRUPTED_NETHER_STAR:1",
+      "B1": "ENCHANTED_GLOWSTONE:1",
+      "B2": "GLOWSTONE_GAUNTLET:1",
+      "B3": "ENCHANTED_GLOWSTONE:1",
+      "C1": "ENCHANTED_GLOWSTONE:1",
+      "C2": "",
+      "C3": "ENCHANTED_GLOWSTONE:1"
+    }
   },
   "VANQUISHED_MAGMA_NECKLACE": {
-    "name": "Vanquished Magma Necklace"
+    "name": "Vanquished Magma Necklace",
+    "recipe": {
+      "A1": "ENCHANTED_MAGMA_CREAM:64",
+      "A2": "",
+      "A3": "ENCHANTED_MAGMA_CREAM:64",
+      "B1": "ENCHANTED_MAGMA_CREAM:64",
+      "B2": "MAGMA_NECKLACE:1",
+      "B3": "ENCHANTED_MAGMA_CREAM:64",
+      "C1": "",
+      "C2": "CORRUPTED_NETHER_STAR:3",
+      "C3": ""
+    }
   },
   "VENOMOUS;1": {
     "name": "Venomous I"
