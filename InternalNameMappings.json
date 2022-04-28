@@ -354,6 +354,20 @@
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion"
   },
+  "ALERT_FLARE": {
+    "name": "Alert Flare",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR:32",
+      "A3": "INFERNO_VERTEX:8",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:64",
+      "B3": "",
+      "C1": "INFERNO_VERTEX:8",
+      "C2": "ENCHANTED_FIREWORK_ROCKET:1",
+      "C3": ""
+    }
+  },
   "ALL_SKILLS_SUPER_BOOST": {
     "name": "All Skills Exp Super-Boost",
     "recipe": {
@@ -544,6 +558,20 @@
       "C3": "RAW_FISH:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Angler_Armor"
+  },
+  "ANNIHILATION_CLOAK": {
+    "name": "Annihilation Cloak",
+    "recipe": {
+      "A1": "WOOD_SINGULARITY:1",
+      "A2": "DESTRUCTION_CLOAK:1",
+      "A3": "WOOD_SINGULARITY:1",
+      "B1": "MOLTEN_POWDER:64",
+      "B2": "INFERNO_VERTEX:8",
+      "B3": "MOLTEN_POWDER:64",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "ENCHANTED_SULPHUR_CUBE:16",
+      "C3": "MOLTEN_POWDER:64"
+    }
   },
   "ANTIQUE_REMEDIES": {
     "name": "Antique Remedies",
@@ -927,7 +955,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Atomsplit_Katana"
   },
   "ATTRIBUTE_SHARD": {
-    "name": "Attribute Shard"
+    "name": "Attribute Shard",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Attribute_Shard"
   },
   "AUGER_ROD": {
     "name": "Auger Rod",
@@ -2185,6 +2214,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Pet"
   },
+  "BLAZETEKK_HAM_RADIO": {
+    "name": "Blazetekk™ Ham Radio",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:16",
+      "A2": "INFERNO_VERTEX:12",
+      "A3": "MOLTEN_POWDER:16",
+      "B1": "MOLTEN_POWDER:16",
+      "B2": "ENCHANTED_REDSTONE_LAMP:64",
+      "B3": "MOLTEN_POWDER:16",
+      "C1": "MOLTEN_POWDER:16",
+      "C2": "INFERNO_VERTEX:12",
+      "C3": "MOLTEN_POWDER:16"
+    }
+  },
   "BLAZE_ASHES": {
     "name": "Blaze Ashes",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Ashes"
@@ -2519,6 +2562,9 @@
   },
   "BLESSING;5": {
     "name": "Blessing V"
+  },
+  "BLESSING;6": {
+    "name": "Blessing VI"
   },
   "BLINDNESS": {
     "name": "Blindness Potion"
@@ -3032,16 +3078,20 @@
     "name": "Burning Aurora Leggings"
   },
   "BURNING_CRIMSON_BOOTS": {
-    "name": "Burning Crimson Boots"
+    "name": "Burning Crimson Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "BURNING_CRIMSON_CHESTPLATE": {
-    "name": "Burning Crimson Chestplate"
+    "name": "Burning Crimson Chestplate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "BURNING_CRIMSON_HELMET": {
-    "name": "Burning Crimson Helmet"
+    "name": "Burning Crimson Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "BURNING_CRIMSON_LEGGINGS": {
-    "name": "Burning Crimson Leggings"
+    "name": "Burning Crimson Leggings",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "BURNING_EYE": {
     "name": "Burning Eye",
@@ -3099,7 +3149,8 @@
       "C1": "",
       "C2": "FIREDUST_DAGGER:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kindlebane_Dagger"
   },
   "BURSTMAW_DAGGER": {
     "name": "Mawdredge Dagger",
@@ -3113,6 +3164,21 @@
       "C1": "",
       "C2": "MAWDUST_DAGGER:1",
       "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mawdredge_Dagger"
+  },
+  "BURSTSTOPPER_ARTIFACT": {
+    "name": "Burststopper Artifact",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:32",
+      "A2": "COMPACT_OOZE:20",
+      "A3": "MOLTEN_POWDER:32",
+      "B1": "COMPACT_OOZE:20",
+      "B2": "REFINED_TITANIUM:64",
+      "B3": "COMPACT_OOZE:20",
+      "C1": "MOLTEN_POWDER:32",
+      "C2": "COMPACT_OOZE:20",
+      "C3": "MOLTEN_POWDER:32"
     }
   },
   "BURSTSTOPPER_TALISMAN": {
@@ -5559,7 +5625,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Compactor"
   },
   "COMPACT_OOZE": {
-    "name": "Compact Ooze"
+    "name": "Compact Ooze",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Compact_Ooze"
   },
   "COMPASS": {
     "name": "Compass",
@@ -6146,7 +6213,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crude_Gabagool"
   },
   "CRUDE_GABAGOOL_DISTILLATE": {
-    "name": "Gabagool Distillate"
+    "name": "Gabagool Distillate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Distillates"
   },
   "CRYPT_BOW": {
     "name": "Soulstealer Bow",
@@ -6296,7 +6364,8 @@
     "name": "Cultivating I"
   },
   "CUP_OF_BLOOD": {
-    "name": "Cup of Blood"
+    "name": "Cup of Blood",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cup_of_Blood"
   },
   "CYCLOPS_PERSONALITY": {
     "name": "Cyclops Minion Skin",
@@ -6724,6 +6793,9 @@
     "name": "Dead Bush of Love",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dead_Bush_of_Love"
   },
+  "DEAN_LETTER_OF_RECOMMENDATION": {
+    "name": "Letter of Recommendation"
+  },
   "DEATH_BOW": {
     "name": "Death Bow",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Death_Bow"
@@ -6859,6 +6931,20 @@
   "DESK": {
     "name": "Desk",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "DESTRUCTION_CLOAK": {
+    "name": "Destruction Cloak",
+    "recipe": {
+      "A1": "WOOD_SINGULARITY:1",
+      "A2": "WOOD_SINGULARITY:1",
+      "A3": "WOOD_SINGULARITY:1",
+      "B1": "MOLTEN_POWDER:48",
+      "B2": "ENCHANTED_SULPHUR_CUBE:4",
+      "B3": "MOLTEN_POWDER:48",
+      "C1": "MOLTEN_POWDER:48",
+      "C2": "ENCHANTED_SULPHUR_CUBE:4",
+      "C3": "MOLTEN_POWDER:48"
+    }
   },
   "DETECTOR_RAIL": {
     "name": "Detector Rail",
@@ -9314,7 +9400,8 @@
       "C1": "",
       "C2": "MYCEL:32",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Mycelium"
   },
   "ENCHANTED_MYCELIUM_CUBE": {
     "name": "Enchanted Mycelium Cube",
@@ -9328,7 +9415,8 @@
       "C1": "",
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Mycelium_Cube"
   },
   "ENCHANTED_NETHERRACK": {
     "name": "Enchanted Netherrack",
@@ -9986,7 +10074,8 @@
       "C1": "",
       "C2": "ENCHANTED_SULPHUR:32",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Sulphur_Cube"
   },
   "ENCHANTED_TITANIUM": {
     "name": "Enchanted Titanium",
@@ -10387,7 +10476,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Dragon_Pet"
   },
   "ENDER_MONOCLE": {
-    "name": "Ender Monocle"
+    "name": "Ender Monocle",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Monocle"
   },
   "ENDER_PEARL": {
     "name": "Ender Pearl"
@@ -10667,7 +10757,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Bow"
   },
   "END_STONE_SHULKER": {
-    "name": "End Stone Shulker"
+    "name": "End Stone Shulker",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/End_Stone_Shulker"
   },
   "END_STONE_SWORD": {
     "name": "End Stone Sword",
@@ -11497,16 +11588,20 @@
     "name": "Fiery Aurora Leggings"
   },
   "FIERY_CRIMSON_BOOTS": {
-    "name": "Fiery Crimson Boots"
+    "name": "Fiery Crimson Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "FIERY_CRIMSON_CHESTPLATE": {
-    "name": "Fiery Crimson Chestplate"
+    "name": "Fiery Crimson Chestplate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "FIERY_CRIMSON_HELMET": {
-    "name": "Fiery Crimson Helmet"
+    "name": "Fiery Crimson Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "FIERY_CRIMSON_LEGGINGS": {
-    "name": "Fiery Crimson Leggings"
+    "name": "Fiery Crimson Leggings",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "FIERY_FERVOR_BOOTS": {
     "name": "Fiery Fervor Boots",
@@ -11818,6 +11913,17 @@
   },
   "FIRE_FURY_STAFF": {
     "name": "Fire Fury Staff",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "COMPACT_OOZE:20",
+      "B1": "",
+      "B2": "REKINDLED_EMBER_FRAGMENT:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Fury_Staff"
   },
   "FIRE_PROTECTION;1": {
@@ -11859,7 +11965,18 @@
     "name": "Fire Talisman"
   },
   "FIRE_VEIL_WAND": {
-    "name": "Fire Veil Wand"
+    "name": "Fire Veil Wand",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "LUMINO_FIBER:10",
+      "B1": "",
+      "B2": "SPELL_POWDER:10",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    }
   },
   "FIRST_MASTER_STAR": {
     "name": "First Master Star",
@@ -12224,7 +12341,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flaming_Fist"
   },
   "FLAMING_HEART": {
-    "name": "Flaming Heart"
+    "name": "Flaming Heart",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flaming_Heart"
   },
   "FLAMING_SWORD": {
     "name": "Flaming Sword",
@@ -13091,7 +13209,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fungi_Cutter"
   },
   "FURBALL": {
-    "name": "Furball"
+    "name": "Furball",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furball"
   },
   "FURNACE": {
     "name": "Furnace",
@@ -13139,7 +13258,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gauntlet_of_Contagion"
   },
   "GAZING_PEARL": {
-    "name": "Gazing Pearl"
+    "name": "Gazing Pearl",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gazing_Pearl"
   },
   "GEMSTONE_CHAMBER": {
     "name": "Gemstone Chamber",
@@ -13614,7 +13734,8 @@
     "name": "Glowstone Dust"
   },
   "GLOWSTONE_DUST_DISTILLATE": {
-    "name": "Glowstone Distillate"
+    "name": "Glowstone Distillate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Distillates"
   },
   "GLOWSTONE_GAUNTLET": {
     "name": "Glowstone Gauntlet"
@@ -15484,6 +15605,36 @@
     "name": "Healing Tissue",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Healing_Tissue"
   },
+  "HEARTFIRE_DAGGER": {
+    "name": "Pyrochaos Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "MAGMA_FISH_GOLD:8",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:64",
+      "B3": "",
+      "C1": "INFERNO_VERTEX:8",
+      "C2": "BURSTFIRE_DAGGER:1",
+      "C3": "INFERNO_VERTEX:8"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pyrochaos_Dagger"
+  },
+  "HEARTMAW_DAGGER": {
+    "name": "Deathripper Dagger",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SULPHUR_CUBE:16",
+      "A3": "",
+      "B1": "",
+      "B2": "MOLTEN_POWDER:64",
+      "B3": "",
+      "C1": "INFERNO_VERTEX:8",
+      "C2": "BURSTMAW_DAGGER:1",
+      "C3": "INFERNO_VERTEX:8"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Deathripper_Dagger"
+  },
   "HEAT_BOOTS": {
     "name": "Heat Boots",
     "recipe": {
@@ -15626,6 +15777,10 @@
   "HERMIT_CRAB_PERSONALITY": {
     "name": "Hermit Crab Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "HIGH_CLASS_ARCHFIEND_DICE": {
+    "name": "High Class Archfiend Dice",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/High_Class_Archfiend_Dice"
   },
   "HILT_OF_TRUE_ICE": {
     "name": "Hilt of True Ice",
@@ -15902,16 +16057,20 @@
     "name": "Hot Chocolate"
   },
   "HOT_CRIMSON_BOOTS": {
-    "name": "Hot Crimson Boots"
+    "name": "Hot Crimson Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "HOT_CRIMSON_CHESTPLATE": {
-    "name": "Hot Crimson Chestplate"
+    "name": "Hot Crimson Chestplate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "HOT_CRIMSON_HELMET": {
-    "name": "Hot Crimson Helmet"
+    "name": "Hot Crimson Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "HOT_CRIMSON_LEGGINGS": {
-    "name": "Hot Crimson Leggings"
+    "name": "Hot Crimson Leggings",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "HOT_FERVOR_BOOTS": {
     "name": "Hot Fervor Boots",
@@ -16452,16 +16611,20 @@
     "name": "Infernal Aurora Leggings"
   },
   "INFERNAL_CRIMSON_BOOTS": {
-    "name": "Infernal Crimson Boots"
+    "name": "Infernal Crimson Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "INFERNAL_CRIMSON_CHESTPLATE": {
-    "name": "Infernal Crimson Chestplate"
+    "name": "Infernal Crimson Chestplate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "INFERNAL_CRIMSON_HELMET": {
-    "name": "Infernal Crimson Helmet"
+    "name": "Infernal Crimson Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "INFERNAL_CRIMSON_LEGGINGS": {
-    "name": "Infernal Crimson Leggings"
+    "name": "Infernal Crimson Leggings",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crimson_Armor"
   },
   "INFERNAL_FERVOR_BOOTS": {
     "name": "Infernal Fervor Boots",
@@ -18191,6 +18354,86 @@
     "name": "Krampus Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Krampus_Helmet"
   },
+  "KUUDRA;0": {
+    "name": "Common Kuudra",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
+  },
+  "KUUDRA;1": {
+    "name": "Uncommon Kuudra",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
+  },
+  "KUUDRA;2": {
+    "name": "Rare Kuudra",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
+  },
+  "KUUDRA;3": {
+    "name": "Epic Kuudra",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
+  },
+  "KUUDRA;4": {
+    "name": "Legendary Kuudra",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
+  },
+  "KUUDRA_BURNING_TIER_KEY": {
+    "name": "Burning Kuudra Key",
+    "recipe": {
+      "A1": "KUUDRA_HOT_TIER_KEY:1",
+      "A2": "KUUDRA_HOT_TIER_KEY:1",
+      "A3": "",
+      "B1": "KUUDRA_HOT_TIER_KEY:1",
+      "B2": "KUUDRA_HOT_TIER_KEY:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
+  },
+  "KUUDRA_FIERY_TIER_KEY": {
+    "name": "Fiery Kuudra Key",
+    "recipe": {
+      "A1": "KUUDRA_BURNING_TIER_KEY:1",
+      "A2": "KUUDRA_BURNING_TIER_KEY:1",
+      "A3": "",
+      "B1": "KUUDRA_BURNING_TIER_KEY:1",
+      "B2": "KUUDRA_BURNING_TIER_KEY:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
+  },
+  "KUUDRA_HOT_TIER_KEY": {
+    "name": "Hot Kuudra Key",
+    "recipe": {
+      "A1": "KUUDRA_TIER_KEY:1",
+      "A2": "KUUDRA_TIER_KEY:1",
+      "A3": "",
+      "B1": "KUUDRA_TIER_KEY:1",
+      "B2": "KUUDRA_TIER_KEY:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
+  },
+  "KUUDRA_INFERNAL_TIER_KEY": {
+    "name": "Infernal Kuudra Key",
+    "recipe": {
+      "A1": "KUUDRA_FIERY_TIER_KEY:1",
+      "A2": "KUUDRA_FIERY_TIER_KEY:1",
+      "A3": "",
+      "B1": "KUUDRA_FIERY_TIER_KEY:1",
+      "B2": "KUUDRA_FIERY_TIER_KEY:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
+  },
   "KUUDRA_MANDIBLE": {
     "name": "Kuudra Mandible"
   },
@@ -18729,7 +18972,8 @@
       "C1": "MAGMA_FISH_SILVER:40",
       "C2": "MAGMA_FISH_SILVER:40",
       "C3": "MAGMA_FISH_SILVER:40"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Fishing_Sack"
   },
   "LARGE_MINING_SACK": {
     "name": "Large Mining Sack",
@@ -19327,6 +19571,9 @@
   "LUCK_OF_THE_SEA;6": {
     "name": "Luck of the Sea VI"
   },
+  "LUMINO_FIBER": {
+    "name": "Lumino Fiber"
+  },
   "LUMP_OF_MAGMA": {
     "name": "Lump of Magma"
   },
@@ -19481,7 +19728,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cream"
   },
   "MAGMA_CREAM_DISTILLATE": {
-    "name": "Magma Cream Distillate"
+    "name": "Magma Cream Distillate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Distillates"
   },
   "MAGMA_CUBE;0": {
     "name": "Common Magma Cube",
@@ -19759,6 +20007,9 @@
   "MAGMA_LORD_FRAGMENT": {
     "name": "Magma Lord Fragment"
   },
+  "MAGMA_LORD_GAUNTLET": {
+    "name": "Magma Lord Gauntlet"
+  },
   "MAGMA_LORD_HELMET": {
     "name": "Magma Lord Helmet"
   },
@@ -19777,7 +20028,8 @@
       "C1": "",
       "C2": "MAGMA_CHUNK:20",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Necklace"
   },
   "MAGMA_ROD": {
     "name": "Magma Rod",
@@ -19795,7 +20047,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Rod"
   },
   "MAGMA_URCHIN": {
-    "name": "Magma Urchin"
+    "name": "Magma Urchin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Urchin"
   },
   "MAGNET;1": {
     "name": "Magnet I"
@@ -19908,7 +20161,8 @@
     "name": "Mana Vampire VIII"
   },
   "MANDRAA": {
-    "name": "Mandraa"
+    "name": "Mandraa",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mandraa"
   },
   "MAP": {
     "name": "Empty Map",
@@ -20253,7 +20507,8 @@
       "C1": "MAGMA_FISH_SILVER:10",
       "C2": "MAGMA_FISH_SILVER:10",
       "C3": "MAGMA_FISH_SILVER:10"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Fishing_Sack"
   },
   "MEDIUM_MINING_SACK": {
     "name": "Medium Mining Sack",
@@ -21436,7 +21691,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Biome_Stick"
   },
   "MUSHROOM_BOOTS": {
     "name": "Mushroom Boots",
@@ -21686,7 +21942,8 @@
     }
   },
   "MUSHROOM_SPORE": {
-    "name": "Mushroom Spore"
+    "name": "Mushroom Spore",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mushroom_Spore"
   },
   "MUSIC_PANTS": {
     "name": "Stereo Pants",
@@ -22052,7 +22309,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart"
   },
   "NETHER_STALK_DISTILLATE": {
-    "name": "Nether Wart Distillate"
+    "name": "Nether Wart Distillate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Distillates"
   },
   "NETHER_STAR": {
     "name": "Nether Star"
@@ -22947,7 +23205,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Optical_Lens"
   },
   "ORB_OF_ENERGY": {
-    "name": "Orb of Energy"
+    "name": "Orb of Energy",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Orb_of_Energy"
   },
   "ORNATE_ZOMBIE_SWORD": {
     "name": "Ornate Zombie Sword",
@@ -25326,7 +25585,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Armor"
   },
   "PRECIOUS_PEARL": {
-    "name": "Precious Pearl"
+    "name": "Precious Pearl",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Precious_Pearl"
   },
   "PRECURSOR_EYE": {
     "name": "Precursor Eye",
@@ -26007,7 +26267,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Backpack"
   },
   "PYROCLASTIC_SCALE": {
-    "name": "Pyroclastic Scale"
+    "name": "Pyroclastic Scale",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pyroclastic_Scale"
   },
   "QUALITY_MAP": {
     "name": "Quality Map",
@@ -27528,7 +27789,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rekindled_Ember_Armor"
   },
   "REKINDLED_EMBER_LEGGINGS": {
     "name": "Rekindled Ember Leggings",
@@ -28610,7 +28872,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scavenger_Talisman"
   },
   "SCORCHED_BOOKS": {
-    "name": "Scorched Books"
+    "name": "Scorched Books",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorched_Books"
   },
   "SCORNCLAW_BREW": {
     "name": "Scornclaw Brew"
@@ -28657,7 +28920,8 @@
       "C1": "MUTATED_BLAZE_ASHES:5",
       "C2": "COMPACT_OOZE:5",
       "C3": "MUTATED_BLAZE_ASHES:5"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scourge_Cloak"
   },
   "SCOVILLE_BELT": {
     "name": "Scoville Belt",
@@ -30389,7 +30653,8 @@
       "C1": "MAGMA_FISH_SILVER:1",
       "C2": "MAGMA_FISH_SILVER:1",
       "C3": "MAGMA_FISH_SILVER:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Fishing_Sack"
   },
   "SMALL_MINING_SACK": {
     "name": "Small Mining Sack",
@@ -30532,7 +30797,8 @@
       "C1": "MOLTEN_POWDER:8",
       "C2": "INFERNO_VERTEX:1",
       "C3": "MOLTEN_POWDER:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
   "SMOOTH_BRICK:1": {
     "name": "Mossy Stone Bricks",
@@ -31012,6 +31278,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sorrow_Armor"
   },
+  "SOS_FLARE": {
+    "name": "SOS Flare",
+    "recipe": {
+      "A1": "INFERNO_VERTEX:8",
+      "A2": "ENCHANTED_SULPHUR:32",
+      "A3": "INFERNO_APEX:1",
+      "B1": "MOLTEN_POWDER:64",
+      "B2": "",
+      "B3": "MOLTEN_POWDER:64",
+      "C1": "WILSON_ENGINEERING_PLANS:1",
+      "C2": "ALERT_FLARE:1",
+      "C3": "INFERNO_VERTEX:1"
+    }
+  },
   "SOULFLOW": {
     "name": "Soulflow",
     "recipe": {
@@ -31357,7 +31637,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Maxor%27s_Armor"
   },
   "SPELL_POWDER": {
-    "name": "Spell Powder"
+    "name": "Spell Powder",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spell_Powder"
   },
   "SPIDER;0": {
     "name": "Common Spider",
@@ -33639,6 +33920,9 @@
   "STRONG_MANA;1": {
     "name": "Strong Mana I"
   },
+  "STRONG_MANA;10": {
+    "name": "Strong Mana X"
+  },
   "STRONG_MANA;2": {
     "name": "Strong Mana II"
   },
@@ -33666,6 +33950,9 @@
   },
   "STUN": {
     "name": "Stun Potion"
+  },
+  "SUBZERO_INVERTER": {
+    "name": "Subzero Inverter"
   },
   "SUGAR": {
     "name": "Sugar",
@@ -34161,6 +34448,20 @@
   },
   "SYPHON;5": {
     "name": "Syphon V"
+  },
+  "TACTICAL_INSERTION": {
+    "name": "Tactical Insertion",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "TESSELLATED_ENDER_PEARL:4",
+      "B1": "",
+      "B2": "INFERNO_VERTEX:8",
+      "B3": "",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "",
+      "C3": ""
+    }
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
@@ -34992,7 +35293,8 @@
       "C1": "THUNDER_SHARD:1",
       "C2": "",
       "C3": "THUNDER_SHARD:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thunder_Armor"
   },
   "THUNDER_CHESTPLATE": {
     "name": "Thunder Chestplate",
@@ -35006,7 +35308,8 @@
       "C1": "THUNDER_SHARD:1",
       "C2": "THUNDER_SHARD:1",
       "C3": "THUNDER_SHARD:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thunder_Armor"
   },
   "THUNDER_HELMET": {
     "name": "Thunder Helmet",
@@ -35020,7 +35323,11 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thunder_Armor"
+  },
+  "THUNDER_IN_A_BOTTLE": {
+    "name": "Thunder in a Bottle"
   },
   "THUNDER_IN_A_BOTTLE_EMPTY": {
     "name": "Empty Thunder Bottle",
@@ -35034,7 +35341,8 @@
       "C1": "",
       "C2": "ORB_OF_ENERGY:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Empty_Thunder_Bottle"
   },
   "THUNDER_LEGGINGS": {
     "name": "Thunder Leggings",
@@ -35048,7 +35356,8 @@
       "C1": "THUNDER_SHARD:1",
       "C2": "",
       "C3": "THUNDER_SHARD:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thunder_Armor"
   },
   "THUNDER_SHARDS": {
     "name": "Thunder Shards"
@@ -35228,7 +35537,8 @@
       "C1": "MAGMA_CHUNK:20",
       "C2": "CORRUPTED_FRAGMENT:20",
       "C3": "MAGMA_CHUNK:20"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Totem_of_Corruption"
   },
   "TOXIC_ARROW_POISON": {
     "name": "Toxic Arrow Poison",
@@ -35939,6 +36249,36 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Upgrade_Stone"
   },
+  "UPGRADE_STONE_GLACIAL": {
+    "name": "Wisp Upgrade Stone",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:16",
+      "A2": "INFERNO_VERTEX:1",
+      "A3": "MOLTEN_POWDER:16",
+      "B1": "INFERNO_VERTEX:1",
+      "B2": "KELVIN_INVERTER:12",
+      "B3": "INFERNO_VERTEX:1",
+      "C1": "MOLTEN_POWDER:16",
+      "C2": "INFERNO_VERTEX:1",
+      "C3": "MOLTEN_POWDER:16"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Upgrade_Stone"
+  },
+  "UPGRADE_STONE_SUBZERO": {
+    "name": "Wisp Upgrade Stone",
+    "recipe": {
+      "A1": "MOLTEN_POWDER:64",
+      "A2": "INFERNO_APEX:1",
+      "A3": "MOLTEN_POWDER:64",
+      "B1": "INFERNO_VERTEX:12",
+      "B2": "SUBZERO_INVERTER:1",
+      "B3": "INFERNO_VERTEX:12",
+      "C1": "MOLTEN_POWDER:64",
+      "C2": "INFERNO_APEX:1",
+      "C3": "MOLTEN_POWDER:64"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Upgrade_Stone"
+  },
   "VACCINE_TALISMAN": {
     "name": "Vaccine Talisman",
     "recipe": {
@@ -36041,7 +36381,8 @@
       "C1": "CORRUPTED_NETHER_STAR:1",
       "C2": "CORRUPTED_NETHER_STAR:1",
       "C3": "CORRUPTED_NETHER_STAR:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Vanquished_Blaze_Belt"
   },
   "VANQUISHED_GHAST_CLOAK": {
     "name": "Vanquished Ghast Cloak",
@@ -36055,7 +36396,8 @@
       "C1": "SILVER_FANG:64",
       "C2": "",
       "C3": "SILVER_FANG:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Vanquished_Ghast_Cloak"
   },
   "VANQUISHED_GLOWSTONE_GAUNTLET": {
     "name": "Vanquished Glowstone Gauntlet",
@@ -36083,7 +36425,8 @@
       "C1": "",
       "C2": "CORRUPTED_NETHER_STAR:3",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Vanquished_Magma_Necklace"
   },
   "VENOMOUS;1": {
     "name": "Venomous I"
@@ -36154,7 +36497,8 @@
     "name": "Vines"
   },
   "VITAMIN_DEATH": {
-    "name": "Vitamin Death"
+    "name": "Vitamin Death",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Vitamin_Death"
   },
   "VOIDEDGE_KATANA": {
     "name": "Voidedge Katana",
@@ -36932,7 +37276,8 @@
       "C1": "",
       "C2": "ENCHANTED_MAGMA_CREAM:32",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Whipped_Magma_Cream"
   },
   "WHITE_GIFT": {
     "name": "White Gift",
@@ -36945,6 +37290,9 @@
   "WIKI_JOURNAL": {
     "name": "Wiki Journal",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wiki_Journal"
+  },
+  "WILSON_ENGINEERING_PLANS": {
+    "name": "Wilson\u0027s Engineering Plans"
   },
   "WIND_CHIMES": {
     "name": "Wind Chimes",
@@ -37192,7 +37540,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Skeleton_Pet"
   },
   "WITHER_SOUL": {
-    "name": "Wither Soul"
+    "name": "Wither Soul",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Soul"
   },
   "WOLF;0": {
     "name": "Common Wolf",
