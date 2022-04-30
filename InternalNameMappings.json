@@ -658,62 +658,18 @@
   },
   "ARMOR_OF_MAGMA_BOOTS": {
     "name": "Armor of Magma Boots",
-    "recipe": {
-      "A1": "ENCHANTED_MAGMA_CREAM:12",
-      "A2": "",
-      "A3": "ENCHANTED_MAGMA_CREAM:12",
-      "B1": "ENCHANTED_MAGMA_CREAM:12",
-      "B2": "",
-      "B3": "ENCHANTED_MAGMA_CREAM:12",
-      "C1": "",
-      "C2": "",
-      "C3": ""
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armor_of_Magma"
   },
   "ARMOR_OF_MAGMA_CHESTPLATE": {
     "name": "Armor of Magma Chestplate",
-    "recipe": {
-      "A1": "ENCHANTED_MAGMA_CREAM:12",
-      "A2": "",
-      "A3": "ENCHANTED_MAGMA_CREAM:12",
-      "B1": "ENCHANTED_MAGMA_CREAM:12",
-      "B2": "ENCHANTED_MAGMA_CREAM:12",
-      "B3": "ENCHANTED_MAGMA_CREAM:12",
-      "C1": "ENCHANTED_MAGMA_CREAM:12",
-      "C2": "ENCHANTED_MAGMA_CREAM:12",
-      "C3": "ENCHANTED_MAGMA_CREAM:12"
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armor_of_Magma"
   },
   "ARMOR_OF_MAGMA_HELMET": {
     "name": "Armor of Magma Helmet",
-    "recipe": {
-      "A1": "ENCHANTED_MAGMA_CREAM:12",
-      "A2": "ENCHANTED_MAGMA_CREAM:12",
-      "A3": "ENCHANTED_MAGMA_CREAM:12",
-      "B1": "ENCHANTED_MAGMA_CREAM:12",
-      "B2": "",
-      "B3": "ENCHANTED_MAGMA_CREAM:12",
-      "C1": "",
-      "C2": "",
-      "C3": ""
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armor_of_Magma"
   },
   "ARMOR_OF_MAGMA_LEGGINGS": {
     "name": "Armor of Magma Leggings",
-    "recipe": {
-      "A1": "ENCHANTED_MAGMA_CREAM:12",
-      "A2": "ENCHANTED_MAGMA_CREAM:12",
-      "A3": "ENCHANTED_MAGMA_CREAM:12",
-      "B1": "ENCHANTED_MAGMA_CREAM:12",
-      "B2": "",
-      "B3": "ENCHANTED_MAGMA_CREAM:12",
-      "C1": "ENCHANTED_MAGMA_CREAM:12",
-      "C2": "",
-      "C3": "ENCHANTED_MAGMA_CREAM:12"
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armor_of_Magma"
   },
   "ARMOR_OF_THE_RESISTANCE_BOOTS": {
