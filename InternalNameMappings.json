@@ -366,7 +366,8 @@
       "C1": "INFERNO_VERTEX:8",
       "C2": "ENCHANTED_FIREWORK_ROCKET:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Alert_Flare"
   },
   "ALL_SKILLS_SUPER_BOOST": {
     "name": "All Skills Exp Super-Boost",
@@ -571,7 +572,8 @@
       "C1": "MOLTEN_POWDER:64",
       "C2": "ENCHANTED_SULPHUR_CUBE:16",
       "C3": "MOLTEN_POWDER:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Annihilation_Cloak"
   },
   "ANTIQUE_REMEDIES": {
     "name": "Antique Remedies",
@@ -896,7 +898,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Astraea"
   },
   "ATOMINIZER": {
-    "name": "Atominizer"
+    "name": "Atominizer",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Atominizer"
   },
   "ATOMSPLIT_KATANA": {
     "name": "Atomsplit Katana",
@@ -2479,7 +2482,19 @@
     }
   },
   "BLAZE_WAX": {
-    "name": "Blaze Wax"
+    "name": "Blaze Wax",
+    "recipe": {
+      "A1": "ENCHANTED_BLAZE_POWDER:10",
+      "A2": "ENCHANTED_BLAZE_POWDER:10",
+      "A3": "ENCHANTED_BLAZE_POWDER:10",
+      "B1": "ENCHANTED_BLAZE_POWDER:10",
+      "B2": "BEZOS:10",
+      "B3": "ENCHANTED_BLAZE_POWDER:10",
+      "C1": "ENCHANTED_BLAZE_POWDER:10",
+      "C2": "ENCHANTED_BLAZE_POWDER:10",
+      "C3": "ENCHANTED_BLAZE_POWDER:10"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Wax"
   },
   "BLESSED_BAIT": {
     "name": "Blessed Bait",
@@ -2533,7 +2548,8 @@
     "name": "Blindness Potion"
   },
   "BLOBFISH_BRONZE": {
-    "name": "Blobfish BRONZE"
+    "name": "Blobfish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "BLOBFISH_DIAMOND": {
     "name": "Blobfish DIAMOND",
@@ -2559,7 +2575,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blobfish_Hat"
   },
   "BLOBFISH_SILVER": {
-    "name": "Blobfish SILVER"
+    "name": "Blobfish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "BLOCK_ZAPPER": {
     "name": "Block Zapper",
@@ -3144,7 +3161,8 @@
       "C1": "MOLTEN_POWDER:32",
       "C2": "COMPACT_OOZE:20",
       "C3": "MOLTEN_POWDER:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Burststopper_Artifact"
   },
   "BURSTSTOPPER_TALISMAN": {
     "name": "Burststopper Talisman",
@@ -4350,7 +4368,8 @@
     "name": "Charm V"
   },
   "CHARMINIZER": {
-    "name": "Charminizer"
+    "name": "Charminizer",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Charminizer"
   },
   "CHEAP_COFFEE": {
     "name": "Cheap Coffee",
@@ -5688,7 +5707,7 @@
   },
   "CORRUPTED_NETHER_STAR": {
     "name": "Nether Star",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Star_(disambiguation)"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Star"
   },
   "CORRUPTION;1": {
     "name": "Corruption I"
@@ -6909,7 +6928,8 @@
       "C1": "MOLTEN_POWDER:48",
       "C2": "ENCHANTED_SULPHUR_CUBE:4",
       "C3": "MOLTEN_POWDER:48"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Destruction_Cloak"
   },
   "DETECTOR_RAIL": {
     "name": "Detector Rail",
@@ -12836,7 +12856,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flycatcher"
   },
   "FLYFISH_BRONZE": {
-    "name": "Flyfish BRONZE"
+    "name": "Flyfish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "FLYFISH_DIAMOND": {
     "name": "Flyfish DIAMOND",
@@ -12847,7 +12868,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "FLYFISH_SILVER": {
-    "name": "Flyfish SILVER"
+    "name": "Flyfish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "FLYING_BATS": {
     "name": "Flying Bats",
@@ -13717,7 +13739,19 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Distillates"
   },
   "GLOWSTONE_GAUNTLET": {
-    "name": "Glowstone Gauntlet"
+    "name": "Glowstone Gauntlet",
+    "recipe": {
+      "A1": "ENCHANTED_LEATHER:1",
+      "A2": "ENCHANTED_LEATHER:1",
+      "A3": "ENCHANTED_LEATHER:1",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:2",
+      "B2": "ENCHANTED_GLOWSTONE_DUST:2",
+      "B3": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C1": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C3": "ENCHANTED_GLOWSTONE_DUST:2"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Gauntlet"
   },
   "GLOWSTONE_GENERATOR_1": {
     "name": "Glowstone Minion I",
@@ -14022,7 +14056,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Dragon_Pet"
   },
   "GOLDEN_FISH_BRONZE": {
-    "name": "Golden Fish BRONZE"
+    "name": "Golden Fish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GOLDEN_FISH_DIAMOND": {
     "name": "Golden Fish DIAMOND",
@@ -14032,7 +14067,8 @@
     "name": "Golden Fish GOLD"
   },
   "GOLDEN_FISH_SILVER": {
-    "name": "Golden Fish SILVER"
+    "name": "Golden Fish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GOLDEN_PLATE": {
     "name": "Golden Plate",
@@ -15127,7 +15163,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Chestplate"
   },
   "GUSHER_BRONZE": {
-    "name": "Gusher BRONZE"
+    "name": "Gusher BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GUSHER_DIAMOND": {
     "name": "Gusher DIAMOND",
@@ -15138,7 +15175,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GUSHER_SILVER": {
-    "name": "Gusher SILVER"
+    "name": "Gusher SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GYROKINETIC_WAND": {
     "name": "Gyrokinetic Wand",
@@ -18276,7 +18314,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kalhuiki_Mask"
   },
   "KARATE_FISH_BRONZE": {
-    "name": "Karate Fish BRONZE"
+    "name": "Karate Fish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "KARATE_FISH_DIAMOND": {
     "name": "Karate Fish DIAMOND",
@@ -18287,7 +18326,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "KARATE_FISH_SILVER": {
-    "name": "Karate Fish SILVER"
+    "name": "Karate Fish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "KAT_FLOWER": {
     "name": "Kat Flower",
@@ -18420,6 +18460,10 @@
   },
   "KUUDRA_MANDIBLE": {
     "name": "Kuudra Mandible"
+  },
+  "KUUDRA_TEETH": {
+    "name": "Kuudra Teeth",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Teeth"
   },
   "KUUDRA_TIER_KEY": {
     "name": "Kuudra Key",
@@ -19034,7 +19078,8 @@
     "name": "Lava Bucket"
   },
   "LAVA_HORSE_BRONZE": {
-    "name": "Lavahorse BRONZE"
+    "name": "Lavahorse BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "LAVA_HORSE_DIAMOND": {
     "name": "Lavahorse DIAMOND",
@@ -19045,7 +19090,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "LAVA_HORSE_SILVER": {
-    "name": "Lava Horse SILVER"
+    "name": "Lava Horse SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "LAVA_SHELL": {
     "name": "Lava Shell"
@@ -19558,7 +19604,8 @@
     "name": "Luck of the Sea VI"
   },
   "LUMINO_FIBER": {
-    "name": "Lumino Fiber"
+    "name": "Lumino Fiber",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lumino_Fiber"
   },
   "LUMP_OF_MAGMA": {
     "name": "Lump of Magma"
@@ -19985,22 +20032,81 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silver_Magmafish"
   },
   "MAGMA_LORD_BOOTS": {
-    "name": "Magma Lord Boots"
+    "name": "Magma Lord Boots",
+    "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Armor"
   },
   "MAGMA_LORD_CHESTPLATE": {
-    "name": "Magma Lord Chestplate"
+    "name": "Magma Lord Chestplate",
+    "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "MAGMA_LORD_FRAGMENT:1",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "MAGMA_LORD_FRAGMENT:1",
+      "C2": "MAGMA_LORD_FRAGMENT:1",
+      "C3": "MAGMA_LORD_FRAGMENT:1"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Armor"
   },
   "MAGMA_LORD_FRAGMENT": {
     "name": "Magma Lord Fragment"
   },
   "MAGMA_LORD_GAUNTLET": {
-    "name": "Magma Lord Gauntlet"
+    "name": "Magma Lord Gauntlet",
+    "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "MAGMA_LORD_FRAGMENT:1",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "MAGMA_LORD_FRAGMENT:1",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
   },
   "MAGMA_LORD_HELMET": {
-    "name": "Magma Lord Helmet"
+    "name": "Magma Lord Helmet",
+    "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "MAGMA_LORD_FRAGMENT:1",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Armor"
   },
   "MAGMA_LORD_LEGGINGS": {
-    "name": "Magma Lord Leggings"
+    "name": "Magma Lord Leggings",
+    "recipe": {
+      "A1": "MAGMA_LORD_FRAGMENT:1",
+      "A2": "MAGMA_LORD_FRAGMENT:1",
+      "A3": "MAGMA_LORD_FRAGMENT:1",
+      "B1": "MAGMA_LORD_FRAGMENT:1",
+      "B2": "",
+      "B3": "MAGMA_LORD_FRAGMENT:1",
+      "C1": "MAGMA_LORD_FRAGMENT:1",
+      "C2": "",
+      "C3": "MAGMA_LORD_FRAGMENT:1"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Lord_Armor"
   },
   "MAGMA_NECKLACE": {
     "name": "Magma Necklace",
@@ -20102,7 +20208,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mana_Flux_Power_Orb"
   },
   "MANA_RAY_BRONZE": {
-    "name": "Mana Ray BRONZE"
+    "name": "Mana Ray BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MANA_RAY_DIAMOND": {
     "name": "Mana Ray DIAMOND",
@@ -20113,7 +20220,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MANA_RAY_SILVER": {
-    "name": "Mana Ray SILVER"
+    "name": "Mana Ray SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MANA_STEAL;1": {
     "name": "Mana Steal I"
@@ -20126,6 +20234,9 @@
   },
   "MANA_VAMPIRE;1": {
     "name": "Mana Vampire I"
+  },
+  "MANA_VAMPIRE;10": {
+    "name": "Mana Vampire X"
   },
   "MANA_VAMPIRE;2": {
     "name": "Mana Vampire II"
@@ -20147,6 +20258,9 @@
   },
   "MANA_VAMPIRE;8": {
     "name": "Mana Vampire VIII"
+  },
+  "MANA_VAMPIRE;9": {
+    "name": "Mana Vampire IX"
   },
   "MANDRAA": {
     "name": "Mandraa",
@@ -21458,7 +21572,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Moil_Log"
   },
   "MOLDFIN_BRONZE": {
-    "name": "Moldfin BRONZE"
+    "name": "Moldfin BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MOLDFIN_DIAMOND": {
     "name": "Moldfin DIAMOND",
@@ -21469,7 +21584,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MOLDFIN_SILVER": {
-    "name": "Moldfin SILVER"
+    "name": "Moldfin SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "MOLTEN_BELT": {
     "name": "Molten Belt"
@@ -22798,7 +22914,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oak_Minion"
   },
   "OBFUSCATED_FISH_1_BRONZE": {
-    "name": "Obfuscated 1 BRONZE"
+    "name": "Obfuscated 1 BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "OBFUSCATED_FISH_1_DIAMOND": {
     "name": "Obfuscated 1 DIAMOND",
@@ -22809,7 +22926,28 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "OBFUSCATED_FISH_1_SILVER": {
-    "name": "Obfuscated 1 SILVER"
+    "name": "Obfuscated 1 SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_2_BRONZE": {
+    "name": "Obfuscated 2 BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_2_GOLD": {
+    "name": "Obfuscated 2 GOLD",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_2_SILVER": {
+    "name": "Obfuscated 2 SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_3_BRONZE": {
+    "name": "Obfuscated 3 BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_3_SILVER": {
+    "name": "Obfuscated 3 SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "OBSIDIAN": {
     "name": "Obsidian"
@@ -23067,7 +23205,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "ODGERS_BRONZE_TOOTH": {
-    "name": "Odger\u0027s Bronze Tooth"
+    "name": "Odger\u0027s Bronze Tooth",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odger%27s_Tooth"
   },
   "ODGERS_DIAMOND_TOOTH": {
     "name": "Odger\u0027s Diamond Tooth",
@@ -23078,7 +23217,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "ODGERS_SILVER_TOOTH": {
-    "name": "Odger\u0027s Silver Tooth"
+    "name": "Odger\u0027s Silver Tooth",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odger%27s_Tooth"
   },
   "OIL_BARREL": {
     "name": "Oil Barrel",
@@ -25937,7 +26077,8 @@
       "C1": "ORB_OF_ENERGY:32",
       "C2": "ORB_OF_ENERGY:32",
       "C3": "ORB_OF_ENERGY:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pulse_Ring"
   },
   "PUMPKIN": {
     "name": "Pumpkin"
@@ -28884,7 +29025,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorched_Books"
   },
   "SCORCHED_POWER_CRYSTAL": {
-    "name": "Scorched Power Crystal"
+    "name": "Scorched Power Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorched_Power_Crystal"
   },
   "SCORNCLAW_BREW": {
     "name": "Scornclaw Brew"
@@ -29615,7 +29757,19 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shiny_Orb"
   },
   "SHINY_PRISM": {
-    "name": "Shiny Prism"
+    "name": "Shiny Prism",
+    "recipe": {
+      "A1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:10",
+      "A3": "ENCHANTED_GLOWSTONE_DUST:10",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "B2": "GAZING_PEARL:10",
+      "B3": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C1": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:10",
+      "C3": "ENCHANTED_GLOWSTONE_DUST:10"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shiny_Prism"
   },
   "SHINY_RELIC": {
     "name": "Shiny Relic #1-7",
@@ -29949,7 +30103,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON_FISH_BRONZE": {
-    "name": "Skeleton Fish BRONZE"
+    "name": "Skeleton Fish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SKELETON_FISH_DIAMOND": {
     "name": "Skeleton Fish DIAMOND",
@@ -29960,7 +30115,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SKELETON_FISH_SILVER": {
-    "name": "Skeleton Fish SILVER"
+    "name": "Skeleton Fish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SKELETON_GENERATOR_1": {
     "name": "Skeleton Minion I",
@@ -30519,7 +30675,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sludge_Juice"
   },
   "SLUGFISH_BRONZE": {
-    "name": "Slugfish BRONZE"
+    "name": "Slugfish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SLUGFISH_DIAMOND": {
     "name": "Slugfish DIAMOND",
@@ -30530,7 +30687,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SLUGFISH_SILVER": {
-    "name": "Slugfish SILVER"
+    "name": "Slugfish SILVER",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SLUG_BOOTS": {
     "name": "Slug Boots",
@@ -31305,7 +31463,8 @@
       "C1": "WILSON_ENGINEERING_PLANS:1",
       "C2": "ALERT_FLARE:1",
       "C3": "INFERNO_VERTEX:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/SOS_Flare"
   },
   "SOULFLOW": {
     "name": "Soulflow",
@@ -31413,7 +31572,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Soul_Esoward"
   },
   "SOUL_FISH_BRONZE": {
-    "name": "Soul Fish BRONZE"
+    "name": "Soul Fish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SOUL_FISH_DIAMOND": {
     "name": "Soul Fish DIAMOND",
@@ -33473,7 +33633,8 @@
     "name": "Water"
   },
   "STEAMING_HOT_FLOUNDER_BRONZE": {
-    "name": "Steaming-Hot Flounder BRONZE"
+    "name": "Steaming-Hot Flounder BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "STEAMING_HOT_FLOUNDER_DIAMOND": {
     "name": "Steaming-Hot Flounder DIAMOND",
@@ -33965,6 +34126,9 @@
   "STRONG_MANA;8": {
     "name": "Strong Mana VIII"
   },
+  "STRONG_MANA;9": {
+    "name": "Strong Mana IX"
+  },
   "STRONG_SHIMMER": {
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -33973,7 +34137,8 @@
     "name": "Stun Potion"
   },
   "SUBZERO_INVERTER": {
-    "name": "Subzero Inverter"
+    "name": "Subzero Inverter",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Subzero_Inverter"
   },
   "SUGAR": {
     "name": "Sugar",
@@ -34207,7 +34372,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sulphur"
   },
   "SULPHUR_SKITTER_BRONZE": {
-    "name": "Sulphur Skitter BRONZE"
+    "name": "Sulphur Skitter BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "SULPHUR_SKITTER_GOLD": {
     "name": "Sulphur Skitter GOLD",
@@ -34484,7 +34650,8 @@
       "C1": "MOLTEN_POWDER:64",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tactical_Insertion"
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
@@ -35557,9 +35724,9 @@
       "B1": "",
       "B2": "ENCHANTED_SULPHUR:10",
       "B3": "",
-      "C1": "MAGMA_CHUNK:20",
+      "C1": "MAGMA_CHUNK:30",
       "C2": "CORRUPTED_FRAGMENT:20",
-      "C3": "MAGMA_CHUNK:20"
+      "C3": "MAGMA_CHUNK:30"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Totem_of_Corruption"
   },
@@ -36381,7 +36548,8 @@
     "name": "Vampirism VI"
   },
   "VANILLE_BRONZE": {
-    "name": "Vanille BRONZE"
+    "name": "Vanille BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "VANILLE_DIAMOND": {
     "name": "Vanille DIAMOND",
@@ -36737,7 +36905,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
   "VOLCANIC_STONEFISH_BRONZE": {
-    "name": "Volcanic Stonefish BRONZE"
+    "name": "Volcanic Stonefish BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "VOLCANIC_STONEFISH_DIAMOND": {
     "name": "Volcanic Stonefish DIAMOND",
@@ -37321,7 +37490,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wiki_Journal"
   },
   "WILSON_ENGINEERING_PLANS": {
-    "name": "Wilson\u0027s Engineering Plans"
+    "name": "Wilson\u0027s Engineering Plans",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wilson\u0027s_Engineering_Plans"
   },
   "WIND_CHIMES": {
     "name": "Wind Chimes",
