@@ -20,7 +20,8 @@
     "PARKOUR_POINT": 0,
     "LEAVES:3": 0,
     "ENCHANTED_POPPY": 28800,
-    "ENCHANTED_DANDELION": 8000
+    "ENCHANTED_DANDELION": 8000,
+    "ROGUE_SWORD": 5000
   },
   "automatic": {
     "CARROT_STICK": 3.0,
