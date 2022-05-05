@@ -787,13 +787,15 @@
     "sven",
     "tara",
     "rev",
-    "enderman"
+    "enderman",
+    "blaze"
   ],
   "SLAYER_NAMES_MAP": {
     "sven": "wolf",
     "rev": "zombie",
     "tara": "spider",
-    "enderman": "enderman"
+    "enderman": "enderman",
+    "blaze": "blaze"
   },
   "SLAYER_EMOJI_MAP": {
     "sven": "<:sven_packmaster:800002277648891914>",
