@@ -777,10 +777,11 @@
     "Rainbow"
   ],
   "SLAYER_DEPRECATION_SCALING": {
-    "rev": 0.82030106128,
-    "tara": 0.8248013266,
-    "sven": 0.83460185724,
-    "enderman": 0.8507026532
+    "rev": 0.75030106128,
+    "tara": 0.7732512436,
+    "sven": 0.80852054920,
+    "enderman": 0.8374104242,
+    "blaze": 0.87
   },
   "SLAYER_NAMES": [
     "sven",
