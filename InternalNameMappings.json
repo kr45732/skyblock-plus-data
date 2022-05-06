@@ -11532,6 +11532,9 @@
   "FEROCIOUS_MANA;8": {
     "name": "Ferocious Mana VIII"
   },
+  "FEROCIOUS_MANA;9": {
+    "name": "Ferocious Mana IX"
+  },
   "FERVOR_BOOTS": {
     "name": "Fervor Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fervor_Armor"
@@ -12239,6 +12242,9 @@
       "C3": "BOW:1"
     }
   },
+  "FLAME;2": {
+    "name": "Flame II"
+  },
   "FLAMEBREAKER_BOOTS": {
     "name": "Ember Ash Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flamebreaker_Armor"
@@ -12885,6 +12891,10 @@
   },
   "FLYING_FISH;4": {
     "name": "Legendary Flying Fish",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
+  },
+  "FLYING_FISH;5": {
+    "name": "Mythic Flying Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
   },
   "FLY_SWATTER": {
@@ -26948,6 +26958,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Radiant_Power_Orb"
   },
+  "RADIOACTIVE_VIAL": {
+    "name": "Radioactive Vial"
+  },
   "RAGGEDY_SHARK_TOOTH_NECKLACE": {
     "name": "Raggedy Shark Tooth Necklace",
     "recipe": {
@@ -35437,7 +35450,18 @@
     "name": "Thunderbolt VI"
   },
   "THUNDERBOLT_NECKLACE": {
-    "name": "Thunderbolt Necklace"
+    "name": "Thunderbolt Necklace",
+    "recipe": {
+      "A1": "THUNDER_SHARDS:1",
+      "A2": "",
+      "A3": "THUNDER_SHARDS:1",
+      "B1": "THUNDER_SHARDS:1",
+      "B2": "",
+      "B3": "THUNDER_SHARDS:1",
+      "C1": "",
+      "C2": "THUNDER_SHARDS:1",
+      "C3": ""
+    }
   },
   "THUNDERLORD;1": {
     "name": "Thunderlord I"
@@ -36146,6 +36170,21 @@
   },
   "ULTIMATE_FATAL_TEMPO;1": {
     "name": "Fatal Tempo I"
+  },
+  "ULTIMATE_FLASH;1": {
+    "name": "Flash I"
+  },
+  "ULTIMATE_FLASH;2": {
+    "name": "Flash II"
+  },
+  "ULTIMATE_FLASH;3": {
+    "name": "Flash III"
+  },
+  "ULTIMATE_FLASH;4": {
+    "name": "Flash IV"
+  },
+  "ULTIMATE_FLASH;5": {
+    "name": "Flash V"
   },
   "ULTIMATE_INFERNO;1": {
     "name": "Inferno I"
