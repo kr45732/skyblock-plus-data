@@ -3126,7 +3126,7 @@
       "A2": "MAGMA_FISH_GOLD:1",
       "A3": "",
       "B1": "",
-      "B2": "MOLTEN_POWDER:1",
+      "B2": "MOLTEN_POWDER:8",
       "B3": "",
       "C1": "",
       "C2": "FIREDUST_DAGGER:1",
@@ -3141,7 +3141,7 @@
       "A2": "ENCHANTED_SULPHUR_CUBE:1",
       "A3": "",
       "B1": "",
-      "B2": "MOLTEN_POWDER:1",
+      "B2": "MOLTEN_POWDER:8",
       "B3": "",
       "C1": "",
       "C2": "MAWDUST_DAGGER:1",
@@ -11832,7 +11832,7 @@
     "name": "Firedust Dagger",
     "recipe": {
       "A1": "",
-      "A2": "MAGMA_FISH_SILVER:32",
+      "A2": "MAGMA_FISH_SILVER:30",
       "A3": "",
       "B1": "",
       "B2": "MOLTEN_POWDER:1",
@@ -20001,13 +20001,13 @@
     "name": "Gold Magmafish",
     "recipe": {
       "A1": "",
-      "A2": "MAGMA_FISH_SILVER:10",
+      "A2": "MAGMA_FISH_SILVER:16",
       "A3": "",
-      "B1": "MAGMA_FISH_SILVER:10",
-      "B2": "MAGMA_FISH_SILVER:10",
-      "B3": "MAGMA_FISH_SILVER:10",
+      "B1": "MAGMA_FISH_SILVER:16",
+      "B2": "MAGMA_FISH_SILVER:16",
+      "B3": "MAGMA_FISH_SILVER:16",
       "C1": "",
-      "C2": "MAGMA_FISH_SILVER:10",
+      "C2": "MAGMA_FISH_SILVER:16",
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gold_Magmafish"
@@ -36274,6 +36274,18 @@
   },
   "ULTIMATE_REITERATE;1": {
     "name": "Duplex I"
+  },
+  "ULTIMATE_REITERATE;2": {
+    "name": "Duplex II"
+  },
+  "ULTIMATE_REITERATE;3": {
+    "name": "Duplex III"
+  },
+  "ULTIMATE_REITERATE;4": {
+    "name": "Duplex IV"
+  },
+  "ULTIMATE_REITERATE;5": {
+    "name": "Duplex V"
   },
   "ULTIMATE_REND;1": {
     "name": "Rend I",
