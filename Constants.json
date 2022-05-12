@@ -1213,45 +1213,21 @@
     }
   },
   "ARMOR_PRESTIGE_COST": {
-    "HOT": [
-      {
-        "item": "KUUDRA_TEETH",
-        "count": 10
-      },
-      {
-        "item": "CRIMSON_ESSENCE",
-        "count": 150
-      }
-    ],
-    "BURNING": [
-      {
-        "item": "KUUDRA_TEETH",
-        "count": 20
-      },
-      {
-        "item": "CRIMSON_ESSENCE",
-        "count": 800
-      }
-    ],
-    "FIERY": [
-      {
-        "item": "KUUDRA_TEETH",
-        "count": 50
-      },
-      {
-        "item": "CRIMSON_ESSENCE",
-        "count": 4500
-      }
-    ],
-    "INFERNAL": [
-      {
-        "item": "KUUDRA_TEETH",
-        "count": 80
-      },
-      {
-        "item": "CRIMSON_ESSENCE",
-        "count": 25500
-      }
-    ]
+    "HOT": {
+      "KUUDRA_TEETH": 10,
+      "CRIMSON_ESSENCE": 150
+    },
+    "BURNING": {
+      "KUUDRA_TEETH": 20,
+      "CRIMSON_ESSENCE": 800
+    },
+    "FIERY": {
+      "KUUDRA_TEETH": 50,
+      "CRIMSON_ESSENCE": 4500
+    },
+    "INFERNAL": {
+      "KUUDRA_TEETH": 80,
+      "CRIMSON_ESSENCE": 25500
+    }
   }
 }
