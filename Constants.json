@@ -779,7 +779,7 @@
   "SLAYER_DEPRECATION_SCALING": {
     "rev": 0.75030106128,
     "tara": 0.7732512436,
-    "sven": 0.80852054920,
+    "sven": 0.8085205492,
     "enderman": 0.8374104242,
     "blaze": 0.87
   },
@@ -1211,5 +1211,47 @@
         50000
       ]
     }
+  },
+  "ARMOR_PRESTIGE_COST": {
+    "HOT": [
+      {
+        "item": "KUUDRA_TEETH",
+        "count": 10
+      },
+      {
+        "item": "CRIMSON_ESSENCE",
+        "count": 150
+      }
+    ],
+    "BURNING": [
+      {
+        "item": "KUUDRA_TEETH",
+        "count": 20
+      },
+      {
+        "item": "CRIMSON_ESSENCE",
+        "count": 800
+      }
+    ],
+    "FIERY": [
+      {
+        "item": "KUUDRA_TEETH",
+        "count": 50
+      },
+      {
+        "item": "CRIMSON_ESSENCE",
+        "count": 4500
+      }
+    ],
+    "INFERNAL": [
+      {
+        "item": "KUUDRA_TEETH",
+        "count": 80
+      },
+      {
+        "item": "CRIMSON_ESSENCE",
+        "count": 25500
+      }
+    ]
   }
 }
