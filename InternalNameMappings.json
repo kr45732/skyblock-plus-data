@@ -6315,6 +6315,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crystal_Armor"
   },
+  "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Crystal Nucleus"
+  },
   "CUBISM;1": {
     "name": "Cubism I"
   },
@@ -14669,7 +14672,7 @@
   },
   "GRANDMA_WOLF;4": {
     "name": "Legendary Grandma Wolf",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf"
   },
   "GRAND_EXP_BOTTLE": {
     "name": "Grand Experience Bottle",
@@ -20695,7 +20698,7 @@
   },
   "MELODY_HAIR": {
     "name": "Melody\u0027s Hair",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melody\u0027s_Hair"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melody%27s_Hair"
   },
   "MELON": {
     "name": "Melon"
@@ -25021,7 +25024,7 @@
   },
   "PIGS_FOOT": {
     "name": "Pig\u0027s Foot",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig\u0027s_Foot"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig%27s_Foot"
   },
   "PIG_AXE": {
     "name": "Pig Axe",
