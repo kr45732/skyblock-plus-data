@@ -388,17 +388,17 @@
     "name": "Pioneer Pickaxe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pioneer_Pickaxe"
   },
-  "AMALGAMATED_CRIMSONITE": {
+  "AMALGAMATED_CRIMSONITE_NEW": {
     "name": "Amalgamated Crimsonite",
     "recipe": {
       "A1": "",
-      "A2": "ENCHANTED_SULPHUR:1",
-      "A3": "MYCEL:40",
-      "B1": "ENCHANTED_MAGMA_CREAM:1",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:32",
+      "A3": "ENCHANTED_MYCELIUM:8",
+      "B1": "ENCHANTED_MAGMA_CREAM:32",
       "B2": "",
-      "B3": "ENCHANTED_BLAZE_POWDER:1",
-      "C1": "SAND-1:40",
-      "C2": "ENCHANTED_NETHER_STALK:1",
+      "B3": "ENCHANTED_BLAZE_POWDER:32",
+      "C1": "ENCHANTED_RED_SAND:8",
+      "C2": "ENCHANTED_NETHER_STALK:32",
       "C3": ""
     }
   },
@@ -2096,7 +2096,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bits_Talisman"
   },
   "BITTER_ICE_TEA": {
-    "name": "Bitter Ice Tea",
+    "name": "Bitter Iced Tea",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Brews"
   },
   "BLACKSMITH_PLUS": {
@@ -17156,6 +17156,10 @@
   "INFINITE_QUIVER;9": {
     "name": "Infinite Quiver IX"
   },
+  "INFINITE_SPIRIT_LEAP": {
+    "name": "Infinileap",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Infinileap"
+  },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Infinityboom_TNT"
@@ -17357,7 +17361,7 @@
     }
   },
   "INK_SACK": {
-    "name": "Ink Sack"
+    "name": "Ink Sac"
   },
   "INK_WAND": {
     "name": "Ink Wand",
@@ -22357,6 +22361,9 @@
   },
   "NETHERRACK": {
     "name": "Netherrack"
+  },
+  "NETHERRACK_LOOKING_SUNSHADE": {
+    "name": "Netherrack-Looking Sunshade"
   },
   "NETHER_ARTIFACT": {
     "name": "Nether Artifact",
