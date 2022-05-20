@@ -955,6 +955,9 @@
     "name": "Auto Recombobulator",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Auto_Recombobulator"
   },
+  "AUTO_REVIVE_PERK_ITEM": {
+    "name": "Purchase Auto Revive"
+  },
   "AUTO_SMELTER": {
     "name": "Auto Smelter",
     "recipe": {
@@ -35748,6 +35751,9 @@
       "C2": "SAND:1",
       "C3": "SULPHUR:1"
     }
+  },
+  "TNT_CHARGE": {
+    "name": "TNT Charge"
   },
   "TOIL_LOG": {
     "name": "Toil Log",
