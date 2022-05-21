@@ -1234,5 +1234,91 @@
       "HEAVY_PEARL": 12,
       "CRIMSON_ESSENCE": 115600
     }
+  },
+  "POWER_TO_BASE_STATS": {
+    "scorching": {
+      "strength": 8.4,
+      "critical_damage": 9.6,
+      "attack_speed": 1.8
+    },
+    "healthy": {
+      "health": 33.6
+    },
+    "slender": {
+      "health": 6.7,
+      "defense": 4.8,
+      "walk_speed": 0.6,
+      "strength": 4.8,
+      "intelligence": 7.2,
+      "critical_damage": 4.8,
+      "attack_speed": 0.7
+    },
+    "strong": {
+      "strength": 12,
+      "critical_damage": 12
+    },
+    "bizarre": {
+      "strength": -2.4,
+      "intelligence": 43.2,
+      "critical_damage": -2.4
+    },
+    "demonic": {
+      "strength": 5.5,
+      "intelligence": 27.725
+    },
+    "hurtful": {
+      "strength": 4.8,
+      "critical_damage": 19.2
+    },
+    "pleasant": {
+      "health": 13.45,
+      "defense": 14.4
+    },
+    "addept": {
+      "health": 16.8,
+      "defense": 9.6,
+      "intelligence": 3.6
+    },
+    "bloody": {
+      "strength": 10.8,
+      "intelligence": 3.6,
+      "critical_damage": 10.8
+    },
+    "forceful": {
+      "health": 1.7,
+      "strength": 18,
+      "critical_damage": 4.8
+    },
+    "itchy": {
+      "walk_speed": 1.2,
+      "strength": 7.2,
+      "critical_damage": 8.4,
+      "attack_speed": 1.8
+    },
+    "mythical": {
+      "health": 5.7,
+      "defense": 4.05,
+      "walk_speed": 0.95,
+      "strength": 4.05,
+      "intelligence": 6.1,
+      "critical_chance": 1.65,
+      "critical_damage": 4.05
+    },
+    "shaded": {
+      "walk_speed": 0.6,
+      "strength": 4.8,
+      "critical_damage": 18
+    },
+    "sighted": {
+      "intelligence": 36
+    },
+    "silky": {
+      "critical_damage": 24
+    },
+    "sweet": {
+      "health": 15.1,
+      "defense": 10.8,
+      "walk_speed": 1.2
+    }
   }
 }
