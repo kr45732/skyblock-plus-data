@@ -1319,6 +1319,83 @@
       "health": 15.1,
       "defense": 10.8,
       "walk_speed": 1.2
+    },
+    "lucky": {
+      "health": 1.6980906861589284,
+      "defense": 0.612917626165859,
+      "strength": 2.4283405456887315,
+      "critical_chance": 2.196616405489589,
+      "critical_damage": 2.4283405456887315
+    },
+    "warrior": {
+      "health": 1.6980906861589284,
+      "defense": 0.612917626165859,
+      "strength": 4.254926303315772,
+      "critical_chance": 1.212700109579993,
+      "critical_damage": 3.04125817185459
+    },
+    "pretty": {
+      "health": 0.8495293540200587,
+      "defense": 0.612917626165859,
+      "walk_speed": 0.3069428240235239,
+      "strength": 2.4283405456887315,
+      "intelligence": 5.467626412895766,
+      "critical_chance": 0.7341694253036715,
+      "critical_damage": 2.4283405456887315
+    },
+    "protected": {
+      "health": 5.953016989474701,
+      "defense": 5.467626412895766,
+      "strength": 1.212700109579993,
+      "critical_chance": 0.24877884872473577,
+      "critical_damage": 0.612917626165859
+    },
+    "simple": {
+      "health": 2.5607551829307122,
+      "defense": 1.8216981699719832,
+      "walk_speed": 0.612917626165859,
+      "strength": 1.8216981699719832,
+      "intelligence": 2.7352833697122554,
+      "critical_chance": 0.7341694253036715,
+      "critical_damage": 1.8216981699719832
+    },
+    "disciplined": {
+      "health": 2.5607551829307122,
+      "defense": 1.212700109579993,
+      "strength": 3.6459282429237816,
+      "critical_chance": 0.7341694253036715,
+      "critical_damage": 3.6459282429237816
+    },
+    "commando": {
+      "health": 2.5607551829307122,
+      "defense": 1.212700109579993,
+      "strength": 4.254926303315772,
+      "critical_chance": 0.24877884872473577,
+      "critical_damage": 4.254926303315772
+    },
+    "inspired": {
+      "health": 0.8495293540200587,
+      "defense": 0.612917626165859,
+      "strength": 2.4283405456887315,
+      "intelligence": 8.20290978260802,
+      "critical_chance": 0.4853905765789356,
+      "critical_damage": 1.8216981699719832
+    },
+    "prepared": {
+      "health": 6.30346102583184,
+      "defense": 5.712485695846632,
+      "strength": 0.977056403606982,
+      "critical_chance": 0.196470482962194,
+      "critical_damage": 0.4853905765789356
+    },
+    "ominous": {
+      "health": 2.5607551829307122,
+      "walk_speed": 0.4853905765789356,
+      "strength": 1.8216981699719832,
+      "intelligence": 2.196616405489589,
+      "critical_chance": 0.7341694253036715,
+      "critical_damage": 1.8216981699719832,
+      "attack_speed": 0.7341694253036715
     }
   }
 }
