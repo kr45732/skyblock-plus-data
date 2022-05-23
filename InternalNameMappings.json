@@ -388,6 +388,9 @@
     "name": "Pioneer Pickaxe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pioneer_Pickaxe"
   },
+  "AMALGAMATED_CRIMSONITE": {
+    "name": "Amalgamated Crimsonite (Old)"
+  },
   "AMALGAMATED_CRIMSONITE_NEW": {
     "name": "Amalgamated Crimsonite",
     "recipe": {
@@ -13253,6 +13256,10 @@
     "name": "Furnace+",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "GABAGOEY_MIXIN": {
+    "name": "Gabagoey Mixin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mixins"
+  },
   "GAME_ANNIHILATOR": {
     "name": "Game Annihilator",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Game_Annihilator"
@@ -16810,13 +16817,13 @@
     "name": "Inferno Minion X",
     "recipe": {
       "A1": "MOLTEN_POWDER:64",
-      "A2": "INFERNO_VORTEX:12",
+      "A2": "INFERNO_VERTEX:12",
       "A3": "MOLTEN_POWDER:64",
-      "B1": "INFERNO_VORTEX:12",
+      "B1": "INFERNO_VERTEX:12",
       "B2": "INFERNO_GENERATOR_9:1",
-      "B3": "INFERNO_VORTEX:12",
+      "B3": "INFERNO_VERTEX:12",
       "C1": "MOLTEN_POWDER:64",
-      "C2": "INFERNO_VORTEX:12",
+      "C2": "INFERNO_VERTEX:12",
       "C3": "MOLTEN_POWDER:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
@@ -16945,13 +16952,13 @@
     "name": "Inferno Minion IX",
     "recipe": {
       "A1": "MOLTEN_POWDER:64",
-      "A2": "INFERNO_VORTEX:4",
+      "A2": "INFERNO_VERTEX:4",
       "A3": "MOLTEN_POWDER:64",
-      "B1": "INFERNO_VORTEX:4",
+      "B1": "INFERNO_VERTEX:4",
       "B2": "INFERNO_GENERATOR_8:1",
-      "B3": "INFERNO_VORTEX:4",
+      "B3": "INFERNO_VERTEX:4",
       "C1": "MOLTEN_POWDER:64",
-      "C2": "INFERNO_VORTEX:4",
+      "C2": "INFERNO_VERTEX:4",
       "C3": "MOLTEN_POWDER:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
