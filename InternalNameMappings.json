@@ -3159,13 +3159,13 @@
     "name": "Burststopper Artifact",
     "recipe": {
       "A1": "MOLTEN_POWDER:32",
-      "A2": "COMPACT_OOZE:20",
+      "A2": "WHIPPED_MAGMA_CREAM:20",
       "A3": "MOLTEN_POWDER:32",
-      "B1": "COMPACT_OOZE:20",
-      "B2": "REFINED_TITANIUM:64",
-      "B3": "COMPACT_OOZE:20",
+      "B1": "WHIPPED_MAGMA_CREAM:20",
+      "B2": "BURSTSTOPPER_TALISMAN:1",
+      "B3": "WHIPPED_MAGMA_CREAM:20",
       "C1": "MOLTEN_POWDER:32",
-      "C2": "COMPACT_OOZE:20",
+      "C2": "WHIPPED_MAGMA_CREAM:20",
       "C3": "MOLTEN_POWDER:32"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Burststopper_Artifact"
@@ -12345,17 +12345,6 @@
   },
   "FLAMING_FIST": {
     "name": "Flaming Fist",
-    "recipe": {
-      "A1": "FLAMES:1",
-      "A2": "FLAMES:1",
-      "A3": "FLAMES:1",
-      "B1": "LEATHER_CLOTH:6",
-      "B2": "LEATHER_CLOTH:6",
-      "B3": "LEATHER_CLOTH:6",
-      "C1": "LEATHER_CLOTH:6",
-      "C2": "LEATHER_CLOTH:6",
-      "C3": "LEATHER_CLOTH:6"
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flaming_Fist"
   },
   "FLAMING_HEART": {
