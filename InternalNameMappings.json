@@ -14082,7 +14082,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GOLDEN_FISH_GOLD": {
-    "name": "Golden Fish GOLD"
+    "name": "Golden Fish GOLD",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "GOLDEN_FISH_SILVER": {
     "name": "Golden Fish SILVER",
@@ -35948,6 +35949,10 @@
   },
   "TRUE_PROTECTION;1": {
     "name": "True Protection I"
+  },
+  "TRUE_WARDEN": {
+    "name": "True Warden Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "TUNING_FORK": {
     "name": "Tuning Fork",
