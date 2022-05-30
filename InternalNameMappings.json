@@ -1839,6 +1839,9 @@
     "name": "Epic Bingo",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
+  "BINGO_ARTIFACT": {
+    "name": "Bingo Artifact"
+  },
   "BINGO_CARD": {
     "name": "Bingo Card",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Card_(Item)"
@@ -7441,6 +7444,9 @@
       "C3": "COBBLESTONE:1"
     }
   },
+  "DITTO_SKIN": {
+    "name": "Ditto Skin"
+  },
   "DITTO_SKULL": {
     "name": "Ditto Skull",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ditto_Skull"
@@ -7769,6 +7775,9 @@
   "DYE_AQUAMARINE": {
     "name": "Aquamarine Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
+  },
+  "DYE_BINGO_BLUE": {
+    "name": "Bingo Blue Dye"
   },
   "DYE_BONE": {
     "name": "Bone Dye",
@@ -18459,6 +18468,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
   },
+  "KUUDRA_FOLLOWER_LEGGINGS": {
+    "name": "Kuudra Follower Leggings"
+  },
   "KUUDRA_HOT_TIER_KEY": {
     "name": "Hot Kuudra Key",
     "recipe": {
@@ -18491,6 +18503,9 @@
   },
   "KUUDRA_MANDIBLE": {
     "name": "Kuudra Mandible"
+  },
+  "KUUDRA_RELIC": {
+    "name": "Kuudra Relic"
   },
   "KUUDRA_TEETH": {
     "name": "Kuudra Teeth",
