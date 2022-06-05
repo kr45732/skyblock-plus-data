@@ -6466,7 +6466,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
   },
   "DANGER_2_PORTAL": {
-    "name": "Portal to Blazing Fortress",
+    "name": "Portal to the Crimson Isle",
     "recipe": {
       "A1": "GLOWSTONE:16",
       "A2": "GLOWSTONE:16",
@@ -7702,7 +7702,7 @@
       "C2": "DERELICT_ASHE:1",
       "C3": "DERELICT_ASHE:1"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Droplet_Wisp_Pet"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "DROPPER": {
     "name": "Dropper",
@@ -13189,6 +13189,10 @@
   "FROST_WALKER;2": {
     "name": "Frost Walker II"
   },
+  "FROST_WISP;2": {
+    "name": "Rare Frost Wisp",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
+  },
   "FROZEN_BLAZE_BOOTS": {
     "name": "Frozen Blaze Boots",
     "recipe": {
@@ -13767,6 +13771,10 @@
   "GIRAFFE;4": {
     "name": "Legendary Giraffe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
+  },
+  "GLACIAL_WISP;3": {
+    "name": "Epic Glacial Wisp",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "GLACITE_BOOTS": {
     "name": "Glacite Boots",
@@ -34383,6 +34391,10 @@
     "name": "Subzero Inverter",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Subzero_Inverter"
   },
+  "SUBZERO_WISP;4": {
+    "name": "Legendary Subzero Wisp",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
+  },
   "SUGAR": {
     "name": "Sugar",
     "recipe": {
@@ -34586,13 +34598,13 @@
     "name": "Sulphuric Coal",
     "recipe": {
       "A1": "",
-      "A2": "ENCHANTED_COAL:1",
+      "A2": "ENCHANTED_COAL:4",
       "A3": "",
-      "B1": "ENCHANTED_COAL:1",
+      "B1": "ENCHANTED_COAL:4",
       "B2": "ENCHANTED_SULPHUR:1",
-      "B3": "ENCHANTED_COAL:1",
+      "B3": "ENCHANTED_COAL:4",
       "C1": "",
-      "C2": "ENCHANTED_COAL:1",
+      "C2": "ENCHANTED_COAL:4",
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sulphuric_Coal"
