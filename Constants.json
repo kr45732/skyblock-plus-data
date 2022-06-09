@@ -4,7 +4,8 @@
   "CATACOMBS_LEVEL_50_XP": 569809640,
   "COSMETIC_SKILL_NAMES": [
     "runecrafting",
-    "carpentry"
+    "carpentry",
+    "social"
   ],
   "CRAFTED_MINIONS_TO_SLOTS": [
     0,
