@@ -27194,6 +27194,17 @@
   },
   "RAGNAROCK_AXE": {
     "name": "Ragnarock Axe",
+    "recipe": {
+      "A1": "HALLOWED_SKULL:5",
+      "A2": "HALLOWED_SKULL:5",
+      "A3": "HALLOWED_SKULL:5",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "HALLOWED_SKULL:5",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ragnarock_Axe"
   },
   "RAIDER_AXE": {
