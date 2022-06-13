@@ -13352,6 +13352,10 @@
     "name": "Gabagoey Mixin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mixins"
   },
+  "GABAGOOL_THE_FISH": {
+    "name": "Gabagool the Fish",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gabagool_the_Fish"
+  },
   "GAME_ANNIHILATOR": {
     "name": "Game Annihilator",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Game_Annihilator"
@@ -23175,6 +23179,10 @@
     "name": "Obfuscated 2 BRONZE",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
+  "OBFUSCATED_FISH_2_DIAMOND": {
+    "name": "Obfuscated 2 DIAMOND",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
   "OBFUSCATED_FISH_2_GOLD": {
     "name": "Obfuscated 2 GOLD",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
@@ -23185,6 +23193,14 @@
   },
   "OBFUSCATED_FISH_3_BRONZE": {
     "name": "Obfuscated 3 BRONZE",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_3_DIAMOND": {
+    "name": "Obfuscated 3 DIAMOND",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "OBFUSCATED_FISH_3_GOLD": {
+    "name": "Obfuscated 3 GOLD",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
   "OBFUSCATED_FISH_3_SILVER": {
