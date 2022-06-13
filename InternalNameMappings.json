@@ -5709,6 +5709,9 @@
   "COOKED_CHICKEN": {
     "name": "Cooked Chicken"
   },
+  "COOKED_FISH:1": {
+    "name": "Cooked Salmon"
+  },
   "COOKED_FISH": {
     "name": "Cooked Fish"
   },
@@ -7647,6 +7650,18 @@
   "DOLPHIN;4": {
     "name": "Legendary Dolphin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
+  },
+  "DOUBLE_PLANT:1": {
+    "name": "Lilac"
+  },
+  "DOUBLE_PLANT:2": {
+    "name": "Double Tallgrass"
+  },
+  "DOUBLE_PLANT:4": {
+    "name": "Rose Bush"
+  },
+  "DOUBLE_PLANT:5": {
+    "name": "Peony"
   },
   "DOUBLE_PLANT": {
     "name": "Sunflower"
@@ -19708,6 +19723,12 @@
   "LOG_2": {
     "name": "Acacia Wood"
   },
+  "LONG_GRASS:1": {
+    "name": "Long Grass"
+  },
+  "LONG_GRASS:2": {
+    "name": "Fern"
+  },
   "LONG_GRASS": {
     "name": "Shrub"
   },
@@ -27813,6 +27834,30 @@
     "name": "Red Nose",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Nose"
   },
+  "RED_ROSE:1": {
+    "name": "Blue Orchid"
+  },
+  "RED_ROSE:2": {
+    "name": "Allium"
+  },
+  "RED_ROSE:3": {
+    "name": "Azure Bluet"
+  },
+  "RED_ROSE:4": {
+    "name": "Red Tulip"
+  },
+  "RED_ROSE:5": {
+    "name": "Orange Tulip"
+  },
+  "RED_ROSE:6": {
+    "name": "White Tulip"
+  },
+  "RED_ROSE:7": {
+    "name": "Pink Tulip"
+  },
+  "RED_ROSE:8": {
+    "name": "Oxeye Daisy"
+  },
   "RED_ROSE": {
     "name": "Poppy"
   },
@@ -29112,6 +29157,21 @@
   "SANTA_PERSONALITY": {
     "name": "Santa Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "SAPLING:1": {
+    "name": "Spruce Sapling"
+  },
+  "SAPLING:2": {
+    "name": "Birch Sapling"
+  },
+  "SAPLING:3": {
+    "name": "Jungle Sapling"
+  },
+  "SAPLING:4": {
+    "name": "Acacia Sapling"
+  },
+  "SAPLING:5": {
+    "name": "Dark Oak Sapling"
   },
   "SAPLING": {
     "name": "Oak Sapling"
@@ -31256,6 +31316,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "SMOOTH_BRICK:2": {
+    "name": "Cracked Stone Bricks"
   },
   "SMOOTH_BRICK:3": {
     "name": "Chiseled Stone Bricks",
