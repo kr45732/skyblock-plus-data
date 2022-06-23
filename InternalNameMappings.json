@@ -9260,7 +9260,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Ice"
   },
   "ENCHANTED_INK_SACK": {
-    "name": "Enchanted Ink Sack",
+    "name": "Enchanted Ink Sac",
     "recipe": {
       "A1": "",
       "A2": "INK_SACK:16",
@@ -9272,7 +9272,7 @@
       "C2": "INK_SACK:16",
       "C3": ""
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Ink_Sack"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Ink_Sac"
   },
   "ENCHANTED_IRON": {
     "name": "Enchanted Iron",
