@@ -1399,6 +1399,13 @@
       "critical_chance": 0.7341694253036715,
       "critical_damage": 1.8216981699719832,
       "attack_speed": 0.7341694253036715
+    },
+    "fortuitous": {
+      "health": 1.6785403355386985,
+      "defense": 0.6080300385108015,
+      "strength": 2.399015019758387,
+      "critical_chance": 2.1672908795592445,
+      "critical_damage": 2.399015019758387
     }
   }
 }
