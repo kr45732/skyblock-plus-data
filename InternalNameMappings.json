@@ -5983,6 +5983,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cow_Head"
   },
+  "CRAB": {
+    "name": "Crab",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "CRACKED_PIGGY_BANK": {
     "name": "Cracked Piggy Bank",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Piggy_Bank"
@@ -12341,6 +12345,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fish_Hat"
   },
+  "FISH_PERSONALITY": {
+    "name": "Fish Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
   "FLAME;1": {
     "name": "Flame I",
     "recipe": {
@@ -15336,6 +15344,10 @@
     "name": "Halloween Candles",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "HAMMOCK": {
+    "name": "Hammock",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "HAMSTER_WHEEL": {
     "name": "Hamster Wheel",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hamster_Wheel"
@@ -16527,6 +16539,10 @@
   },
   "ICE_CHAIR": {
     "name": "Ice Chair",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "ICE_CREAM_CART": {
+    "name": "Ice Cream Cart",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "ICE_CREAM_PERSONALITY": {
@@ -24836,6 +24852,10 @@
     "name": "Seafoam Armadillo Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_BAL_INFERNO": {
+    "name": "Inferno Bal Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
   "PET_SKIN_BAT_VAMPIRE": {
     "name": "Vampire Bat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -26334,6 +26354,10 @@
       "C3": "RAW_FISH-3:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pufferfish_Hat"
+  },
+  "PUFFERFISH_PERSONALITY": {
+    "name": "Pufferfish Minion Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
   "PULPOUS_ORANGE_JUICE": {
     "name": "Pulpous Orange Juice",
@@ -31205,6 +31229,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Sack"
   },
+  "SMALL_POOL": {
+    "name": "Small Pool",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "SMALL_SHELVES": {
     "name": "Small Shelves",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -35488,7 +35516,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Terror_Leggings"
   },
   "TESSELLATED_ENDER_PEARL": {
-    "name": "Tesselated Ender Pearl",
+    "name": "Tessellated Ender Pearl",
     "recipe": {
       "A1": "ENCHANTED_LAPIS_LAZULI_BLOCK:8",
       "A2": "ABSOLUTE_ENDER_PEARL:16",
@@ -35500,7 +35528,7 @@
       "C2": "ABSOLUTE_ENDER_PEARL:16",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:8"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tesselated_Ender_Pearl"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tessellated_Ender_Pearl"
   },
   "THEORETICAL_HOE": {
     "name": "Mathematical Hoe Blueprint",
@@ -37363,6 +37391,10 @@
   "VOLCANIC_STONEFISH_SILVER": {
     "name": "Volcanic Stonefish SILVER",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "VOLLEYBALL": {
+    "name": "Volleyball Court",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "VOLTA": {
     "name": "Volta",
