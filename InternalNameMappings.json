@@ -18638,6 +18638,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
   },
+  "KUUDRA_FOLLOWER_BOOTS": {
+    "name": "Kuudra Follower Boots"
+  },
   "KUUDRA_FOLLOWER_LEGGINGS": {
     "name": "Kuudra Follower Leggings"
   },
@@ -21379,7 +21382,7 @@
       "A2": "IRON_ORE:16",
       "A3": "IRON_ORE:16",
       "B1": "GOLD_ORE:16",
-      "B2": "ENDER_PEARL:16",
+      "B2": "ENCHANTED_ENDER_PEARL:16",
       "B3": "GOLD_ORE:16",
       "C1": "GOLD_ORE:16",
       "C2": "GOLD_ORE:16",
