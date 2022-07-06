@@ -37614,7 +37614,18 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Weather_Stick"
   },
   "WEB": {
-    "name": "Cobweb"
+    "name": "Web",
+    "recipe": {
+      "A1": "STRING:1",
+      "A2": "STRING:1",
+      "A3": "STRING:1",
+      "B1": "STRING:1",
+      "B2": "STRING:1",
+      "B3": "STRING:1",
+      "C1": "STRING:1",
+      "C2": "STRING:1",
+      "C3": "STRING:1"
+    }
   },
   "WEDDING_RING_0": {
     "name": "Shiny Yellow Rock",
