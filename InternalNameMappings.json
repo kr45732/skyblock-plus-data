@@ -2945,7 +2945,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bronze_Hunter_Leggings"
   },
   "BROWN_MUSHROOM": {
-    "name": "Mushroom",
+    "name": "Brown Mushroom",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mushroom"
   },
   "BUCKET": {
@@ -3639,6 +3639,21 @@
     "name": "Candy the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Candy_the_Fish"
   },
+  "CAPSAICIN_EYEDROPS": {
+    "name": "Capsaicin Eyedrops",
+    "recipe": {
+      "A1": "CHILI_PEPPER:1",
+      "A2": "ENCHANTED_CARROT:64",
+      "A3": "CHILI_PEPPER:1",
+      "B1": "ENCHANTED_CARROT:64",
+      "B2": "WATER_HYDRA_HEAD:1",
+      "B3": "ENCHANTED_CARROT:64",
+      "C1": "CHILI_PEPPER:1",
+      "C2": "ENCHANTED_CARROT:64",
+      "C3": "CHILI_PEPPER:1"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Capsaicin_Eyedrops"
+  },
   "CARPENTRY_BENCH": {
     "name": "Carpentry Table",
     "recipe": {
@@ -4324,6 +4339,23 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cave_Spider_Minion"
   },
+  "CAYENNE;4": {
+    "name": "Cayenne IV",
+    "recipe": {
+      "A1": "CHILI_PEPPER:8",
+      "A2": "ENCHANTED_IRON_BLOCK:1",
+      "A3": "CHILI_PEPPER:8",
+      "B1": "ENCHANTED_IRON_BLOCK:1",
+      "B2": "WOOD_SINGULARITY:4",
+      "B3": "ENCHANTED_IRON_BLOCK:1",
+      "C1": "CHILI_PEPPER:8",
+      "C2": "ENCHANTED_IRON_BLOCK:1",
+      "C3": "CHILI_PEPPER:8"
+    }
+  },
+  "CAYENNE;5": {
+    "name": "Cayenne V"
+  },
   "CELESTE_BOOTS": {
     "name": "Celeste Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Celeste_Armor"
@@ -4370,6 +4402,9 @@
       "C3": "WATER_LILY:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Challenging_Rod"
+  },
+  "CHAMPION;1": {
+    "name": "Champion I"
   },
   "CHAMP_ROD": {
     "name": "Rod of Champions",
@@ -4747,6 +4782,9 @@
   "CHICK_NEST": {
     "name": "Chick Nest",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "CHILI_PEPPER": {
+    "name": "Chili Pepper"
   },
   "CHILL_THE_FISH_2": {
     "name": "Chill the Fish",
@@ -10880,6 +10918,21 @@
     "name": "Enrager",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enrager"
   },
+  "ENTROPY_SUPPRESSOR": {
+    "name": "Entropy Suppressor",
+    "recipe": {
+      "A1": "CHILI_PEPPER:8",
+      "A2": "HEAVY_GABAGOOL:4",
+      "A3": "CHILI_PEPPER:8",
+      "B1": "HEAVY_GABAGOOL:4",
+      "B2": "KELVIN_INVERTER:4",
+      "B3": "HEAVY_GABAGOOL:4",
+      "C1": "CHILI_PEPPER:8",
+      "C2": "HEAVY_GABAGOOL:4",
+      "C3": "CHILI_PEPPER:8"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Entropy_Suppressor"
+  },
   "EPOCH_CAKE_AQUA": {
     "name": "Barry Century Cake",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Century_Cake"
@@ -15907,6 +15960,9 @@
     "name": "Heavy Pearl",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Heavy_Pearl"
   },
+  "HECATOMB;1": {
+    "name": "Hecatomb I"
+  },
   "HEGEMONY_ARTIFACT": {
     "name": "Hegemony Artifact",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hegemony_Artifact"
@@ -16462,6 +16518,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hypergolic_Gabagool"
   },
+  "HYPERGOLIC_IONIZED_CERAMICS": {
+    "name": "Hypergolic Ionized Ceramics"
+  },
   "HYPERION": {
     "name": "Hyperion",
     "recipe": {
@@ -16875,6 +16934,17 @@
   },
   "INFERNO_APEX": {
     "name": "Inferno Apex",
+    "recipe": {
+      "A1": "INFERNO_VERTEX:16",
+      "A2": "MOLTEN_POWDER:16",
+      "A3": "INFERNO_VERTEX:16",
+      "B1": "MOLTEN_POWDER:16",
+      "B2": "HYPERGOLIC_IONIZED_CERAMICS:16",
+      "B3": "MOLTEN_POWDER:16",
+      "C1": "INFERNO_VERTEX:16",
+      "C2": "MOLTEN_POWDER:16",
+      "C3": "INFERNO_VERTEX:16"
+    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Apex"
   },
   "INFERNO_FUEL_BLAZE_ROD": {
@@ -17288,6 +17358,17 @@
   },
   "INFERNO_VERTEX": {
     "name": "Inferno Vertex",
+    "recipe": {
+      "A1": "",
+      "A2": "MOLTEN_POWDER:16",
+      "A3": "",
+      "B1": "MOLTEN_POWDER:16",
+      "B2": "HYPERGOLIC_IONIZED_CERAMICS:6",
+      "B3": "MOLTEN_POWDER:16",
+      "C1": "",
+      "C2": "MOLTEN_POWDER:16",
+      "C3": ""
+    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Vertex"
   },
   "INFINIDIRT_WAND": {
@@ -18009,6 +18090,21 @@
   "JADERALD": {
     "name": "Jaderald",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jaderald"
+  },
+  "JALAPENO_BOOK": {
+    "name": "Jalapeno Book",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "ENCHANTED_PAPER:1",
+      "B3": "ENCHANTED_PAPER:1",
+      "C1": "",
+      "C2": "ENCHANTED_PAPER:1",
+      "C3": "STUFFED_CHILI_PEPPER:1"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jalapeno_Book"
   },
   "JASPER_CRYSTAL": {
     "name": "Jasper Crystal",
@@ -25616,9 +25712,9 @@
       "B1": "SAND:5",
       "B2": "SAND:5",
       "B3": "SAND:5",
-      "C1": "PRISMARINE:5",
-      "C2": "PRISMARINE:5",
-      "C3": "PRISMARINE:5"
+      "C1": "PRISMARINE_CRYSTALS:5",
+      "C2": "PRISMARINE_CRYSTALS:5",
+      "C3": "PRISMARINE_CRYSTALS:5"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pond_Island"
   },
@@ -27828,15 +27924,15 @@
   "RED_CLAW_ARTIFACT": {
     "name": "Red Claw Artifact",
     "recipe": {
-      "A1": "ENCHANTED_LEATHER:64",
+      "A1": "ENCHANTED_LEATHER:32",
       "A2": "GOLDEN_TOOTH:18",
-      "A3": "ENCHANTED_LEATHER:64",
+      "A3": "ENCHANTED_LEATHER:32",
       "B1": "GOLDEN_TOOTH:18",
       "B2": "RED_CLAW_EGG:1",
       "B3": "GOLDEN_TOOTH:18",
-      "C1": "ENCHANTED_LEATHER:64",
+      "C1": "ENCHANTED_LEATHER:32",
       "C2": "RED_CLAW_RING:1",
-      "C3": "ENCHANTED_LEATHER:64"
+      "C3": "ENCHANTED_LEATHER:32"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Claw_Artifact"
   },
@@ -27879,7 +27975,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Gift"
   },
   "RED_MUSHROOM": {
-    "name": "Mushroom"
+    "name": "Red Mushroom"
   },
   "RED_NOSE": {
     "name": "Red Nose",
@@ -28202,6 +28298,21 @@
   },
   "REGENERATION": {
     "name": "Regeneration Potion"
+  },
+  "REHEATED_GUMMY_POLAR_BEAR": {
+    "name": "Re-heated Gummy Polar Bear",
+    "recipe": {
+      "A1": "CHILI_PEPPER:1",
+      "A2": "ENCHANTED_SLIME_BALL:1",
+      "A3": "CHILI_PEPPER:1",
+      "B1": "ENCHANTED_SLIME_BALL:1",
+      "B2": "ENCHANTED_SNOW_BLOCK:4",
+      "B3": "ENCHANTED_SLIME_BALL:1",
+      "C1": "CHILI_PEPPER:1",
+      "C2": "ENCHANTED_SLIME_BALL:1",
+      "C3": "CHILI_PEPPER:1"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Re-heated_Gummy_Polar_Bear"
   },
   "REINDEER_PERSONALITY": {
     "name": "Reindeer Minion Skin",
@@ -34529,6 +34640,21 @@
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "STUFFED_CHILI_PEPPER": {
+    "name": "Stuffed Chili Pepper",
+    "recipe": {
+      "A1": "",
+      "A2": "CHILI_PEPPER:32",
+      "A3": "",
+      "B1": "CHILI_PEPPER:32",
+      "B2": "CHILI_PEPPER:32",
+      "B3": "CHILI_PEPPER:32",
+      "C1": "",
+      "C2": "CHILI_PEPPER:32",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Stuffed_Chili_Pepper"
+  },
   "STUN": {
     "name": "Stun Potion"
   },
@@ -35042,6 +35168,23 @@
   },
   "SYPHON;5": {
     "name": "Syphon V"
+  },
+  "TABASCO;2": {
+    "name": "Tabasco II",
+    "recipe": {
+      "A1": "CHILI_PEPPER:16",
+      "A2": "KUUDRA_TEETH:1",
+      "A3": "CHILI_PEPPER:16",
+      "B1": "",
+      "B2": "KUUDRA_TEETH:1",
+      "B3": "",
+      "C1": "",
+      "C2": "KUUDRA_TEETH:1",
+      "C3": ""
+    }
+  },
+  "TABASCO;3": {
+    "name": "Tabasco III"
   },
   "TACTICAL_INSERTION": {
     "name": "Tactical Insertion",
@@ -36604,6 +36747,25 @@
   },
   "ULTIMATE_FLASH;5": {
     "name": "Flash V"
+  },
+  "ULTIMATE_HABANERO_TACTICS;4": {
+    "name": "Habanero Tactics IV",
+    "recipe": {
+      "A1": "STUFFED_CHILI_PEPPER:8",
+      "A2": "ENCHANTED_HUGE_MUSHROOM_1:8",
+      "A3": "STUFFED_CHILI_PEPPER:8",
+      "B1": "ENCHANTED_RABBIT_HIDE:8",
+      "B2": "VOLTA:8",
+      "B3": "ENCHANTED_RABBIT_HIDE:8",
+      "C1": "STUFFED_CHILI_PEPPER:8",
+      "C2": "ENCHANTED_HUGE_MUSHROOM_1:8",
+      "C3": "STUFFED_CHILI_PEPPER:8"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
+  },
+  "ULTIMATE_HABANERO_TACTICS;5": {
+    "name": "Habanero Tactics V",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   },
   "ULTIMATE_INFERNO;1": {
     "name": "Inferno I"
