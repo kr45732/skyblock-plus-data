@@ -4346,7 +4346,7 @@
       "A2": "ENCHANTED_IRON_BLOCK:1",
       "A3": "CHILI_PEPPER:8",
       "B1": "ENCHANTED_IRON_BLOCK:1",
-      "B2": "WOOD_SINGULARITY:4",
+      "B2": "WOOD_SINGULARITY:1",
       "B3": "ENCHANTED_IRON_BLOCK:1",
       "C1": "CHILI_PEPPER:8",
       "C2": "ENCHANTED_IRON_BLOCK:1",
@@ -7460,6 +7460,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "DIAMOND_THE_FISH": {
+    "name": "Diamond the Fish"
   },
   "DIAMOND_THORN_HEAD": {
     "name": "Diamond Thorn Head",
@@ -22441,7 +22444,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mutated_Blaze_Ashes"
   },
   "MUTTON": {
-    "name": "Raw Mutton"
+    "name": "Mutton"
   },
   "MYCEL": {
     "name": "Mycelium",
@@ -34681,7 +34684,7 @@
     }
   },
   "SUGAR_CANE": {
-    "name": "Sugar Canes"
+    "name": "Sugar Cane"
   },
   "SUGAR_CANE_GENERATOR_1": {
     "name": "Sugar Cane Minion I",
