@@ -125,6 +125,8 @@
     "TERMINATOR"
   ],
   "RARITY_TO_NUMBER_MAP": {
+    "VERY_SPECIAL": ";7",
+    "SPECIAL": ";6",
     "MYTHIC": ";5",
     "LEGENDARY": ";4",
     "EPIC": ";3",
