@@ -31671,7 +31671,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Frosty_the_Snow_Blaster"
   },
   "SNOW_BLOCK": {
-    "name": "Snow",
+    "name": "Snow Block",
     "recipe": {
       "A1": "SNOW_BALL:1",
       "A2": "SNOW_BALL:1",
