@@ -803,6 +803,9 @@
     "name": "Arrow Swapper",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrow_Swapper"
   },
+  "ARTIFACT_OF_CONTROL": {
+    "name": "Artifact of Control"
+  },
   "ARTIFACT_POTION_AFFINITY": {
     "name": "Potion Affinity Artifact",
     "recipe": {
@@ -859,6 +862,34 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Aspect_of_the_Jerry"
+  },
+  "ASPECT_OF_THE_LEECH_1": {
+    "name": "Aspect of the Leech",
+    "recipe": {
+      "A1": "",
+      "A2": "LIL_PAD:64",
+      "A3": "",
+      "B1": "",
+      "B2": "LIL_PAD:64",
+      "B3": "",
+      "C1": "",
+      "C2": "LEECH_SUPREME_FRAGMENT:8",
+      "C3": ""
+    }
+  },
+  "ASPECT_OF_THE_LEECH_2": {
+    "name": "Aspect of the Leech",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "TRANSMISSION_TUNER:1",
+      "B2": "ASPECT_OF_THE_LEECH_1:1",
+      "B3": "TRANSMISSION_TUNER:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
   },
   "ASPECT_OF_THE_VOID": {
     "name": "Aspect of the Void",
@@ -2778,6 +2809,9 @@
   "BOSS_SPIRIT_BOW": {
     "name": "Spirit Bow",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Bow_(Thorn)"
+  },
+  "BOTTLED_INSPIRATION": {
+    "name": "Bottled Inspiration"
   },
   "BOTTLE_OF_JYRRE": {
     "name": "Water Bottle",
@@ -5013,6 +5047,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cleaver"
   },
+  "CLOVER_HELMET": {
+    "name": "Clover Helmet"
+  },
   "CLOWNFISH_HAT": {
     "name": "Clownfish Hat",
     "recipe": {
@@ -6874,6 +6911,9 @@
     "name": "Dctr\u0027s Space Helmet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dctr\u0027s_Space_Helmet"
   },
+  "DEADGEHOG_SPINE": {
+    "name": "Deadgehog Spine"
+  },
   "DEAD_BUSH": {
     "name": "Dead Bush"
   },
@@ -7532,6 +7572,9 @@
     "name": "Dirt Bottle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dirt_Bottle"
   },
+  "DIRT_ROD": {
+    "name": "Dirt Rod"
+  },
   "DISPENSER": {
     "name": "Dispenser",
     "recipe": {
@@ -7648,6 +7691,15 @@
   "DIVER_PUFFER": {
     "name": "Puffer Fish Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "DIVINE_GIFT;1": {
+    "name": "Divine Gift I"
+  },
+  "DIVINE_GIFT;2": {
+    "name": "Divine Gift II"
+  },
+  "DIVINE_GIFT;3": {
+    "name": "Divine Gift III"
   },
   "DODGE": {
     "name": "Dodge Potion"
@@ -13767,6 +13819,9 @@
     "name": "Giant Cleaver",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giant_Cleaver"
   },
+  "GIANT_FISHING_ROD": {
+    "name": "Giant Fishing Rod"
+  },
   "GIANT_FRAGMENT_BIGFOOT": {
     "name": "Bigfoot\u0027s Lasso",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bigfoot%27s_Lasso"
@@ -15360,6 +15415,23 @@
       "C3": "PRISMARINE_CRYSTALS:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Chestplate"
+  },
+  "GUNTHER_SNEAKERS": {
+    "name": "Gunther\u0027s Sneakers",
+    "recipe": {
+      "A1": "SHADOW_CRUX:2",
+      "A2": "GUNTHESIZER_LICHEN:1",
+      "A3": "SHADOW_CRUX:2",
+      "B1": "SHADOW_CRUX:2",
+      "B2": "WYLD_BOOTS:1",
+      "B3": "SHADOW_CRUX:2",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "GUNTHESIZER_LICHEN": {
+    "name": "Gunthesizer Lichen"
   },
   "GUSHER_BRONZE": {
     "name": "Gusher BRONZE",
@@ -17641,6 +17713,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ink_Wand"
   },
+  "INSPIRED_CHESTPLATE": {
+    "name": "Inspired Chestplate",
+    "recipe": {
+      "A1": "",
+      "A2": "DEADGEHOG_SPINE:32",
+      "A3": "",
+      "B1": "DEADGEHOG_SPINE:32",
+      "B2": "IRON_CHESTPLATE:1",
+      "B3": "DEADGEHOG_SPINE:32",
+      "C1": "SHAME_CRUX:32",
+      "C2": "BOTTLED_INSPIRATION:1",
+      "C3": "SHADOW_CRUX:32"
+    }
+  },
   "INTIMIDATION_ARTIFACT": {
     "name": "Intimidation Artifact",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Intimidation_Artifact"
@@ -19651,6 +19737,37 @@
     "name": "Acacia Leaves",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaves"
   },
+  "LEECH_BELT": {
+    "name": "Leech Belt",
+    "recipe": {
+      "A1": "LEECH_SUPREME_FRAGMENT:1",
+      "A2": "LEECH_SUPREME_FRAGMENT:1",
+      "A3": "LEECH_SUPREME_FRAGMENT:1",
+      "B1": "LEECH_SUPREME_FRAGMENT:1",
+      "B2": "SILKRIDER_SAFETY_BELT:1",
+      "B3": "LEECH_SUPREME_FRAGMENT:1",
+      "C1": "LEECH_SUPREME_FRAGMENT:1",
+      "C2": "LEECH_SUPREME_FRAGMENT:1",
+      "C3": "LEECH_SUPREME_FRAGMENT:1"
+    }
+  },
+  "LEECH_SUPREME_FRAGMENT": {
+    "name": "Leech Supreme Fragment"
+  },
+  "LEECH_SWORD": {
+    "name": "Leech Sword",
+    "recipe": {
+      "A1": "",
+      "A2": "LEECH_SUPREME_FRAGMENT:4",
+      "A3": "",
+      "B1": "",
+      "B2": "LEECH_SUPREME_FRAGMENT:4",
+      "B3": "",
+      "C1": "",
+      "C2": "DEADGEHOG_SPINE:12",
+      "C3": ""
+    }
+  },
   "LEGEND_ROD": {
     "name": "Rod of Legends",
     "recipe": {
@@ -19798,6 +19915,9 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait"
+  },
+  "LIL_PAD": {
+    "name": "Lil\u0027 Pad"
   },
   "LION;0": {
     "name": "Common Lion",
@@ -21594,6 +21714,65 @@
   "MINOS_RELIC": {
     "name": "Minos Relic",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+  },
+  "MIRRORED_BOW": {
+    "name": "woB",
+    "recipe": {
+      "A1": "MIRRORED_STRING:1",
+      "A2": "MIRRORED_STICK:1",
+      "A3": "",
+      "B1": "MIRRORED_STRING:1",
+      "B2": "",
+      "B3": "MIRRORED_STICK:1",
+      "C1": "MIRRORED_STRING:1",
+      "C2": "MIRRORED_STICK:1",
+      "C3": ""
+    }
+  },
+  "MIRRORED_FISHING_ROD": {
+    "name": "doR gnihsiF",
+    "recipe": {
+      "A1": "MIRRORED_STICK:1",
+      "A2": "",
+      "A3": "",
+      "B1": "MIRRORED_STRING:1",
+      "B2": "MIRRORED_STICK:1",
+      "B3": "",
+      "C1": "MIRRORED_STRING:1",
+      "C2": "",
+      "C3": "MIRRORED_STICK:1"
+    }
+  },
+  "MIRRORED_LEASH": {
+    "name": "daeL",
+    "recipe": {
+      "A1": "",
+      "A2": "MIRRORED_STRING:1",
+      "A3": "MIRRORED_STRING:1",
+      "B1": "",
+      "B2": "SLIME_BALL:1",
+      "B3": "MIRRORED_STRING:1",
+      "C1": "MIRRORED_STRING:1",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "MIRRORED_STICK": {
+    "name": "kcitS",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "WOOD:1",
+      "B3": "",
+      "C1": "",
+      "C2": "WOOD:1",
+      "C3": ""
+    }
+  },
+  "MIRRORED_STRING": {
+    "name": "gnirtS"
   },
   "MITHRIL_COAT": {
     "name": "Mithril Coat",
@@ -23795,6 +23974,9 @@
       "C3": "STICK:1"
     }
   },
+  "PANDORAS_BOX": {
+    "name": "Pandora\u0027s Box"
+  },
   "PAPER": {
     "name": "Paper",
     "recipe": {
@@ -25126,6 +25308,9 @@
     "name": "Rose Rabbit Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_ROCK_BLINKING": {
+    "name": "Blinking Rock Skin"
+  },
   "PET_SKIN_ROCK_COOL": {
     "name": "Cool Rock Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -25145,6 +25330,15 @@
   "PET_SKIN_ROCK_SMILE": {
     "name": "Smiling Rock Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_ROCK_SURPRISED": {
+    "name": "Surprised Rock Skin"
+  },
+  "PET_SKIN_ROCK_SUS": {
+    "name": "Sus Rock Skin"
+  },
+  "PET_SKIN_ROCK_SWEATING": {
+    "name": "Sweating Rock Skin"
   },
   "PET_SKIN_ROCK_THINKING": {
     "name": "Thinking Rock Skin",
@@ -26149,6 +26343,9 @@
   "PRESENT_PERSONALITY": {
     "name": "Present Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+  },
+  "PRICELESS_THE_FISH": {
+    "name": "Priceless the Fish"
   },
   "PRISMAPUMP": {
     "name": "Prismapump",
@@ -27341,6 +27538,9 @@
       "C3": ""
     }
   },
+  "RACING_HELMET": {
+    "name": "Racing Helmet"
+  },
   "RADIANT_POWER_ORB": {
     "name": "Radiant Power Orb",
     "recipe": {
@@ -27463,6 +27663,9 @@
   "RAT;4": {
     "name": "Legendary Rat",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat_Pet"
+  },
+  "RAT_JETPACK": {
+    "name": "Rat Jetpack"
   },
   "RAW_BEEF": {
     "name": "Raw Beef"
@@ -28765,6 +28968,37 @@
     "name": "Revive Stone",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Revive_Stone"
   },
+  "RIFT_NECKLACE_INSIDE_1": {
+    "name": "Rift Necklace"
+  },
+  "RIFT_NECKLACE_INSIDE_2": {
+    "name": "Rift Necklace",
+    "recipe": {
+      "A1": "SHAME_CRUX:2",
+      "A2": "SHAME_CRUX:2",
+      "A3": "SHAME_CRUX:2",
+      "B1": "SHAME_CRUX:2",
+      "B2": "RIFT_NECKLACE_INSIDE_1:1",
+      "B3": "SHAME_CRUX:2",
+      "C1": "SHAME_CRUX:2",
+      "C2": "SHAME_CRUX:2",
+      "C3": "SHAME_CRUX:2"
+    }
+  },
+  "RIFT_NECKLACE_INSIDE_3": {
+    "name": "Rift Necklace",
+    "recipe": {
+      "A1": "DEADGEHOG_SPINE:1",
+      "A2": "DEADGEHOG_SPINE:1",
+      "A3": "DEADGEHOG_SPINE:1",
+      "B1": "DEADGEHOG_SPINE:1",
+      "B2": "RIFT_NECKLACE_INSIDE_2:1",
+      "B3": "DEADGEHOG_SPINE:1",
+      "C1": "DEADGEHOG_SPINE:1",
+      "C2": "DEADGEHOG_SPINE:1",
+      "C3": "DEADGEHOG_SPINE:1"
+    }
+  },
   "RING_POTION_AFFINITY": {
     "name": "Potion Affinity Ring",
     "recipe": {
@@ -29757,6 +29991,9 @@
     "name": "Mauve Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "SHADOW_CRUX": {
+    "name": "Shadow Crux"
+  },
   "SHADOW_FURY": {
     "name": "Shadow Fury",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shadow_Fury"
@@ -29787,6 +30024,9 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shaman_Sword"
+  },
+  "SHAME_CRUX": {
+    "name": "Shy Crux"
   },
   "SHARD_OF_THE_SHREDDED": {
     "name": "Shard of the Shredded",
@@ -30183,6 +30423,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
   },
+  "SHENS_REGALIA": {
+    "name": "Shen\u0027s Regalia"
+  },
   "SHIMMERING_LIGHT_HOOD": {
     "name": "Shimmering Light Hood",
     "recipe": {
@@ -30333,6 +30576,9 @@
   "SILEX": {
     "name": "Sharp Rock",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silex"
+  },
+  "SILKRIDER_SAFETY_BELT": {
+    "name": "Silkrider Safety Belt"
   },
   "SILKY_LICHEN": {
     "name": "Silky Lichen",
@@ -35916,6 +36162,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe"
   },
+  "THE_ART_OF_PEACE": {
+    "name": "The Art of Peace"
+  },
   "THE_ART_OF_WAR": {
     "name": "The Art of War",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/The_Art_of_War"
@@ -36166,6 +36415,20 @@
   "TIKI_TORCH": {
     "name": "Tiki Torch",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "TINY_HAMMER": {
+    "name": "remmaH yniT",
+    "recipe": {
+      "A1": "MIRRORED_LEASH:1",
+      "A2": "MIRRORED_BOW:1",
+      "A3": "",
+      "B1": "MIRRORED_BOW:1",
+      "B2": "MIRRORED_FISHING_ROD:1",
+      "B3": "",
+      "C1": "",
+      "C2": "MIRRORED_FISHING_ROD:1",
+      "C3": ""
+    }
   },
   "TITANIC_EXP_BOTTLE": {
     "name": "Titanic Experience Bottle",
@@ -38405,6 +38668,9 @@
     "name": "Wither Soul",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Soul"
   },
+  "WIZARD_WAND": {
+    "name": "Wizard Wand"
+  },
   "WOLF;0": {
     "name": "Common Wolf",
     "recipe": {
@@ -39089,6 +39355,9 @@
   },
   "WRITTEN_BOOK": {
     "name": "Written Book"
+  },
+  "WYLD_BOOTS": {
+    "name": "Wyld Boots"
   },
   "X": {
     "name": "X",
