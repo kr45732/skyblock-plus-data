@@ -454,6 +454,7 @@
   },
   "AMMONITE;4": {
     "name": "Legendary Ammonite",
+    "texture": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ammonite_Pet"
   },
   "ANCESTRAL_SPADE": {
@@ -648,22 +649,27 @@
   },
   "ARMADILLO;0": {
     "name": "Common Armadillo",
+    "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armadillo_Pet"
   },
   "ARMADILLO;1": {
     "name": "Uncommon Armadillo",
+    "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armadillo_Pet"
   },
   "ARMADILLO;2": {
     "name": "Rare Armadillo",
+    "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armadillo_Pet"
   },
   "ARMADILLO;3": {
     "name": "Epic Armadillo",
+    "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armadillo_Pet"
   },
   "ARMADILLO;4": {
     "name": "Legendary Armadillo",
+    "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Armadillo_Pet"
   },
   "ARMORSHRED_ARROW": {
@@ -1037,10 +1043,12 @@
   },
   "BABY_YETI;3": {
     "name": "Epic Baby Yeti",
+    "texture": "ab126814fc3fa846dad934c349628a7a1de5b415021a03ef4211d62514d5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Baby_Yeti_Pet"
   },
   "BABY_YETI;4": {
     "name": "Legendary Baby Yeti",
+    "texture": "ab126814fc3fa846dad934c349628a7a1de5b415021a03ef4211d62514d5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Baby_Yeti_Pet"
   },
   "BAG_OF_CASH": {
@@ -1071,10 +1079,12 @@
   },
   "BAL;3": {
     "name": "Epic Bal",
+    "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bal_Pet"
   },
   "BAL;4": {
     "name": "Legendary Bal",
+    "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bal_Pet"
   },
   "BANDAGED_MITHRIL_PICKAXE": {
@@ -1392,6 +1402,7 @@
       "C2": "ENCHANTED_BROWN_MUSHROOM:8",
       "C3": "ENCHANTED_BROWN_MUSHROOM:8"
     },
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet"
   },
   "BAT;1": {
@@ -1407,6 +1418,7 @@
       "C2": "ENCHANTED_BROWN_MUSHROOM:8",
       "C3": "ENCHANTED_BROWN_MUSHROOM:8"
     },
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet"
   },
   "BAT;2": {
@@ -1422,6 +1434,7 @@
       "C2": "ENCHANTED_BROWN_MUSHROOM:8",
       "C3": "ENCHANTED_BROWN_MUSHROOM:8"
     },
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet"
   },
   "BAT;3": {
@@ -1437,6 +1450,7 @@
       "C2": "ENCHANTED_BROWN_MUSHROOM:8",
       "C3": "ENCHANTED_BROWN_MUSHROOM:8"
     },
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet"
   },
   "BAT;4": {
@@ -1452,6 +1466,7 @@
       "C2": "ENCHANTED_BROWN_MUSHROOM:8",
       "C3": "ENCHANTED_BROWN_MUSHROOM:8"
     },
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bat_Pet"
   },
   "BATTLE_DISC": {
@@ -1745,22 +1760,27 @@
   },
   "BEE;0": {
     "name": "Common Bee",
+    "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
   },
   "BEE;1": {
     "name": "Uncommon Bee",
+    "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
   },
   "BEE;2": {
     "name": "Rare Bee",
+    "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
   },
   "BEE;3": {
     "name": "Epic Bee",
+    "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
   },
   "BEE;4": {
     "name": "Legendary Bee",
+    "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Pet"
   },
   "BEE_PERSONALITY": {
@@ -1873,18 +1893,22 @@
   },
   "BINGO;0": {
     "name": "Common Bingo",
+    "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
   "BINGO;1": {
     "name": "Uncommon Bingo",
+    "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
   "BINGO;2": {
     "name": "Rare Bingo",
+    "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
   "BINGO;3": {
     "name": "Epic Bingo",
+    "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
   "BINGO_ARTIFACT": {
@@ -2164,6 +2188,7 @@
   },
   "BLACK_CAT;4": {
     "name": "Legendary Black Cat",
+    "texture": "e4b45cbaa19fe3d68c856cd3846c03b5f59de81a480eec921ab4fa3cd81317",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Black_Cat_Pet"
   },
   "BLACK_CAT_PLUSH": {
@@ -2223,6 +2248,7 @@
       "C2": "ENCHANTED_BLAZE_ROD:8",
       "C3": "ENCHANTED_BLAZE_ROD:8"
     },
+    "texture": "b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Pet"
   },
   "BLAZE;4": {
@@ -2238,6 +2264,7 @@
       "C2": "ENCHANTED_BLAZE_ROD:8",
       "C3": "ENCHANTED_BLAZE_ROD:8"
     },
+    "texture": "b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Pet"
   },
   "BLAZETEKK_HAM_RADIO": {
@@ -2664,22 +2691,27 @@
   },
   "BLUE_WHALE;0": {
     "name": "Common Blue Whale",
+    "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Whale_Pet"
   },
   "BLUE_WHALE;1": {
     "name": "Uncommon Blue Whale",
+    "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Whale_Pet"
   },
   "BLUE_WHALE;2": {
     "name": "Rare Blue Whale",
+    "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Whale_Pet"
   },
   "BLUE_WHALE;3": {
     "name": "Epic Blue Whale",
+    "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Whale_Pet"
   },
   "BLUE_WHALE;4": {
     "name": "Legendary Blue Whale",
+    "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Whale_Pet"
   },
   "BOAT": {
@@ -4559,6 +4591,7 @@
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
     },
+    "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Pet"
   },
   "CHICKEN;1": {
@@ -4574,6 +4607,7 @@
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
     },
+    "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Pet"
   },
   "CHICKEN;2": {
@@ -4589,6 +4623,7 @@
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
     },
+    "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Pet"
   },
   "CHICKEN;3": {
@@ -4604,6 +4639,7 @@
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
     },
+    "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Pet"
   },
   "CHICKEN;4": {
@@ -4619,6 +4655,7 @@
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
     },
+    "texture": "7f37d524c3eed171ce149887ea1dee4ed399904727d521865688ece3bac75e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chicken_Pet"
   },
   "CHICKEN_AXE": {
@@ -7730,22 +7767,27 @@
   },
   "DOLPHIN;0": {
     "name": "Common Dolphin",
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
   },
   "DOLPHIN;1": {
     "name": "Uncommon Dolphin",
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
   },
   "DOLPHIN;2": {
     "name": "Rare Dolphin",
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
   },
   "DOLPHIN;3": {
     "name": "Epic Dolphin",
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
   },
   "DOLPHIN;4": {
     "name": "Legendary Dolphin",
+    "texture": "cefe7d803a45aa2af1993df2544a28df849a762663719bfefc58bf389ab7f5",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dolphin_Pet"
   },
   "DOUBLE_PLANT:1": {
@@ -7814,6 +7856,7 @@
       "C2": "DERELICT_ASHE:1",
       "C3": "DERELICT_ASHE:1"
     },
+    "texture": "b412e70375ec99ee38ae94b30e9b10752d459662b54794dfe66fe6a183c672d3",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "DROPPER": {
@@ -8099,22 +8142,27 @@
   },
   "ELEPHANT;0": {
     "name": "Common Elephant",
+    "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet"
   },
   "ELEPHANT;1": {
     "name": "Uncommon Elephant",
+    "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet"
   },
   "ELEPHANT;2": {
     "name": "Rare Elephant",
+    "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet"
   },
   "ELEPHANT;3": {
     "name": "Epic Elephant",
+    "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet"
   },
   "ELEPHANT;4": {
     "name": "Legendary Elephant",
+    "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Elephant_Pet"
   },
   "EMBER_BOOTS": {
@@ -10339,26 +10387,32 @@
   },
   "ENDERMAN;0": {
     "name": "Common Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN;1": {
     "name": "Uncommon Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN;2": {
     "name": "Rare Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN;3": {
     "name": "Epic Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN;4": {
     "name": "Legendary Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN;5": {
     "name": "Mythic Enderman",
+    "texture": "6eab75eaa5c9f2c43a0d23cfdce35f4df632e9815001850377385f7b2f039ce1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enderman_Pet"
   },
   "ENDERMAN_CORTEX_REWRITER": {
@@ -10547,6 +10601,7 @@
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
     },
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Endermite_Pet"
   },
   "ENDERMITE;1": {
@@ -10562,6 +10617,7 @@
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
     },
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Endermite_Pet"
   },
   "ENDERMITE;2": {
@@ -10577,6 +10633,7 @@
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
     },
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Endermite_Pet"
   },
   "ENDERMITE;3": {
@@ -10592,6 +10649,7 @@
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
     },
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Endermite_Pet"
   },
   "ENDERMITE;4": {
@@ -10607,6 +10665,7 @@
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
     },
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Endermite_Pet"
   },
   "ENDERPACK": {
@@ -10648,10 +10707,12 @@
   },
   "ENDER_DRAGON;3": {
     "name": "Epic Ender Dragon",
+    "texture": "aec3ff563290b13ff3bcc36898af7eaa988b6cc18dc254147f58374afe9b21b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Dragon_Pet"
   },
   "ENDER_DRAGON;4": {
     "name": "Legendary Ender Dragon",
+    "texture": "aec3ff563290b13ff3bcc36898af7eaa988b6cc18dc254147f58374afe9b21b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Dragon_Pet"
   },
   "ENDER_MONOCLE": {
@@ -13134,18 +13195,22 @@
   },
   "FLYING_FISH;2": {
     "name": "Rare Flying Fish",
+    "texture": "40cd71fbbbbb66c7baf7881f415c64fa84f6504958a57ccdb8589252647ea",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
   },
   "FLYING_FISH;3": {
     "name": "Epic Flying Fish",
+    "texture": "40cd71fbbbbb66c7baf7881f415c64fa84f6504958a57ccdb8589252647ea",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
   },
   "FLYING_FISH;4": {
     "name": "Legendary Flying Fish",
+    "texture": "40cd71fbbbbb66c7baf7881f415c64fa84f6504958a57ccdb8589252647ea",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
   },
   "FLYING_FISH;5": {
     "name": "Mythic Flying Fish",
+    "texture": "b0e2363c2d41a9d323ba625de8c0637063a36fe85a045de275a7b7739ded6051",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Flying_Fish_Pet"
   },
   "FLY_SWATTER": {
@@ -13354,6 +13419,7 @@
   },
   "FROST_WISP;2": {
     "name": "Rare Frost Wisp",
+    "texture": "1d8ad9936d758c5ea30b0b7cc7c67c2bfcea829ecf2425c0b50fc92a26ae23d0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "FROZEN_BLAZE_BOOTS": {
@@ -13818,10 +13884,12 @@
   },
   "GHOUL;3": {
     "name": "Epic Ghoul",
+    "texture": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghoul_Pet"
   },
   "GHOUL;4": {
     "name": "Legendary Ghoul",
+    "texture": "87934565bf522f6f4726cdfe127137be11d37c310db34d8c70253392b5ff5b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghoul_Pet"
   },
   "GHOUL_BUSTER": {
@@ -13924,26 +13992,32 @@
   },
   "GIRAFFE;0": {
     "name": "Common Giraffe",
+    "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
   },
   "GIRAFFE;1": {
     "name": "Uncommon Giraffe",
+    "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
   },
   "GIRAFFE;2": {
     "name": "Rare Giraffe",
+    "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
   },
   "GIRAFFE;3": {
     "name": "Epic Giraffe",
+    "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
   },
   "GIRAFFE;4": {
     "name": "Legendary Giraffe",
+    "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giraffe_Pet"
   },
   "GLACIAL_WISP;3": {
     "name": "Epic Glacial Wisp",
+    "texture": "3e2018feebe1a99177b3cb196d4e44521268b4b3eb56e6419cb0253cdbf0456c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "GLACITE_BOOTS": {
@@ -14334,6 +14408,7 @@
   },
   "GOLDEN_DRAGON;4": {
     "name": "Legendary Golden Dragon",
+    "texture": "2e9f9b1fc014166cb46a093e5349b2bf6edd201b680d62e48dbf3af9b0459116",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Dragon_Pet"
   },
   "GOLDEN_FISH_BRONZE": {
@@ -14817,10 +14892,12 @@
   },
   "GOLEM;3": {
     "name": "Epic Golem",
+    "texture": "89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golem_Pet"
   },
   "GOLEM;4": {
     "name": "Legendary Golem",
+    "texture": "89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golem_Pet"
   },
   "GOLEM_ARMOR_BOOTS": {
@@ -14923,22 +15000,27 @@
   },
   "GRANDMA_WOLF;0": {
     "name": "Common Grandma Wolf",
+    "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
   },
   "GRANDMA_WOLF;1": {
     "name": "Uncommon Grandma Wolf",
+    "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
   },
   "GRANDMA_WOLF;2": {
     "name": "Rare Grandma Wolf",
+    "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
   },
   "GRANDMA_WOLF;3": {
     "name": "Epic Grandma Wolf",
+    "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
   },
   "GRANDMA_WOLF;4": {
     "name": "Legendary Grandma Wolf",
+    "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf"
   },
   "GRAND_EXP_BOTTLE": {
@@ -15228,22 +15310,27 @@
   },
   "GRIFFIN;0": {
     "name": "Common Griffin",
+    "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet"
   },
   "GRIFFIN;1": {
     "name": "Uncommon Griffin",
+    "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet"
   },
   "GRIFFIN;2": {
     "name": "Rare Griffin",
+    "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet"
   },
   "GRIFFIN;3": {
     "name": "Epic Griffin",
+    "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet"
   },
   "GRIFFIN;4": {
     "name": "Legendary Griffin",
+    "texture": "4c27e3cb52a64968e60c861ef1ab84e0a0cb5f07be103ac78da67761731f00c8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Griffin_Pet"
   },
   "GRIFFIN_FEATHER": {
@@ -15415,22 +15502,27 @@
   },
   "GUARDIAN;0": {
     "name": "Common Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet"
   },
   "GUARDIAN;1": {
     "name": "Uncommon Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet"
   },
   "GUARDIAN;2": {
     "name": "Rare Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet"
   },
   "GUARDIAN;3": {
     "name": "Epic Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet"
   },
   "GUARDIAN;4": {
     "name": "Legendary Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Guardian_Pet"
   },
   "GUARDIAN_CHESTPLATE": {
@@ -16302,6 +16394,7 @@
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1"
     },
+    "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horse_Pet"
   },
   "HORSE;1": {
@@ -16317,6 +16410,7 @@
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1"
     },
+    "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horse_Pet"
   },
   "HORSE;2": {
@@ -16332,6 +16426,7 @@
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1"
     },
+    "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horse_Pet"
   },
   "HORSE;3": {
@@ -16347,6 +16442,7 @@
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1"
     },
+    "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horse_Pet"
   },
   "HORSE;4": {
@@ -16362,6 +16458,7 @@
       "C2": "ENCHANTED_LEATHER:1",
       "C3": "ENCHANTED_LEATHER:1"
     },
+    "texture": "36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horse_Pet"
   },
   "HORSEMAN_CANDLE": {
@@ -16498,10 +16595,12 @@
   },
   "HOUND;3": {
     "name": "Epic Hound",
+    "texture": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hound_Pet"
   },
   "HOUND;4": {
     "name": "Legendary Hound",
+    "texture": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hound_Pet"
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
@@ -18248,10 +18347,12 @@
   },
   "JELLYFISH;3": {
     "name": "Epic Jellyfish",
+    "texture": "913f086ccb56323f238ba3489ff2a1a34c0fdceeafc483acff0e5488cfd6c2f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jellyfish_Pet"
   },
   "JELLYFISH;4": {
     "name": "Legendary Jellyfish",
+    "texture": "913f086ccb56323f238ba3489ff2a1a34c0fdceeafc483acff0e5488cfd6c2f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jellyfish_Pet"
   },
   "JERRY;0": {
@@ -18267,6 +18368,7 @@
       "C2": "ASSISTANT:1",
       "C3": "ASSISTANT:1"
     },
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Pet"
   },
   "JERRY;1": {
@@ -18282,6 +18384,7 @@
       "C2": "ASSISTANT:1",
       "C3": "ASSISTANT:1"
     },
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Pet"
   },
   "JERRY;2": {
@@ -18297,6 +18400,7 @@
       "C2": "ASSISTANT:1",
       "C3": "ASSISTANT:1"
     },
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Pet"
   },
   "JERRY;3": {
@@ -18312,6 +18416,7 @@
       "C2": "ASSISTANT:1",
       "C3": "ASSISTANT:1"
     },
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Pet"
   },
   "JERRY;4": {
@@ -18327,6 +18432,7 @@
       "C2": "ASSISTANT:1",
       "C3": "ASSISTANT:1"
     },
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Pet"
   },
   "JERRY_BOX_BLUE": {
@@ -18807,22 +18913,27 @@
   },
   "KUUDRA;0": {
     "name": "Common Kuudra",
+    "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
   },
   "KUUDRA;1": {
     "name": "Uncommon Kuudra",
+    "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
   },
   "KUUDRA;2": {
     "name": "Rare Kuudra",
+    "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
   },
   "KUUDRA;3": {
     "name": "Epic Kuudra",
+    "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
   },
   "KUUDRA;4": {
     "name": "Legendary Kuudra",
+    "texture": "1f0239fb498e5907ede12ab32629ee95f0064574a9ffdff9fc3a1c8e2ec17587",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Pet"
   },
   "KUUDRA_BURNING_TIER_KEY": {
@@ -19953,22 +20064,27 @@
   },
   "LION;0": {
     "name": "Common Lion",
+    "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lion_Pet"
   },
   "LION;1": {
     "name": "Uncommon Lion",
+    "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lion_Pet"
   },
   "LION;2": {
     "name": "Rare Lion",
+    "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lion_Pet"
   },
   "LION;3": {
     "name": "Epic Lion",
+    "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lion_Pet"
   },
   "LION;4": {
     "name": "Legendary Lion",
+    "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lion_Pet"
   },
   "LIVID_DAGGER": {
@@ -20264,22 +20380,27 @@
   },
   "MAGMA_CUBE;0": {
     "name": "Common Magma Cube",
+    "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet"
   },
   "MAGMA_CUBE;1": {
     "name": "Uncommon Magma Cube",
+    "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet"
   },
   "MAGMA_CUBE;2": {
     "name": "Rare Magma Cube",
+    "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet"
   },
   "MAGMA_CUBE;3": {
     "name": "Epic Magma Cube",
+    "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet"
   },
   "MAGMA_CUBE;4": {
     "name": "Legendary Magma Cube",
+    "texture": "38957d5023c937c4c41aa2412d43410bda23cf79a9f6ab36b76fef2d7c429",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Cube_Pet"
   },
   "MAGMA_CUBE_GENERATOR_1": {
@@ -21166,10 +21287,12 @@
   },
   "MEGALODON;3": {
     "name": "Epic Megalodon",
+    "texture": "a94ae433b301c7fb7c68cba625b0bd36b0b14190f20e34a7c8ee0d9de06d53b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Megalodon_Pet"
   },
   "MEGALODON;4": {
     "name": "Legendary Megalodon",
+    "texture": "a94ae433b301c7fb7c68cba625b0bd36b0b14190f20e34a7c8ee0d9de06d53b9",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Megalodon_Pet"
   },
   "MELODY_HAIR": {
@@ -22034,6 +22157,7 @@
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
     },
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;1": {
@@ -22049,6 +22173,7 @@
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
     },
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;2": {
@@ -22064,6 +22189,7 @@
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
     },
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;3": {
@@ -22079,6 +22205,7 @@
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
     },
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Golem_Pet"
   },
   "MITHRIL_GOLEM;4": {
@@ -22094,6 +22221,7 @@
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
     },
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Golem_Pet"
   },
   "MITHRIL_GOURMAND": {
@@ -22187,22 +22315,27 @@
   },
   "MONKEY;0": {
     "name": "Common Monkey",
+    "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Monkey_Pet"
   },
   "MONKEY;1": {
     "name": "Uncommon Monkey",
+    "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Monkey_Pet"
   },
   "MONKEY;2": {
     "name": "Rare Monkey",
+    "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Monkey_Pet"
   },
   "MONKEY;3": {
     "name": "Epic Monkey",
+    "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Monkey_Pet"
   },
   "MONKEY;4": {
     "name": "Legendary Monkey",
+    "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Monkey_Pet"
   },
   "MONSTER_EGG": {
@@ -22240,6 +22373,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "DIGESTED_MUSHROOMS:32"
     },
+    "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOOSHROOM_COW;1": {
@@ -22255,6 +22389,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "DIGESTED_MUSHROOMS:32"
     },
+    "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOOSHROOM_COW;2": {
@@ -22270,6 +22405,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "DIGESTED_MUSHROOMS:32"
     },
+    "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOOSHROOM_COW;3": {
@@ -22285,6 +22421,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "DIGESTED_MUSHROOMS:32"
     },
+    "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOOSHROOM_COW;4": {
@@ -22300,6 +22437,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "DIGESTED_MUSHROOMS:32"
     },
+    "texture": "2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mooshroom_Cow_Pet"
   },
   "MOSQUITO_BOW": {
@@ -23729,6 +23867,7 @@
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
     },
+    "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "OCELOT;1": {
@@ -23744,6 +23883,7 @@
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
     },
+    "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "OCELOT;2": {
@@ -23759,6 +23899,7 @@
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
     },
+    "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "OCELOT;3": {
@@ -23774,6 +23915,7 @@
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
     },
+    "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "OCELOT;4": {
@@ -23789,6 +23931,7 @@
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
     },
+    "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
   "ODGERS_BRONZE_TOOTH": {
@@ -24045,10 +24188,12 @@
   },
   "PARROT;3": {
     "name": "Epic Parrot",
+    "texture": "5df4b3401a4d06ad66ac8b5c4d189618ae617f9c143071c8ac39a563cf4e4208",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Parrot_Pet"
   },
   "PARROT;4": {
     "name": "Legendary Parrot",
+    "texture": "5df4b3401a4d06ad66ac8b5c4d189618ae617f9c143071c8ac39a563cf4e4208",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Parrot_Pet"
   },
   "PARTY_HAT_CRAB": {
@@ -25466,10 +25611,12 @@
   },
   "PHOENIX;3": {
     "name": "Epic Phoenix",
+    "texture": "23aaf7b1a778949696cb99d4f04ad1aa518ceee256c72e5ed65bfa5c2d88d9e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Phoenix_Pet"
   },
   "PHOENIX;4": {
     "name": "Legendary Phoenix",
+    "texture": "23aaf7b1a778949696cb99d4f04ad1aa518ceee256c72e5ed65bfa5c2d88d9e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Phoenix_Pet"
   },
   "PICKONIMBUS": {
@@ -25507,6 +25654,7 @@
       "C2": "PORK:64",
       "C3": "PORK:64"
     },
+    "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet"
   },
   "PIG;1": {
@@ -25522,6 +25670,7 @@
       "C2": "PORK:64",
       "C3": "PORK:64"
     },
+    "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet"
   },
   "PIG;2": {
@@ -25537,6 +25686,7 @@
       "C2": "PORK:64",
       "C3": "PORK:64"
     },
+    "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet"
   },
   "PIG;3": {
@@ -25552,6 +25702,7 @@
       "C2": "PORK:64",
       "C3": "PORK:64"
     },
+    "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet"
   },
   "PIG;4": {
@@ -25567,6 +25718,7 @@
       "C2": "PORK:64",
       "C3": "PORK:64"
     },
+    "texture": "621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig_Pet"
   },
   "PIGGY_BANK": {
@@ -25597,6 +25749,7 @@
       "C2": "ENCHANTED_GRILLED_PORK:1",
       "C3": "ENCHANTED_GRILLED_PORK:1"
     },
+    "texture": "63d9cb6513f2072e5d4e426d70a5557bc398554c880d4e7b7ec8ef4945eb02f2",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pigman_Pet"
   },
   "PIGMAN;4": {
@@ -25612,6 +25765,7 @@
       "C2": "ENCHANTED_GRILLED_PORK:1",
       "C3": "ENCHANTED_GRILLED_PORK:1"
     },
+    "texture": "63d9cb6513f2072e5d4e426d70a5557bc398554c880d4e7b7ec8ef4945eb02f2",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pigman_Pet"
   },
   "PIGMAN_SWORD": {
@@ -27311,6 +27465,7 @@
       "C2": "RABBIT:8",
       "C3": "RABBIT:8"
     },
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Pet"
   },
   "RABBIT;1": {
@@ -27326,6 +27481,7 @@
       "C2": "RABBIT:8",
       "C3": "RABBIT:8"
     },
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Pet"
   },
   "RABBIT;2": {
@@ -27341,6 +27497,7 @@
       "C2": "RABBIT:8",
       "C3": "RABBIT:8"
     },
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Pet"
   },
   "RABBIT;3": {
@@ -27356,6 +27513,7 @@
       "C2": "RABBIT:8",
       "C3": "RABBIT:8"
     },
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Pet"
   },
   "RABBIT;4": {
@@ -27371,6 +27529,7 @@
       "C2": "RABBIT:8",
       "C3": "RABBIT:8"
     },
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Pet"
   },
   "RABBIT_AXE": {
@@ -27698,10 +27857,12 @@
   },
   "RAT;4": {
     "name": "Legendary Rat",
+    "texture": "a8abb471db0ab78703011979dc8b40798a941f3a4dec3ec61cbeec2af8cffe8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat_Pet"
   },
   "RAT;5": {
     "name": "Mythic Rat",
+    "texture": "250de7097d939e447ca2d398441cba1d2a5e1a69052ac99c19ff20ad5a3f01ab",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat_Pet"
   },
   "RAT_JETPACK": {
@@ -29060,22 +29221,27 @@
   },
   "ROCK;0": {
     "name": "Common Rock",
+    "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
   },
   "ROCK;1": {
     "name": "Uncommon Rock",
+    "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
   },
   "ROCK;2": {
     "name": "Rare Rock",
+    "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
   },
   "ROCK;3": {
     "name": "Epic Rock",
+    "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
   },
   "ROCK;4": {
     "name": "Legendary Rock",
+    "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rock_Pet"
   },
   "ROCK_CANDY": {
@@ -29731,22 +29897,27 @@
   },
   "SCATHA;0": {
     "name": "Common Scatha",
+    "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
   },
   "SCATHA;1": {
     "name": "Uncommon Scatha",
+    "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
   },
   "SCATHA;2": {
     "name": "Rare Scatha",
+    "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
   },
   "SCATHA;3": {
     "name": "Epic Scatha",
+    "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
   },
   "SCATHA;4": {
     "name": "Legendary Scatha",
+    "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scatha_Pet"
   },
   "SCAVENGER;1": {
@@ -30229,6 +30400,7 @@
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
     },
+    "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Pet"
   },
   "SHEEP;1": {
@@ -30244,6 +30416,7 @@
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
     },
+    "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Pet"
   },
   "SHEEP;2": {
@@ -30259,6 +30432,7 @@
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
     },
+    "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Pet"
   },
   "SHEEP;3": {
@@ -30274,6 +30448,7 @@
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
     },
+    "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Pet"
   },
   "SHEEP;4": {
@@ -30289,6 +30464,7 @@
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
     },
+    "texture": "64e22a46047d272e89a1cfa13e9734b7e12827e235c2012c1a95962874da0",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Pet"
   },
   "SHEEP_AXE": {
@@ -30666,6 +30842,7 @@
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
     },
+    "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silverfish_Pet"
   },
   "SILVERFISH;1": {
@@ -30681,6 +30858,7 @@
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
     },
+    "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silverfish_Pet"
   },
   "SILVERFISH;2": {
@@ -30696,6 +30874,7 @@
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
     },
+    "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silverfish_Pet"
   },
   "SILVERFISH;3": {
@@ -30711,6 +30890,7 @@
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
     },
+    "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silverfish_Pet"
   },
   "SILVERFISH;4": {
@@ -30726,6 +30906,7 @@
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
     },
+    "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silverfish_Pet"
   },
   "SILVER_FANG": {
@@ -30821,6 +31002,7 @@
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
     },
+    "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON;1": {
@@ -30836,6 +31018,7 @@
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
     },
+    "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON;2": {
@@ -30851,6 +31034,7 @@
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
     },
+    "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON;3": {
@@ -30866,6 +31050,7 @@
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
     },
+    "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON;4": {
@@ -30881,6 +31066,7 @@
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
     },
+    "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Pet"
   },
   "SKELETON_FISH_BRONZE": {
@@ -31112,6 +31298,7 @@
   },
   "SKELETON_HORSE;4": {
     "name": "Legendary Skeleton Horse",
+    "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Horse_Pet"
   },
   "SKELETON_LORD_BOOTS": {
@@ -31947,6 +32134,7 @@
   },
   "SNOWMAN;4": {
     "name": "Legendary Snowman",
+    "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snowman_Pet"
   },
   "SNOW_BALL": {
@@ -32619,6 +32807,7 @@
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
     },
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Pet"
   },
   "SPIDER;1": {
@@ -32634,6 +32823,7 @@
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
     },
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Pet"
   },
   "SPIDER;2": {
@@ -32649,6 +32839,7 @@
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
     },
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Pet"
   },
   "SPIDER;3": {
@@ -32664,6 +32855,7 @@
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
     },
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Pet"
   },
   "SPIDER;4": {
@@ -32679,6 +32871,7 @@
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
     },
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spider_Pet"
   },
   "SPIDERS_DEN_TOP_TRAVEL_SCROLL": {
@@ -33019,10 +33212,12 @@
   },
   "SPIRIT;3": {
     "name": "Epic Spirit",
+    "texture": "8d9ccc670677d0cebaad4058d6aaf9acfab09abea5d86379a059902f2fe22655",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Pet"
   },
   "SPIRIT;4": {
     "name": "Legendary Spirit",
+    "texture": "8d9ccc670677d0cebaad4058d6aaf9acfab09abea5d86379a059902f2fe22655",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Pet"
   },
   "SPIRIT_BONE": {
@@ -33420,22 +33615,27 @@
   },
   "SQUID;0": {
     "name": "Common Squid",
+    "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squid_Pet"
   },
   "SQUID;1": {
     "name": "Uncommon Squid",
+    "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squid_Pet"
   },
   "SQUID;2": {
     "name": "Rare Squid",
+    "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squid_Pet"
   },
   "SQUID;3": {
     "name": "Epic Squid",
+    "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squid_Pet"
   },
   "SQUID;4": {
     "name": "Legendary Squid",
+    "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squid_Pet"
   },
   "SQUID_BOOTS": {
@@ -34953,6 +35153,7 @@
   },
   "SUBZERO_WISP;4": {
     "name": "Legendary Subzero Wisp",
+    "texture": "7a0eb37e58c942eca4d33ab44e26eb1910c783788510b0a53b6f4d18881e237e",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wisp_Pet"
   },
   "SUGAR": {
@@ -35635,10 +35836,12 @@
   },
   "TARANTULA;3": {
     "name": "Epic Tarantula",
+    "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Pet"
   },
   "TARANTULA;4": {
     "name": "Legendary Tarantula",
+    "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tarantula_Pet"
   },
   "TARANTULA_BLACK_WIDOW": {
@@ -36415,22 +36618,27 @@
   },
   "TIGER;0": {
     "name": "Common Tiger",
+    "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet"
   },
   "TIGER;1": {
     "name": "Uncommon Tiger",
+    "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet"
   },
   "TIGER;2": {
     "name": "Rare Tiger",
+    "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet"
   },
   "TIGER;3": {
     "name": "Epic Tiger",
+    "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet"
   },
   "TIGER;4": {
     "name": "Legendary Tiger",
+    "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tiger_Pet"
   },
   "TIGER_SHARK_TOOTH": {
@@ -36931,10 +37139,12 @@
   },
   "TURTLE;3": {
     "name": "Epic Turtle",
+    "texture": "212b58c841b394863dbcc54de1c2ad2648af8f03e648988c1f9cef0bc20ee23c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Turtle_Pet"
   },
   "TURTLE;4": {
     "name": "Legendary Turtle",
+    "texture": "212b58c841b394863dbcc54de1c2ad2648af8f03e648988c1f9cef0bc20ee23c",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Turtle_Pet"
   },
   "TUTTI_FRUTTI_POISON": {
@@ -38687,6 +38897,7 @@
       "C2": "ENCHANTED_COAL_BLOCK:1",
       "C3": "ENCHANTED_COAL_BLOCK:1"
     },
+    "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Skeleton_Pet"
   },
   "WITHER_SKELETON;4": {
@@ -38702,6 +38913,7 @@
       "C2": "ENCHANTED_COAL_BLOCK:1",
       "C3": "ENCHANTED_COAL_BLOCK:1"
     },
+    "texture": "f5ec964645a8efac76be2f160d7c9956362f32b6517390c59c3085034f050cff",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Skeleton_Pet"
   },
   "WITHER_SOUL": {
@@ -38724,6 +38936,7 @@
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
     },
+    "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Pet"
   },
   "WOLF;1": {
@@ -38739,6 +38952,7 @@
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
     },
+    "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Pet"
   },
   "WOLF;2": {
@@ -38754,6 +38968,7 @@
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
     },
+    "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Pet"
   },
   "WOLF;3": {
@@ -38769,6 +38984,7 @@
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
     },
+    "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Pet"
   },
   "WOLF;4": {
@@ -38784,6 +39000,7 @@
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
     },
+    "texture": "dc3dd984bb659849bd52994046964c22725f717e986b12d548fd169367d494",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wolf_Pet"
   },
   "WOLF_FUR_MIXIN": {
@@ -39571,6 +39788,7 @@
       "C2": "ZOMBIE_HEART:1",
       "C3": "ZOMBIE_HEART:1"
     },
+    "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
   },
   "ZOMBIE;1": {
@@ -39586,6 +39804,7 @@
       "C2": "ZOMBIE_HEART:1",
       "C3": "ZOMBIE_HEART:1"
     },
+    "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
   },
   "ZOMBIE;2": {
@@ -39601,6 +39820,7 @@
       "C2": "ZOMBIE_HEART:1",
       "C3": "ZOMBIE_HEART:1"
     },
+    "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
   },
   "ZOMBIE;3": {
@@ -39616,6 +39836,7 @@
       "C2": "ZOMBIE_HEART:1",
       "C3": "ZOMBIE_HEART:1"
     },
+    "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
   },
   "ZOMBIE;4": {
@@ -39631,6 +39852,7 @@
       "C2": "ZOMBIE_HEART:1",
       "C3": "ZOMBIE_HEART:1"
     },
+    "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie"
   },
   "ZOMBIE_ARTIFACT": {
