@@ -819,7 +819,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrow_Swapper"
   },
   "ARTIFACT_OF_CONTROL": {
-    "name": "Artifact of Control"
+    "name": "Artifact of Control",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Artifact_of_Control"
   },
   "ARTIFACT_POTION_AFFINITY": {
     "name": "Potion Affinity Artifact",
@@ -2738,7 +2739,8 @@
     }
   },
   "BOBBIN_SCRIPTURES": {
-    "name": "Bobbin\u0027 Scriptures"
+    "name": "Bobbin\u0027 Scriptures",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bobbin%27_Scriptures"
   },
   "BOB_OMB": {
     "name": "Bob-omb",
@@ -4874,13 +4876,16 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chill_the_Fish"
   },
   "CHUM": {
-    "name": "Chum"
+    "name": "Chum",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chum"
   },
   "CHUMMING_TALISMAN": {
-    "name": "Chumming Talisman"
+    "name": "Chumming Talisman",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chumming_Talisman"
   },
   "CHUM_ROD": {
-    "name": "Chum Rod"
+    "name": "Chum Rod",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chum_Rod"
   },
   "CHYME": {
     "name": "Chyme",
@@ -5106,7 +5111,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cleaver"
   },
   "CLOVER_HELMET": {
-    "name": "Clover Helmet"
+    "name": "Clover Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clover_Helmet"
   },
   "CLOWNFISH_HAT": {
     "name": "Clownfish Hat",
@@ -7631,7 +7637,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dirt_Bottle"
   },
   "DIRT_ROD": {
-    "name": "Dirt Rod"
+    "name": "Dirt Rod",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dirt_Rod"
   },
   "DISPENSER": {
     "name": "Dispenser",
@@ -8553,7 +8560,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrows"
   },
   "EMPTY_CHUM_BUCKET": {
-    "name": "Empty Chum Bucket"
+    "name": "Empty Chum Bucket",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Empty_Chum_Bucket"
   },
   "EMPTY_MAP": {
     "name": "Empty Map",
@@ -12167,7 +12175,8 @@
       "C1": "GREAT_WHITE_TOOTH_MEAL:1",
       "C2": "ICHTHYIC_BELT:1",
       "C3": "GREAT_WHITE_TOOTH_MEAL:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Finwave_Belt"
   },
   "FINWAVE_CLOAK": {
     "name": "Finwave Cloak",
@@ -12181,7 +12190,8 @@
       "C1": "TIGER_SHARK_TOOTH:6",
       "C2": "",
       "C3": "TIGER_SHARK_TOOTH:6"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Finwave_Cloak"
   },
   "FINWAVE_GLOVES": {
     "name": "Finwave Gloves",
@@ -12195,7 +12205,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Finwave_Gloves"
   },
   "FIREBALL": {
     "name": "Fire Charge",
@@ -13599,7 +13610,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fuel_Tank"
   },
   "FULL_CHUM_BUCKET": {
-    "name": "Full Chum Bucket"
+    "name": "Full Chum Bucket",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Full_Chum_Bucket"
   },
   "FUMING_POTATO_BOOK": {
     "name": "Fuming Potato Book",
@@ -13989,7 +14001,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giant_Cleaver"
   },
   "GIANT_FISHING_ROD": {
-    "name": "Giant Fishing Rod"
+    "name": "Giant Fishing Rod",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giant_Fishing_Rod"
   },
   "GIANT_FRAGMENT_BIGFOOT": {
     "name": "Bigfoot\u0027s Lasso",
@@ -14063,7 +14076,8 @@
       "C1": "LAVA_SHELL:3",
       "C2": "FINWAVE_BELT:1",
       "C3": "LAVA_SHELL:3"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gillsplash_Belt"
   },
   "GILLSPLASH_CLOAK": {
     "name": "Gillsplash Cloak",
@@ -14077,7 +14091,8 @@
       "C1": "LAVA_SHELL:1",
       "C2": "",
       "C3": "LAVA_SHELL:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gillsplash_Cloak"
   },
   "GILLSPLASH_GLOVES": {
     "name": "Gillsplash Gloves",
@@ -14091,7 +14106,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gillsplash_Gloves"
   },
   "GINGERBREAD_HOUSE": {
     "name": "Gingerbread House",
@@ -14184,7 +14200,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gloomlock_Grimoire"
   },
   "GLOWING_MUSHROOM": {
-    "name": "Glowing Mushroom"
+    "name": "Glowing Mushroom",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowing_Mushroom"
   },
   "GLOWSTONE": {
     "name": "Glowstone",
@@ -14392,7 +14409,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion"
   },
   "GLOWY_CHUM_BAIT": {
-    "name": "Glowy Chum Bait"
+    "name": "Glowy Chum Bait",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowy_Chum_Bait"
   },
   "GLUE_ARROW": {
     "name": "Glue Arrow",
@@ -15422,7 +15440,8 @@
       "C1": "",
       "C2": "GREAT_WHITE_SHARK_TOOTH:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_White_Tooth_Meal"
   },
   "GREEN_CANDY": {
     "name": "Green Candy",
@@ -17154,7 +17173,8 @@
       "C1": "NURSE_SHARK_TOOTH:16",
       "C2": "ENCHANTED_SHARK_FIN:16",
       "C3": "NURSE_SHARK_TOOTH:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ichthyic_Belt"
   },
   "ICHTHYIC_CLOAK": {
     "name": "Ichthyic Cloak",
@@ -17168,7 +17188,8 @@
       "C1": "ENCHANTED_SHARK_FIN:16",
       "C2": "",
       "C3": "ENCHANTED_SHARK_FIN:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ichthyic_Cloak"
   },
   "ICHTHYIC_GLOVES": {
     "name": "Ichthyic Gloves",
@@ -17182,7 +17203,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ichthyic_Gloves"
   },
   "ICY_ARROW": {
     "name": "Icy Arrow",
@@ -19878,7 +19900,8 @@
       "C1": "CUP_OF_BLOOD:32",
       "C2": "HORN_OF_TAURUS:16",
       "C3": "FLAMING_HEART:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Water_Orb"
   },
   "LEAFLET_BOOTS": {
     "name": "Leaflet Sandals",
@@ -20079,7 +20102,8 @@
       "C1": "LEECH_SUPREME_FRAGMENT:1",
       "C2": "LEECH_SUPREME_FRAGMENT:1",
       "C3": "LEECH_SUPREME_FRAGMENT:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leech_Belt"
   },
   "LEECH_SUPREME_FRAGMENT": {
     "name": "Leech Supreme Fragment"
@@ -20405,7 +20429,8 @@
     "name": "Luck of the Sea VI"
   },
   "LUMINOUS_BRACELET": {
-    "name": "Luminous Bracelet"
+    "name": "Luminous Bracelet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Luminous_Bracelet"
   },
   "LUMINO_FIBER": {
     "name": "Lumino Fiber",
@@ -22446,7 +22471,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Plate"
   },
   "MOBYS_SHEARS": {
-    "name": "Moby\u0027s Shears"
+    "name": "Moby\u0027s Shears",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Moby%27s_Shears"
   },
   "MOB_SPAWNER": {
     "name": "Monster Spawner"
@@ -24343,7 +24369,8 @@
     }
   },
   "PANDORAS_BOX": {
-    "name": "Pandora\u0027s Box"
+    "name": "Pandora\u0027s Box",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pandora%27s_Box"
   },
   "PAPER": {
     "name": "Paper",
@@ -25687,7 +25714,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_ROCK_BLINKING": {
-    "name": "Blinking Rock Skin"
+    "name": "Blinking Rock Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
   },
   "PET_SKIN_ROCK_COOL": {
     "name": "Cool Rock Skin",
@@ -25710,13 +25738,16 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_ROCK_SURPRISED": {
-    "name": "Surprised Rock Skin"
+    "name": "Surprised Rock Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
   },
   "PET_SKIN_ROCK_SUS": {
-    "name": "Sus Rock Skin"
+    "name": "Sus Rock Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
   },
   "PET_SKIN_ROCK_SWEATING": {
-    "name": "Sweating Rock Skin"
+    "name": "Sweating Rock Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
   },
   "PET_SKIN_ROCK_THINKING": {
     "name": "Thinking Rock Skin",
@@ -26216,7 +26247,8 @@
     }
   },
   "PITCHIN_KOI": {
-    "name": "Pitchin\u0027 Koi"
+    "name": "Pitchin\u0027 Koi",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pitchin%27_Koi"
   },
   "PLASMA": {
     "name": "Plasma",
@@ -27952,7 +27984,8 @@
     }
   },
   "RACING_HELMET": {
-    "name": "Racing Helmet"
+    "name": "Racing Helmet",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Racing_Helmet"
   },
   "RADIANT_POWER_ORB": {
     "name": "Radiant Power Orb",
@@ -28084,7 +28117,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat_Pet"
   },
   "RAT_JETPACK": {
-    "name": "Rat Jetpack"
+    "name": "Rat Jetpack",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat_Jetpack"
   },
   "RAW_BEEF": {
     "name": "Raw Beef"
@@ -30556,7 +30590,8 @@
       "C1": "ENCHANTED_SHARK_FIN:4",
       "C2": "TIGER_SHARK_TOOTH:4",
       "C3": "ENCHANTED_SHARK_FIN:4"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shark_Water_Orb"
   },
   "SHARPNESS;1": {
     "name": "Sharpness I"
@@ -30872,7 +30907,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
   },
   "SHENS_REGALIA": {
-    "name": "Shen\u0027s Regalia"
+    "name": "Shen\u0027s Regalia",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shen%27s_Regalia"
   },
   "SHIMMERING_LIGHT_HOOD": {
     "name": "Shimmering Light Hood",
@@ -33609,7 +33645,8 @@
       "C1": "PURPLE_CANDY:16",
       "C2": "WEREWOLF_SKIN:8",
       "C3": "PURPLE_CANDY:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spooky_Water_Orb"
   },
   "SPOOK_THE_FISH": {
     "name": "Spook the Fish",
@@ -38532,7 +38569,8 @@
       "C1": "ENCHANTED_SPONGE:4",
       "C2": "ENCHANTED_PUFFERFISH:16",
       "C3": "ENCHANTED_CLOWNFISH:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Water_Orb"
   },
   "WATER_TROUGH": {
     "name": "Water Trough",
@@ -38973,7 +39011,8 @@
       "C1": "ICE_HUNK:32",
       "C2": "BLUE_ICE_HUNK:16",
       "C3": "ICE_HUNK:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Winter_Water_Orb"
   },
   "WISE_BABY": {
     "name": "Baby Skin",
@@ -39215,7 +39254,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wither_Soul"
   },
   "WIZARD_WAND": {
-    "name": "Wizard Wand"
+    "name": "Wizard Wand",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wizard_Wand"
   },
   "WOLF;0": {
     "name": "Common Wolf",
