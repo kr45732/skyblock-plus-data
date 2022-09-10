@@ -34,6 +34,15 @@
     "name": "Abiphone XII Mega Color",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Abiphone_XII_Mega_Color"
   },
+  "ABIPHONE_XIV_ENORMOUS": {
+    "name": "Abiphone XIV Enormous"
+  },
+  "ABIPHONE_XIV_ENORMOUS_BLACK": {
+    "name": "Abiphone XIV Enormous"
+  },
+  "ABIPHONE_XIV_ENORMOUS_PURPLE": {
+    "name": "Abiphone XIV Enormous"
+  },
   "ABIPHONE_XI_ULTRA": {
     "name": "Abiphone XI Ultra",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Abiphone_XI_Ultra"
@@ -2728,6 +2737,9 @@
       "C3": ""
     }
   },
+  "BOBBIN_SCRIPTURES": {
+    "name": "Bobbin\u0027 Scriptures"
+  },
   "BOB_OMB": {
     "name": "Bob-omb",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bob-omb"
@@ -4860,6 +4872,15 @@
   "CHILL_THE_FISH_2": {
     "name": "Chill the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chill_the_Fish"
+  },
+  "CHUM": {
+    "name": "Chum"
+  },
+  "CHUMMING_TALISMAN": {
+    "name": "Chumming Talisman"
+  },
+  "CHUM_ROD": {
+    "name": "Chum Rod"
   },
   "CHYME": {
     "name": "Chyme",
@@ -8531,6 +8552,9 @@
     "name": "Emerald-tipped Arrow",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Arrows"
   },
+  "EMPTY_CHUM_BUCKET": {
+    "name": "Empty Chum Bucket"
+  },
   "EMPTY_MAP": {
     "name": "Empty Map",
     "recipe": {
@@ -12131,6 +12155,48 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
   },
+  "FINWAVE_BELT": {
+    "name": "Finwave Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "TIGER_SHARK_TOOTH:6",
+      "B2": "",
+      "B3": "TIGER_SHARK_TOOTH:6",
+      "C1": "GREAT_WHITE_TOOTH_MEAL:1",
+      "C2": "ICHTHYIC_BELT:1",
+      "C3": "GREAT_WHITE_TOOTH_MEAL:1"
+    }
+  },
+  "FINWAVE_CLOAK": {
+    "name": "Finwave Cloak",
+    "recipe": {
+      "A1": "GREAT_WHITE_TOOTH_MEAL:1",
+      "A2": "ICHTHYIC_CLOAK:1",
+      "A3": "GREAT_WHITE_TOOTH_MEAL:1",
+      "B1": "TIGER_SHARK_TOOTH:6",
+      "B2": "",
+      "B3": "TIGER_SHARK_TOOTH:6",
+      "C1": "TIGER_SHARK_TOOTH:6",
+      "C2": "",
+      "C3": "TIGER_SHARK_TOOTH:6"
+    }
+  },
+  "FINWAVE_GLOVES": {
+    "name": "Finwave Gloves",
+    "recipe": {
+      "A1": "GREAT_WHITE_TOOTH_MEAL:1",
+      "A2": "ICHTHYIC_GLOVES:1",
+      "A3": "GREAT_WHITE_TOOTH_MEAL:1",
+      "B1": "TIGER_SHARK_TOOTH:6",
+      "B2": "TIGER_SHARK_TOOTH:6",
+      "B3": "TIGER_SHARK_TOOTH:6",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
   "FIREBALL": {
     "name": "Fire Charge",
     "recipe": {
@@ -13532,6 +13598,9 @@
     "name": "Fuel Tank",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fuel_Tank"
   },
+  "FULL_CHUM_BUCKET": {
+    "name": "Full Chum Bucket"
+  },
   "FUMING_POTATO_BOOK": {
     "name": "Fuming Potato Book",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fuming_Potato_Book"
@@ -13982,6 +14051,48 @@
     "name": "Gift the Fish",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gift_the_Fish"
   },
+  "GILLSPLASH_BELT": {
+    "name": "Gillsplash Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "MAGMA_FISH_DIAMOND:1",
+      "B2": "",
+      "B3": "MAGMA_FISH_DIAMOND:1",
+      "C1": "LAVA_SHELL:3",
+      "C2": "FINWAVE_BELT:1",
+      "C3": "LAVA_SHELL:3"
+    }
+  },
+  "GILLSPLASH_CLOAK": {
+    "name": "Gillsplash Cloak",
+    "recipe": {
+      "A1": "MAGMA_FISH_DIAMOND:1",
+      "A2": "FINWAVE_CLOAK:1",
+      "A3": "MAGMA_FISH_DIAMOND:1",
+      "B1": "LAVA_SHELL:1",
+      "B2": "",
+      "B3": "LAVA_SHELL:1",
+      "C1": "LAVA_SHELL:1",
+      "C2": "",
+      "C3": "LAVA_SHELL:1"
+    }
+  },
+  "GILLSPLASH_GLOVES": {
+    "name": "Gillsplash Gloves",
+    "recipe": {
+      "A1": "MAGMA_FISH_DIAMOND:1",
+      "A2": "FINWAVE_GLOVES:1",
+      "A3": "MAGMA_FISH_DIAMOND:1",
+      "B1": "LAVA_SHELL:1",
+      "B2": "LAVA_SHELL:1",
+      "B3": "LAVA_SHELL:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
   "GINGERBREAD_HOUSE": {
     "name": "Gingerbread House",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -14071,6 +14182,9 @@
       "C3": "NULL_OVOID:4"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gloomlock_Grimoire"
+  },
+  "GLOWING_MUSHROOM": {
+    "name": "Glowing Mushroom"
   },
   "GLOWSTONE": {
     "name": "Glowstone",
@@ -14276,6 +14390,9 @@
       "C3": "ENCHANTED_GLOWSTONE_DUST:64"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Glowstone_Minion"
+  },
+  "GLOWY_CHUM_BAIT": {
+    "name": "Glowy Chum Bait"
   },
   "GLUE_ARROW": {
     "name": "Glue Arrow",
@@ -15292,6 +15409,20 @@
   "GREAT_WHITE_SHARK_TOOTH": {
     "name": "Great White Shark Tooth",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_White_Shark_Tooth"
+  },
+  "GREAT_WHITE_TOOTH_MEAL": {
+    "name": "Great White Tooth Meal",
+    "recipe": {
+      "A1": "",
+      "A2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "A3": "",
+      "B1": "GREAT_WHITE_SHARK_TOOTH:1",
+      "B2": "ENCHANTED_BONE:1",
+      "B3": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C1": "",
+      "C2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "C3": ""
+    }
   },
   "GREEN_CANDY": {
     "name": "Green Candy",
@@ -17010,6 +17141,48 @@
   "ICE_SPRAY_WAND": {
     "name": "Ice Spray Wand",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ice_Spray_Wand"
+  },
+  "ICHTHYIC_BELT": {
+    "name": "Ichthyic Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "BLUE_SHARK_TOOTH:16",
+      "B2": "",
+      "B3": "BLUE_SHARK_TOOTH:16",
+      "C1": "NURSE_SHARK_TOOTH:16",
+      "C2": "ENCHANTED_SHARK_FIN:16",
+      "C3": "NURSE_SHARK_TOOTH:16"
+    }
+  },
+  "ICHTHYIC_CLOAK": {
+    "name": "Ichthyic Cloak",
+    "recipe": {
+      "A1": "BLUE_SHARK_TOOTH:16",
+      "A2": "NURSE_SHARK_TOOTH:32",
+      "A3": "BLUE_SHARK_TOOTH:16",
+      "B1": "ENCHANTED_SHARK_FIN:16",
+      "B2": "",
+      "B3": "ENCHANTED_SHARK_FIN:16",
+      "C1": "ENCHANTED_SHARK_FIN:16",
+      "C2": "",
+      "C3": "ENCHANTED_SHARK_FIN:16"
+    }
+  },
+  "ICHTHYIC_GLOVES": {
+    "name": "Ichthyic Gloves",
+    "recipe": {
+      "A1": "BLUE_SHARK_TOOTH:16",
+      "A2": "BLUE_SHARK_TOOTH:16",
+      "A3": "BLUE_SHARK_TOOTH:16",
+      "B1": "NURSE_SHARK_TOOTH:16",
+      "B2": "NURSE_SHARK_TOOTH:16",
+      "B3": "NURSE_SHARK_TOOTH:16",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
   },
   "ICY_ARROW": {
     "name": "Icy Arrow",
@@ -19693,6 +19866,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lava_Talisman"
   },
+  "LAVA_WATER_ORB": {
+    "name": "Lava Water Orb",
+    "recipe": {
+      "A1": "MAGMA_FISH_SILVER:16",
+      "A2": "THUNDER_SHARDS:2",
+      "A3": "MAGMA_FISH_SILVER:16",
+      "B1": "MOOGMA_PELT:64",
+      "B2": "WATER_ORB:1",
+      "B3": "LUMP_OF_MAGMA:64",
+      "C1": "CUP_OF_BLOOD:32",
+      "C2": "HORN_OF_TAURUS:16",
+      "C3": "FLAMING_HEART:32"
+    }
+  },
   "LEAFLET_BOOTS": {
     "name": "Leaflet Sandals",
     "recipe": {
@@ -20216,6 +20403,9 @@
   },
   "LUCK_OF_THE_SEA;6": {
     "name": "Luck of the Sea VI"
+  },
+  "LUMINOUS_BRACELET": {
+    "name": "Luminous Bracelet"
   },
   "LUMINO_FIBER": {
     "name": "Lumino Fiber",
@@ -22254,6 +22444,9 @@
   "MITHRIL_PLATE": {
     "name": "Mithril Plate",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mithril_Plate"
+  },
+  "MOBYS_SHEARS": {
+    "name": "Moby\u0027s Shears"
   },
   "MOB_SPAWNER": {
     "name": "Monster Spawner"
@@ -25437,6 +25630,10 @@
     "name": "Beagle Hound Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_JELLYFISH_LUMINESCENT": {
+    "name": "Luminescent Jellyfish Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
   "PET_SKIN_JERRY_GREEN_ELF": {
     "name": "Green Elf Jerry Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -25972,6 +26169,24 @@
     "name": "Pink Donut Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
+  "PISCARY;1": {
+    "name": "Piscary I"
+  },
+  "PISCARY;2": {
+    "name": "Piscary 2"
+  },
+  "PISCARY;3": {
+    "name": "Piscary 3"
+  },
+  "PISCARY;4": {
+    "name": "Piscary 4"
+  },
+  "PISCARY;5": {
+    "name": "Piscary 5"
+  },
+  "PISCARY;6": {
+    "name": "Piscary 6"
+  },
   "PISTON_BASE": {
     "name": "Piston",
     "recipe": {
@@ -25999,6 +26214,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "PITCHIN_KOI": {
+    "name": "Pitchin\u0027 Koi"
   },
   "PLASMA": {
     "name": "Plasma",
@@ -30326,6 +30544,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shark_Scale_Armor"
   },
+  "SHARK_WATER_ORB": {
+    "name": "Shark Water Orb",
+    "recipe": {
+      "A1": "ENCHANTED_SHARK_FIN:4",
+      "A2": "GREAT_WHITE_SHARK_TOOTH:1",
+      "A3": "ENCHANTED_SHARK_FIN:4",
+      "B1": "BLUE_SHARK_TOOTH:16",
+      "B2": "WATER_ORB:1",
+      "B3": "NURSE_SHARK_TOOTH:32",
+      "C1": "ENCHANTED_SHARK_FIN:4",
+      "C2": "TIGER_SHARK_TOOTH:4",
+      "C3": "ENCHANTED_SHARK_FIN:4"
+    }
+  },
   "SHARPNESS;1": {
     "name": "Sharpness I"
   },
@@ -33364,6 +33596,20 @@
   "SPOOKY_SHARD": {
     "name": "Spooky Shard",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spooky_Shard"
+  },
+  "SPOOKY_WATER_ORB": {
+    "name": "Spooky Water Orb",
+    "recipe": {
+      "A1": "PURPLE_CANDY:16",
+      "A2": "SOUL_FRAGMENT:1",
+      "A3": "PURPLE_CANDY:16",
+      "B1": "WEREWOLF_SKIN:8",
+      "B2": "WATER_ORB:1",
+      "B3": "WEREWOLF_SKIN:8",
+      "C1": "PURPLE_CANDY:16",
+      "C2": "WEREWOLF_SKIN:8",
+      "C3": "PURPLE_CANDY:16"
+    }
   },
   "SPOOK_THE_FISH": {
     "name": "Spook the Fish",
@@ -37175,6 +37421,26 @@
     "name": "Bank V",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   },
+  "ULTIMATE_BOBBIN_TIME;3": {
+    "name": "Bobbin\u0027 Time III",
+    "recipe": {
+      "A1": "",
+      "A2": "SHARK_WATER_ORB:1",
+      "A3": "",
+      "B1": "SPOOKY_WATER_ORB:1",
+      "B2": "BOBBIN_SCRIPTURES:1",
+      "B3": "WINTER_WATER_ORB:1",
+      "C1": "",
+      "C2": "LAVA_WATER_ORB:1",
+      "C3": ""
+    }
+  },
+  "ULTIMATE_BOBBIN_TIME;4": {
+    "name": "Bobbin\u0027 Time IV"
+  },
+  "ULTIMATE_BOBBIN_TIME;5": {
+    "name": "Bobbin\u0027 Time V"
+  },
   "ULTIMATE_CARROT_CANDY": {
     "name": "Ultimate Carrot Candy",
     "recipe": {
@@ -38254,6 +38520,20 @@
   "WATER_LILY": {
     "name": "Lily Pad"
   },
+  "WATER_ORB": {
+    "name": "Water Orb",
+    "recipe": {
+      "A1": "ENCHANTED_RAW_FISH:16",
+      "A2": "ENCHANTED_WATER_LILY:8",
+      "A3": "ENCHANTED_RAW_SALMON:16",
+      "B1": "ENCHANTED_PRISMARINE_SHARD:16",
+      "B2": "DIVER_FRAGMENT:1",
+      "B3": "ENCHANTED_PRISMARINE_SHARD:16",
+      "C1": "ENCHANTED_SPONGE:4",
+      "C2": "ENCHANTED_PUFFERFISH:16",
+      "C3": "ENCHANTED_CLOWNFISH:8"
+    }
+  },
   "WATER_TROUGH": {
     "name": "Water Trough",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -38680,6 +38960,20 @@
   "WINTER_ROD": {
     "name": "Winter Rod",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Winter_Rod"
+  },
+  "WINTER_WATER_ORB": {
+    "name": "Winter Water Orb",
+    "recipe": {
+      "A1": "ICE_HUNK:32",
+      "A2": "ENCHANTED_SNOW_BLOCK:64",
+      "A3": "ICE_HUNK:32",
+      "B1": "WHITE_GIFT:64",
+      "B2": "WATER_ORB:1",
+      "B3": "GREEN_GIFT:8",
+      "C1": "ICE_HUNK:32",
+      "C2": "BLUE_ICE_HUNK:16",
+      "C3": "ICE_HUNK:32"
+    }
   },
   "WISE_BABY": {
     "name": "Baby Skin",
