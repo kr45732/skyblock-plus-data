@@ -16358,6 +16358,10 @@
     "name": "Hermit Crab Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
+  "HERRING_THE_FISH": {
+    "name": "Herring the Fish",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Herring_the_Fish"
+  },
   "HIGH_CLASS_ARCHFIEND_DICE": {
     "name": "High Class Archfiend Dice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/High_Class_Archfiend_Dice"
@@ -19162,10 +19166,16 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Keys"
   },
   "KUUDRA_FOLLOWER_BOOTS": {
-    "name": "Kuudra Follower Boots"
+    "name": "Kuudra Follower Boots",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Follower_Armor"
+  },
+  "KUUDRA_FOLLOWER_CHESTPLATE": {
+    "name": "Kuudra Follower Chestplate",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Follower_Armor"
   },
   "KUUDRA_FOLLOWER_LEGGINGS": {
-    "name": "Kuudra Follower Leggings"
+    "name": "Kuudra Follower Leggings",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Follower_Armor"
   },
   "KUUDRA_HOT_TIER_KEY": {
     "name": "Hot Kuudra Key",
@@ -19202,7 +19212,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Mandible"
   },
   "KUUDRA_RELIC": {
-    "name": "Kuudra Relic"
+    "name": "Kuudra Relic",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Kuudra_Relic"
   },
   "KUUDRA_TEETH": {
     "name": "Kuudra Teeth",
@@ -35675,6 +35686,9 @@
   "SULPHUR_SKITTER_BRONZE": {
     "name": "Sulphur Skitter BRONZE",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "SULPHUR_SKITTER_DIAMOND": {
+    "name": "Sulphur Skitter DIAMOND"
   },
   "SULPHUR_SKITTER_GOLD": {
     "name": "Sulphur Skitter GOLD",
