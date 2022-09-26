@@ -381,7 +381,7 @@
       "B2": "MOLTEN_POWDER:64",
       "B3": "",
       "C1": "INFERNO_VERTEX:8",
-      "C2": "ENCHANTED_FIREWORK_ROCKET:1",
+      "C2": "ALERT_FLARE:1",
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Alert_Flare"
@@ -20403,7 +20403,7 @@
     "name": "Luck VII"
   },
   "LUCKY_DICE": {
-    "name": "Lucky Dice ",
+    "name": "Lucky Dice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lucky_Dice"
   },
   "LUCKY_HOOF": {
@@ -23557,7 +23557,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nether_Wart_Pouch"
   },
   "NEW_YEAR_CAKE": {
-    "name": "New Year Cake",
+    "name": "New Year Cake (Year 59)",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/New_Year_Cake"
   },
   "NEW_YEAR_CAKE_BAG": {
@@ -25654,6 +25654,10 @@
   },
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
     "name": "Undead Ender Dragon Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
+    "name": "Anubis Golden Dragon Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_GUARDIAN": {
@@ -33637,7 +33641,7 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spooky_Armor"
   },
   "SPOOKY_PIE": {
-    "name": "Spooky Pie",
+    "name": "Spooky Pie (Year 69)",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spooky_Pie"
   },
   "SPOOKY_SHARD": {
@@ -35929,13 +35933,49 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sword_of_Revelations"
   },
   "SYNTHESIZER_V1": {
-    "name": "Synthesizer v1"
+    "name": "Synthesizer v1",
+    "recipe": {
+      "A1": "X:64",
+      "A2": "",
+      "A3": "X:64",
+      "B1": "X:64",
+      "B2": "",
+      "B3": "X:64",
+      "C1": "",
+      "C2": "X:64",
+      "C3": ""
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Synthesizer_v1"
   },
   "SYNTHESIZER_V2": {
-    "name": "Synthesizer v2"
+    "name": "Synthesizer v2",
+    "recipe": {
+      "A1": "Y:64",
+      "A2": "Y:64",
+      "A3": "Y:64",
+      "B1": "Y:64",
+      "B2": "SYNTHESIZER_V1",
+      "B3": "Y:64",
+      "C1": "Y:64",
+      "C2": "Y:64",
+      "C3": "Y:64"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Synthesizer_v2"
   },
   "SYNTHESIZER_V3": {
-    "name": "Synthesizer v3"
+    "name": "Synthesizer v3",
+    "recipe": {
+      "A1": "Z:64",
+      "A2": "Z:64",
+      "A3": "Z:64",
+      "B1": "Z:64",
+      "B2": "SYNTHESIZER_V2",
+      "B3": "Z:64",
+      "C1": "Z:64",
+      "C2": "Z:64",
+      "C3": "Z:64"
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Synthesizer_v3"
   },
   "SYNTHETIC_HEART": {
     "name": "Synthetic Heart",
@@ -38497,7 +38537,18 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wand_of_Restoration"
   },
   "WAND_OF_STRENGTH": {
-    "name": "Wand of Strength"
+    "name": "Wand of Strength",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "SPELL_POWDER",
+      "B1": "",
+      "B2": "HALLOWED_SKULL:20",
+      "B3": "",
+      "C1": "STICK:1",
+      "C2": "",
+      "C3": ""
+    }
   },
   "WARDEN_HEART": {
     "name": "Warden Heart",
