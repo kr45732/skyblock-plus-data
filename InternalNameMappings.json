@@ -20549,17 +20549,6 @@
   },
   "MAGMA_BOW": {
     "name": "Magma Bow",
-    "recipe": {
-      "A1": "",
-      "A2": "ENCHANTED_MAGMA_CREAM:32",
-      "A3": "ENCHANTED_STRING:1",
-      "B1": "ENCHANTED_MAGMA_CREAM:32",
-      "B2": "",
-      "B3": "ENCHANTED_STRING:1",
-      "C1": "",
-      "C2": "ENCHANTED_MAGMA_CREAM:32",
-      "C3": "ENCHANTED_STRING:1"
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magma_Bow"
   },
   "MAGMA_BUCKET": {
