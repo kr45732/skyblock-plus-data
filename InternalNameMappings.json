@@ -40166,15 +40166,15 @@
   "ZOMBIE;0": {
     "name": "Common Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH;64",
-      "A2": "ENCHANTED_ROTTEN_FLESH;64",
-      "A3": "ENCHANTED_ROTTEN_FLESH;64",
-      "B1": "ENCHANTED_ROTTEN_FLESH;64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A2": "ENCHANTED_ROTTEN_FLESH:64",
+      "A3": "ENCHANTED_ROTTEN_FLESH:64",
+      "B1": "ENCHANTED_ROTTEN_FLESH:64",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH;64",
-      "C1": "ENCHANTED_ROTTEN_FLESH;64",
-      "C2": "ENCHANTED_ROTTEN_FLESH;64",
-      "C3": "ENCHANTED_ROTTEN_FLESH;64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:64",
+      "C1": "ENCHANTED_ROTTEN_FLESH:64",
+      "C2": "ENCHANTED_ROTTEN_FLESH:64",
+      "C3": "ENCHANTED_ROTTEN_FLESH:64"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
@@ -40182,15 +40182,15 @@
   "ZOMBIE;1": {
     "name": "Uncommon Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH;64",
-      "A2": "ENCHANTED_ROTTEN_FLESH;64",
-      "A3": "ENCHANTED_ROTTEN_FLESH;64",
-      "B1": "ENCHANTED_ROTTEN_FLESH;64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A2": "ENCHANTED_ROTTEN_FLESH:64",
+      "A3": "ENCHANTED_ROTTEN_FLESH:64",
+      "B1": "ENCHANTED_ROTTEN_FLESH:64",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH;64",
-      "C1": "ENCHANTED_ROTTEN_FLESH;64",
-      "C2": "ENCHANTED_ROTTEN_FLESH;64",
-      "C3": "ENCHANTED_ROTTEN_FLESH;64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:64",
+      "C1": "ENCHANTED_ROTTEN_FLESH:64",
+      "C2": "ENCHANTED_ROTTEN_FLESH:64",
+      "C3": "ENCHANTED_ROTTEN_FLESH:64"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
@@ -40198,15 +40198,15 @@
   "ZOMBIE;2": {
     "name": "Rare Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH;64",
-      "A2": "ENCHANTED_ROTTEN_FLESH;64",
-      "A3": "ENCHANTED_ROTTEN_FLESH;64",
-      "B1": "ENCHANTED_ROTTEN_FLESH;64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A2": "ENCHANTED_ROTTEN_FLESH:64",
+      "A3": "ENCHANTED_ROTTEN_FLESH:64",
+      "B1": "ENCHANTED_ROTTEN_FLESH:64",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH;64",
-      "C1": "ENCHANTED_ROTTEN_FLESH;64",
-      "C2": "ENCHANTED_ROTTEN_FLESH;64",
-      "C3": "ENCHANTED_ROTTEN_FLESH;64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:64",
+      "C1": "ENCHANTED_ROTTEN_FLESH:64",
+      "C2": "ENCHANTED_ROTTEN_FLESH:64",
+      "C3": "ENCHANTED_ROTTEN_FLESH:64"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
@@ -40214,15 +40214,15 @@
   "ZOMBIE;3": {
     "name": "Epic Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH;64",
-      "A2": "ENCHANTED_ROTTEN_FLESH;64",
-      "A3": "ENCHANTED_ROTTEN_FLESH;64",
-      "B1": "ENCHANTED_ROTTEN_FLESH;64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A2": "ENCHANTED_ROTTEN_FLESH:64",
+      "A3": "ENCHANTED_ROTTEN_FLESH:64",
+      "B1": "ENCHANTED_ROTTEN_FLESH:64",
       "B2": "SUPER_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH;64",
-      "C1": "ENCHANTED_ROTTEN_FLESH;64",
-      "C2": "ENCHANTED_ROTTEN_FLESH;64",
-      "C3": "ENCHANTED_ROTTEN_FLESH;64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:64",
+      "C1": "ENCHANTED_ROTTEN_FLESH:64",
+      "C2": "ENCHANTED_ROTTEN_FLESH:64",
+      "C3": "ENCHANTED_ROTTEN_FLESH:64"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Pet"
@@ -40230,15 +40230,15 @@
   "ZOMBIE;4": {
     "name": "Legendary Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH;64",
-      "A2": "ENCHANTED_ROTTEN_FLESH;64",
-      "A3": "ENCHANTED_ROTTEN_FLESH;64",
-      "B1": "ENCHANTED_ROTTEN_FLESH;64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A2": "ENCHANTED_ROTTEN_FLESH:64",
+      "A3": "ENCHANTED_ROTTEN_FLESH:64",
+      "B1": "ENCHANTED_ROTTEN_FLESH:64",
       "B2": "SUPER_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH;64",
-      "C1": "ENCHANTED_ROTTEN_FLESH;64",
-      "C2": "ENCHANTED_ROTTEN_FLESH;64",
-      "C3": "ENCHANTED_ROTTEN_FLESH;64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:64",
+      "C1": "ENCHANTED_ROTTEN_FLESH:64",
+      "C2": "ENCHANTED_ROTTEN_FLESH:64",
+      "C3": "ENCHANTED_ROTTEN_FLESH:64"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie"
