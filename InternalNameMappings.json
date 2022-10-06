@@ -1869,6 +1869,9 @@
     "name": "Weapon Rack+",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "BETRAYAL_HEAD": {
+    "name": "Head of Betrayal"
+  },
   "BEZOS": {
     "name": "Bezos",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bezos"
@@ -6985,6 +6988,9 @@
     "name": "Dead Bush of Love",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dead_Bush_of_Love"
   },
+  "DEAD_SEED": {
+    "name": "Dead Seed"
+  },
   "DEAN_LETTER_OF_RECOMMENDATION": {
     "name": "Letter of Recommendation"
   },
@@ -8000,6 +8006,9 @@
   "DWARVEN_GOLD_HAMMER": {
     "name": "Scavenged Golden Hammer",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scavenged_Golden_Hammer"
+  },
+  "DWARVEN_IRON_HAMMER": {
+    "name": "Scavenged Iron Hammer"
   },
   "DWARVEN_LAPIS_SWORD": {
     "name": "Scavenged Lapis Sword",
@@ -10171,6 +10180,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Shark_Fin"
   },
+  "ENCHANTED_SHEARS": {
+    "name": "Enchanted Shears"
+  },
   "ENCHANTED_SLIME_BALL": {
     "name": "Enchanted Slimeball",
     "recipe": {
@@ -11386,6 +11398,9 @@
   "FAIRY_LEGGINGS": {
     "name": "Fairy\u0027s Trousers",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fairy_Armor"
+  },
+  "FAIRY_WINGS": {
+    "name": "Fairy Wings"
   },
   "FAKE_EMERALD_ALTAR": {
     "name": "Fake Emerald Altar",
@@ -13469,9 +13484,15 @@
   "FREE_COOKIE": {
     "name": "Booster Cookie (FREE)"
   },
+  "FREE_SPIDER": {
+    "name": "Free Spider"
+  },
   "FRENCH_BREAD": {
     "name": "French Bread",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/French_Bread"
+  },
+  "FRENCH_FRIES": {
+    "name": "French Fries"
   },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
@@ -15404,6 +15425,12 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Carrot_Candy"
   },
+  "GREAT_SPOOK_ARTIFACT": {
+    "name": "Great Spook Artifact"
+  },
+  "GREAT_SPOOK_BELT": {
+    "name": "Great Spook Belt"
+  },
   "GREAT_SPOOK_BOOTS": {
     "name": "Great Spook Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Armor"
@@ -15411,6 +15438,12 @@
   "GREAT_SPOOK_CHESTPLATE": {
     "name": "Great Spook Chestplate",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Armor"
+  },
+  "GREAT_SPOOK_CLOAK": {
+    "name": "Great Spook Cloak"
+  },
+  "GREAT_SPOOK_GLOVES": {
+    "name": "Great Spook Gloves"
   },
   "GREAT_SPOOK_HELMET": {
     "name": "Great Spook Helmet",
@@ -15420,9 +15453,21 @@
     "name": "Great Spook Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Armor"
   },
+  "GREAT_SPOOK_NECKLACE": {
+    "name": "Great Spook Necklace"
+  },
+  "GREAT_SPOOK_RING": {
+    "name": "Great Spook Ring"
+  },
   "GREAT_SPOOK_STAFF": {
     "name": "Great Spook Staff",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Staff"
+  },
+  "GREAT_SPOOK_SWORD": {
+    "name": "Great Spook Sword"
+  },
+  "GREAT_SPOOK_TALISMAN": {
+    "name": "Great Spook Talisman"
   },
   "GREAT_WHITE_SHARK_TOOTH": {
     "name": "Great White Shark Tooth",
@@ -15746,6 +15791,10 @@
     "name": "Halloween Candles",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "HALLOWEEN_SCARECROW": {
+    "name": "Halloween Scarecrow",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
   "HAMMOCK": {
     "name": "Hammock",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -15757,6 +15806,10 @@
   "HANDY_BLOOD_CHALICE": {
     "name": "Handy Blood Chalice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Handy_Blood_Chalice"
+  },
+  "HANGING_REAPER": {
+    "name": "Hanging Reaper",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "HAPPY_MASK": {
     "name": "Happy Mask",
@@ -23893,6 +23946,9 @@
     "name": "Obfuscated 3 SILVER",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
   },
+  "OBSCURE_ENDING": {
+    "name": "Obscure Ending"
+  },
   "OBSIDIAN": {
     "name": "Obsidian"
   },
@@ -25545,12 +25601,20 @@
     "name": "RGBee Bee Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_BEE_ZOMBEE": {
+    "name": "ZomBee Bee Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
   "PET_SKIN_BLACK_CAT_IVORY": {
     "name": "Ivory Black Cat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_BLACK_CAT_ONYX": {
     "name": "Onyx Black Cat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_BLACK_CAT_PURRANORMAL": {
+    "name": "Purranormal Black Cat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_BLAZE_FROZEN": {
@@ -25715,6 +25779,10 @@
   },
   "PET_SKIN_RABBIT_ROSE": {
     "name": "Rose Rabbit Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_RAT_HIDE_AND_SQUEAK": {
+    "name": "Hide and Squeak Rat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_ROCK_BLINKING": {
@@ -26760,6 +26828,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Armor"
   },
+  "PRECIOUS": {
+    "name": "Precious"
+  },
   "PRECIOUS_PEARL": {
     "name": "Precious Pearl",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Precious_Pearl"
@@ -27176,6 +27247,10 @@
       "C3": "PUMPKIN:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pumpkin_Armor"
+  },
+  "PUMPKIN_CRAFTING_TABLE": {
+    "name": "Pumpkin Crafting Table",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "PUMPKIN_DICER": {
     "name": "Pumpkin Dicer",
@@ -29531,6 +29606,9 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rod_of_the_Sea"
   },
+  "ROGUE_FLESH": {
+    "name": "Rogue Flesh"
+  },
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rogue_Sword"
@@ -31620,6 +31698,10 @@
   "SKELETON_SOLDIER_LEGGINGS": {
     "name": "Skeleton Soldier Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Skeleton_Soldier_Armor"
+  },
+  "SKELETON_STATUE": {
+    "name": "Skeleton Statue",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "SKELETON_TALISMAN": {
     "name": "Skeleton Talisman",
@@ -39206,6 +39288,10 @@
   },
   "WITCH_BROOMSTICK": {
     "name": "Witch\u0027s Broomstick",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "WITCH_HAT": {
+    "name": "Witch Hat",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "WITCH_MASK": {
