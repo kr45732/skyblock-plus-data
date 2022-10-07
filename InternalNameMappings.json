@@ -25829,6 +25829,14 @@
     "name": "Black Sheep Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_SHEEP_BLACK_WOOLY": {
+    "name": "Black Wooly Sheep Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_SHEEP_CHROMA_WOOLY": {
+    "name": "Chroma Sheep Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
   "PET_SKIN_SHEEP_LIGHT_BLUE": {
     "name": "Light Blue Sheep Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -25863,6 +25871,10 @@
   },
   "PET_SKIN_SHEEP_WHITE": {
     "name": "White Sheep Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "PET_SKIN_SHEEP_WHITE_WOOLY": {
+    "name": "White Wooly Sheep Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
   "PET_SKIN_SILVERFISH": {
