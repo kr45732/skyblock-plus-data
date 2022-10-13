@@ -26024,7 +26024,7 @@
                 }
             },
             {
-                "item": "Wither Cloak",
+                "item": "Wither Cloak Sword",
                 "floor": 7,
                 "chest": "Emerald",
                 "cost": 4000000,
@@ -27082,7 +27082,7 @@
                 }
             },
             {
-                "item": "Wither Cloak",
+                "item": "Wither Cloak Sword",
                 "floor": 7,
                 "chest": "Obsidian",
                 "cost": 3500000,
@@ -27948,7 +27948,7 @@
                 }
             },
             {
-                "item": "Implosion Scroll",
+                "item": "Implosion",
                 "floor": 7,
                 "chest": "Bedrock",
                 "cost": 1300000,
@@ -27996,7 +27996,7 @@
                 }
             },
             {
-                "item": "Shadow Warp Scroll",
+                "item": "Shadow Warp",
                 "floor": 7,
                 "chest": "Bedrock",
                 "cost": 1300000,
@@ -28044,7 +28044,7 @@
                 }
             },
             {
-                "item": "Wither Shield Scroll",
+                "item": "Wither Shield",
                 "floor": 7,
                 "chest": "Bedrock",
                 "cost": 1300000,
@@ -28476,7 +28476,7 @@
                 }
             },
             {
-                "item": "Wither Cloak",
+                "item": "Wither Cloak Sword",
                 "floor": 7,
                 "chest": "Bedrock",
                 "cost": 2500000,
@@ -48314,7 +48314,7 @@
                 }
             },
             {
-                "item": "Lethality I",
+                "item": "Lethality VI",
                 "floor": 12,
                 "chest": "Gold",
                 "cost": 100000,
@@ -49036,7 +49036,7 @@
                 }
             },
             {
-                "item": "Lethality I",
+                "item": "Lethality VI",
                 "floor": 12,
                 "chest": "Diamond",
                 "cost": 250000,
@@ -49854,7 +49854,7 @@
                 }
             },
             {
-                "item": "Lethality I",
+                "item": "Lethality VI",
                 "floor": 12,
                 "chest": "Emerald",
                 "cost": 500000,
@@ -50960,7 +50960,7 @@
                 }
             },
             {
-                "item": "Lethality I",
+                "item": "Lethality VI",
                 "floor": 12,
                 "chest": "Obsidian",
                 "cost": 1000000,
@@ -52066,7 +52066,7 @@
                 }
             },
             {
-                "item": "Lethality I",
+                "item": "Lethality VI",
                 "floor": 12,
                 "chest": "Bedrock",
                 "cost": 2000000,
