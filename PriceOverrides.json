@@ -1,5 +1,7 @@
 {
   "manual": {
+    "SNOW_GENERATOR_1": 750000,
+    "FLOWER_GENERATOR_1": 10000000,
     "SUPERBOOM_TNT": 2500,
     "COW_HEAD": 16,
     "PRISMAPUMP": 20000,
