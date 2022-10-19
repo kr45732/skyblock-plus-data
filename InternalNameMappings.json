@@ -335,6 +335,10 @@
   "ADRENALINE": {
     "name": "Adrenaline Potion"
   },
+  "ADVENTURER_NPC": {
+    "name": "Adventurer (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Adventurer"
+  },
   "AGILITY": {
     "name": "Agility Potion"
   },
@@ -367,6 +371,10 @@
   "ALCHEMISTS_STAFF": {
     "name": "The Alchemist\u0027s Staff",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/The_Alchemist\u0027s_Staff"
+  },
+  "ALCHEMIST_NPC": {
+    "name": "Alchemist (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Alchemist"
   },
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion"
@@ -423,6 +431,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Amalgamated_Crimsonite"
   },
+  "AMBER_CRYSTAL": {
+    "name": "Amber Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
+  },
   "AMBER_MATERIAL": {
     "name": "Amber Material",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Amber_Material"
@@ -445,6 +457,14 @@
       "C3": "FINE_AMBER_GEM:16"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Power_Scroll"
+  },
+  "AMEILA_NPC": {
+    "name": "Amelia (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Amelia"
+  },
+  "AMETHYST_CRYSTAL": {
+    "name": "Amethyst Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
   },
   "AMETHYST_POWER_SCROLL": {
     "name": "Amethyst Power Scroll",
@@ -582,6 +602,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Angler_Armor"
   },
+  "ANITA_NPC": {
+    "name": "Anita (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Anita"
+  },
   "ANNIHILATION_CLOAK": {
     "name": "Annihilation Cloak",
     "recipe": {
@@ -615,6 +639,9 @@
       "C3": "IRON_INGOT:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Anvil"
+  },
+  "AN_NPC": {
+    "name": "An (NPC)"
   },
   "AOTE_STONE": {
     "name": "Warped Stone",
@@ -793,7 +820,8 @@
       "C1": "STICK:1",
       "C2": "STEP:1",
       "C3": "STICK:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Armor_Stand"
   },
   "ARROW": {
     "name": "Flint Arrow",
@@ -1372,9 +1400,16 @@
       "C3": ""
     }
   },
+  "BARBARIAN_EMISSARY_NPC": {
+    "name": "Barbarian Emissary (NPC)"
+  },
   "BARRIER": {
     "name": "Barrier",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Barrier"
+  },
+  "BARTENDER_NPC": {
+    "name": "Bartender (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bartender"
   },
   "BASE_GRIFFIN_UPGRADE_STONE": {
     "name": "Base Griffin Upgrade Stone",
@@ -1925,7 +1960,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bingo_Pet"
   },
   "BINGO_ARTIFACT": {
-    "name": "Bingo Artifact"
+    "name": "Bingo Artifact",
+    "wiki": "https://wiki.hypixel.net/Bingo_Artifact"
   },
   "BINGO_CARD": {
     "name": "Bingo Card",
@@ -2186,6 +2222,15 @@
   "BIRD_HOUSE": {
     "name": "Bird House",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "BITE_RUNE;1": {
+    "name": "◆ Bite Rune I"
+  },
+  "BITE_RUNE;2": {
+    "name": "◆ Bite Rune II"
+  },
+  "BITE_RUNE;3": {
+    "name": "◆ Bite Rune III"
   },
   "BITS_TALISMAN": {
     "name": "Bits Talisman",
@@ -2686,6 +2731,15 @@
     "name": "Block Zapper",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Block_Zapper"
   },
+  "BLOOD_2_RUNE;1": {
+    "name": "◆ Blood Rune I"
+  },
+  "BLOOD_2_RUNE;2": {
+    "name": "◆ Blood Rune II"
+  },
+  "BLOOD_2_RUNE;3": {
+    "name": "◆ Blood Rune III"
+  },
   "BLOOD_GOD_CREST": {
     "name": "Blood God Crest",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blood_God_Crest"
@@ -2898,7 +2952,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": "STRING:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Bow"
   },
   "BOWL": {
     "name": "Bowl",
@@ -3031,6 +3086,10 @@
     "name": "Brown Mushroom",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mushroom"
   },
+  "BUBU_NPC": {
+    "name": "Bubu (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bubu"
+  },
   "BUCKET": {
     "name": "Bucket",
     "recipe": {
@@ -3151,6 +3210,10 @@
   "BULKY_STONE": {
     "name": "Bulky Stone",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bulky_Stone"
+  },
+  "BULVAR_NPC": {
+    "name": "Bulvar (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bulvar"
   },
   "BUNNY": {
     "name": "Bunny",
@@ -4022,7 +4085,8 @@
       "C1": "ENCHANTED_GOLDEN_CARROT:1",
       "C2": "ENCHANTED_GOLDEN_CARROT:1",
       "C3": "ENCHANTED_GOLDEN_CARROT:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_11": {
     "name": "Carrot Minion XI",
@@ -4036,7 +4100,8 @@
       "C1": "ENCHANTED_GOLDEN_CARROT:2",
       "C2": "ENCHANTED_GOLDEN_CARROT:2",
       "C3": "ENCHANTED_GOLDEN_CARROT:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_12": {
     "name": "Carrot Minion XII",
@@ -4054,7 +4119,8 @@
       "C1": "CARROT_ITEM:32",
       "C2": "CARROT_ITEM:32",
       "C3": "CARROT_ITEM:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_3": {
     "name": "Carrot Minion III",
@@ -4068,7 +4134,8 @@
       "C1": "CARROT_ITEM:64",
       "C2": "CARROT_ITEM:64",
       "C3": "CARROT_ITEM:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_4": {
     "name": "Carrot Minion IV",
@@ -4082,7 +4149,8 @@
       "C1": "ENCHANTED_CARROT:1",
       "C2": "ENCHANTED_CARROT:1",
       "C3": "ENCHANTED_CARROT:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_5": {
     "name": "Carrot Minion V",
@@ -4096,7 +4164,8 @@
       "C1": "ENCHANTED_CARROT:3",
       "C2": "ENCHANTED_CARROT:3",
       "C3": "ENCHANTED_CARROT:3"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_6": {
     "name": "Carrot Minion VI",
@@ -4110,7 +4179,8 @@
       "C1": "ENCHANTED_CARROT:8",
       "C2": "ENCHANTED_CARROT:8",
       "C3": "ENCHANTED_CARROT:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_7": {
     "name": "Carrot Minion VII",
@@ -4124,7 +4194,8 @@
       "C1": "ENCHANTED_CARROT:16",
       "C2": "ENCHANTED_CARROT:16",
       "C3": "ENCHANTED_CARROT:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_8": {
     "name": "Carrot Minion VIII",
@@ -4138,7 +4209,8 @@
       "C1": "ENCHANTED_CARROT:32",
       "C2": "ENCHANTED_CARROT:32",
       "C3": "ENCHANTED_CARROT:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_GENERATOR_9": {
     "name": "Carrot Minion IX",
@@ -4152,7 +4224,8 @@
       "C1": "ENCHANTED_CARROT:64",
       "C2": "ENCHANTED_CARROT:64",
       "C3": "ENCHANTED_CARROT:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot_Minion"
   },
   "CARROT_ITEM": {
     "name": "Carrot",
@@ -4460,16 +4533,20 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Celeste_Wand"
   },
   "CHAINMAIL_BOOTS": {
-    "name": "Chainmail Boots"
+    "name": "Chainmail Boots",
+    "wiki": "https://wiki.hypixel.net/Chainmail_Boots"
   },
   "CHAINMAIL_CHESTPLATE": {
-    "name": "Chainmail Chestplate"
+    "name": "Chainmail Chestplate",
+    "wiki": "https://wiki.hypixel.net/Chainmail_Chestplate"
   },
   "CHAINMAIL_HELMET": {
-    "name": "Chainmail Helmet"
+    "name": "Chainmail Helmet",
+    "wiki": "https://wiki.hypixel.net/Chainmail_Helmet"
   },
   "CHAINMAIL_LEGGINGS": {
-    "name": "Chainmail Leggings"
+    "name": "Chainmail Leggings",
+    "wiki": "https://wiki.hypixel.net/Chainmail_Leggings"
   },
   "CHALLENGE_ROD": {
     "name": "Challenging Rod",
@@ -4872,7 +4949,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "CHILI_PEPPER": {
-    "name": "Chili Pepper"
+    "name": "Chili Pepper",
+    "wiki": "https://wiki.hypixel.net/Chili_Pepper"
   },
   "CHILL_THE_FISH_2": {
     "name": "Chill the Fish",
@@ -4906,10 +4984,12 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Clay"
   },
   "CLAY_BALL": {
-    "name": "Clay"
+    "name": "Clay",
+    "wiki": "https://wiki.hypixel.net/Clay"
   },
   "CLAY_BRICK": {
     "name": "Brick"
@@ -4941,7 +5021,8 @@
       "C1": "ENCHANTED_CLAY_BALL:32",
       "C2": "ENCHANTED_CLAY_BALL:32",
       "C3": "ENCHANTED_CLAY_BALL:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_11": {
     "name": "Clay Minion XI",
@@ -4955,7 +5036,8 @@
       "C1": "ENCHANTED_CLAY_BALL:64",
       "C2": "ENCHANTED_CLAY_BALL:64",
       "C3": "ENCHANTED_CLAY_BALL:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_2": {
     "name": "Clay Minion II",
@@ -4969,7 +5051,8 @@
       "C1": "CLAY_BALL:20",
       "C2": "CLAY_BALL:20",
       "C3": "CLAY_BALL:20"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_3": {
     "name": "Clay Minion III",
@@ -4983,7 +5066,8 @@
       "C1": "CLAY_BALL:40",
       "C2": "CLAY_BALL:40",
       "C3": "CLAY_BALL:40"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_4": {
     "name": "Clay Minion IV",
@@ -4997,7 +5081,8 @@
       "C1": "CLAY_BALL:64",
       "C2": "CLAY_BALL:64",
       "C3": "CLAY_BALL:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_5": {
     "name": "Clay Minion V",
@@ -5011,7 +5096,8 @@
       "C1": "ENCHANTED_CLAY_BALL:1",
       "C2": "ENCHANTED_CLAY_BALL:1",
       "C3": "ENCHANTED_CLAY_BALL:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_6": {
     "name": "Clay Minion VI",
@@ -5025,7 +5111,8 @@
       "C1": "ENCHANTED_CLAY_BALL:2",
       "C2": "ENCHANTED_CLAY_BALL:2",
       "C3": "ENCHANTED_CLAY_BALL:2"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_7": {
     "name": "Clay Minion VII",
@@ -5039,7 +5126,8 @@
       "C1": "ENCHANTED_CLAY_BALL:4",
       "C2": "ENCHANTED_CLAY_BALL:4",
       "C3": "ENCHANTED_CLAY_BALL:4"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_8": {
     "name": "Clay Minion VIII",
@@ -5053,7 +5141,8 @@
       "C1": "ENCHANTED_CLAY_BALL:8",
       "C2": "ENCHANTED_CLAY_BALL:8",
       "C3": "ENCHANTED_CLAY_BALL:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLAY_GENERATOR_9": {
     "name": "Clay Minion IX",
@@ -5067,7 +5156,8 @@
       "C1": "ENCHANTED_CLAY_BALL:16",
       "C2": "ENCHANTED_CLAY_BALL:16",
       "C3": "ENCHANTED_CLAY_BALL:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Clay_Minion"
   },
   "CLEAVE;1": {
     "name": "Cleave I"
@@ -5141,7 +5231,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cluck_the_Fish"
   },
   "COAL:1": {
-    "name": "Charcoal"
+    "name": "Charcoal",
+    "wiki": "https://wiki.hypixel.net/Charcoal"
   },
   "COAL": {
     "name": "Coal",
@@ -5155,7 +5246,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Coal"
   },
   "COAL_BLOCK": {
     "name": "Block of Coal",
@@ -5169,7 +5261,8 @@
       "C1": "COAL:1",
       "C2": "COAL:1",
       "C3": "COAL:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Block_Of_Coal"
   },
   "COAL_GENERATOR_1": {
     "name": "Coal Minion I",
@@ -5341,10 +5434,12 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Coal_Minion"
   },
   "COAL_ORE": {
-    "name": "Coal Ore"
+    "name": "Coal Ore",
+    "wiki": "https://wiki.hypixel.net/Coal_Ore"
   },
   "COBBLESTONE": {
-    "name": "Cobblestone"
+    "name": "Cobblestone",
+    "wiki": "https://wiki.hypixel.net/Cobblestone"
   },
   "COBBLESTONE_GENERATOR_1": {
     "name": "Cobblestone Minion I",
@@ -5587,7 +5682,8 @@
       "C1": "ENCHANTED_COCOA:64",
       "C2": "ENCHANTED_COCOA:64",
       "C3": "ENCHANTED_COCOA:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_11": {
     "name": "Cocoa Beans Minion XI",
@@ -5601,7 +5697,8 @@
       "C1": "ENCHANTED_COOKIE:1",
       "C2": "ENCHANTED_COOKIE:1",
       "C3": "ENCHANTED_COOKIE:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_12": {
     "name": "Cocoa Beans Minion XII",
@@ -5619,7 +5716,8 @@
       "C1": "INK_SACK-3:20",
       "C2": "INK_SACK-3:20",
       "C3": "INK_SACK-3:20"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_3": {
     "name": "Cocoa Beans Minion III",
@@ -5633,7 +5731,8 @@
       "C1": "INK_SACK-3:40",
       "C2": "INK_SACK-3:40",
       "C3": "INK_SACK-3:40"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_4": {
     "name": "Cocoa Beans Minion IV",
@@ -5647,7 +5746,8 @@
       "C1": "INK_SACK-3:64",
       "C2": "INK_SACK-3:64",
       "C3": "INK_SACK-3:64"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_5": {
     "name": "Cocoa Beans Minion V",
@@ -5661,7 +5761,8 @@
       "C1": "ENCHANTED_COCOA:1",
       "C2": "ENCHANTED_COCOA:1",
       "C3": "ENCHANTED_COCOA:1"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_6": {
     "name": "Cocoa Beans Minion VI",
@@ -5675,7 +5776,8 @@
       "C1": "ENCHANTED_COCOA:3",
       "C2": "ENCHANTED_COCOA:3",
       "C3": "ENCHANTED_COCOA:3"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_7": {
     "name": "Cocoa Beans Minion VII",
@@ -5689,7 +5791,8 @@
       "C1": "ENCHANTED_COCOA:8",
       "C2": "ENCHANTED_COCOA:8",
       "C3": "ENCHANTED_COCOA:8"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_8": {
     "name": "Cocoa Beans Minion VIII",
@@ -5703,7 +5806,8 @@
       "C1": "ENCHANTED_COCOA:16",
       "C2": "ENCHANTED_COCOA:16",
       "C3": "ENCHANTED_COCOA:16"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCOA_GENERATOR_9": {
     "name": "Cocoa Beans Minion IX",
@@ -5717,7 +5821,8 @@
       "C1": "ENCHANTED_COCOA:32",
       "C2": "ENCHANTED_COCOA:32",
       "C3": "ENCHANTED_COCOA:32"
-    }
+    },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cocoa_Beans_Minion"
   },
   "COCO_CHOPPER": {
     "name": "Coco Chopper",
@@ -5936,6 +6041,15 @@
   },
   "COUNTER_STRIKE;5": {
     "name": "Counter-Strike V"
+  },
+  "COUTURE_RUNE;1": {
+    "name": "◆ Couture Rune I"
+  },
+  "COUTURE_RUNE;2": {
+    "name": "◆ Couture Rune II"
+  },
+  "COUTURE_RUNE;3": {
+    "name": "◆ Couture Rune III"
   },
   "COW_AXE": {
     "name": "Cow Axe",
@@ -6520,7 +6634,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crystal_Armor"
   },
   "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to the Crystal Nucleus"
+    "name": "Travel Scroll to the Crystal Nucleus",
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Nucleus"
   },
   "CUBISM;1": {
     "name": "Cubism I"
@@ -7132,6 +7247,9 @@
     "name": "Desk",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "DESPERATE_ENGINEER_NPC": {
+    "name": "Desperate Engineer (NPC)"
+  },
   "DESTRUCTION_CLOAK": {
     "name": "Destruction Cloak",
     "recipe": {
@@ -7207,7 +7325,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Axe"
   },
   "DIAMOND_BARDING": {
     "name": "Diamond Horse Armor",
@@ -7244,7 +7363,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Boots"
   },
   "DIAMOND_CHEST": {
     "name": "Diamond Chest+",
@@ -7262,7 +7382,8 @@
       "C1": "DIAMOND:1",
       "C2": "DIAMOND:1",
       "C3": "DIAMOND:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Chestplate"
   },
   "DIAMOND_GENERATOR_1": {
     "name": "Diamond Minion I",
@@ -7445,7 +7566,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Helmet"
   },
   "DIAMOND_HOE": {
     "name": "Diamond Hoe",
@@ -7459,7 +7581,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Hoe"
   },
   "DIAMOND_HUNTER_BOOTS": {
     "name": "Diamond Hunter Boots",
@@ -7489,7 +7612,8 @@
       "C1": "DIAMOND:1",
       "C2": "",
       "C3": "DIAMOND:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Leggings"
   },
   "DIAMOND_LIVID_HEAD": {
     "name": "Diamond Livid Head",
@@ -7500,7 +7624,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Diamond_Necron_Head"
   },
   "DIAMOND_ORE": {
-    "name": "Diamond Ore"
+    "name": "Diamond Ore",
+    "wiki": "https://wiki.hypixel.net/Diamond_Ore"
   },
   "DIAMOND_PICKAXE": {
     "name": "Diamond Pickaxe",
@@ -7514,7 +7639,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Pickaxe"
   },
   "DIAMOND_PROFESSOR_HEAD": {
     "name": "Diamond Professor Head",
@@ -7540,7 +7666,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Shovel"
   },
   "DIAMOND_SPREADING": {
     "name": "Diamond Spreading",
@@ -7569,10 +7696,12 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Diamond_Sword"
   },
   "DIAMOND_THE_FISH": {
-    "name": "Diamond the Fish"
+    "name": "Diamond the Fish",
+    "wiki": "https://wiki.hypixel.net/Diamond_The_Fish"
   },
   "DIAMOND_THORN_HEAD": {
     "name": "Diamond Thorn Head",
@@ -7661,7 +7790,8 @@
     }
   },
   "DITTO_SKIN": {
-    "name": "Ditto Skin"
+    "name": "Ditto Skin",
+    "wiki": "https://wiki.hypixel.net/Ditto_Skin"
   },
   "DITTO_SKULL": {
     "name": "Ditto Skull",
@@ -7844,7 +7974,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dragon_Claw"
   },
   "DRAGON_EGG": {
-    "name": "Dragon Egg"
+    "name": "Dragon Egg",
+    "wiki": "https://wiki.hypixel.net/Dragon_Egg"
   },
   "DRAGON_HORN": {
     "name": "Dragon Horn",
@@ -7868,6 +7999,15 @@
   "DRAGON_NEST_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Dragon\u0027s Nest",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Travel_Scrolls"
+  },
+  "DRAGON_RUNE;1": {
+    "name": "◆ End Rune I"
+  },
+  "DRAGON_RUNE;2": {
+    "name": "◆ End Rune II"
+  },
+  "DRAGON_RUNE;3": {
+    "name": "◆ End Rune III"
   },
   "DRAGON_SCALE": {
     "name": "Dragon Scale",
@@ -7930,6 +8070,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dull_Shark_Tooth_Necklace"
   },
+  "DUNCAN_NPC": {
+    "name": "Duncan (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Duncan"
+  },
   "DUNGEON_CHEST_KEY": {
     "name": "Dungeon Chest Key",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dungeon_Chest_Key"
@@ -7939,7 +8083,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Decoy"
   },
   "DUNGEON_DISC_1": {
-    "name": "Dungeon Disc"
+    "name": "Dungeon Disc",
+    "wiki": "https://wiki.hypixel.net/Dungeon_Disc"
   },
   "DUNGEON_DISC_2": {
     "name": "Clown Disc",
@@ -7950,7 +8095,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Watcher_Disc"
   },
   "DUNGEON_DISC_4": {
-    "name": "Old Disc"
+    "name": "Old Disc",
+    "wiki": "https://wiki.hypixel.net/Old_Disc"
   },
   "DUNGEON_DISC_5": {
     "name": "Necron Disc",
@@ -8027,7 +8173,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dyes"
   },
   "DYE_BINGO_BLUE": {
-    "name": "Bingo Blue Dye"
+    "name": "Bingo Blue Dye",
+    "wiki": "https://wiki.hypixel.net/Bingo_Blue_Dye"
   },
   "DYE_BONE": {
     "name": "Bone Dye",
@@ -8112,6 +8259,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Edible_Mace"
   },
+  "EDITOR_PENCIL": {
+    "name": "Editor\u0027s Pencil",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Editor\u0027s_Pencil"
+  },
   "EFFICIENCY;1": {
     "name": "Efficiency I"
   },
@@ -8143,7 +8294,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Efficient_Axe"
   },
   "EGG": {
-    "name": "Egg"
+    "name": "Egg",
+    "wiki": "https://wiki.hypixel.net/Egg"
   },
   "EGG_HUNT": {
     "name": "Egg Hunt",
@@ -8282,7 +8434,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Emerald"
   },
   "EMERALD_ARMOR_BOOTS": {
     "name": "Emerald Armor Boots",
@@ -8371,7 +8524,8 @@
       "C1": "EMERALD:1",
       "C2": "EMERALD:1",
       "C3": "EMERALD:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Block_Of_Emerald"
   },
   "EMERALD_CHEST": {
     "name": "Emerald Chest+",
@@ -8547,7 +8701,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Emerald_Minion"
   },
   "EMERALD_ORE": {
-    "name": "Emerald Ore"
+    "name": "Emerald Ore",
+    "wiki": "https://wiki.hypixel.net/Emerald_Ore"
   },
   "EMERALD_RING": {
     "name": "Emerald Ring",
@@ -8584,7 +8739,8 @@
       "C1": "PAPER:1",
       "C2": "PAPER:1",
       "C3": "PAPER:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Empty_Map"
   },
   "ENCHANTED_ACACIA_LOG": {
     "name": "Enchanted Acacia Wood",
@@ -10427,7 +10583,18 @@
       "C1": "OBSIDIAN:1",
       "C2": "OBSIDIAN:1",
       "C3": "OBSIDIAN:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Enchantment_Table"
+  },
+  "ENCHANT_RUNE;1": {
+    "name": "◆ Enchant Rune I",
+    "wiki": "https://wiki.hypixel.net/◆_Enchant_Rune_I"
+  },
+  "ENCHANT_RUNE;2": {
+    "name": "◆ Enchant Rune II"
+  },
+  "ENCHANT_RUNE;3": {
+    "name": "◆ Enchant Rune III"
   },
   "ENDERMAN;0": {
     "name": "Common Enderman",
@@ -10716,6 +10883,15 @@
     "name": "Enderpack Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "ENDERSNAKE_RUNE;1": {
+    "name": "◆ Endersnake Rune I"
+  },
+  "ENDERSNAKE_RUNE;2": {
+    "name": "◆ Endersnake Rune II"
+  },
+  "ENDERSNAKE_RUNE;3": {
+    "name": "◆ Endersnake Rune III"
+  },
   "ENDER_ARTIFACT": {
     "name": "Ender Artifact",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Artifact"
@@ -10747,7 +10923,8 @@
       "C1": "OBSIDIAN:1",
       "C2": "OBSIDIAN:1",
       "C3": "OBSIDIAN:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Ender_Chest"
   },
   "ENDER_DRAGON;3": {
     "name": "Epic Ender Dragon",
@@ -10764,7 +10941,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Monocle"
   },
   "ENDER_PEARL": {
-    "name": "Ender Pearl"
+    "name": "Ender Pearl",
+    "wiki": "https://wiki.hypixel.net/Ender_Pearl"
   },
   "ENDER_PLUS": {
     "name": "Ender Chest+",
@@ -10822,7 +11000,8 @@
     "name": "Ender Slayer VII"
   },
   "ENDER_STONE": {
-    "name": "End Stone"
+    "name": "End Stone",
+    "wiki": "https://wiki.hypixel.net/End_Stone"
   },
   "ENDER_STONE_GENERATOR_1": {
     "name": "End Stone Minion I",
@@ -11381,7 +11560,11 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Eye_Of_Ender"
+  },
+  "EZEKIEL_NPC": {
+    "name": "Ezekiel (NPC)"
   },
   "FAIRY_BOOTS": {
     "name": "Fairy\u0027s Galoshes",
@@ -11647,6 +11830,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Farm_Crystal"
   },
+  "FARM_MERCHANT_NPC": {
+    "name": "Farm Merchant (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Farm_Merchant"
+  },
   "FARM_SUIT_BOOTS": {
     "name": "Farm Suit Boots",
     "recipe": {
@@ -11707,8 +11894,13 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Farm_Suit"
   },
+  "FEAR_MONGERER_NPC": {
+    "name": "Fear Mongerer (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fear_Mongerer"
+  },
   "FEATHER": {
-    "name": "Feather"
+    "name": "Feather",
+    "wiki": "https://wiki.hypixel.net/Feather"
   },
   "FEATHER_ARTIFACT": {
     "name": "Feather Artifact",
@@ -11855,7 +12047,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Fermented_Spider_Eye"
   },
   "FEROCIOUS_MANA;1": {
     "name": "Ferocious Mana I"
@@ -11930,6 +12123,15 @@
   "FIERY_AURORA_LEGGINGS": {
     "name": "Fiery Aurora Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Aurora_Armor"
+  },
+  "FIERY_BURST_RUNE;1": {
+    "name": "◆ Fiery Burst Rune I"
+  },
+  "FIERY_BURST_RUNE;2": {
+    "name": "◆ Fiery Burst Rune II"
+  },
+  "FIERY_BURST_RUNE;3": {
+    "name": "◆ Fiery Burst Rune III"
   },
   "FIERY_CRIMSON_BOOTS": {
     "name": "Fiery Crimson Boots",
@@ -12131,7 +12333,8 @@
       "C1": "",
       "C2": "FLAWED_OPAL_GEM:16",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Gemstone"
   },
   "FINE_RUBY_GEM": {
     "name": "❤ Fine Ruby Gemstone",
@@ -12357,6 +12560,15 @@
   },
   "FIRE_RESISTANCE": {
     "name": "Fire Resistance I Potion"
+  },
+  "FIRE_SPIRAL_RUNE;1": {
+    "name": "◆ Fire Spiral Rune I"
+  },
+  "FIRE_SPIRAL_RUNE;2": {
+    "name": "◆ Fire Spiral Rune II"
+  },
+  "FIRE_SPIRAL_RUNE;3": {
+    "name": "◆ Fire Spiral Rune III"
   },
   "FIRE_TALISMAN": {
     "name": "Fire Talisman",
@@ -12599,7 +12811,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": "STRING:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Fishing_Rod"
   },
   "FISHING_XP_BOOST": {
     "name": "Fishing XP Boost I Potion"
@@ -12637,6 +12850,10 @@
       "C3": "RAW_FISH:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fish_Hat"
+  },
+  "FISH_MERCHANT_NPC": {
+    "name": "Fish Merchant (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fish_Merchant"
   },
   "FISH_PERSONALITY": {
     "name": "Fish Minion Skin",
@@ -12827,7 +13044,8 @@
       "C1": "",
       "C2": "ROUGH_OPAL_GEM:16",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Gemstone"
   },
   "FLAWED_RUBY_GEM": {
     "name": "❤ Flawed Ruby Gemstone",
@@ -12946,7 +13164,8 @@
       "C1": "",
       "C2": "FINE_OPAL_GEM:16",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Gemstone"
   },
   "FLAWLESS_RUBY_GEM": {
     "name": "❤ Flawless Ruby Gemstone",
@@ -12994,7 +13213,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
   },
   "FLINT": {
-    "name": "Flint"
+    "name": "Flint",
+    "wiki": "https://wiki.hypixel.net/Flint"
   },
   "FLINT_AND_STEEL": {
     "name": "Flint and Steel",
@@ -13479,10 +13699,12 @@
     "name": "Frail VI"
   },
   "FRAMED_VOLCANIC_STONEFISH": {
-    "name": "Framed Volcanic Stonefish"
+    "name": "Framed Volcanic Stonefish",
+    "wiki": "https://wiki.hypixel.net/Framed_Volcanic_Stonefish"
   },
   "FREE_COOKIE": {
-    "name": "Booster Cookie (FREE)"
+    "name": "Booster Cookie (FREE)",
+    "wiki": "https://wiki.hypixel.net/Booster_Cookie"
   },
   "FREE_SPIDER": {
     "name": "Free Spider"
@@ -13713,11 +13935,11 @@
   },
   "GEMSTONE_DRILL_1": {
     "name": "Ruby Drill TX-15",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ruby_Drill_TX-15"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ruby_Drill_Model_TX-15"
   },
   "GEMSTONE_DRILL_2": {
     "name": "Gemstone Drill LT-522",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Drill_LT-522"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Drill_Model_LT-522"
   },
   "GEMSTONE_DRILL_3": {
     "name": "Topaz Drill KGR-12",
@@ -13725,7 +13947,7 @@
   },
   "GEMSTONE_DRILL_4": {
     "name": "Jasper Drill X",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jasper_Drill_X"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jasper_Drill_Model_X"
   },
   "GEMSTONE_FUEL_TANK": {
     "name": "Gemstone Fuel Tank",
@@ -13749,6 +13971,15 @@
   "GEMSTONE_MIXTURE": {
     "name": "Gemstone Mixture",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Mixture"
+  },
+  "GEM_RUNE;1": {
+    "name": "◆ Gem Rune I"
+  },
+  "GEM_RUNE;2": {
+    "name": "◆ Gem Rune II"
+  },
+  "GEM_RUNE;3": {
+    "name": "◆ Gem Rune III"
   },
   "GENERALS_ARMOR_OF_THE_RESISTANCE_BOOTS": {
     "name": "Boots of the Rising Sun",
@@ -13970,7 +14201,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ghast_Head"
   },
   "GHAST_TEAR": {
-    "name": "Ghast Tear"
+    "name": "Ghast Tear",
+    "wiki": "https://wiki.hypixel.net/Ghast_Tear"
   },
   "GHOST_BOOK": {
     "name": "Ghost Book",
@@ -14236,10 +14468,12 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glowstone"
   },
   "GLOWSTONE_DUST": {
-    "name": "Glowstone Dust"
+    "name": "Glowstone Dust",
+    "wiki": "https://wiki.hypixel.net/Glowstone_Dust"
   },
   "GLOWSTONE_DUST_DISTILLATE": {
     "name": "Glowstone Distillate",
@@ -14479,17 +14713,6 @@
   },
   "GOBLIN_OMELETTE_BLUE_CHEESE": {
     "name": "Blue Cheese Goblin Omelette",
-    "recipe": {
-      "A1": "GOBLIN_EGG_BLUE:99",
-      "A2": "PERFECT_SAPPHIRE_GEM:1",
-      "A3": "",
-      "B1": "",
-      "B2": "",
-      "B3": "",
-      "C1": "",
-      "C2": "",
-      "C3": ""
-    },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Cheese_Goblin_Omelette"
   },
   "GOBLIN_OMELETTE_PESTO": {
@@ -14556,7 +14779,8 @@
       "C1": "GOLD_NUGGET:1",
       "C2": "GOLD_NUGGET:1",
       "C3": "GOLD_NUGGET:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Carrot"
   },
   "GOLDEN_DANTE_STATUE": {
     "name": "Golden Dante Statue",
@@ -14591,6 +14815,15 @@
     "name": "Golden Powder",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Powder"
   },
+  "GOLDEN_RUNE;1": {
+    "name": "◆ Golden Rune I"
+  },
+  "GOLDEN_RUNE;2": {
+    "name": "◆ Golden Rune II"
+  },
+  "GOLDEN_RUNE;3": {
+    "name": "◆ Golden Rune III"
+  },
   "GOLDEN_TOOTH": {
     "name": "Golden Tooth",
     "recipe": {
@@ -14622,7 +14855,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Axe"
   },
   "GOLD_BARDING": {
     "name": "Gold Horse Armor",
@@ -14640,7 +14874,8 @@
       "C1": "GOLD_INGOT:1",
       "C2": "GOLD_INGOT:1",
       "C3": "GOLD_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Block_Of_Gold"
   },
   "GOLD_BONZO_HEAD": {
     "name": "Golden Bonzo Head",
@@ -14658,7 +14893,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Boots"
   },
   "GOLD_CANDY": {
     "name": "Golden Treat",
@@ -14680,7 +14916,8 @@
       "C1": "GOLD_INGOT:1",
       "C2": "GOLD_INGOT:1",
       "C3": "GOLD_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Chestplate"
   },
   "GOLD_CLAWS": {
     "name": "Gold Claws",
@@ -14696,6 +14933,10 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+  },
+  "GOLD_FORGER_NPC": {
+    "name": "Gold Forger (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gold_Forger"
   },
   "GOLD_GENERATOR_1": {
     "name": "Gold Minion I",
@@ -14882,7 +15123,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Helmet"
   },
   "GOLD_HOE": {
     "name": "Golden Hoe",
@@ -14896,7 +15138,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Hoe"
   },
   "GOLD_HUNTER_BOOTS": {
     "name": "Gold Hunter Boots",
@@ -14926,7 +15169,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Gold_Ingot"
   },
   "GOLD_LEGGINGS": {
     "name": "Golden Leggings",
@@ -14940,7 +15184,8 @@
       "C1": "GOLD_INGOT:1",
       "C2": "",
       "C3": "GOLD_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Leggings"
   },
   "GOLD_LIVID_HEAD": {
     "name": "Golden Livid Head",
@@ -14965,7 +15210,8 @@
     }
   },
   "GOLD_ORE": {
-    "name": "Gold Ore"
+    "name": "Gold Ore",
+    "wiki": "https://wiki.hypixel.net/Gold_Ore"
   },
   "GOLD_PICKAXE": {
     "name": "Golden Pickaxe",
@@ -14979,7 +15225,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Pickaxe"
   },
   "GOLD_PLATE": {
     "name": "Weighted Pressure Plate (Light)",
@@ -15000,7 +15247,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Professor_Head"
   },
   "GOLD_RECORD": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "GOLD_SADAN_HEAD": {
     "name": "Golden Sadan Head",
@@ -15022,7 +15270,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Shovel"
   },
   "GOLD_SWORD": {
     "name": "Golden Sword",
@@ -15036,7 +15285,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Golden_Sword"
   },
   "GOLD_THORN_HEAD": {
     "name": "Golden Thorn Head",
@@ -15177,7 +15427,7 @@
   "GRANDMA_WOLF;4": {
     "name": "Legendary Grandma Wolf",
     "texture": "4e794274c1bb197ad306540286a7aa952974f5661bccf2b725424f6ed79c7884",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grandma_Wolf_Pet"
   },
   "GRAND_EXP_BOTTLE": {
     "name": "Grand Experience Bottle",
@@ -15193,6 +15443,9 @@
       "C3": "ENCHANTED_LAPIS_LAZULI:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grand_Experience_Bottle"
+  },
+  "GRAND_SEARING_RUNE;3": {
+    "name": "◆ Grand Searing Rune III"
   },
   "GRAPPLING_HOOK": {
     "name": "Grappling Hook",
@@ -15213,7 +15466,8 @@
     "name": "Grass Block"
   },
   "GRAVEL": {
-    "name": "Gravel"
+    "name": "Gravel",
+    "wiki": "https://wiki.hypixel.net/Gravel"
   },
   "GRAVEL_GENERATOR_1": {
     "name": "Gravel Minion I",
@@ -15501,7 +15755,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Green_Gift"
   },
   "GREEN_RECORD": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "GRIFFIN;0": {
     "name": "Common Griffin",
@@ -15602,6 +15857,9 @@
   "GRIZZLY_BAIT": {
     "name": "Grizzly Bait",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Grizzly_Bait"
+  },
+  "GROG_NPC": {
+    "name": "Grog (NPC)"
   },
   "GROWTH;1": {
     "name": "Growth I"
@@ -16190,7 +16448,8 @@
       "C1": "WHEAT:1",
       "C2": "WHEAT:1",
       "C3": "WHEAT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Hay_Bale"
   },
   "HAZMAT_ENDERMAN": {
     "name": "Hazmat Enderman",
@@ -16262,6 +16521,15 @@
       "C3": "INFERNO_VERTEX:8"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Deathripper_Dagger"
+  },
+  "HEARTS_RUNE;1": {
+    "name": "◆ Hearts Rune I"
+  },
+  "HEARTS_RUNE;2": {
+    "name": "◆ Hearts Rune II"
+  },
+  "HEARTS_RUNE;3": {
+    "name": "◆ Hearts Rune III"
   },
   "HEAT_BOOTS": {
     "name": "Heat Boots",
@@ -16419,6 +16687,9 @@
     "name": "High Class Archfiend Dice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/High_Class_Archfiend_Dice"
   },
+  "HILDA_NPC": {
+    "name": "Hilda (NPC)"
+  },
   "HILT_OF_TRUE_ICE": {
     "name": "Hilt of True Ice",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hilt_of_True_Ice"
@@ -16554,7 +16825,8 @@
       "C1": "",
       "C2": "IRON_INGOT:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Hopper"
   },
   "HOPPER_MINECART": {
     "name": "Minecart with Hopper",
@@ -16586,7 +16858,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Horns_of_Torment"
   },
   "HORN_OF_TAURUS": {
-    "name": "Horn of Taurus"
+    "name": "Horn of Taurus",
+    "wiki": "https://wiki.hypixel.net/Horn_Of_Taurus"
   },
   "HORSE;0": {
     "name": "Common Horse",
@@ -16704,7 +16977,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fishing_Bait"
   },
   "HOT_CHOCOLATE": {
-    "name": "Hot Chocolate"
+    "name": "Hot Chocolate",
+    "wiki": "https://wiki.hypixel.net/Hot_Chocolate"
   },
   "HOT_CRIMSON_BOOTS": {
     "name": "Hot Crimson Boots",
@@ -16768,6 +17042,15 @@
       "C3": "ENCHANTED_BAKED_POTATO:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hot_Potato_Book"
+  },
+  "HOT_RUNE;1": {
+    "name": "◆ Hot Rune I"
+  },
+  "HOT_RUNE;2": {
+    "name": "◆ Hot Rune II"
+  },
+  "HOT_RUNE;3": {
+    "name": "◆ Hot Rune III"
   },
   "HOT_STUFF": {
     "name": "Hot Stuff",
@@ -16932,7 +17215,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hypergolic_Gabagool"
   },
   "HYPERGOLIC_IONIZED_CERAMICS": {
-    "name": "Hypergolic Ionized Ceramics"
+    "name": "Hypergolic Ionized Ceramics",
+    "wiki": "https://wiki.hypixel.net/Hypergolic_Ionized_Ceramics"
   },
   "HYPERION": {
     "name": "Hyperion",
@@ -16992,7 +17276,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
   "ICE": {
-    "name": "Ice"
+    "name": "Ice",
+    "wiki": "https://wiki.hypixel.net/Ice"
   },
   "ICE_BAIT": {
     "name": "Ice Bait",
@@ -17209,6 +17494,15 @@
   "ICE_ROD": {
     "name": "Ice Rod",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ice_Rod"
+  },
+  "ICE_RUNE;1": {
+    "name": "◆ Ice Rune I"
+  },
+  "ICE_RUNE;2": {
+    "name": "◆ Ice Rune II"
+  },
+  "ICE_RUNE;3": {
+    "name": "◆ Ice Rune III"
   },
   "ICE_SOFA": {
     "name": "Ice Sofa",
@@ -17497,7 +17791,7 @@
       "C2": "DERELICT_ASHE:10",
       "C3": "DERELICT_ASHE:10"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
+    "wiki": "https://wiki.hypixel.net/Inferno_Minion"
   },
   "INFERNO_GENERATOR_10": {
     "name": "Inferno Minion X",
@@ -17542,7 +17836,7 @@
       "C2": "DERELICT_ASHE:40",
       "C3": "DERELICT_ASHE:40"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Inferno_Minion"
+    "wiki": "https://wiki.hypixel.net/Inferno_Minion"
   },
   "INFERNO_GENERATOR_3": {
     "name": "Inferno Minion III",
@@ -17902,7 +18196,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Rose_Red"
   },
   "INK_SACK:10": {
     "name": "Lime Dye",
@@ -17916,7 +18211,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Lime_Dye"
   },
   "INK_SACK:11": {
     "name": "Dandelion Yellow",
@@ -17930,7 +18226,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Dandelion_Yellow"
   },
   "INK_SACK:12": {
     "name": "Light Blue Dye",
@@ -17944,7 +18241,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Light_Blue_Dye"
   },
   "INK_SACK:13": {
     "name": "Magenta Dye",
@@ -17958,7 +18256,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Magenta_Dye"
   },
   "INK_SACK:14": {
     "name": "Orange Dye",
@@ -17972,7 +18271,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Orange_Dye"
   },
   "INK_SACK:15": {
     "name": "Bone Meal",
@@ -17992,7 +18292,8 @@
     "name": "Cactus Green"
   },
   "INK_SACK:3": {
-    "name": "Cocoa Beans"
+    "name": "Cocoa Beans",
+    "wiki": "https://wiki.hypixel.net/Cocoa_Beans"
   },
   "INK_SACK:4": {
     "name": "Lapis Lazuli",
@@ -18006,7 +18307,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Lapis_Lazuli"
   },
   "INK_SACK:5": {
     "name": "Purple Dye",
@@ -18020,7 +18322,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Purple_Dye"
   },
   "INK_SACK:6": {
     "name": "Cyan Dye",
@@ -18034,7 +18337,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Cyan_Dye"
   },
   "INK_SACK:7": {
     "name": "Light Gray Dye",
@@ -18048,7 +18352,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Light_Gray_Dye"
   },
   "INK_SACK:8": {
     "name": "Gray Dye",
@@ -18062,7 +18367,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Gray_Dye"
   },
   "INK_SACK:9": {
     "name": "Pink Dye",
@@ -18076,10 +18382,12 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Pink_Dye"
   },
   "INK_SACK": {
-    "name": "Ink Sac"
+    "name": "Ink Sac",
+    "wiki": "https://wiki.hypixel.net/Ink_Sac"
   },
   "INK_WAND": {
     "name": "Ink Wand",
@@ -18137,7 +18445,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Axe"
   },
   "IRON_BARDING": {
     "name": "Iron Horse Armor",
@@ -18155,7 +18464,8 @@
       "C1": "IRON_INGOT:1",
       "C2": "IRON_INGOT:1",
       "C3": "IRON_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Block_Of_Iron"
   },
   "IRON_BOOTS": {
     "name": "Iron Boots",
@@ -18169,7 +18479,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Boots"
   },
   "IRON_CHEST": {
     "name": "Iron Chest+",
@@ -18187,7 +18498,8 @@
       "C1": "IRON_INGOT:1",
       "C2": "IRON_INGOT:1",
       "C3": "IRON_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Chestplate"
   },
   "IRON_DOOR": {
     "name": "Iron Door",
@@ -18216,6 +18528,10 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "IRON_FORGER_NPC": {
+    "name": "Iron Forger (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Iron_Forger"
   },
   "IRON_GENERATOR_1": {
     "name": "Iron Minion I",
@@ -18398,7 +18714,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Helmet"
   },
   "IRON_HOE": {
     "name": "Iron Hoe",
@@ -18412,7 +18729,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Hoe"
   },
   "IRON_INGOT": {
     "name": "Iron Ingot",
@@ -18426,7 +18744,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Ingot"
   },
   "IRON_LEGGINGS": {
     "name": "Iron Leggings",
@@ -18440,10 +18759,12 @@
       "C1": "IRON_INGOT:1",
       "C2": "",
       "C3": "IRON_INGOT:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Leggings"
   },
   "IRON_ORE": {
-    "name": "Iron Ore"
+    "name": "Iron Ore",
+    "wiki": "https://wiki.hypixel.net/Iron_Ore"
   },
   "IRON_PICKAXE": {
     "name": "Iron Pickaxe",
@@ -18457,7 +18778,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Pickaxe"
   },
   "IRON_PLATE": {
     "name": "Weighted Pressure Plate (Heavy)",
@@ -18485,7 +18807,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Shovel"
   },
   "IRON_SWORD": {
     "name": "Iron Sword",
@@ -18499,7 +18822,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Iron_Sword"
   },
   "IRON_TRAPDOOR": {
     "name": "Iron Trapdoor",
@@ -18562,6 +18886,14 @@
   "JADERALD": {
     "name": "Jaderald",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jaderald"
+  },
+  "JADE_CRYSTAL": {
+    "name": "Jade Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
+  },
+  "JAKE_NPC": {
+    "name": "Jake (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jake"
   },
   "JALAPENO_BOOK": {
     "name": "Jalapeno Book",
@@ -18707,6 +19039,9 @@
     "name": "Jerry Candy",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry_Candy"
   },
+  "JERRY_RUNE;3": {
+    "name": "◆ Jerry Rune III"
+  },
   "JERRY_STAFF": {
     "name": "Jerry-chine Gun",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jerry-chine_Gun"
@@ -18767,6 +19102,10 @@
   "JINGLE_BELLS": {
     "name": "Jingle Bells",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jingle_Bells"
+  },
+  "JOYFUL_VIKING_NPC": {
+    "name": "Joyful Viking (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melancholic_Viking"
   },
   "JUDGEMENT_CORE": {
     "name": "Judgement Core",
@@ -19398,7 +19737,8 @@
       "C1": "INK_SACK-4:1",
       "C2": "INK_SACK-4:1",
       "C3": "INK_SACK-4:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Lapis_Lazuli_Block"
   },
   "LAPIS_CHEST": {
     "name": "Lapis Chest+",
@@ -19578,7 +19918,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lapis_Minion"
   },
   "LAPIS_ORE": {
-    "name": "Lapis Lazuli Ore"
+    "name": "Lapis Lazuli Ore",
+    "wiki": "https://wiki.hypixel.net/Lapis_Lazuli_Ore"
   },
   "LARGE_AGRONOMY_SACK": {
     "name": "Large Agronomy Sack",
@@ -19899,6 +20240,15 @@
   "LAVA": {
     "name": "Lava (No Spread)"
   },
+  "LAVATEARS_RUNE;1": {
+    "name": "◆ Lavatears Rune I"
+  },
+  "LAVATEARS_RUNE;2": {
+    "name": "◆ Lavatears Rune II"
+  },
+  "LAVATEARS_RUNE;3": {
+    "name": "◆ Lavatears Rune III"
+  },
   "LAVA_BUCKET": {
     "name": "Lava Bucket"
   },
@@ -19917,6 +20267,15 @@
   "LAVA_HORSE_SILVER": {
     "name": "Lava Horse SILVER",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+  },
+  "LAVA_RUNE;1": {
+    "name": "◆ Lava Rune I"
+  },
+  "LAVA_RUNE;2": {
+    "name": "◆ Lava Rune II"
+  },
+  "LAVA_RUNE;3": {
+    "name": "◆ Lava Rune III"
   },
   "LAVA_SHELL": {
     "name": "Lava Shell",
@@ -20068,7 +20427,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Leather"
   },
   "LEATHER_BOOTS": {
     "name": "Leather Boots",
@@ -20082,7 +20442,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Leather_Boots"
   },
   "LEATHER_CHESTPLATE": {
     "name": "Leather Chestplate",
@@ -20096,7 +20457,8 @@
       "C1": "LEATHER:1",
       "C2": "LEATHER:1",
       "C3": "LEATHER:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Leather_Chestplate"
   },
   "LEATHER_CLOTH": {
     "name": "Leather Cloth",
@@ -20114,7 +20476,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Leather_Helmet"
   },
   "LEATHER_LEGGINGS": {
     "name": "Leather Leggings",
@@ -20128,7 +20491,8 @@
       "C1": "LEATHER:1",
       "C2": "",
       "C3": "LEATHER:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Leather_Leggings"
   },
   "LEAVES:1": {
     "name": "Spruce Leaves",
@@ -20289,6 +20653,10 @@
       "C3": ""
     }
   },
+  "LIBRARIAN_NPC": {
+    "name": "Librarian (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Librarian"
+  },
   "LIFE_PRESERVER": {
     "name": "Life Preserver",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -20318,6 +20686,15 @@
   },
   "LIFE_STEAL;5": {
     "name": "Life Steal V"
+  },
+  "LIGHTNING_RUNE;1": {
+    "name": "◆ Lightning Rune I"
+  },
+  "LIGHTNING_RUNE;2": {
+    "name": "◆ Lightning Rune II"
+  },
+  "LIGHTNING_RUNE;3": {
+    "name": "◆ Lightning Rune III"
   },
   "LIGHT_BAIT": {
     "name": "Light Bait",
@@ -20371,22 +20748,32 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Livid_Fragment"
   },
   "LOG:1": {
-    "name": "Spruce Wood"
+    "name": "Spruce Wood",
+    "wiki": "https://wiki.hypixel.net/Spruce_Wood"
   },
   "LOG:2": {
-    "name": "Birch Wood"
+    "name": "Birch Wood",
+    "wiki": "https://wiki.hypixel.net/Birch_Wood"
   },
   "LOG:3": {
-    "name": "Jungle Wood"
+    "name": "Jungle Wood",
+    "wiki": "https://wiki.hypixel.net/Jungle_Wood"
   },
   "LOG": {
-    "name": "Oak Wood"
+    "name": "Oak Wood",
+    "wiki": "https://wiki.hypixel.net/Oak_Wood"
   },
   "LOG_2:1": {
-    "name": "Dark Oak Wood"
+    "name": "Dark Oak Wood",
+    "wiki": "https://wiki.hypixel.net/Dark_Oak_Wood"
   },
   "LOG_2": {
-    "name": "Acacia Wood"
+    "name": "Acacia Wood",
+    "wiki": "https://wiki.hypixel.net/Acacia_Wood"
+  },
+  "LONELY_PHILOSOPHER_NPC": {
+    "name": "Lonely Philosopher (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lonely_Philosopher"
   },
   "LONG_GRASS:1": {
     "name": "Long Grass"
@@ -20492,6 +20879,10 @@
   "LUCK_OF_THE_SEA;6": {
     "name": "Luck of the Sea VI"
   },
+  "LUMBER_MERCHANT_NPC": {
+    "name": "Lumber Merchant (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lumber_Merchant"
+  },
   "LUMINOUS_BRACELET": {
     "name": "Luminous Bracelet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Luminous_Bracelet"
@@ -20501,7 +20892,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lumino_Fiber"
   },
   "LUMP_OF_MAGMA": {
-    "name": "Lump of Magma"
+    "name": "Lump of Magma",
+    "wiki": "https://wiki.hypixel.net/Lump_Of_Magma"
   },
   "LURE;1": {
     "name": "Lure I"
@@ -20540,9 +20932,19 @@
     "name": "Lynx Talisman",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lynx_Talisman"
   },
+  "LYS_NPC": {
+    "name": "Lys (NPC)"
+  },
   "MACHINE_GUN_BOW": {
     "name": "Machine Gun Bow",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Machine_Gun_Bow"
+  },
+  "MAD_REDSTONE_ENGINEER_NPC": {
+    "name": "Mad Redstone Engineer (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mad_Redstone_Engineer"
+  },
+  "MAGE_EMISSARY_NPC": {
+    "name": "Mage Emissary (NPC)"
   },
   "MAGICAL_LAVA_BUCKET": {
     "name": "Magical Lava Bucket",
@@ -20595,6 +20997,15 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magical_Mushroom_Soup"
+  },
+  "MAGIC_RUNE;1": {
+    "name": "◆ Magical Rune I"
+  },
+  "MAGIC_RUNE;2": {
+    "name": "◆ Magical Rune II"
+  },
+  "MAGIC_RUNE;3": {
+    "name": "◆ Magical Rune III"
   },
   "MAGMAG": {
     "name": "Magmag",
@@ -21169,10 +21580,15 @@
       "C1": "PAPER:1",
       "C2": "PAPER:1",
       "C3": "PAPER:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Empty_Map"
   },
   "MARSH_SPORE_SOUP": {
-    "name": "Marsh Spore Soup"
+    "name": "Marsh Spore Soup",
+    "wiki": "https://wiki.hypixel.net/Marsh_Spore_Soup"
+  },
+  "MARTHOS_NPC": {
+    "name": "Marthos (NPC)"
   },
   "MASTER_SKULL_TIER_1": {
     "name": "Master Skull - Tier 1",
@@ -21268,6 +21684,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Master_Skull"
   },
+  "MASTER_TACTICIAN_NPC": {
+    "name": "Master Tactician (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Master_Tactician"
+  },
   "MASTIFF_BOOTS": {
     "name": "Mastiff Boots",
     "recipe": {
@@ -21361,6 +21781,10 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Twilight_Dagger"
+  },
+  "MAXED_ATTRIBUTE_SHARD": {
+    "name": "Max Attribute Shard",
+    "wiki": "§aUsed to test /neuec"
   },
   "MAXED_ENCHANT_BOOK": {
     "name": "Max Enchanted Book"
@@ -21565,10 +21989,11 @@
   },
   "MELODY_HAIR": {
     "name": "Melody\u0027s Hair",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melody%27s_Hair"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Melody\u0027s_Hair"
   },
   "MELON": {
-    "name": "Melon"
+    "name": "Melon",
+    "wiki": "https://wiki.hypixel.net/Melon"
   },
   "MELON_BLOCK": {
     "name": "Melon",
@@ -21582,7 +22007,8 @@
       "C1": "MELON:1",
       "C2": "MELON:1",
       "C3": "MELON:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Melon"
   },
   "MELON_DICER": {
     "name": "Melon Dicer",
@@ -22012,6 +22438,10 @@
       "C3": "ENCHANTED_COBBLESTONE:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Miner%27s_Outfit"
+  },
+  "MINE_MERCHANT_NPC": {
+    "name": "Mine Merchant (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mine_Merchant"
   },
   "MINE_TALISMAN": {
     "name": "Mine Affinity Talisman",
@@ -23045,6 +23475,15 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Stereo_Pants"
   },
+  "MUSIC_RUNE;1": {
+    "name": "◆ Music Rune I"
+  },
+  "MUSIC_RUNE;2": {
+    "name": "◆ Music Rune II"
+  },
+  "MUSIC_RUNE;3": {
+    "name": "◆ Music Rune III"
+  },
   "MUTANT_NETHER_STALK": {
     "name": "Mutant Nether Wart",
     "recipe": {
@@ -23065,7 +23504,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mutated_Blaze_Ashes"
   },
   "MUTTON": {
-    "name": "Mutton"
+    "name": "Mutton",
+    "wiki": "https://wiki.hypixel.net/Raw_Mutton"
   },
   "MYCEL": {
     "name": "Mycelium",
@@ -23310,7 +23750,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Necron%27s_Handle"
   },
   "NETHERRACK": {
-    "name": "Netherrack"
+    "name": "Netherrack",
+    "wiki": "https://wiki.hypixel.net/Netherrack"
   },
   "NETHERRACK_LOOKING_SUNSHADE": {
     "name": "Netherrack-Looking Sunshade",
@@ -23950,7 +24391,8 @@
     "name": "Obscure Ending"
   },
   "OBSIDIAN": {
-    "name": "Obsidian"
+    "name": "Obsidian",
+    "wiki": "https://wiki.hypixel.net/Obsidian"
   },
   "OBSIDIAN_CHESTPLATE": {
     "name": "Obsidian Chestplate",
@@ -24209,17 +24651,21 @@
     "texture": "5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ocelot_Pet"
   },
+  "ODAWA_NPC": {
+    "name": "Odawa (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odawa"
+  },
   "ODGERS_BRONZE_TOOTH": {
     "name": "Odger\u0027s Bronze Tooth",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odger%27s_Tooth"
   },
   "ODGERS_DIAMOND_TOOTH": {
     "name": "Odger\u0027s Diamond Tooth",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odger%27s_Tooth"
   },
   "ODGERS_GOLD_TOOTH": {
     "name": "Odger\u0027s Gold Tooth",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Trophy_Fishes"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Odger%27s_Tooth"
   },
   "ODGERS_SILVER_TOOTH": {
     "name": "Odger\u0027s Silver Tooth",
@@ -24297,6 +24743,10 @@
     "name": "Old Dragon Fragment",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dragon_Fragment"
   },
+  "OLD_SHAMAN_NYKO_NPC": {
+    "name": "Old Shaman Nyko (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Old_Shaman_Nyko"
+  },
   "OLD_SHIMMER": {
     "name": "Shimmer Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
@@ -24339,6 +24789,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Power_Scroll"
   },
+  "OPHELIA_NPC": {
+    "name": "Ophelia (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ophelia"
+  },
   "OPTICAL_LENS": {
     "name": "Optical Lens",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Optical_Lens"
@@ -24346,6 +24800,10 @@
   "ORB_OF_ENERGY": {
     "name": "Orb of Energy",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Orb_of_Energy"
+  },
+  "ORINGO_NPC": {
+    "name": "Oringo (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Oringo"
   },
   "ORNATE_ZOMBIE_SWORD": {
     "name": "Ornate Zombie Sword",
@@ -24472,13 +24930,85 @@
     "texture": "5df4b3401a4d06ad66ac8b5c4d189618ae617f9c143071c8ac39a563cf4e4208",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Parrot_Pet"
   },
-  "PARTY_HAT_CRAB": {
+  "PARTY_HAT_CRAB_AQUA": {
+    "name": "Aqua Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_AQUA_ANIMATED": {
+    "name": "Aqua Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_BLACK": {
+    "name": " Black Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_BLACK_ANIMATED": {
+    "name": "Black Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_GREEN": {
+    "name": "Green Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_GREEN_ANIMATED": {
+    "name": "Green Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_LIME": {
+    "name": "Lime Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_LIME_ANIMATED": {
+    "name": "Lime Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_ORANGE": {
+    "name": "Orange Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_ORANGE_ANIMATED": {
+    "name": "Orange Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_PINK": {
     "name": "Pink Crab Hat of Celebration",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
   },
-  "PARTY_HAT_CRAB_ANIMATED": {
+  "PARTY_HAT_CRAB_PINK_ANIMATED": {
     "name": "Pink Crab Hat of Celebration - 2022 Edition",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_PURPLE": {
+    "name": "Purple Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_PURPLE_ANIMATED": {
+    "name": "Purple Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_RED": {
+    "name": "Red Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_RED_ANIMATED": {
+    "name": "Red Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_YELLOW": {
+    "name": "Yellow Crab Hat of Celebration",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PARTY_HAT_CRAB_YELLOW_ANIMATED": {
+    "name": "Yellow Crab Hat of Celebration - 2022 Edition",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crab_Hat_of_Celebration"
+  },
+  "PAT_NPC": {
+    "name": "Pat (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pat"
+  },
+  "PEARL_DEALER_NPC": {
+    "name": "Pearl Dealer (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pearl_Dealer"
   },
   "PEDESTAL": {
     "name": "X PEDESTAL",
@@ -25233,7 +25763,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Perfect_Armor"
   },
   "PERFECT_OPAL_GEM": {
-    "name": "❂ Perfect Opal Gemstone"
+    "name": "❂ Perfect Opal Gemstone",
+    "wiki": "https://wiki.hypixel.net/Gemstone"
   },
   "PERFECT_RUBY_GEM": {
     "name": "❤ Perfect Ruby Gemstone",
@@ -26097,7 +26628,7 @@
   },
   "PIGS_FOOT": {
     "name": "Pig\u0027s Foot",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig%27s_Foot"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pig\u0027s_Foot"
   },
   "PIG_AXE": {
     "name": "Pig Axe",
@@ -26372,6 +26903,10 @@
     "name": "Plasma Nucleus",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Plasma_Nucleus"
   },
+  "PLUMBER_JOE_NPC": {
+    "name": "Plumber Joe (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Plumber_Joe"
+  },
   "PLUMBER_SPONGE": {
     "name": "Plumber\u0027s Sponge",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Plumber\u0027s_Sponge"
@@ -26403,7 +26938,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Poisoned_Candy"
   },
   "POISONOUS_POTATO": {
-    "name": "Poisonous Potato"
+    "name": "Poisonous Potato",
+    "wiki": "https://wiki.hypixel.net/Poisonous_Potato"
   },
   "POLISHED_PEBBLE": {
     "name": "Polished Pebble",
@@ -26459,7 +26995,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Poorly_Wrapped_Rock"
   },
   "PORK": {
-    "name": "Raw Porkchop"
+    "name": "Raw Porkchop",
+    "wiki": "https://wiki.hypixel.net/Raw_Porkchop"
   },
   "POTATO": {
     "name": "Potatoes",
@@ -26643,7 +27180,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potato_Minion"
   },
   "POTATO_ITEM": {
-    "name": "Potato"
+    "name": "Potato",
+    "wiki": "https://wiki.hypixel.net/Potato"
   },
   "POTATO_SPREADING": {
     "name": "Potato Spreading",
@@ -26872,7 +27410,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
   },
   "PRICELESS_THE_FISH": {
-    "name": "Priceless the Fish"
+    "name": "Priceless the Fish",
+    "wiki": "https://wiki.hypixel.net/Priceless_The_Fish"
   },
   "PRISMAPUMP": {
     "name": "Prismapump",
@@ -26951,7 +27490,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Bow"
   },
   "PRISMARINE_CRYSTALS": {
-    "name": "Prismarine Crystals"
+    "name": "Prismarine Crystals",
+    "wiki": "https://wiki.hypixel.net/Prismarine_Crystals"
   },
   "PRISMARINE_ROD": {
     "name": "Prismarine Rod",
@@ -26969,7 +27509,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Prismarine_Rod"
   },
   "PRISMARINE_SHARD": {
-    "name": "Prismarine Shard"
+    "name": "Prismarine Shard",
+    "wiki": "https://wiki.hypixel.net/Prismarine_Shard"
   },
   "PRISTINE;1": {
     "name": "Pristine I",
@@ -27213,7 +27754,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pulse_Ring"
   },
   "PUMPKIN": {
-    "name": "Pumpkin"
+    "name": "Pumpkin",
+    "wiki": "https://wiki.hypixel.net/Pumpkin"
   },
   "PUMPKIN_BOMB": {
     "name": "Blast o\u0027 Lantern",
@@ -27560,7 +28102,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quality_Map"
   },
   "QUARTZ": {
-    "name": "Nether Quartz"
+    "name": "Nether Quartz",
+    "wiki": "https://wiki.hypixel.net/Nether_Quartz"
   },
   "QUARTZ_BLOCK:1": {
     "name": "Chiseled Quartz Block",
@@ -27774,7 +28317,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Quartz_Minion"
   },
   "QUARTZ_ORE": {
-    "name": "Nether Quartz Ore"
+    "name": "Nether Quartz Ore",
+    "wiki": "https://wiki.hypixel.net/Nether_Quartz_Ore"
   },
   "QUARTZ_STAIRS": {
     "name": "Quartz Stairs",
@@ -27791,7 +28335,8 @@
     }
   },
   "RABBIT": {
-    "name": "Raw Rabbit"
+    "name": "Raw Rabbit",
+    "wiki": "https://wiki.hypixel.net/Raw_Rabbit"
   },
   "RABBIT;0": {
     "name": "Common Rabbit",
@@ -27878,7 +28423,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Jake"
   },
   "RABBIT_FOOT": {
-    "name": "Rabbit\u0027s Foot"
+    "name": "Rabbit\u0027s Foot",
+    "wiki": "https://wiki.hypixel.net/Rabbit\u0027s_Foot"
   },
   "RABBIT_GENERATOR_1": {
     "name": "Rabbit Minion I",
@@ -28054,7 +28600,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Hat"
   },
   "RABBIT_HIDE": {
-    "name": "Rabbit Hide"
+    "name": "Rabbit Hide",
+    "wiki": "https://wiki.hypixel.net/Rabbit_Hide"
   },
   "RABBIT_HUTCH": {
     "name": "Rabbit Hutch",
@@ -28162,6 +28709,15 @@
   "RAINBOW;2": {
     "name": "Rainbow II"
   },
+  "RAINBOW_RUNE;1": {
+    "name": "◆ Rainbow Rune I"
+  },
+  "RAINBOW_RUNE;2": {
+    "name": "◆ Rainbow Rune II"
+  },
+  "RAINBOW_RUNE;3": {
+    "name": "◆ Rainbow Rune III"
+  },
   "RAMPART_BOOTS": {
     "name": "Rampart Boots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rampart_Armor"
@@ -28215,7 +28771,8 @@
     "name": "Raw Beef"
   },
   "RAW_CHICKEN": {
-    "name": "Raw Chicken"
+    "name": "Raw Chicken",
+    "wiki": "https://wiki.hypixel.net/Raw_Chicken"
   },
   "RAW_FISH:1": {
     "name": "Raw Salmon",
@@ -28230,7 +28787,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pufferfish"
   },
   "RAW_FISH": {
-    "name": "Raw Fish"
+    "name": "Raw Fish",
+    "wiki": "https://wiki.hypixel.net/Raw_Fish"
   },
   "RAW_SOULFLOW": {
     "name": "Raw Soulflow",
@@ -28392,34 +28950,44 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Recombobulator_3000"
   },
   "RECORD_10": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_11": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_12": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_3": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_4": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_5": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_6": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_7": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_8": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "RECORD_9": {
-    "name": "Music Disc"
+    "name": "Music Disc",
+    "wiki": "https://wiki.hypixel.net/Music_Disc"
   },
   "REDSTONE": {
     "name": "Redstone",
@@ -28433,7 +29001,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Redstone"
   },
   "REDSTONE_BLOCK": {
     "name": "Block of Redstone",
@@ -28447,7 +29016,8 @@
       "C1": "REDSTONE:1",
       "C2": "REDSTONE:1",
       "C3": "REDSTONE:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Block_Of_Redstone"
   },
   "REDSTONE_CHEST": {
     "name": "Redstone Chest+",
@@ -28651,7 +29221,17 @@
     }
   },
   "REDSTONE_ORE": {
-    "name": "Redstone Ore"
+    "name": "Redstone Ore",
+    "wiki": "https://wiki.hypixel.net/Redstone_Ore"
+  },
+  "REDSTONE_RUNE;1": {
+    "name": "◆ Redstone Rune I"
+  },
+  "REDSTONE_RUNE;2": {
+    "name": "◆ Redstone Rune II"
+  },
+  "REDSTONE_RUNE;3": {
+    "name": "◆ Redstone Rune III"
   },
   "REDSTONE_TIPPED_ARROW": {
     "name": "Redstone-tipped Arrow",
@@ -28725,7 +29305,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Red_Gift"
   },
   "RED_MUSHROOM": {
-    "name": "Red Mushroom"
+    "name": "Red Mushroom",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mushroom"
   },
   "RED_NOSE": {
     "name": "Red Nose",
@@ -29683,6 +30264,10 @@
     "name": "Rosetta\u0027s Leggings",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rosetta%27s_Armor"
   },
+  "ROSETTA_NPC": {
+    "name": "Rosetta (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rosetta"
+  },
   "ROSE_BOUQUET": {
     "name": "Rose Bouquet",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rose_Bouquet"
@@ -29696,7 +30281,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rotten_Armor"
   },
   "ROTTEN_FLESH": {
-    "name": "Rotten Flesh"
+    "name": "Rotten Flesh",
+    "wiki": "https://wiki.hypixel.net/Rotten_Flesh"
   },
   "ROTTEN_HELMET": {
     "name": "Rotten Helmet",
@@ -29723,7 +30309,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone"
   },
   "ROUGH_OPAL_GEM": {
-    "name": "❂ Rough Opal Gemstone"
+    "name": "❂ Rough Opal Gemstone",
+    "wiki": "https://wiki.hypixel.net/Gemstone"
   },
   "ROUGH_RUBY_GEM": {
     "name": "❤ Rough Ruby Gemstone",
@@ -29740,6 +30327,10 @@
   "ROYAL_PIGEON": {
     "name": "Royal Pigeon",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Royal_Pigeon"
+  },
+  "RUBY_CRYSTAL": {
+    "name": "Ruby Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
   },
   "RUBY_POLISHED_DRILL_ENGINE": {
     "name": "Ruby-polished Drill Engine",
@@ -29788,7 +30379,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sadan\u0027s_Brooch"
   },
   "SADDLE": {
-    "name": "Saddle"
+    "name": "Saddle",
+    "wiki": "https://wiki.hypixel.net/Saddle"
   },
   "SALMON_BOOTS": {
     "name": "Salmon Boots",
@@ -29878,7 +30470,8 @@
     "name": "Red Sand"
   },
   "SAND": {
-    "name": "Sand"
+    "name": "Sand",
+    "wiki": "https://wiki.hypixel.net/Sand"
   },
   "SANDCASTLE_PERSONALITY": {
     "name": "Sandcastle Minion Skin",
@@ -30127,6 +30720,10 @@
   "SAPLING": {
     "name": "Oak Sapling"
   },
+  "SAPPHIRE_CRYSTAL": {
+    "name": "Sapphire Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
+  },
   "SAPPHIRE_POLISHED_DRILL_ENGINE": {
     "name": "Sapphire-polished Drill Engine",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sapphire-polished_Drill_Engine"
@@ -30296,6 +30893,10 @@
     "name": "Scavenger Talisman",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scavenger_Talisman"
   },
+  "SCOOP_NPC": {
+    "name": "Scoop (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scoop"
+  },
   "SCORCHED_BOOKS": {
     "name": "Scorched Books",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorched_Books"
@@ -30305,7 +30906,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scorched_Power_Crystal"
   },
   "SCORNCLAW_BREW": {
-    "name": "Scornclaw Brew"
+    "name": "Scornclaw Brew",
+    "wiki": "https://wiki.hypixel.net/Scornclaw_Brew"
   },
   "SCORPION_BOW": {
     "name": "Scorpion Bow",
@@ -30503,7 +31105,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Redstone_Key"
   },
   "SEEDS": {
-    "name": "Seeds"
+    "name": "Seeds",
+    "wiki": "https://wiki.hypixel.net/Seeds"
   },
   "SERRATED_CLAWS": {
     "name": "Serrated Claws",
@@ -30519,6 +31122,10 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Serrated_Claws"
+  },
+  "SEYMOUR_NPC": {
+    "name": "Seymour (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Seymour"
   },
   "SHADOW_ASSASSIN_ADMIRAL": {
     "name": "Admiral Skin",
@@ -30746,7 +31353,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Shears"
   },
   "SHEEP;0": {
     "name": "Common Sheep",
@@ -30878,7 +31486,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
   },
   "SHEEP_GENERATOR_12": {
-    "name": "Sheep Minion XII"
+    "name": "Sheep Minion XII",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sheep_Minion"
   },
   "SHEEP_GENERATOR_2": {
     "name": "Sheep Minion II",
@@ -31003,6 +31612,14 @@
   "SHENS_REGALIA": {
     "name": "Shen\u0027s Regalia",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shen%27s_Regalia"
+  },
+  "SHERRY_NPC": {
+    "name": "Sherry (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sherry"
+  },
+  "SHIFTY_NPC": {
+    "name": "Shifty (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Shifty"
   },
   "SHIMMERING_LIGHT_HOOD": {
     "name": "Shimmering Light Hood",
@@ -31754,13 +32371,28 @@
     "name": "Dark Oak Bench",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "SKYBLOCK_BRONZE_MEDAL": {
+    "name": "Bronze Medal",
+    "wiki": "https://wiki.hypixel.net/Bronze_Medal"
+  },
   "SKYBLOCK_CHAIR": {
     "name": "Dark Oak Chair",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
   },
+  "SKYBLOCK_GOLD_MEDAL": {
+    "name": "Gold Medal",
+    "wiki": "https://wiki.hypixel.net/Gold_Medal"
+  },
   "SKYBLOCK_MENU": {
     "name": "SkyBlock Menu (Right Click)",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/SkyBlock_Menu"
+  },
+  "SKYBLOCK_PELT": {
+    "name": "Pelt"
+  },
+  "SKYBLOCK_SILVER_MEDAL": {
+    "name": "Silver Medal",
+    "wiki": "https://wiki.hypixel.net/Silver_Medal"
   },
   "SKYBLOCK_TABLE": {
     "name": "Dark Oak Table",
@@ -31790,7 +32422,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Slimeball"
   },
   "SLIME_BLOCK": {
     "name": "Slime Block",
@@ -32281,6 +32914,19 @@
   "SMITE;7": {
     "name": "Smite VII"
   },
+  "SMITHMONGER_NPC": {
+    "name": "Smithmonger (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Smithmonger"
+  },
+  "SMOKEY_RUNE;1": {
+    "name": "◆ Smokey Rune I"
+  },
+  "SMOKEY_RUNE;2": {
+    "name": "◆ Smokey Rune II"
+  },
+  "SMOKEY_RUNE;3": {
+    "name": "◆ Smokey Rune III"
+  },
   "SMOLDERING;1": {
     "name": "Smoldering I"
   },
@@ -32445,6 +33091,15 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snail_Pet"
   },
+  "SNAKE_RUNE;1": {
+    "name": "◆ Snake Rune I"
+  },
+  "SNAKE_RUNE;2": {
+    "name": "◆ Snake Rune II"
+  },
+  "SNAKE_RUNE;3": {
+    "name": "◆ Snake Rune III"
+  },
   "SNIPE;1": {
     "name": "Snipe I"
   },
@@ -32488,7 +33143,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Snow"
   },
   "SNOWFLAKE_THE_FISH": {
     "name": "Flake the Fish",
@@ -32522,7 +33178,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Snow"
   },
   "SNOW_CANNON": {
     "name": "Frosty the Snow Cannon",
@@ -32681,6 +33338,15 @@
       "C3": "ENCHANTED_SNOW_BLOCK:4"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snow_Minion"
+  },
+  "SNOW_RUNE;1": {
+    "name": "◆ Snow Rune I"
+  },
+  "SNOW_RUNE;2": {
+    "name": "◆ Snow Rune II"
+  },
+  "SNOW_RUNE;3": {
+    "name": "◆ Snow Rune III"
   },
   "SNOW_SHOVEL": {
     "name": "Snow Shovel",
@@ -32954,6 +33620,15 @@
       "C3": "SOUL_FRAGMENT:4"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Soul_Whip"
+  },
+  "SPARKLING_RUNE;1": {
+    "name": "◆ Sparkling Rune I"
+  },
+  "SPARKLING_RUNE;2": {
+    "name": "◆ Sparkling Rune II"
+  },
+  "SPARKLING_RUNE;3": {
+    "name": "◆ Sparkling Rune III"
   },
   "SPECKLED_MELON": {
     "name": "Glistering Melon",
@@ -33283,7 +33958,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mixins"
   },
   "SPIDER_EYE": {
-    "name": "Spider Eye"
+    "name": "Spider Eye",
+    "wiki": "https://wiki.hypixel.net/Spider_Eye"
   },
   "SPIDER_GENERATOR_1": {
     "name": "Spider Minion I",
@@ -33602,6 +34278,16 @@
     "name": "Spirit Mask",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Mask"
   },
+  "SPIRIT_RUNE;1": {
+    "name": "◆ Spirit Rune I",
+    "wiki": "https://wiki.hypixel.net/◆_Spirit_Rune_I"
+  },
+  "SPIRIT_RUNE;2": {
+    "name": "◆ Spirit Rune II"
+  },
+  "SPIRIT_RUNE;3": {
+    "name": "◆ Spirit Rune III"
+  },
   "SPIRIT_SWORD": {
     "name": "Spirit Sword",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Sword"
@@ -33611,7 +34297,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Spirit_Wing"
   },
   "SPONGE": {
-    "name": "Sponge"
+    "name": "Sponge",
+    "wiki": "https://wiki.hypixel.net/Sponge"
   },
   "SPONGE_BOOTS": {
     "name": "Spongy Shoes",
@@ -34987,7 +35674,8 @@
       "C1": "",
       "C2": "ENCHANTED_SPIDER_EYE:64",
       "C3": "SOUL_STRING:50"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Venom%27s_Touch"
   },
   "STARTER_LAVA_ROD": {
     "name": "Starter Lava Rod",
@@ -35253,7 +35941,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Stone_Axe"
   },
   "STONE_BLADE": {
     "name": "Adaptive Blade",
@@ -35304,7 +35993,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Stone_Hoe"
   },
   "STONE_PICKAXE": {
     "name": "Stone Pickaxe",
@@ -35318,7 +36008,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Stone_Pickaxe"
   },
   "STONE_PLATE": {
     "name": "Stone Pressure Plate",
@@ -35360,7 +36051,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Stone_Shovel"
   },
   "STONE_SWORD": {
     "name": "Stone Sword",
@@ -35374,7 +36066,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Stone_Sword"
   },
   "STONK_PICKAXE": {
     "name": "Stonk",
@@ -35406,7 +36099,8 @@
     "name": "Strength Potion"
   },
   "STRING": {
-    "name": "String"
+    "name": "String",
+    "wiki": "https://wiki.hypixel.net/String"
   },
   "STRONG_BABY": {
     "name": "Baby Skin",
@@ -35549,7 +36243,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Sugar"
   },
   "SUGAR_CANE": {
     "name": "Sugar Cane"
@@ -36826,7 +37521,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Euclid%27s_Wheat_Hoe"
   },
   "THE_ART_OF_PEACE": {
-    "name": "The Art of Peace"
+    "name": "The Art of Peace",
+    "wiki": "https://wiki.hypixel.net/The_Art_Of_Peace"
   },
   "THE_ART_OF_WAR": {
     "name": "The Art of War",
@@ -36916,7 +37612,8 @@
       "C1": "",
       "C2": "THUNDER_SHARDS:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Thunderbolt_Necklace"
   },
   "THUNDERLORD;1": {
     "name": "Thunderlord I"
@@ -36996,7 +37693,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thunder_Armor"
   },
   "THUNDER_IN_A_BOTTLE": {
-    "name": "Thunder in a Bottle"
+    "name": "Thunder in a Bottle",
+    "wiki": "https://wiki.hypixel.net/Thunder_In_A_Bottle"
   },
   "THUNDER_IN_A_BOTTLE_EMPTY": {
     "name": "Empty Thunder Bottle",
@@ -37035,6 +37733,15 @@
   "TIC_TAC_TOE": {
     "name": "Tic Tac Toe",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tic_Tac_Toe"
+  },
+  "TIDAL_RUNE;1": {
+    "name": "◆ Tidal Rune I"
+  },
+  "TIDAL_RUNE;2": {
+    "name": "◆ Tidal Rune II"
+  },
+  "TIDAL_RUNE;3": {
+    "name": "◆ Tidal Rune III"
   },
   "TIGER;0": {
     "name": "Common Tiger",
@@ -37202,6 +37909,18 @@
   "TOIL_LOG": {
     "name": "Toil Log",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Toil_Log"
+  },
+  "TOMIOKA_NPC": {
+    "name": "Tomioka (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tomioka"
+  },
+  "TONY_SHOP_NPC": {
+    "name": "Tony\u0027s Shop (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Tony\u0027s_Shop"
+  },
+  "TOPAZ_CRYSTAL": {
+    "name": "Topaz Crystal",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Crystals"
   },
   "TORCH": {
     "name": "Torch",
@@ -37575,6 +38294,9 @@
     "name": "Twilight Arrow Poison",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Twilight_Arrow_Poison"
   },
+  "UDEL_NPC": {
+    "name": "Udel (NPC)"
+  },
   "ULTIMATE_BANK;1": {
     "name": "Bank I",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
@@ -37935,6 +38657,9 @@
   "ULTIMATE_WISE;5": {
     "name": "Ultimate Wise V",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
+  },
+  "ULYN_NPC": {
+    "name": "Ulyn (NPC)"
   },
   "UNDEAD_BOW": {
     "name": "Undead Bow",
@@ -38559,6 +39284,19 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Vorpal_Katana"
   },
+  "WAKE_RUNE;1": {
+    "name": "◆ Wake Rune I"
+  },
+  "WAKE_RUNE;2": {
+    "name": "◆ Wake Rune II"
+  },
+  "WAKE_RUNE;3": {
+    "name": "◆ Wake Rune III"
+  },
+  "WALTER_NPC": {
+    "name": "Walter (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Walter"
+  },
   "WAND_OF_ATONEMENT": {
     "name": "Wand of Atonement",
     "recipe": {
@@ -38624,14 +39362,15 @@
     "recipe": {
       "A1": "",
       "A2": "",
-      "A3": "SPELL_POWDER",
+      "A3": "SPELL_POWDER:20",
       "B1": "",
       "B2": "HALLOWED_SKULL:20",
       "B3": "",
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wand_Of_Strength"
   },
   "WARDEN_HEART": {
     "name": "Warden Heart",
@@ -38703,7 +39442,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Water_Hydra_Head"
   },
   "WATER_LILY": {
-    "name": "Lily Pad"
+    "name": "Lily Pad",
+    "wiki": "https://wiki.hypixel.net/Lily_Pad"
   },
   "WATER_ORB": {
     "name": "Water Orb",
@@ -38730,6 +39470,10 @@
   "WEAK_WOLF_CATALYST": {
     "name": "Weak Wolf Catalyst",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Weak_Wolf_Catalyst"
+  },
+  "WEAPONSMITH_NPC": {
+    "name": "Weaponsmith (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Weaponsmith"
   },
   "WEAPON_RACK": {
     "name": "Weapon Rack",
@@ -38929,7 +39673,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wheat"
   },
   "WHEAT_GENERATOR_1": {
     "name": "Wheat Minion I",
@@ -39123,6 +39868,15 @@
     "name": "White Gift",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/White_Gift"
   },
+  "WHITE_SPIRAL_RUNE;1": {
+    "name": "◆ White Spiral Rune I"
+  },
+  "WHITE_SPIRAL_RUNE;2": {
+    "name": "◆ White Spiral Rune II"
+  },
+  "WHITE_SPIRAL_RUNE;3": {
+    "name": "◆ White Spiral Rune III"
+  },
   "WHITE_TIGER_PERSONALITY": {
     "name": "White Tiger Minion Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
@@ -39138,6 +39892,10 @@
   "WIND_CHIMES": {
     "name": "Wind Chimes",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+  },
+  "WINONA_NPC": {
+    "name": "Winona (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Winona"
   },
   "WINTER_DISC": {
     "name": "Winter Disc",
@@ -39631,7 +40389,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wooden_Axe"
   },
   "WOOD_BUTTON": {
     "name": "Button",
@@ -39677,7 +40436,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wooden_Hoe"
   },
   "WOOD_PICKAXE": {
     "name": "Wooden Pickaxe",
@@ -39691,7 +40451,8 @@
       "C1": "",
       "C2": "STICK:1",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wooden_Pickaxe"
   },
   "WOOD_PLATE": {
     "name": "Wooden Pressure Plate",
@@ -39825,7 +40586,8 @@
       "C1": "STICK:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Wooden_Sword"
   },
   "WOOD_TALISMAN": {
     "name": "Wood Affinity Talisman",
@@ -40066,6 +40828,10 @@
       "C3": ""
     }
   },
+  "WOOL_WEAVER_NPC": {
+    "name": "Wool Weaver (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Wool_Weaver"
+  },
   "WORKBENCH": {
     "name": "Crafting Table",
     "recipe": {
@@ -40083,6 +40849,10 @@
   "WORM_MEMBRANE": {
     "name": "Worm Membrane",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Worm_Membrane"
+  },
+  "WORM_THE_FISH": {
+    "name": "Worm the Fish",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Worm_the_Fish"
   },
   "WOUNDED": {
     "name": "Wounded Potion",
@@ -40246,6 +41016,15 @@
     "name": "Z",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Z"
   },
+  "ZAP_RUNE;1": {
+    "name": "◆ Zap Rune I"
+  },
+  "ZAP_RUNE;2": {
+    "name": "◆ Zap Rune II"
+  },
+  "ZAP_RUNE;3": {
+    "name": "◆ Zap Rune III"
+  },
   "ZOG_ANVIL": {
     "name": "Zog Anvil",
     "recipe": {
@@ -40260,6 +41039,10 @@
       "C3": "ANCIENT_CLAW:16"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zog_Anvil"
+  },
+  "ZOG_NPC": {
+    "name": "Zog (NPC)",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zog"
   },
   "ZOMBIE;0": {
     "name": "Common Zombie",
@@ -40452,7 +41235,8 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:64",
       "C2": "ENCHANTED_ROTTEN_FLESH:64",
       "C3": "ENCHANTED_ROTTEN_FLESH:64"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Zombie_Minion_XI"
   },
   "ZOMBIE_GENERATOR_2": {
     "name": "Zombie Minion II",
@@ -40688,6 +41472,15 @@
       "C3": ""
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Zombie_Ring"
+  },
+  "ZOMBIE_SLAYER_RUNE;1": {
+    "name": "◆ Pestilence Rune I"
+  },
+  "ZOMBIE_SLAYER_RUNE;2": {
+    "name": "◆ Pestilence Rune II"
+  },
+  "ZOMBIE_SLAYER_RUNE;3": {
+    "name": "◆ Pestilence Rune III"
   },
   "ZOMBIE_SOLDIER_BOOTS": {
     "name": "Zombie Soldier Boots",
