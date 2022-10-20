@@ -429,11 +429,13 @@
   },
   "AMBER_MATERIAL": {
     "name": "Amber Material",
-    "wiki": "https://wiki.hypixel.net/Amber_Material"
+    "wiki": "https://wiki.hypixel.net/Amber_Material",
+    "forge": 25200
   },
   "AMBER_POLISHED_DRILL_ENGINE": {
     "name": "Amber-polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Amber-polished_Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Amber-polished_Drill_Engine",
+    "forge": 180000
   },
   "AMBER_POWER_SCROLL": {
     "name": "Amber Power Scroll",
@@ -1666,19 +1668,23 @@
   },
   "BEACON_2": {
     "name": "Beacon II",
-    "wiki": "https://wiki.hypixel.net/Beacon"
+    "wiki": "https://wiki.hypixel.net/Beacon",
+    "forge": 72000
   },
   "BEACON_3": {
     "name": "Beacon III",
-    "wiki": "https://wiki.hypixel.net/Beacon"
+    "wiki": "https://wiki.hypixel.net/Beacon",
+    "forge": 108000
   },
   "BEACON_4": {
     "name": "Beacon IV",
-    "wiki": "https://wiki.hypixel.net/Beacon"
+    "wiki": "https://wiki.hypixel.net/Beacon",
+    "forge": 144000
   },
   "BEACON_5": {
     "name": "Beacon V",
-    "wiki": "https://wiki.hypixel.net/Beacon"
+    "wiki": "https://wiki.hypixel.net/Beacon",
+    "forge": 180000
   },
   "BEASTMASTER_CREST_COMMON": {
     "name": "Beastmaster Crest",
@@ -1812,7 +1818,8 @@
   },
   "BEJEWELED_HANDLE": {
     "name": "Bejeweled Handle",
-    "wiki": "https://wiki.hypixel.net/Bejeweled_Handle"
+    "wiki": "https://wiki.hypixel.net/Bejeweled_Handle",
+    "forge": 1800
   },
   "BERSERKER_BOOTS": {
     "name": "Berserker Boots",
@@ -6582,7 +6589,8 @@
   },
   "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Hollows",
-    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Hollows"
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Hollows",
+    "forge": 36000
   },
   "CRYSTAL_LEGGINGS": {
     "name": "Crystal Leggings",
@@ -7672,7 +7680,8 @@
   },
   "DIAMONITE": {
     "name": "Diamonite",
-    "wiki": "https://wiki.hypixel.net/Diamonite"
+    "wiki": "https://wiki.hypixel.net/Diamonite",
+    "forge": 21600
   },
   "DIGESTED_MOSQUITO": {
     "name": "Digested Mosquito",
@@ -7766,15 +7775,18 @@
   },
   "DIVAN_BOOTS": {
     "name": "Boots Of Divan",
-    "wiki": "https://wiki.hypixel.net/Boots_Of_Divan"
+    "wiki": "https://wiki.hypixel.net/Boots_Of_Divan",
+    "forge": 82800
   },
   "DIVAN_CHESTPLATE": {
     "name": "Chestplate Of Divan",
-    "wiki": "https://wiki.hypixel.net/Chestplate_Of_Divan"
+    "wiki": "https://wiki.hypixel.net/Chestplate_Of_Divan",
+    "forge": 82800
   },
   "DIVAN_DRILL": {
     "name": "Divan\u0027s Drill",
-    "wiki": "https://wiki.hypixel.net/Divan\u0027s_Drill"
+    "wiki": "https://wiki.hypixel.net/Divan\u0027s_Drill",
+    "forge": 216000
   },
   "DIVAN_FRAGMENT": {
     "name": "Divan Fragment",
@@ -7782,11 +7794,13 @@
   },
   "DIVAN_HELMET": {
     "name": "Helmet Of Divan",
-    "wiki": "https://wiki.hypixel.net/Helmet_Of_Divan"
+    "wiki": "https://wiki.hypixel.net/Helmet_Of_Divan",
+    "forge": 82800
   },
   "DIVAN_LEGGINGS": {
     "name": "Leggings Of Divan",
-    "wiki": "https://wiki.hypixel.net/Leggings_Of_Divan"
+    "wiki": "https://wiki.hypixel.net/Leggings_Of_Divan",
+    "forge": 82800
   },
   "DIVER_BOOTS": {
     "name": "Diver\u0027s Boots",
@@ -7978,7 +7992,8 @@
   },
   "DRILL_ENGINE": {
     "name": "Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Drill_Engine",
+    "forge": 108000
   },
   "DROPLET_WISP;1": {
     "name": "Uncommon Droplet Wisp",
@@ -13576,7 +13591,8 @@
   },
   "FORGE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Dwarven Forge",
-    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Dwarven_Forge"
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Dwarven_Forge",
+    "forge": 18000
   },
   "FORTUNE;1": {
     "name": "Fortune I"
@@ -13794,7 +13810,8 @@
   },
   "FUEL_TANK": {
     "name": "Fuel Tank",
-    "wiki": "https://wiki.hypixel.net/Fuel_Tank"
+    "wiki": "https://wiki.hypixel.net/Fuel_Tank",
+    "forge": 36000
   },
   "FULL_CHUM_BUCKET": {
     "name": "Full Chum Bucket",
@@ -13871,7 +13888,8 @@
   },
   "GEMSTONE_CHAMBER": {
     "name": "Gemstone Chamber",
-    "wiki": "https://wiki.hypixel.net/Gemstone_Chamber"
+    "wiki": "https://wiki.hypixel.net/Gemstone_Chamber",
+    "forge": 14400
   },
   "GEMSTONE_COLLECTION": {
     "name": "Gemstone",
@@ -13879,23 +13897,28 @@
   },
   "GEMSTONE_DRILL_1": {
     "name": "Ruby Drill TX-15",
-    "wiki": "https://wiki.hypixel.net/Ruby_Drill_TX-15"
+    "wiki": "https://wiki.hypixel.net/Ruby_Drill_TX-15",
+    "forge": 3600
   },
   "GEMSTONE_DRILL_2": {
     "name": "Gemstone Drill LT-522",
-    "wiki": "https://wiki.hypixel.net/Gemstone_Drill_LT-522"
+    "wiki": "https://wiki.hypixel.net/Gemstone_Drill_LT-522",
+    "forge": 30
   },
   "GEMSTONE_DRILL_3": {
     "name": "Topaz Drill KGR-12",
-    "wiki": "https://wiki.hypixel.net/Topaz_Drill_KGR-12"
+    "wiki": "https://wiki.hypixel.net/Topaz_Drill_KGR-12",
+    "forge": 30
   },
   "GEMSTONE_DRILL_4": {
     "name": "Jasper Drill X",
-    "wiki": "https://wiki.hypixel.net/Jasper_Drill_X"
+    "wiki": "https://wiki.hypixel.net/Jasper_Drill_X",
+    "forge": 30
   },
   "GEMSTONE_FUEL_TANK": {
     "name": "Gemstone Fuel Tank",
-    "wiki": "https://wiki.hypixel.net/Gemstone_Fuel_Tank"
+    "wiki": "https://wiki.hypixel.net/Gemstone_Fuel_Tank",
+    "forge": 108000
   },
   "GEMSTONE_GAUNTLET": {
     "name": "Gemstone Gauntlet",
@@ -13914,7 +13937,8 @@
   },
   "GEMSTONE_MIXTURE": {
     "name": "Gemstone Mixture",
-    "wiki": "https://wiki.hypixel.net/Gemstone_Mixture"
+    "wiki": "https://wiki.hypixel.net/Gemstone_Mixture",
+    "forge": 14400
   },
   "GEM_RUNE;1": {
     "name": "◆ Gem Rune I"
@@ -14653,23 +14677,28 @@
   },
   "GOBLIN_OMELETTE": {
     "name": "Goblin Omelette",
-    "wiki": "https://wiki.hypixel.net/Goblin_Omelette"
+    "wiki": "https://wiki.hypixel.net/Goblin_Omelette",
+    "forge": 64800
   },
   "GOBLIN_OMELETTE_BLUE_CHEESE": {
     "name": "Blue Cheese Goblin Omelette",
-    "wiki": "https://wiki.hypixel.net/Blue_Cheese_Goblin_Omelette"
+    "wiki": "https://wiki.hypixel.net/Blue_Cheese_Goblin_Omelette",
+    "forge": 72000
   },
   "GOBLIN_OMELETTE_PESTO": {
     "name": "Pesto Goblin Omelette",
-    "wiki": "https://wiki.hypixel.net/Pesto_Goblin_Omelette"
+    "wiki": "https://wiki.hypixel.net/Pesto_Goblin_Omelette",
+    "forge": 72000
   },
   "GOBLIN_OMELETTE_SPICY": {
     "name": "Spicy Goblin Omelette",
-    "wiki": "https://wiki.hypixel.net/Spicy_Goblin_Omelette"
+    "wiki": "https://wiki.hypixel.net/Spicy_Goblin_Omelette",
+    "forge": 72000
   },
   "GOBLIN_OMELETTE_SUNNY_SIDE": {
     "name": "Sunny Side Goblin Omelette",
-    "wiki": "https://wiki.hypixel.net/Sunny_Side_Goblin_Omelette"
+    "wiki": "https://wiki.hypixel.net/Sunny_Side_Goblin_Omelette",
+    "forge": 72000
   },
   "GOD_POTION": {
     "name": "God Potion",
@@ -14753,7 +14782,8 @@
   },
   "GOLDEN_PLATE": {
     "name": "Golden Plate",
-    "wiki": "https://wiki.hypixel.net/Golden_Plate"
+    "wiki": "https://wiki.hypixel.net/Golden_Plate",
+    "forge": 21600
   },
   "GOLDEN_POWDER": {
     "name": "Golden Powder",
@@ -16999,7 +17029,8 @@
       "C2": "ENCHANTED_HARD_STONE:12",
       "C3": "ENCHANTED_HARD_STONE:12"
     },
-    "wiki": "https://wiki.hypixel.net/Hot_Stuff"
+    "wiki": "https://wiki.hypixel.net/Hot_Stuff",
+    "forge": 86400
   },
   "HOT_TERROR_BOOTS": {
     "name": "Hot Terror Boots",
@@ -22548,19 +22579,23 @@
   },
   "MITHRIL_DRILL_1": {
     "name": "Mithril Drill SX-R226",
-    "wiki": "https://wiki.hypixel.net/Mithril_Drill_SX-R226"
+    "wiki": "https://wiki.hypixel.net/Mithril_Drill_SX-R226",
+    "forge": 14400
   },
   "MITHRIL_DRILL_2": {
     "name": "Mithril Drill SX-R326",
-    "wiki": "https://wiki.hypixel.net/Mithril_Drill_SX-R326"
+    "wiki": "https://wiki.hypixel.net/Mithril_Drill_SX-R326",
+    "forge": 30
   },
   "MITHRIL_DRILL_ENGINE": {
     "name": "Mithril-Plated Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Mithril-Plated_Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Mithril-Plated_Drill_Engine",
+    "forge": 54000
   },
   "MITHRIL_FUEL_TANK": {
     "name": "Mithril-Infused Fuel Tank",
-    "wiki": "https://wiki.hypixel.net/Mithril-Infused_Fuel_Tank"
+    "wiki": "https://wiki.hypixel.net/Mithril-Infused_Fuel_Tank",
+    "forge": 36000
   },
   "MITHRIL_GENERATOR_1": {
     "name": "Mithril Minion I",
@@ -22836,11 +22871,13 @@
   },
   "MITHRIL_PICKAXE": {
     "name": "Mithril Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Mithril_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Mithril_Pickaxe",
+    "forge": 2700
   },
   "MITHRIL_PLATE": {
     "name": "Mithril Plate",
-    "wiki": "https://wiki.hypixel.net/Mithril_Plate"
+    "wiki": "https://wiki.hypixel.net/Mithril_Plate",
+    "forge": 64800
   },
   "MOBYS_SHEARS": {
     "name": "Moby\u0027s Shears",
@@ -24885,15 +24922,18 @@
   },
   "PERFECTLY_CUT_FUEL_TANK": {
     "name": "Perfectly-Cut Fuel Tank",
-    "wiki": "https://wiki.hypixel.net/Perfectly-Cut_Fuel_Tank"
+    "wiki": "https://wiki.hypixel.net/Perfectly-Cut_Fuel_Tank",
+    "forge": 180000
   },
   "PERFECT_AMBER_GEM": {
     "name": "⸕ Perfect Amber Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%B8%95_Perfect_Amber_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%B8%95_Perfect_Amber_Gemstone",
+    "forge": 72000
   },
   "PERFECT_AMETHYST_GEM": {
     "name": "❈ Perfect Amethyst Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%9D%88_Perfect_Amethyst_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%9D%88_Perfect_Amethyst_Gemstone",
+    "forge": 72000
   },
   "PERFECT_BOOTS_1": {
     "name": "Perfect Boots - Tier I",
@@ -25441,11 +25481,13 @@
   },
   "PERFECT_JADE_GEM": {
     "name": "☘ Perfect Jade Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%98%98_Perfect_Jade_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%98%98_Perfect_Jade_Gemstone",
+    "forge": 72000
   },
   "PERFECT_JASPER_GEM": {
     "name": "❁ Perfect Jasper Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%9D%81_Perfect_Jasper_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%9D%81_Perfect_Jasper_Gemstone",
+    "forge": 72000
   },
   "PERFECT_LEGGINGS_1": {
     "name": "Perfect Leggings - Tier I",
@@ -25629,19 +25671,23 @@
   },
   "PERFECT_OPAL_GEM": {
     "name": "❂ Perfect Opal Gemstone",
-    "wiki": "https://wiki.hypixel.net/Gemstone"
+    "wiki": "https://wiki.hypixel.net/Gemstone",
+    "forge": 72000
   },
   "PERFECT_RUBY_GEM": {
     "name": "❤ Perfect Ruby Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%9D%A4_Perfect_Ruby_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%9D%A4_Perfect_Ruby_Gemstone",
+    "forge": 72000
   },
   "PERFECT_SAPPHIRE_GEM": {
     "name": "✎ Perfect Sapphire Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%9C%8E_Perfect_Sapphire_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%9C%8E_Perfect_Sapphire_Gemstone",
+    "forge": 72000
   },
   "PERFECT_TOPAZ_GEM": {
     "name": "✧ Perfect Topaz Gemstone",
-    "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Perfect_Topaz_Gemstone"
+    "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Perfect_Topaz_Gemstone",
+    "forge": 72000
   },
   "PERSONAL_BANK_ITEM": {
     "name": "Personal Bank Item",
@@ -25780,7 +25826,8 @@
   },
   "PETRIFIED_STARFALL": {
     "name": "Petrified Starfall",
-    "wiki": "https://wiki.hypixel.net/Petrified_Starfall"
+    "wiki": "https://wiki.hypixel.net/Petrified_Starfall",
+    "forge": 50400
   },
   "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
     "name": "All Skills Exp Boost",
@@ -27147,7 +27194,8 @@
   },
   "POWER_CRYSTAL": {
     "name": "Power Crystal",
-    "wiki": "https://wiki.hypixel.net/Power_Crystal"
+    "wiki": "https://wiki.hypixel.net/Power_Crystal",
+    "forge": 7200
   },
   "POWER_RING": {
     "name": "Ring of Power",
@@ -27940,7 +27988,8 @@
   },
   "PURE_MITHRIL": {
     "name": "Pure Mithril",
-    "wiki": "https://wiki.hypixel.net/Pure_Mithril"
+    "wiki": "https://wiki.hypixel.net/Pure_Mithril",
+    "forge": 43200
   },
   "PURPLE_CANDY": {
     "name": "Purple Candy",
@@ -29447,7 +29496,8 @@
   },
   "REFINED_DIAMOND": {
     "name": "Refined Diamond",
-    "wiki": "https://wiki.hypixel.net/Refined_Diamond"
+    "wiki": "https://wiki.hypixel.net/Refined_Diamond",
+    "forge": 28800
   },
   "REFINED_MINERAL": {
     "name": "Refined Mineral",
@@ -29455,15 +29505,18 @@
   },
   "REFINED_MITHRIL": {
     "name": "Refined Mithril",
-    "wiki": "https://wiki.hypixel.net/Refined_Mithril"
+    "wiki": "https://wiki.hypixel.net/Refined_Mithril",
+    "forge": 21600
   },
   "REFINED_MITHRIL_PICKAXE": {
     "name": "Refined Mithril Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Refined_Mithril_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Refined_Mithril_Pickaxe",
+    "forge": 79200
   },
   "REFINED_TITANIUM": {
     "name": "Refined Titanium",
-    "wiki": "https://wiki.hypixel.net/Refined_Titanium"
+    "wiki": "https://wiki.hypixel.net/Refined_Titanium",
+    "forge": 43200
   },
   "REFINED_TITANIUM_PICKAXE": {
     "name": "Refined Titanium Pickaxe",
@@ -30035,7 +30088,8 @@
   },
   "ROCK_GEMSTONE": {
     "name": "Rock Gemstone",
-    "wiki": "https://wiki.hypixel.net/Rock_Gemstone"
+    "wiki": "https://wiki.hypixel.net/Rock_Gemstone",
+    "forge": 79200
   },
   "ROCK_PAPER_SHEARS": {
     "name": "Rock Paper Shears",
@@ -30191,7 +30245,8 @@
   },
   "RUBY_POLISHED_DRILL_ENGINE": {
     "name": "Ruby-polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Ruby-polished_Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Ruby-polished_Drill_Engine",
+    "forge": 72000
   },
   "RUBY_POWER_SCROLL": {
     "name": "Ruby Power Scroll",
@@ -30583,7 +30638,8 @@
   },
   "SAPPHIRE_POLISHED_DRILL_ENGINE": {
     "name": "Sapphire-polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Sapphire-polished_Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Sapphire-polished_Drill_Engine",
+    "forge": 108000
   },
   "SAPPHIRE_POWER_SCROLL": {
     "name": "Sapphire Power Scroll",
@@ -37659,31 +37715,38 @@
   },
   "TITANIUM_ARTIFACT": {
     "name": "Titanium Artifact",
-    "wiki": "https://wiki.hypixel.net/Titanium_Artifact"
+    "wiki": "https://wiki.hypixel.net/Titanium_Artifact",
+    "forge": 129600
   },
   "TITANIUM_DRILL_1": {
     "name": "Titanium Drill DR-X355",
-    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X355"
+    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X355",
+    "forge": 230400
   },
   "TITANIUM_DRILL_2": {
     "name": "Titanium Drill DR-X455",
-    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X455"
+    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X455",
+    "forge": 30
   },
   "TITANIUM_DRILL_3": {
     "name": "Titanium Drill DR-X555",
-    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X555"
+    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X555",
+    "forge": 30
   },
   "TITANIUM_DRILL_4": {
     "name": "Titanium Drill DR-X655",
-    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X655"
+    "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X655",
+    "forge": 30
   },
   "TITANIUM_DRILL_ENGINE": {
     "name": "Titanium-Plated Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Titanium-Plated_Drill_Engine"
+    "wiki": "https://wiki.hypixel.net/Titanium-Plated_Drill_Engine",
+    "forge": 108000
   },
   "TITANIUM_FUEL_TANK": {
     "name": "Titanium-Infused Fuel Tank",
-    "wiki": "https://wiki.hypixel.net/Titanium-Infused_Fuel_Tank"
+    "wiki": "https://wiki.hypixel.net/Titanium-Infused_Fuel_Tank",
+    "forge": 90000
   },
   "TITANIUM_ORE": {
     "name": "Titanium",
@@ -37695,15 +37758,18 @@
   },
   "TITANIUM_RELIC": {
     "name": "Titanium Relic",
-    "wiki": "https://wiki.hypixel.net/Titanium_Relic"
+    "wiki": "https://wiki.hypixel.net/Titanium_Relic",
+    "forge": 259200
   },
   "TITANIUM_RING": {
     "name": "Titanium Ring",
-    "wiki": "https://wiki.hypixel.net/Titanium_Ring"
+    "wiki": "https://wiki.hypixel.net/Titanium_Ring",
+    "forge": 72000
   },
   "TITANIUM_TALISMAN": {
     "name": "Titanium Talisman",
-    "wiki": "https://wiki.hypixel.net/Titanium_Talisman"
+    "wiki": "https://wiki.hypixel.net/Titanium_Talisman",
+    "forge": 50400
   },
   "TITAN_KILLER;1": {
     "name": "Titan Killer I"
