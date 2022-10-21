@@ -26397,6 +26397,10 @@
     "name": "Gorilla Monkey Skin",
     "wiki": "https://wiki.hypixel.net/Gorilla_Monkey_Skin"
   },
+  "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
+    "name": "Moocelium Mooshroom Cow Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "PET_SKIN_OCELOT_SNOW_TIGER": {
     "name": "Snow Tiger Ocelot Skin",
     "wiki": "https://wiki.hypixel.net/Snow_Tiger_Ocelot_Skin"
@@ -26524,6 +26528,10 @@
   "PET_SKIN_SILVERFISH_FOSSILIZED": {
     "name": "Fossilized Silverfish Skin",
     "wiki": "https://wiki.hypixel.net/Fossilized_Silverfish_Skin"
+  },
+  "PET_SKIN_SNOWMAN_ICE_GOLEM": {
+    "name": "Ice Golem Snowman Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "PET_SKIN_SQUID_GLOW": {
     "name": "Glow Squid Skin",
