@@ -38,13 +38,16 @@
     "wiki": "https://wiki.hypixel.net/Abiphone_XII_Mega_Color"
   },
   "ABIPHONE_XIV_ENORMOUS": {
-    "name": "Abiphone XIV Enormous"
+    "name": "Abiphone XIV Enormous",
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
   },
   "ABIPHONE_XIV_ENORMOUS_BLACK": {
-    "name": "Abiphone XIV Enormous"
+    "name": "Abiphone XIV Enormous",
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
   },
   "ABIPHONE_XIV_ENORMOUS_PURPLE": {
-    "name": "Abiphone XIV Enormous"
+    "name": "Abiphone XIV Enormous",
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
   },
   "ABIPHONE_XI_ULTRA": {
     "name": "Abiphone XI Ultra",
@@ -1837,7 +1840,7 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Berserker_Boots"
+    "wiki": "https://wiki.hypixel.net/Berserker_Armor"
   },
   "BERSERKER_CHESTPLATE": {
     "name": "Berserker Chestplate",
@@ -1852,7 +1855,7 @@
       "C2": "ENCHANTED_RED_SAND_CUBE:1",
       "C3": "MAGMA_CHUNK:20"
     },
-    "wiki": "https://wiki.hypixel.net/Berserker_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Berserker_Armor"
   },
   "BERSERKER_HELMET": {
     "name": "Berserker Helmet",
@@ -1867,7 +1870,7 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Berserker_Helmet"
+    "wiki": "https://wiki.hypixel.net/Berserker_Armor"
   },
   "BERSERKER_LEGGINGS": {
     "name": "Berserker Leggings",
@@ -1882,14 +1885,15 @@
       "C2": "",
       "C3": "ENCHANTED_RED_SAND_CUBE:1"
     },
-    "wiki": "https://wiki.hypixel.net/Berserker_Leggings"
+    "wiki": "https://wiki.hypixel.net/Berserker_Armor"
   },
   "BEST_WEAPON_RACK": {
     "name": "Weapon Rack+",
     "wiki": "https://wiki.hypixel.net/Weapon_Rack%2B"
   },
   "BETRAYAL_HEAD": {
-    "name": "Head of Betrayal"
+    "name": "Head of Betrayal",
+    "wiki": "https://wiki.hypixel.net/Head_Of_Betrayal"
   },
   "BEZOS": {
     "name": "Bezos",
@@ -7085,7 +7089,8 @@
     "wiki": "https://wiki.hypixel.net/Dead_Bush_Of_Love"
   },
   "DEAD_SEED": {
-    "name": "Dead Seed"
+    "name": "Dead Seed",
+    "wiki": "https://wiki.hypixel.net/Dead_Seed"
   },
   "DEAN_LETTER_OF_RECOMMENDATION": {
     "name": "Letter of Recommendation"
@@ -8228,7 +8233,8 @@
     "wiki": "https://wiki.hypixel.net/Scavenged_Golden_Hammer"
   },
   "DWARVEN_IRON_HAMMER": {
-    "name": "Scavenged Iron Hammer"
+    "name": "Scavenged Iron Hammer",
+    "wiki": "https://wiki.hypixel.net/Scavenged_Iron_Hammer"
   },
   "DWARVEN_LAPIS_SWORD": {
     "name": "Scavenged Lapis Sword",
@@ -8810,7 +8816,7 @@
   },
   "EMPTY_CHUM_BUCKET": {
     "name": "Empty Chum Bucket",
-    "wiki": "https://wiki.hypixel.net/Empty_Chum_Bucket"
+    "wiki": "https://wiki.hypixel.net/Chum_Bucket"
   },
   "EMPTY_MAP": {
     "name": "Empty Map",
@@ -10422,7 +10428,8 @@
     "wiki": "https://wiki.hypixel.net/Enchanted_Shark_Fin"
   },
   "ENCHANTED_SHEARS": {
-    "name": "Enchanted Shears"
+    "name": "Enchanted Shears",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Shears"
   },
   "ENCHANTED_SLIME_BALL": {
     "name": "Enchanted Slimeball",
@@ -11682,7 +11689,8 @@
     "wiki": "https://wiki.hypixel.net/Fairy\u0027s_Trousers"
   },
   "FAIRY_WINGS": {
-    "name": "Fairy Wings"
+    "name": "Fairy Wings",
+    "wiki": "https://wiki.hypixel.net/Fairy_Wings"
   },
   "FAKE_EMERALD_ALTAR": {
     "name": "Fake Emerald Altar",
@@ -13810,14 +13818,16 @@
     "wiki": "https://wiki.hypixel.net/Booster_Cookie"
   },
   "FREE_SPIDER": {
-    "name": "Free Spider"
+    "name": "Free Spider",
+    "wiki": "https://wiki.hypixel.net/Free_Spider"
   },
   "FRENCH_BREAD": {
     "name": "French Bread",
     "wiki": "https://wiki.hypixel.net/French_Bread"
   },
   "FRENCH_FRIES": {
-    "name": "French Fries"
+    "name": "French Fries",
+    "wiki": "https://wiki.hypixel.net/French_Fries"
   },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
@@ -15793,10 +15803,12 @@
     "wiki": "https://wiki.hypixel.net/Great_Carrot_Candy"
   },
   "GREAT_SPOOK_ARTIFACT": {
-    "name": "Great Spook Artifact"
+    "name": "Great Spook Artifact",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Artifact"
   },
   "GREAT_SPOOK_BELT": {
-    "name": "Great Spook Belt"
+    "name": "Great Spook Belt",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Belt"
   },
   "GREAT_SPOOK_BOOTS": {
     "name": "Great Spook Boots",
@@ -15807,10 +15819,12 @@
     "wiki": "https://wiki.hypixel.net/Great_Spook_Chestplate"
   },
   "GREAT_SPOOK_CLOAK": {
-    "name": "Great Spook Cloak"
+    "name": "Great Spook Cloak",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Cloak"
   },
   "GREAT_SPOOK_GLOVES": {
-    "name": "Great Spook Gloves"
+    "name": "Great Spook Gloves",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Gloves"
   },
   "GREAT_SPOOK_HELMET": {
     "name": "Great Spook Helmet",
@@ -15821,20 +15835,24 @@
     "wiki": "https://wiki.hypixel.net/Great_Spook_Leggings"
   },
   "GREAT_SPOOK_NECKLACE": {
-    "name": "Great Spook Necklace"
+    "name": "Great Spook Necklace",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Necklace"
   },
   "GREAT_SPOOK_RING": {
-    "name": "Great Spook Ring"
+    "name": "Great Spook Ring",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Ring"
   },
   "GREAT_SPOOK_STAFF": {
     "name": "Great Spook Staff",
     "wiki": "https://wiki.hypixel.net/Great_Spook_Staff"
   },
   "GREAT_SPOOK_SWORD": {
-    "name": "Great Spook Sword"
+    "name": "Great Spook Sword",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Sword"
   },
   "GREAT_SPOOK_TALISMAN": {
-    "name": "Great Spook Talisman"
+    "name": "Great Spook Talisman",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Talisman"
   },
   "GREAT_WHITE_SHARK_TOOTH": {
     "name": "Great White Shark Tooth",
@@ -24492,7 +24510,8 @@
     "wiki": "https://wiki.hypixel.net/Trophy_Fish"
   },
   "OBSCURE_ENDING": {
-    "name": "Obscure Ending"
+    "name": "Obscure Ending",
+    "wiki": "https://wiki.hypixel.net/Obscure_Ending"
   },
   "OBSIDIAN": {
     "name": "Obsidian",
@@ -27474,7 +27493,8 @@
     "wiki": "https://wiki.hypixel.net/Necron\u0027s_Leggings"
   },
   "PRECIOUS": {
-    "name": "Precious"
+    "name": "Precious",
+    "wiki": "https://wiki.hypixel.net/Precious"
   },
   "PRECIOUS_PEARL": {
     "name": "Precious Pearl",
@@ -30305,7 +30325,8 @@
     "wiki": "https://wiki.hypixel.net/Rod_Of_The_Sea"
   },
   "ROGUE_FLESH": {
-    "name": "Rogue Flesh"
+    "name": "Rogue Flesh",
+    "wiki": "https://wiki.hypixel.net/Rogue_Flesh"
   },
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
@@ -32475,7 +32496,8 @@
     "wiki": "https://wiki.hypixel.net/Skyblock_Menu"
   },
   "SKYBLOCK_PELT": {
-    "name": "Pelt"
+    "name": "Pelt",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt"
   },
   "SKYBLOCK_SILVER_MEDAL": {
     "name": "Silver Medal",
@@ -36750,8 +36772,8 @@
   "SUSPICIOUS_STEW": {
     "name": "Suspicious Stew",
     "recipe": {
-      "A1": "BROWN_MUSHROOM:1",
-      "A2": "",
+      "A1": "",
+      "A2": "BROWN_MUSHROOM:1",
       "A3": "",
       "B1": "BURNING_EYE:1",
       "B2": "MYCEL:1",
