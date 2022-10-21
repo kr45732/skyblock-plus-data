@@ -18,6 +18,9 @@
     "name": "Maddox\u0027s Phone Number",
     "wiki": "https://wiki.hypixel.net/Maddox\u0027s_Phone_Number"
   },
+  "ABICASE": {
+    "name": "Lighter Blue™ Abicase"
+  },
   "ABIPHONE_XIII_PRO": {
     "name": "Abiphone XIII Pro",
     "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro"
@@ -3270,6 +3273,10 @@
   "BURNING_HOLLOW_LEGGINGS": {
     "name": "Burning Hollow Leggings",
     "wiki": "https://wiki.hypixel.net/Burning_Hollow_Leggings"
+  },
+  "BURNING_KUUDRA_CORE": {
+    "name": "Burning Kuudra Core",
+    "wiki": "https://wiki.hypixel.net/Burning_Kuudra_Core"
   },
   "BURNING_TERROR_BOOTS": {
     "name": "Burning Terror Boots",
@@ -7103,6 +7110,20 @@
     "name": "Deck Chair",
     "wiki": "https://wiki.hypixel.net/Deck_Chair"
   },
+  "DEEPTERROR_MIXIN": {
+    "name": "Deepterror Mixin",
+    "recipe": {
+      "A1": "",
+      "A2": "MITE_GEL:16",
+      "A3": "",
+      "B1": "MITE_GEL:16",
+      "B2": "RITUAL_RESIDUE:1",
+      "B3": "MITE_GEL:16",
+      "C1": "",
+      "C2": "MITE_GEL:16",
+      "C3": ""
+    }
+  },
   "DEEP_OCEAN_BIOME_STICK": {
     "name": "Deep Ocean Biome Stick",
     "recipe": {
@@ -7761,6 +7782,10 @@
       "C3": "COBBLESTONE:1"
     }
   },
+  "DITTO_BLOB": {
+    "name": "Ditto Blob",
+    "wiki": "https://wiki.hypixel.net/Ditto_Blob"
+  },
   "DITTO_SKIN": {
     "name": "Ditto Skin",
     "wiki": "https://wiki.hypixel.net/Ditto_Skin"
@@ -7946,6 +7971,77 @@
   "DOUBLE_PLANT": {
     "name": "Sunflower"
   },
+  "DRACONIC_ARTIFACT": {
+    "name": "Draconic Artifact",
+    "recipe": {
+      "A1": "RITUAL_RESIDUE:3",
+      "A2": "TESSELLATED_ENDER_PEARL:1",
+      "A3": "RITUAL_RESIDUE:3",
+      "B1": "MITE_GEL:64",
+      "B2": "DRACONIC_RING:1",
+      "B3": "MITE_GEL:64",
+      "C1": "RITUAL_RESIDUE:3",
+      "C2": "TESSELLATED_ENDER_PEARL:1",
+      "C3": "RITUAL_RESIDUE:3"
+    }
+  },
+  "DRACONIC_RING": {
+    "name": "Draconic Ring",
+    "recipe": {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "MITE_GEL:32",
+      "A3": "RITUAL_RESIDUE:1",
+      "B1": "MITE_GEL:32",
+      "B2": "DRACONIC_TALISMAN:1",
+      "B3": "MITE_GEL:32",
+      "C1": "RITUAL_RESIDUE:1",
+      "C2": "TESSELLATED_ENDER_PEARL:1",
+      "C3": "RITUAL_RESIDUE:1"
+    }
+  },
+  "DRACONIC_TALISMAN": {
+    "name": "Draconic Talisman",
+    "recipe": {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "MITE_GEL:16",
+      "A3": "MITE_GEL:16",
+      "B1": "MITE_GEL:16",
+      "B2": "ABSOLUTE_ENDER_PEARL:32",
+      "B3": "MITE_GEL:16",
+      "C1": "MITE_GEL:16",
+      "C2": "MITE_GEL:16",
+      "C3": "RITUAL_RESIDUE:1"
+    }
+  },
+  "DRAGONFADE_CLOAK": {
+    "name": "Dragonfade Cloak",
+    "recipe": {
+      "A1": "RITUAL_RESIDUE:1",
+      "A2": "RITUAL_RESIDUE:1",
+      "A3": "RITUAL_RESIDUE:1",
+      "B1": "MITE_GEL:16",
+      "B2": "ABSOLUTE_ENDER_PEARL:16",
+      "B3": "MITE_GEL:16",
+      "C1": "MITE_GEL:16",
+      "C2": "ABSOLUTE_ENDER_PEARL:16",
+      "C3": "MITE_GEL:16"
+    },
+    "wiki": "https://wiki.hypixel.net/Dragonfade_Cloak"
+  },
+  "DRAGONFUSE_GLOVE": {
+    "name": "Dragonfuse Glove",
+    "recipe": {
+      "A1": "RITUAL_RESIDUE:2",
+      "A2": "",
+      "A3": "RITUAL_RESIDUE:2",
+      "B1": "MITE_GEL:24",
+      "B2": "MITE_GEL:24",
+      "B3": "MITE_GEL:24",
+      "C1": "ABSOLUTE_ENDER_PEARL:16",
+      "C2": "ABSOLUTE_ENDER_PEARL:16",
+      "C3": "ABSOLUTE_ENDER_PEARL:16"
+    }
+  },
   "DRAGON_CLAW": {
     "name": "Dragon Claw",
     "wiki": "https://wiki.hypixel.net/Dragon_Claw"
@@ -7989,6 +8085,10 @@
   "DRAGON_SCALE": {
     "name": "Dragon Scale",
     "wiki": "https://wiki.hypixel.net/Dragon_Scale"
+  },
+  "DRAGON_SHORTBOW": {
+    "name": "Dragon Shortbow",
+    "wiki": "https://wiki.hypixel.net/Dragon_Shortbow"
   },
   "DRILL_ENGINE": {
     "name": "Drill Engine",
@@ -8186,6 +8286,14 @@
     "name": "Necron Dye",
     "wiki": "https://wiki.hypixel.net/Necron_Dye"
   },
+  "DYE_PURE_BLACK": {
+    "name": "Pure Black Dye",
+    "wiki": "https://wiki.hypixel.net/Pure_Black_Dye"
+  },
+  "DYE_PURE_WHITE": {
+    "name": "Pure White Dye",
+    "wiki": "https://wiki.hypixel.net/Pure_White_Dye"
+  },
   "DYE_WILD_STRAWBERRY": {
     "name": "Wild Strawberry Dye",
     "wiki": "https://wiki.hypixel.net/Wild_Strawberry_Dye"
@@ -8327,6 +8435,9 @@
     "name": "Legendary Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
     "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+  },
+  "ELLES_PICKAXE": {
+    "name": "Elle\u0027s Pickaxe"
   },
   "EMBER_BOOTS": {
     "name": "Ember Boots",
@@ -10853,6 +10964,11 @@
     "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
     "wiki": "https://wiki.hypixel.net/Endermite_Pet"
   },
+  "ENDERMITE;5": {
+    "name": "Mythic Endermite",
+    "texture": "5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855",
+    "wiki": "https://wiki.hypixel.net/Endermite_Pet"
+  },
   "ENDERPACK": {
     "name": "Enderpack Skin",
     "wiki": "https://wiki.hypixel.net/Enderpack_Skin"
@@ -10869,6 +10985,9 @@
   "ENDER_ARTIFACT": {
     "name": "Ender Artifact",
     "wiki": "https://wiki.hypixel.net/Ender_Artifact"
+  },
+  "ENDER_BELT": {
+    "name": "Ender Belt"
   },
   "ENDER_BOW": {
     "name": "Ender Bow",
@@ -10900,6 +11019,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Ender_Chest"
   },
+  "ENDER_CLOAK": {
+    "name": "Ender Cloak"
+  },
   "ENDER_DRAGON;3": {
     "name": "Epic Ender Dragon",
     "texture": "aec3ff563290b13ff3bcc36898af7eaa988b6cc18dc254147f58374afe9b21b9",
@@ -10910,9 +11032,15 @@
     "texture": "aec3ff563290b13ff3bcc36898af7eaa988b6cc18dc254147f58374afe9b21b9",
     "wiki": "https://wiki.hypixel.net/Ender_Dragon_Pet"
   },
+  "ENDER_GAUNTLET": {
+    "name": "Ender Gauntlet"
+  },
   "ENDER_MONOCLE": {
     "name": "Ender Monocle",
     "wiki": "https://wiki.hypixel.net/Ender_Monocle"
+  },
+  "ENDER_NECKLACE": {
+    "name": "Ender Necklace"
   },
   "ENDER_PEARL": {
     "name": "Ender Pearl",
@@ -11630,7 +11758,7 @@
     "wiki": "https://wiki.hypixel.net/Farmer%27s_Rod"
   },
   "FARMING_1_PORTAL": {
-    "name": "Portal to the Barn",
+    "name": "Portal to The Barn",
     "recipe": {
       "A1": "CARROT_ITEM:16",
       "A2": "CARROT_ITEM:16",
@@ -11645,7 +11773,7 @@
     "wiki": "https://wiki.hypixel.net/Portal_To_The_Barn"
   },
   "FARMING_1_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to the Barn",
+    "name": "Travel Scroll to The Barn",
     "recipe": {
       "A1": "ENCHANTED_CARROT:16",
       "A2": "ENCHANTED_CARROT:16",
@@ -12143,6 +12271,21 @@
   "FIERY_HOLLOW_LEGGINGS": {
     "name": "Fiery Hollow Leggings",
     "wiki": "https://wiki.hypixel.net/Fiery_Hollow_Leggings"
+  },
+  "FIERY_KUUDRA_CORE": {
+    "name": "Fiery Kuudra Core",
+    "recipe": {
+      "A1": "BURNING_KUUDRA_CORE:1",
+      "A2": "BURNING_KUUDRA_CORE:1",
+      "A3": "",
+      "B1": "BURNING_KUUDRA_CORE:1",
+      "B2": "BURNING_KUUDRA_CORE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Fiery_Kuudra_Core"
   },
   "FIERY_TERROR_BOOTS": {
     "name": "Fiery Terror Boots",
@@ -16395,6 +16538,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Haste_Ring"
   },
+  "HAUNT_ABILITY": {
+    "name": "Haunt"
+  },
   "HAY_BALE": {
     "name": "Hay Bale",
     "wiki": "https://wiki.hypixel.net/Hay_Bale"
@@ -16681,6 +16827,9 @@
   "HOLLOW_LEGGINGS": {
     "name": "Hollow Leggings",
     "wiki": "https://wiki.hypixel.net/Hollow_Leggings"
+  },
+  "HOLLOW_WAND": {
+    "name": "Hollow Wand"
   },
   "HOLOGRAM": {
     "name": "Hologram",
@@ -17483,9 +17632,9 @@
       "A1": "",
       "A2": "",
       "A3": "",
-      "B1": "BLUE_SHARK_TOOTH:16",
+      "B1": "BLUE_SHARK_TOOTH:8",
       "B2": "",
-      "B3": "BLUE_SHARK_TOOTH:16",
+      "B3": "BLUE_SHARK_TOOTH:8",
       "C1": "NURSE_SHARK_TOOTH:16",
       "C2": "ENCHANTED_SHARK_FIN:16",
       "C3": "NURSE_SHARK_TOOTH:16"
@@ -17495,9 +17644,9 @@
   "ICHTHYIC_CLOAK": {
     "name": "Ichthyic Cloak",
     "recipe": {
-      "A1": "BLUE_SHARK_TOOTH:16",
+      "A1": "BLUE_SHARK_TOOTH:8",
       "A2": "NURSE_SHARK_TOOTH:32",
-      "A3": "BLUE_SHARK_TOOTH:16",
+      "A3": "BLUE_SHARK_TOOTH:8",
       "B1": "ENCHANTED_SHARK_FIN:16",
       "B2": "",
       "B3": "ENCHANTED_SHARK_FIN:16",
@@ -17510,9 +17659,9 @@
   "ICHTHYIC_GLOVES": {
     "name": "Ichthyic Gloves",
     "recipe": {
-      "A1": "BLUE_SHARK_TOOTH:16",
-      "A2": "BLUE_SHARK_TOOTH:16",
-      "A3": "BLUE_SHARK_TOOTH:16",
+      "A1": "BLUE_SHARK_TOOTH:8",
+      "A2": "BLUE_SHARK_TOOTH:8",
+      "A3": "BLUE_SHARK_TOOTH:8",
       "B1": "NURSE_SHARK_TOOTH:16",
       "B2": "NURSE_SHARK_TOOTH:16",
       "B3": "NURSE_SHARK_TOOTH:16",
@@ -17632,6 +17781,21 @@
   "INFERNAL_HOLLOW_LEGGINGS": {
     "name": "Infernal Hollow Leggings",
     "wiki": "https://wiki.hypixel.net/Infernal_Hollow_Leggings"
+  },
+  "INFERNAL_KUUDRA_CORE": {
+    "name": "Infernal Kuudra Core",
+    "recipe": {
+      "A1": "FIERY_KUUDRA_CORE:1",
+      "A2": "FIERY_KUUDRA_CORE:1",
+      "A3": "",
+      "B1": "FIERY_KUUDRA_CORE:1",
+      "B2": "FIERY_KUUDRA_CORE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Infernal_Kuudra_Core"
   },
   "INFERNAL_TERROR_BOOTS": {
     "name": "Infernal Terror Boots",
@@ -19559,6 +19723,9 @@
   "KUUDRA_RELIC": {
     "name": "Kuudra Relic",
     "wiki": "https://wiki.hypixel.net/Kuudra_Relic"
+  },
+  "KUUDRA_SHOP_ITEM": {
+    "name": "Open Shop"
   },
   "KUUDRA_TEETH": {
     "name": "Kuudra Teeth",
@@ -21691,6 +21858,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Match-Sticks"
   },
+  "MATRIARCH_PARFUM": {
+    "name": "Matriarch\u0027s Perfume",
+    "wiki": "https://wiki.hypixel.net/Matriarch%27s_Perfume"
+  },
   "MAWDUST_DAGGER": {
     "name": "Twilight Dagger",
     "recipe": {
@@ -22547,6 +22718,10 @@
   "MIRRORED_STRING": {
     "name": "gnirtS"
   },
+  "MITE_GEL": {
+    "name": "Mite Gel",
+    "wiki": "https://wiki.hypixel.net/Mite_Gel"
+  },
   "MITHRIL_COAT": {
     "name": "Mithril Coat",
     "recipe": {
@@ -22878,6 +23053,9 @@
     "name": "Mithril Plate",
     "wiki": "https://wiki.hypixel.net/Mithril_Plate",
     "forge": 64800
+  },
+  "MIXED_MITE_GEL": {
+    "name": "Mixed Mite Gel"
   },
   "MOBYS_SHEARS": {
     "name": "Moby\u0027s Shears",
@@ -26823,6 +27001,10 @@
     "name": "Pocket Espresso Machine",
     "wiki": "https://wiki.hypixel.net/Pocket_Espresso_Machine"
   },
+  "POCKET_SACK_IN_A_SACK": {
+    "name": "Pocket Sack-in-a-Sack",
+    "wiki": "https://wiki.hypixel.net/Pocket_Sack-in-a-Sack"
+  },
   "POEM_OF_INFINITE_LOVE": {
     "name": "Poem of True Love",
     "wiki": "https://wiki.hypixel.net/Poem_Of_True_Love"
@@ -26905,6 +27087,10 @@
   "PORK": {
     "name": "Raw Porkchop",
     "wiki": "https://wiki.hypixel.net/Raw_Porkchop"
+  },
+  "PORTALIZER": {
+    "name": "Portalizer",
+    "wiki": "https://wiki.hypixel.net/Portalizer"
   },
   "POTATO": {
     "name": "Potatoes",
@@ -30053,6 +30239,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Potion_Affinity_Ring"
   },
+  "RITUAL_RESIDUE": {
+    "name": "Ritual Residue",
+    "wiki": "https://wiki.hypixel.net/Ritual_Residue"
+  },
   "ROBOTRON_REFLECTOR": {
     "name": "Robotron Reflector",
     "wiki": "https://wiki.hypixel.net/Robotron_Reflector"
@@ -31187,15 +31377,15 @@
   "SHARK_WATER_ORB": {
     "name": "Shark Water Orb",
     "recipe": {
-      "A1": "ENCHANTED_SHARK_FIN:4",
+      "A1": "ENCHANTED_SHARK_FIN:3",
       "A2": "GREAT_WHITE_SHARK_TOOTH:1",
-      "A3": "ENCHANTED_SHARK_FIN:4",
-      "B1": "BLUE_SHARK_TOOTH:16",
+      "A3": "ENCHANTED_SHARK_FIN:3",
+      "B1": "BLUE_SHARK_TOOTH:8",
       "B2": "WATER_ORB:1",
-      "B3": "NURSE_SHARK_TOOTH:32",
-      "C1": "ENCHANTED_SHARK_FIN:4",
+      "B3": "NURSE_SHARK_TOOTH:16",
+      "C1": "ENCHANTED_SHARK_FIN:3",
       "C2": "TIGER_SHARK_TOOTH:4",
-      "C3": "ENCHANTED_SHARK_FIN:4"
+      "C3": "ENCHANTED_SHARK_FIN:3"
     },
     "wiki": "https://wiki.hypixel.net/Shark_Water_Orb"
   },
@@ -37966,6 +38156,10 @@
     "name": "Trick or Treat Bag",
     "wiki": "https://wiki.hypixel.net/Trick_Or_Treat_Bag"
   },
+  "TRIO_CONTACTS_ADDON": {
+    "name": "Abiphone Contacts Trio",
+    "wiki": "https://wiki.hypixel.net/Abiphone_Contacts_Trio"
+  },
   "TRIPLE_STRIKE;1": {
     "name": "Triple-Strike I"
   },
@@ -39336,7 +39530,7 @@
       "A1": "ENCHANTED_RAW_FISH:16",
       "A2": "ENCHANTED_WATER_LILY:8",
       "A3": "ENCHANTED_RAW_SALMON:16",
-      "B1": "ENCHANTED_PRISMARINE_SHARD:16",
+      "B1": "ENCHANTED_PRISMARINE_CRYSTALS:16",
       "B2": "DIVER_FRAGMENT:1",
       "B3": "ENCHANTED_PRISMARINE_SHARD:16",
       "C1": "ENCHANTED_SPONGE:4",
@@ -39790,9 +39984,9 @@
       "A3": "ICE_HUNK:32",
       "B1": "WHITE_GIFT:64",
       "B2": "WATER_ORB:1",
-      "B3": "GREEN_GIFT:8",
+      "B3": "GREEN_GIFT:16",
       "C1": "ICE_HUNK:32",
-      "C2": "BLUE_ICE_HUNK:16",
+      "C2": "BLUE_ICE_HUNK:32",
       "C3": "ICE_HUNK:32"
     },
     "wiki": "https://wiki.hypixel.net/Winter_Water_Orb"
