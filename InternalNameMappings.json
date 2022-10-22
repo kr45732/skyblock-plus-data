@@ -6598,6 +6598,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Crystal_Helmet"
   },
+  "CRYSTAL_HOLLOWS_PORTAL": {
+    "name": "Portal to the Crystal Hollows",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Hollows",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Hollows",
@@ -6617,6 +6621,10 @@
       "C3": "CRYSTAL_FRAGMENT:1"
     },
     "wiki": "https://wiki.hypixel.net/Crystal_Leggings"
+  },
+  "CRYSTAL_NUCLEUS_PORTAL": {
+    "name": "Portal to the Crystal Nucleus",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Nucleus",
@@ -8074,6 +8082,10 @@
   "DRAGON_HUNTER;5": {
     "name": "Dragon Hunter V"
   },
+  "DRAGON_NEST_PORTAL": {
+    "name": "Portal to the Dragon\u0027s Nest",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "DRAGON_NEST_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Dragon\u0027s Nest",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Dragon\u0027s_Nest"
@@ -8243,6 +8255,10 @@
   "DWARVEN_METAL_DETECTOR": {
     "name": "Metal Detector",
     "wiki": "https://wiki.hypixel.net/Metal_Detector"
+  },
+  "DWARVEN_MINES_PORTAL": {
+    "name": "Portal to the Dwarven Mines",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "DWARVEN_TANKARD": {
     "name": "Dwarven Tankard",
@@ -13740,6 +13756,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Forest_Biome_Stick"
   },
+  "FORGE_PORTAL": {
+    "name": "Portal to The Forge",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "FORGE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Dwarven Forge",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Dwarven_Forge",
@@ -17225,9 +17245,21 @@
     "texture": "b7c8bef6beb77e29af8627ecdc38d86aa2fea7ccd163dc73c00f9f258f9a1457",
     "wiki": "https://wiki.hypixel.net/Hound_Pet"
   },
+  "HOWLING_CAVE_PORTAL": {
+    "name": "Portal to the Howling Caves",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
+  "HUB_CASTLE_PORTAL": {
+    "name": "Portal to the Hub Castle",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "HUB_CASTLE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Hub Castle",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Hub_Castle"
+  },
+  "HUB_CRYPTS_PORTAL": {
+    "name": "Portal to the Hub Crypts",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "HUB_CRYPTS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Hub Crypts",
@@ -17678,7 +17710,7 @@
     "name": "Ichthyic Gloves",
     "recipe": {
       "A1": "BLUE_SHARK_TOOTH:8",
-      "A2": "BLUE_SHARK_TOOTH:8",
+      "A2": "BLUE_SHARK_TOOTH:16",
       "A3": "BLUE_SHARK_TOOTH:8",
       "B1": "NURSE_SHARK_TOOTH:16",
       "B2": "NURSE_SHARK_TOOTH:16",
@@ -19744,6 +19776,10 @@
   },
   "KUUDRA_SHOP_ITEM": {
     "name": "Open Shop"
+  },
+  "KUUDRA_SKULL_PORTAL": {
+    "name": "Portal to the Forgotten Skull",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "KUUDRA_TEETH": {
     "name": "Kuudra Teeth",
@@ -23300,6 +23336,10 @@
   "MUMMY_PERSONALITY": {
     "name": "Mummy Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
+  },
+  "MUSEUM_PORTAL": {
+    "name": "Portal to the Museum",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "MUSEUM_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Museum",
@@ -38037,6 +38077,10 @@
     "name": "Topaz Crystal",
     "wiki": "https://wiki.hypixel.net/Topaz_Crystal"
   },
+  "TOP_OF_SPIDERS_DEN_PORTAL": {
+    "name": "Portal to the Top of the Nest",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "TORCH": {
     "name": "Torch",
     "recipe": {
@@ -39327,6 +39371,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Voidwalker_Katana"
+  },
+  "VOID_SEPULTURE_PORTAL": {
+    "name": "Portal to the Void Sepulture",
+    "wiki": "https://wiki.hypixel.net/Portals"
   },
   "VOID_SEPULTURE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Void Sepulture",
