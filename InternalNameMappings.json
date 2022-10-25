@@ -23,47 +23,80 @@
   },
   "ABIPHONE_XIII_PRO": {
     "name": "Abiphone XIII Pro",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25000000"
+    ]
   },
   "ABIPHONE_XIII_PRO_GIGA": {
     "name": "Abiphone XIII Pro Giga",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro_Giga"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro_Giga",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000000"
+    ]
   },
   "ABIPHONE_XII_MEGA": {
     "name": "Abiphone XII Mega",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XII_Mega"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XII_Mega",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "ABIPHONE_XII_MEGA_COLOR": {
     "name": "Abiphone XII Mega Color",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XII_Mega_Color"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XII_Mega_Color",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:15000000"
+    ]
   },
   "ABIPHONE_XIV_ENORMOUS": {
     "name": "Abiphone XIV Enormous",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000000"
+    ]
   },
   "ABIPHONE_XIV_ENORMOUS_BLACK": {
     "name": "Abiphone XIV Enormous",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000000"
+    ]
   },
   "ABIPHONE_XIV_ENORMOUS_PURPLE": {
     "name": "Abiphone XIV Enormous",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XIV_Enormous",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000000"
+    ]
   },
   "ABIPHONE_XI_ULTRA": {
     "name": "Abiphone XI Ultra",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XI_Ultra"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XI_Ultra",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "ABIPHONE_XI_ULTRA_STYLE": {
     "name": "Abiphone XI Ultra Style",
-    "wiki": "https://wiki.hypixel.net/Abiphone_XI_Ultra_Style"
+    "wiki": "https://wiki.hypixel.net/Abiphone_XI_Ultra_Style",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:7000000"
+    ]
   },
   "ABIPHONE_X_PLUS": {
     "name": "Abiphone X Plus",
-    "wiki": "https://wiki.hypixel.net/Abiphone_X_Plus"
+    "wiki": "https://wiki.hypixel.net/Abiphone_X_Plus",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "ABIPHONE_X_PLUS_SPECIAL_EDITION": {
     "name": "Abiphone X Plus Special Edition",
-    "wiki": "https://wiki.hypixel.net/Abiphone_X_Plus_Special_Edition"
+    "wiki": "https://wiki.hypixel.net/Abiphone_X_Plus_Special_Edition",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "ABSOLUTE_ENDER_PEARL": {
     "name": "Absolute Ender Pearl",
@@ -825,7 +858,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Flint_Arrow"
+    "wiki": "https://wiki.hypixel.net/Flint_Arrow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:40"
+    ]
   },
   "ARROW_BUNDLE_MAGMA": {
     "name": "Bundle of Magma Arrows",
@@ -856,7 +892,10 @@
   },
   "ARTISANAL_SHORTBOW": {
     "name": "Artisanal Shortbow",
-    "wiki": "https://wiki.hypixel.net/Artisanal_Shortbow"
+    "wiki": "https://wiki.hypixel.net/Artisanal_Shortbow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:600"
+    ]
   },
   "ASCENSION_ROPE": {
     "name": "Ascension Rope",
@@ -975,7 +1014,11 @@
   },
   "ATOMINIZER": {
     "name": "Atominizer",
-    "wiki": "https://wiki.hypixel.net/Atominizer"
+    "wiki": "https://wiki.hypixel.net/Atominizer",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:95000",
+      "ENCHANTED_MYCELIUM:500"
+    ]
   },
   "ATOMSPLIT_KATANA": {
     "name": "Atomsplit Katana",
@@ -1116,10 +1159,17 @@
   },
   "BANDAGED_MITHRIL_PICKAXE": {
     "name": "Bandaged Mithril Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Bandaged_Mithril_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Bandaged_Mithril_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000",
+      "MITHRIL_ORE:200"
+    ]
   },
   "BANE_OF_ARTHROPODS;1": {
-    "name": "Bane of Arthropods I"
+    "name": "Bane of Arthropods I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "BANE_OF_ARTHROPODS;2": {
     "name": "Bane of Arthropods II"
@@ -1414,7 +1464,11 @@
   },
   "BASKET_OF_SEEDS": {
     "name": "Basket of Seeds",
-    "wiki": "https://wiki.hypixel.net/Basket_Of_Seeds"
+    "wiki": "https://wiki.hypixel.net/Basket_Of_Seeds",
+    "npc_buy_cost": [
+      "SKYBLOCK_SILVER_MEDAL:2",
+      "JACOBS_TICKET:30"
+    ]
   },
   "BAT;0": {
     "name": "Common Bat",
@@ -1502,11 +1556,18 @@
   },
   "BAT_ARTIFACT": {
     "name": "Bat Artifact",
-    "wiki": "https://wiki.hypixel.net/Bat_Artifact"
+    "wiki": "https://wiki.hypixel.net/Bat_Artifact",
+    "npc_buy_cost": [
+      "BAT_RING",
+      "PURPLE_CANDY:64"
+    ]
   },
   "BAT_FIREWORK": {
     "name": "Bat Firework",
-    "wiki": "https://wiki.hypixel.net/Bat_Firework"
+    "wiki": "https://wiki.hypixel.net/Bat_Firework",
+    "npc_buy_cost": [
+      "GREEN_CANDY:100"
+    ]
   },
   "BAT_PERSON_ARTIFACT": {
     "name": "Bat Person Artifact",
@@ -1604,7 +1665,11 @@
   },
   "BAT_RING": {
     "name": "Bat Ring",
-    "wiki": "https://wiki.hypixel.net/Bat_Ring"
+    "wiki": "https://wiki.hypixel.net/Bat_Ring",
+    "npc_buy_cost": [
+      "BAT_TALISMAN:1",
+      "GREEN_CANDY:65"
+    ]
   },
   "BAT_TALISMAN": {
     "name": "Bat Talisman",
@@ -1969,7 +2034,10 @@
   },
   "BIOFUEL": {
     "name": "Biofuel",
-    "wiki": "https://wiki.hypixel.net/Biofuel"
+    "wiki": "https://wiki.hypixel.net/Biofuel",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20000"
+    ]
   },
   "BIRCH_DOOR_ITEM": {
     "name": "Birch Door",
@@ -2226,7 +2294,10 @@
   },
   "BITTER_ICE_TEA": {
     "name": "Bitter Iced Tea",
-    "wiki": "https://wiki.hypixel.net/Bitter_Ice_Tea"
+    "wiki": "https://wiki.hypixel.net/Bitter_Ice_Tea",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1200"
+    ]
   },
   "BLACKSMITH_PLUS": {
     "name": "Blacksmith+",
@@ -2235,7 +2306,10 @@
   "BLACK_CAT;4": {
     "name": "Legendary Black Cat",
     "texture": "e4b45cbaa19fe3d68c856cd3846c03b5f59de81a480eec921ab4fa3cd81317",
-    "wiki": "https://wiki.hypixel.net/Black_Cat_Pet"
+    "wiki": "https://wiki.hypixel.net/Black_Cat_Pet",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:2000"
+    ]
   },
   "BLACK_CAT_PLUSH": {
     "name": "Black Cat Plush",
@@ -2243,7 +2317,10 @@
   },
   "BLACK_COFFEE": {
     "name": "Black Coffee",
-    "wiki": "https://wiki.hypixel.net/Black_Coffee"
+    "wiki": "https://wiki.hypixel.net/Black_Coffee",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000"
+    ]
   },
   "BLADE_OF_THE_VOLCANO": {
     "name": "Blade of the Volcano",
@@ -2424,7 +2501,12 @@
   },
   "BLAZE_GENERATOR_12": {
     "name": "Blaze Minion XII",
-    "wiki": "https://wiki.hypixel.net/Blaze_Minion"
+    "wiki": "https://wiki.hypixel.net/Blaze_Minion",
+    "npc_buy_cost": [
+      "BLAZE_GENERATOR_11:1",
+      "ENCHANTED_BLAZE_ROD:16",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "BLAZE_GENERATOR_2": {
     "name": "Blaze Minion II",
@@ -2593,11 +2675,17 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Powder"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Powder",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "BLAZE_ROD": {
     "name": "Blaze Rod",
-    "wiki": "https://wiki.hypixel.net/Blaze_Rod"
+    "wiki": "https://wiki.hypixel.net/Blaze_Rod",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "BLAZE_ROD_DISTILLATE": {
     "name": "Blaze Rod Distillate",
@@ -2650,7 +2738,10 @@
   },
   "BLESSED_FRUIT": {
     "name": "Blessed Fruit",
-    "wiki": "https://wiki.hypixel.net/Blessed_Fruit"
+    "wiki": "https://wiki.hypixel.net/Blessed_Fruit",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "BLESSING;1": {
     "name": "Blessing I"
@@ -2747,27 +2838,47 @@
   "BLUE_WHALE;0": {
     "name": "Common Blue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
-    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet"
+    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
+    "npc_buy_cost": [
+      "RAW_FISH:64",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "BLUE_WHALE;1": {
     "name": "Uncommon Blue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
-    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet"
+    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_FISH:1",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "BLUE_WHALE;2": {
     "name": "Rare Blue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
-    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet"
+    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_FISH:16",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "BLUE_WHALE;3": {
     "name": "Epic Blue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
-    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet"
+    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_COOKED_FISH:1",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "BLUE_WHALE;4": {
     "name": "Legendary Blue Whale",
     "texture": "dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20",
-    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet"
+    "wiki": "https://wiki.hypixel.net/Blue_Whale_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_COOKED_FISH:8",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "BOAT": {
     "name": "Boat",
@@ -2793,7 +2904,10 @@
   },
   "BONE": {
     "name": "Bone",
-    "wiki": "https://wiki.hypixel.net/Bone"
+    "wiki": "https://wiki.hypixel.net/Bone",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8"
+    ]
   },
   "BONE_BOOMERANG": {
     "name": "Bonemerang",
@@ -2839,7 +2953,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Book"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Book",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "BOOKCASE": {
     "name": "Bookcase",
@@ -2906,7 +3023,10 @@
   },
   "BOTTLE_OF_JYRRE": {
     "name": "Water Bottle",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bottle_of_Jyrre"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bottle_of_Jyrre",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000"
+    ]
   },
   "BOUNCY_ARROW": {
     "name": "Bouncy Arrow",
@@ -2941,7 +3061,10 @@
       "C2": "STICK:1",
       "C3": "STRING:1"
     },
-    "wiki": "https://wiki.hypixel.net/Bow"
+    "wiki": "https://wiki.hypixel.net/Bow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25"
+    ]
   },
   "BOWL": {
     "name": "Bowl",
@@ -3004,7 +3127,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Brewing_Stand"
+    "wiki": "https://wiki.hypixel.net/Brewing_Stand",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "BRICK": {
     "name": "Bricks",
@@ -3072,7 +3198,10 @@
   },
   "BROWN_MUSHROOM": {
     "name": "Brown Mushroom",
-    "wiki": "https://wiki.hypixel.net/Mushroom"
+    "wiki": "https://wiki.hypixel.net/Mushroom",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "BUCKET": {
     "name": "Bucket",
@@ -3360,7 +3489,10 @@
   },
   "CACTUS": {
     "name": "Cactus",
-    "wiki": "https://wiki.hypixel.net/Cactus"
+    "wiki": "https://wiki.hypixel.net/Cactus",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "CACTUS_BOOTS": {
     "name": "Cactus Boots",
@@ -3439,7 +3571,12 @@
   },
   "CACTUS_GENERATOR_12": {
     "name": "Cactus Minion XII",
-    "wiki": "https://wiki.hypixel.net/Cactus_Minion"
+    "wiki": "https://wiki.hypixel.net/Cactus_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_CACTUS:32",
+      "CACTUS_GENERATOR_11"
+    ]
   },
   "CACTUS_GENERATOR_2": {
     "name": "Cactus Minion II",
@@ -3578,7 +3715,11 @@
   },
   "CACTUS_KNIFE": {
     "name": "Cactus Knife",
-    "wiki": "https://wiki.hypixel.net/Cactus_Knife"
+    "wiki": "https://wiki.hypixel.net/Cactus_Knife",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "CACTUS_LEGGINGS": {
     "name": "Cactus Leggings",
@@ -3743,7 +3884,11 @@
   },
   "CANDY_ARTIFACT": {
     "name": "Candy Artifact",
-    "wiki": "https://wiki.hypixel.net/Candy_Artifact"
+    "wiki": "https://wiki.hypixel.net/Candy_Artifact",
+    "npc_buy_cost": [
+      "CANDY_RING",
+      "PURPLE_CANDY:32"
+    ]
   },
   "CANDY_BOWL": {
     "name": "Candy Bowl",
@@ -3755,15 +3900,26 @@
   },
   "CANDY_RELIC": {
     "name": "Candy Relic",
-    "wiki": "https://wiki.hypixel.net/Candy_Relic"
+    "wiki": "https://wiki.hypixel.net/Candy_Relic",
+    "npc_buy_cost": [
+      "CANDY_ARTIFACT",
+      "PURPLE_CANDY:1024"
+    ]
   },
   "CANDY_RING": {
     "name": "Candy Ring",
-    "wiki": "https://wiki.hypixel.net/Candy_Ring"
+    "wiki": "https://wiki.hypixel.net/Candy_Ring",
+    "npc_buy_cost": [
+      "CANDY_TALISMAN:1",
+      "GREEN_CANDY:64"
+    ]
   },
   "CANDY_TALISMAN": {
     "name": "Candy Talisman",
-    "wiki": "https://wiki.hypixel.net/Candy_Talisman"
+    "wiki": "https://wiki.hypixel.net/Candy_Talisman",
+    "npc_buy_cost": [
+      "GREEN_CANDY:16"
+    ]
   },
   "CANDY_THE_FISH": {
     "name": "Candy the Fish",
@@ -4089,7 +4245,12 @@
   },
   "CARROT_GENERATOR_12": {
     "name": "Carrot Minion XII",
-    "wiki": "https://wiki.hypixel.net/Carrot_Minion"
+    "wiki": "https://wiki.hypixel.net/Carrot_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_GOLDEN_CARROT:32",
+      "CARROT_GENERATOR_11"
+    ]
   },
   "CARROT_GENERATOR_2": {
     "name": "Carrot Minion II",
@@ -4498,23 +4659,38 @@
   },
   "CELESTE_BOOTS": {
     "name": "Celeste Boots",
-    "wiki": "https://wiki.hypixel.net/Celeste_Boots"
+    "wiki": "https://wiki.hypixel.net/Celeste_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4000"
+    ]
   },
   "CELESTE_CHESTPLATE": {
     "name": "Celeste Chestplate",
-    "wiki": "https://wiki.hypixel.net/Celeste_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Celeste_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8000"
+    ]
   },
   "CELESTE_HELMET": {
     "name": "Celeste Helmet",
-    "wiki": "https://wiki.hypixel.net/Celeste_Helmet"
+    "wiki": "https://wiki.hypixel.net/Celeste_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000"
+    ]
   },
   "CELESTE_LEGGINGS": {
     "name": "Celeste Leggings",
-    "wiki": "https://wiki.hypixel.net/Celeste_Leggings"
+    "wiki": "https://wiki.hypixel.net/Celeste_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:7000"
+    ]
   },
   "CELESTE_WAND": {
     "name": "Celeste Wand",
-    "wiki": "https://wiki.hypixel.net/Celeste_Wand"
+    "wiki": "https://wiki.hypixel.net/Celeste_Wand",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000"
+    ]
   },
   "CHAINMAIL_BOOTS": {
     "name": "Chainmail Boots",
@@ -4597,23 +4773,39 @@
   },
   "CHARMINIZER": {
     "name": "Charminizer",
-    "wiki": "https://wiki.hypixel.net/Charminizer"
+    "wiki": "https://wiki.hypixel.net/Charminizer",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:95000",
+      "MUSHROOM_SPORE:1000"
+    ]
   },
   "CHEAP_COFFEE": {
     "name": "Cheap Coffee",
-    "wiki": "https://wiki.hypixel.net/Cheap_Coffee"
+    "wiki": "https://wiki.hypixel.net/Cheap_Coffee",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "CHEAP_TUXEDO_BOOTS": {
     "name": "Cheap Tuxedo Oxfords",
-    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Oxfords"
+    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Oxfords",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "CHEAP_TUXEDO_CHESTPLATE": {
     "name": "Cheap Tuxedo Jacket",
-    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Jacket"
+    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Jacket",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "CHEAP_TUXEDO_LEGGINGS": {
     "name": "Cheap Tuxedo Pants",
-    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Pants"
+    "wiki": "https://wiki.hypixel.net/Cheap_Tuxedo_Pants",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "CHEESE_FUEL": {
     "name": "Tasty Cheese",
@@ -4738,7 +4930,10 @@
   },
   "CHICKEN_AXE": {
     "name": "Chicken Axe",
-    "wiki": "https://wiki.hypixel.net/Chicken_Axe"
+    "wiki": "https://wiki.hypixel.net/Chicken_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "CHICKEN_COOP": {
     "name": "Chicken Coop",
@@ -4791,7 +4986,12 @@
   },
   "CHICKEN_GENERATOR_12": {
     "name": "Chicken Minion XII",
-    "wiki": "https://wiki.hypixel.net/Chicken_Minion"
+    "wiki": "https://wiki.hypixel.net/Chicken_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_RAW_CHICKEN:1024",
+      "CHICKEN_GENERATOR_11"
+    ]
   },
   "CHICKEN_GENERATOR_2": {
     "name": "Chicken Minion II",
@@ -5295,7 +5495,12 @@
   },
   "COAL_GENERATOR_12": {
     "name": "Coal Minion XII",
-    "wiki": "https://wiki.hypixel.net/Coal_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Coal_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_COAL_BLOCK:16",
+      "COAL_GENERATOR_11"
+    ]
   },
   "COAL_GENERATOR_2": {
     "name": "Coal Minion II",
@@ -5423,7 +5628,10 @@
   },
   "COBBLESTONE": {
     "name": "Cobblestone",
-    "wiki": "https://wiki.hypixel.net/Cobblestone"
+    "wiki": "https://wiki.hypixel.net/Cobblestone",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:3"
+    ]
   },
   "COBBLESTONE_GENERATOR_1": {
     "name": "Cobblestone Minion I",
@@ -5472,7 +5680,12 @@
   },
   "COBBLESTONE_GENERATOR_12": {
     "name": "Cobblestone Minion XII",
-    "wiki": "https://wiki.hypixel.net/Cobblestone_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Cobblestone_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_COBBLESTONE:1024",
+      "COBBLESTONE_GENERATOR_11"
+    ]
   },
   "COBBLESTONE_GENERATOR_2": {
     "name": "Cobblestone Minion II",
@@ -5637,7 +5850,10 @@
     }
   },
   "COCOA": {
-    "name": "Cocoa Plant"
+    "name": "Cocoa Plant",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:7"
+    ]
   },
   "COCOA_GENERATOR_1": {
     "name": "Cocoa Beans Minion I",
@@ -5686,7 +5902,12 @@
   },
   "COCOA_GENERATOR_12": {
     "name": "Cocoa Beans Minion XII",
-    "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion"
+    "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_COOKIE:16",
+      "COCOA_GENERATOR_11"
+    ]
   },
   "COCOA_GENERATOR_2": {
     "name": "Cocoa Beans Minion II",
@@ -5810,7 +6031,11 @@
   },
   "COCO_CHOPPER": {
     "name": "Coco Chopper",
-    "wiki": "https://wiki.hypixel.net/Coco_Chopper"
+    "wiki": "https://wiki.hypixel.net/Coco_Chopper",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "COFFEE_TABLE": {
     "name": "Coffee Table",
@@ -5928,7 +6153,10 @@
   },
   "CONNECT_FOUR": {
     "name": "Four in a Row",
-    "wiki": "https://wiki.hypixel.net/Four_In_A_Row"
+    "wiki": "https://wiki.hypixel.net/Four_In_A_Row",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "CONTROL_SWITCH": {
     "name": "Control Switch",
@@ -6037,7 +6265,10 @@
   },
   "COW_AXE": {
     "name": "Cow Axe",
-    "wiki": "https://wiki.hypixel.net/Cow_Axe"
+    "wiki": "https://wiki.hypixel.net/Cow_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "COW_GENERATOR_1": {
     "name": "Cow Minion I",
@@ -6086,7 +6317,12 @@
   },
   "COW_GENERATOR_12": {
     "name": "Cow Minion XII",
-    "wiki": "https://wiki.hypixel.net/Cow_Minion"
+    "wiki": "https://wiki.hypixel.net/Cow_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_LEATHER:512",
+      "COW_GENERATOR_11"
+    ]
   },
   "COW_GENERATOR_2": {
     "name": "Cow Minion II",
@@ -6807,7 +7043,10 @@
   },
   "DARK_GOGGLES": {
     "name": "Dark Goggles",
-    "wiki": "https://wiki.hypixel.net/Dark_Goggles"
+    "wiki": "https://wiki.hypixel.net/Dark_Goggles",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80000"
+    ]
   },
   "DARK_OAK_DOOR_ITEM": {
     "name": "Dark Oak Door",
@@ -7050,7 +7289,10 @@
       "C1": "WOOD_STEP:1",
       "C2": "WOOD_STEP:1",
       "C3": "WOOD_STEP:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:18"
+    ]
   },
   "DAY_CRYSTAL": {
     "name": "Day Crystal",
@@ -7105,7 +7347,10 @@
   },
   "DEATH_BOW": {
     "name": "Death Bow",
-    "wiki": "https://wiki.hypixel.net/Death_Bow"
+    "wiki": "https://wiki.hypixel.net/Death_Bow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "DECAYED_BAT": {
     "name": "Decayed Bat",
@@ -7117,7 +7362,10 @@
   },
   "DECENT_COFFEE": {
     "name": "Decent Coffee",
-    "wiki": "https://wiki.hypixel.net/Decent_Coffee"
+    "wiki": "https://wiki.hypixel.net/Decent_Coffee",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000"
+    ]
   },
   "DECK_CHAIR": {
     "name": "Deck Chair",
@@ -7161,7 +7409,11 @@
     "wiki": "https://wiki.hypixel.net/Defuse_Kit"
   },
   "DELICATE;5": {
-    "name": "Delicate V"
+    "name": "Delicate V",
+    "npc_buy_cost": [
+      "SKYBLOCK_SILVER_MEDAL:2",
+      "JACOBS_TICKET:32"
+    ]
   },
   "DELIRIUM_NECKLACE": {
     "name": "Delirium Necklace",
@@ -7437,7 +7689,12 @@
   },
   "DIAMOND_GENERATOR_12": {
     "name": "Diamond Minion XII",
-    "wiki": "https://wiki.hypixel.net/Diamond_Minion"
+    "wiki": "https://wiki.hypixel.net/Diamond_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_DIAMOND_BLOCK:16",
+      "DIAMOND_GENERATOR_11"
+    ]
   },
   "DIAMOND_GENERATOR_2": {
     "name": "Diamond Minion II",
@@ -7702,7 +7959,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Diamond_Sword"
+    "wiki": "https://wiki.hypixel.net/Diamond_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60"
+    ]
   },
   "DIAMOND_THE_FISH": {
     "name": "Diamond the Fish",
@@ -7749,7 +8009,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:6"
+    ]
   },
   "DIRT:1": {
     "name": "Coarse Dirt",
@@ -7775,7 +8038,10 @@
   },
   "DIRT_BOTTLE": {
     "name": "Dirt Bottle",
-    "wiki": "https://wiki.hypixel.net/Dirt_Bottle"
+    "wiki": "https://wiki.hypixel.net/Dirt_Bottle",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "DIRT_ROD": {
     "name": "Dirt Rod",
@@ -8068,7 +8334,10 @@
     "wiki": "https://wiki.hypixel.net/Dragon_Horn"
   },
   "DRAGON_HUNTER;1": {
-    "name": "Dragon Hunter I"
+    "name": "Dragon Hunter I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "DRAGON_HUNTER;2": {
     "name": "Dragon Hunter II"
@@ -8144,7 +8413,10 @@
   },
   "DR_PAPER": {
     "name": "Dctr. Paper",
-    "wiki": "https://wiki.hypixel.net/Dctr._Paper"
+    "wiki": "https://wiki.hypixel.net/Dctr._Paper",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:3400"
+    ]
   },
   "DUECES_BUILDER_CLAY": {
     "name": "The Builder\u0027s Clay",
@@ -8342,7 +8614,10 @@
   },
   "ECHOLOCATOR": {
     "name": "Echolocator",
-    "wiki": "https://wiki.hypixel.net/Echolocator"
+    "wiki": "https://wiki.hypixel.net/Echolocator",
+    "npc_buy_cost": [
+      "GREEN_CANDY:32"
+    ]
   },
   "ECTOPLASM": {
     "name": "Ectoplasm",
@@ -8368,7 +8643,10 @@
     "wiki": "https://wiki.hypixel.net/Editor%27s_Pencil"
   },
   "EFFICIENCY;1": {
-    "name": "Efficiency I"
+    "name": "Efficiency I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "EFFICIENCY;2": {
     "name": "Efficiency II"
@@ -8395,7 +8673,10 @@
   },
   "EFFICIENT_AXE": {
     "name": "Efficient Axe",
-    "wiki": "https://wiki.hypixel.net/Efficient_Axe"
+    "wiki": "https://wiki.hypixel.net/Efficient_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "EGG": {
     "name": "Egg",
@@ -8403,7 +8684,10 @@
   },
   "EGG_HUNT": {
     "name": "Egg Hunt",
-    "wiki": "https://wiki.hypixel.net/Egg_Hunt"
+    "wiki": "https://wiki.hypixel.net/Egg_Hunt",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "EGG_PILE": {
     "name": "Egg Pile",
@@ -8423,40 +8707,69 @@
   },
   "ELEGANT_TUXEDO_BOOTS": {
     "name": "Elegant Tuxedo Oxfords",
-    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Oxfords"
+    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Oxfords",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:24999999"
+    ]
   },
   "ELEGANT_TUXEDO_CHESTPLATE": {
     "name": "Elegant Tuxedo Jacket",
-    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Jacket"
+    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Jacket",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:24999999"
+    ]
   },
   "ELEGANT_TUXEDO_LEGGINGS": {
     "name": "Elegant Tuxedo Pants",
-    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Pants"
+    "wiki": "https://wiki.hypixel.net/Elegant_Tuxedo_Pants",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:24999999"
+    ]
   },
   "ELEPHANT;0": {
     "name": "Common Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
-    "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+    "wiki": "https://wiki.hypixel.net/Elephant_Pet",
+    "npc_buy_cost": [
+      "LOG_2:64",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "ELEPHANT;1": {
     "name": "Uncommon Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
-    "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+    "wiki": "https://wiki.hypixel.net/Elephant_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_DARK_OAK_LOG:1",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "ELEPHANT;2": {
     "name": "Rare Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
-    "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+    "wiki": "https://wiki.hypixel.net/Elephant_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_DARK_OAK_LOG:16",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "ELEPHANT;3": {
     "name": "Epic Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
-    "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+    "wiki": "https://wiki.hypixel.net/Elephant_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_DARK_OAK_LOG:128",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "ELEPHANT;4": {
     "name": "Legendary Elephant",
     "texture": "7071a76f669db5ed6d32b48bb2dba55d5317d7f45225cb3267ec435cfa514",
-    "wiki": "https://wiki.hypixel.net/Elephant_Pet"
+    "wiki": "https://wiki.hypixel.net/Elephant_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_DARK_OAK_LOG:512",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "ELLES_PICKAXE": {
     "name": "Elle\u0027s Pickaxe"
@@ -8685,7 +8998,12 @@
   },
   "EMERALD_GENERATOR_12": {
     "name": "Emerald Minion XII",
-    "wiki": "https://wiki.hypixel.net/Emerald_Minion"
+    "wiki": "https://wiki.hypixel.net/Emerald_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_EMERALD_BLOCK:16",
+      "EMERALD_GENERATOR_11"
+    ]
   },
   "EMERALD_GENERATOR_2": {
     "name": "Emerald Minion II",
@@ -8971,7 +9289,10 @@
   },
   "ENCHANTED_BONE_MEAL": {
     "name": "Enchanted Bone Meal",
-    "wiki": "https://wiki.hypixel.net/Enchanted_Bone_Meal"
+    "wiki": "https://wiki.hypixel.net/Enchanted_Bone_Meal",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:6"
+    ]
   },
   "ENCHANTED_BOOK": {
     "name": "COMMON"
@@ -11119,14 +11440,20 @@
     "name": "Ender Slayer V"
   },
   "ENDER_SLAYER;6": {
-    "name": "Ender Slayer VI"
+    "name": "Ender Slayer VI",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1500000"
+    ]
   },
   "ENDER_SLAYER;7": {
     "name": "Ender Slayer VII"
   },
   "ENDER_STONE": {
     "name": "End Stone",
-    "wiki": "https://wiki.hypixel.net/End_Stone"
+    "wiki": "https://wiki.hypixel.net/End_Stone",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "ENDER_STONE_GENERATOR_1": {
     "name": "End Stone Minion I",
@@ -11338,7 +11665,10 @@
   },
   "END_PORTAL_FUMES_MIXIN": {
     "name": "End Portal Fumes",
-    "wiki": "https://wiki.hypixel.net/End_Portal_Fumes"
+    "wiki": "https://wiki.hypixel.net/End_Portal_Fumes",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "END_STONE_BOW": {
     "name": "End Stone Bow",
@@ -11376,7 +11706,10 @@
       "C2": "",
       "C3": "STICK:1"
     },
-    "wiki": "https://wiki.hypixel.net/End_Sword"
+    "wiki": "https://wiki.hypixel.net/End_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150"
+    ]
   },
   "ENRAGER": {
     "name": "Enrager",
@@ -11584,7 +11917,10 @@
     "name": "Experience III"
   },
   "EXPERIENCE;4": {
-    "name": "Experience IV"
+    "name": "Experience IV",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:400000"
+    ]
   },
   "EXPERIENCE_ARTIFACT": {
     "name": "Experience Artifact",
@@ -11668,7 +12004,10 @@
       "C1": "INK_SACK-4:1",
       "C2": "INK_SACK-4:1",
       "C3": "INK_SACK-4:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "EXTRA_LARGE_GEMSTONE_SACK": {
     "name": "Extra Large Gemstone Sack"
@@ -11722,19 +12061,31 @@
   },
   "FANCY_SWORD": {
     "name": "Fancy Sword",
-    "wiki": "https://wiki.hypixel.net/Fancy_Sword"
+    "wiki": "https://wiki.hypixel.net/Fancy_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80"
+    ]
   },
   "FANCY_TUXEDO_BOOTS": {
     "name": "Fancy Tuxedo Oxfords",
-    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Oxfords"
+    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Oxfords",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:6666666"
+    ]
   },
   "FANCY_TUXEDO_CHESTPLATE": {
     "name": "Fancy Tuxedo Jacket",
-    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Jacket"
+    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Jacket",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:6666666"
+    ]
   },
   "FANCY_TUXEDO_LEGGINGS": {
     "name": "Fancy Tuxedo Pants",
-    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Pants"
+    "wiki": "https://wiki.hypixel.net/Fancy_Tuxedo_Pants",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:6666666"
+    ]
   },
   "FARMER_BOOTS": {
     "name": "Farmer Boots",
@@ -12657,7 +13008,10 @@
     "wiki": "https://wiki.hypixel.net/Fire_Fury_Staff"
   },
   "FIRE_PROTECTION;1": {
-    "name": "Fire Protection I"
+    "name": "Fire Protection I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "FIRE_PROTECTION;2": {
     "name": "Fire Protection II"
@@ -12942,7 +13296,10 @@
       "C2": "",
       "C3": "STRING:1"
     },
-    "wiki": "https://wiki.hypixel.net/Fishing_Rod"
+    "wiki": "https://wiki.hypixel.net/Fishing_Rod",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "FISHING_XP_BOOST": {
     "name": "Fishing XP Boost I Potion"
@@ -13798,7 +14155,10 @@
   },
   "FRACTURED_MITHRIL_PICKAXE": {
     "name": "Fractured Mithril Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Fractured_Mithril_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Fractured_Mithril_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "FRAIL;1": {
     "name": "Frail I"
@@ -13851,7 +14211,10 @@
   },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
-    "wiki": "https://wiki.hypixel.net/Frosty_Snowball"
+    "wiki": "https://wiki.hypixel.net/Frosty_Snowball",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:75000"
+    ]
   },
   "FROST_WALKER;1": {
     "name": "Frost Walker I",
@@ -13996,7 +14359,11 @@
   },
   "FUNGI_CUTTER": {
     "name": "Fungi Cutter",
-    "wiki": "https://wiki.hypixel.net/Fungi_Cutter"
+    "wiki": "https://wiki.hypixel.net/Fungi_Cutter",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "FURBALL": {
     "name": "Furball",
@@ -14204,7 +14571,12 @@
   },
   "GHAST_GENERATOR_12": {
     "name": "Ghast Minion XII",
-    "wiki": "https://wiki.hypixel.net/Ghast_Minion"
+    "wiki": "https://wiki.hypixel.net/Ghast_Minion",
+    "npc_buy_cost": [
+      "GHAST_GENERATOR_11:1",
+      "SILVER_FANG:1024",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "GHAST_GENERATOR_2": {
     "name": "Ghast Minion II",
@@ -14343,7 +14715,10 @@
   },
   "GHAST_TEAR": {
     "name": "Ghast Tear",
-    "wiki": "https://wiki.hypixel.net/Ghast_Tear"
+    "wiki": "https://wiki.hypixel.net/Ghast_Tear",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:200"
+    ]
   },
   "GHOST_BOOK": {
     "name": "Ghost Book",
@@ -14392,7 +14767,10 @@
   },
   "GIANT_CLEAVER": {
     "name": "Giant Cleaver",
-    "wiki": "https://wiki.hypixel.net/Giant_Cleaver"
+    "wiki": "https://wiki.hypixel.net/Giant_Cleaver",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "GIANT_FISHING_ROD": {
     "name": "Giant Fishing Rod",
@@ -14514,27 +14892,47 @@
   "GIRAFFE;0": {
     "name": "Common Giraffe",
     "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
-    "wiki": "https://wiki.hypixel.net/Giraffe_Pet"
+    "wiki": "https://wiki.hypixel.net/Giraffe_Pet",
+    "npc_buy_cost": [
+      "LOG_2:64",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "GIRAFFE;1": {
     "name": "Uncommon Giraffe",
     "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
-    "wiki": "https://wiki.hypixel.net/Giraffe_Pet"
+    "wiki": "https://wiki.hypixel.net/Giraffe_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_ACACIA_LOG:1",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "GIRAFFE;2": {
     "name": "Rare Giraffe",
     "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
-    "wiki": "https://wiki.hypixel.net/Giraffe_Pet"
+    "wiki": "https://wiki.hypixel.net/Giraffe_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_ACACIA_LOG:16",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "GIRAFFE;3": {
     "name": "Epic Giraffe",
     "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
-    "wiki": "https://wiki.hypixel.net/Giraffe_Pet"
+    "wiki": "https://wiki.hypixel.net/Giraffe_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_ACACIA_LOG:128",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "GIRAFFE;4": {
     "name": "Legendary Giraffe",
     "texture": "176b4e390f2ecdb8a78dc611789ca0af1e7e09229319c3a7aa8209b63b9",
-    "wiki": "https://wiki.hypixel.net/Giraffe_Pet"
+    "wiki": "https://wiki.hypixel.net/Giraffe_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_ACACIA_LOG:512",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "GLACIAL_WISP;3": {
     "name": "Epic Glacial Wisp",
@@ -14682,7 +15080,12 @@
   },
   "GLOWSTONE_GENERATOR_12": {
     "name": "Glowstone Minion XII",
-    "wiki": "https://wiki.hypixel.net/Glowstone_Minion"
+    "wiki": "https://wiki.hypixel.net/Glowstone_Minion",
+    "npc_buy_cost": [
+      "GLOWSTONE_GENERATOR_11:1",
+      "ENCHANTED_GLOWSTONE:32",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "GLOWSTONE_GENERATOR_2": {
     "name": "Glowstone Minion II",
@@ -14926,7 +15329,10 @@
       "C2": "GOLD_NUGGET:1",
       "C3": "GOLD_NUGGET:1"
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Carrot"
+    "wiki": "https://wiki.hypixel.net/Golden_Carrot",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "GOLDEN_DANTE_STATUE": {
     "name": "Golden Dante Statue",
@@ -15041,7 +15447,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Boots"
+    "wiki": "https://wiki.hypixel.net/Golden_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:9"
+    ]
   },
   "GOLD_CANDY": {
     "name": "Golden Treat",
@@ -15064,7 +15473,10 @@
       "C2": "GOLD_INGOT:1",
       "C3": "GOLD_INGOT:1"
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Golden_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:16"
+    ]
   },
   "GOLD_CLAWS": {
     "name": "Gold Claws",
@@ -15128,7 +15540,12 @@
   },
   "GOLD_GENERATOR_12": {
     "name": "Gold Minion XII",
-    "wiki": "https://wiki.hypixel.net/Gold_Minion"
+    "wiki": "https://wiki.hypixel.net/Gold_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_GOLD_BLOCK:16",
+      "GOLD_GENERATOR_11"
+    ]
   },
   "GOLD_GENERATOR_2": {
     "name": "Gold Minion II",
@@ -15267,7 +15684,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Helmet"
+    "wiki": "https://wiki.hypixel.net/Golden_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "GOLD_HOE": {
     "name": "Golden Hoe",
@@ -15328,7 +15748,10 @@
       "C2": "",
       "C3": "GOLD_INGOT:1"
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Leggings"
+    "wiki": "https://wiki.hypixel.net/Golden_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:14"
+    ]
   },
   "GOLD_LIVID_HEAD": {
     "name": "Golden Livid Head",
@@ -15369,7 +15792,10 @@
       "C2": "STICK:1",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Golden_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Golden_Pickaxe",
+    "npc_buy_cost": [
+      "GOLD_INGOT:3"
+    ]
   },
   "GOLD_PLATE": {
     "name": "Weighted Pressure Plate (Light)",
@@ -15383,7 +15809,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:16"
+    ]
   },
   "GOLD_PROFESSOR_HEAD": {
     "name": "Golden Professor Head",
@@ -15585,7 +16014,10 @@
       "C2": "ENCHANTED_LAPIS_LAZULI:1",
       "C3": "ENCHANTED_LAPIS_LAZULI:1"
     },
-    "wiki": "https://wiki.hypixel.net/Grand_Experience_Bottle"
+    "wiki": "https://wiki.hypixel.net/Grand_Experience_Bottle",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4750"
+    ]
   },
   "GRAND_SEARING_RUNE;3": {
     "name": "◆ Grand Searing Rune III"
@@ -16317,7 +16749,10 @@
   },
   "HARDENED_WOOD": {
     "name": "Hardened Wood",
-    "wiki": "https://wiki.hypixel.net/Hardened_Wood"
+    "wiki": "https://wiki.hypixel.net/Hardened_Wood",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:15000"
+    ]
   },
   "HARD_CLAY": {
     "name": "Hardened Clay"
@@ -16388,7 +16823,12 @@
   },
   "HARD_STONE_GENERATOR_12": {
     "name": "Hard Stone Minion XII",
-    "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion"
+    "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "CONCENTRATED_STONE:32",
+      "HARD_STONE_GENERATOR_11"
+    ]
   },
   "HARD_STONE_GENERATOR_2": {
     "name": "Hard Stone Minion II",
@@ -16844,11 +17284,19 @@
   },
   "HOE_OF_GREATER_TILLING": {
     "name": "Hoe of Greater Tilling",
-    "wiki": "https://wiki.hypixel.net/Hoe_Of_Greater_Tilling"
+    "wiki": "https://wiki.hypixel.net/Hoe_Of_Greater_Tilling",
+    "npc_buy_cost": [
+      "SKYBLOCK_SILVER_MEDAL:1",
+      "JACOBS_TICKET:10"
+    ]
   },
   "HOE_OF_GREAT_TILLING": {
     "name": "Hoe of Great Tilling",
-    "wiki": "https://wiki.hypixel.net/Hoe_Of_Great_Tilling"
+    "wiki": "https://wiki.hypixel.net/Hoe_Of_Great_Tilling",
+    "npc_buy_cost": [
+      "SKYBLOCK_BRONZE_MEDAL:1",
+      "JACOBS_TICKET:5"
+    ]
   },
   "HOLLOW_BOOTS": {
     "name": "Hollow Boots",
@@ -16977,7 +17425,10 @@
       "C2": "IRON_INGOT:1",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Hopper"
+    "wiki": "https://wiki.hypixel.net/Hopper",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "HOPPER_MINECART": {
     "name": "Minecart with Hopper",
@@ -17094,7 +17545,10 @@
   },
   "HORSEMAN_CANDLE": {
     "name": "Horseman\u0027s Candle",
-    "wiki": "https://wiki.hypixel.net/Horseman\u0027s_Candle"
+    "wiki": "https://wiki.hypixel.net/Horseman\u0027s_Candle",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:32"
+    ]
   },
   "HOT_AURORA_BOOTS": {
     "name": "Hot Aurora Boots",
@@ -17129,7 +17583,10 @@
   },
   "HOT_CHOCOLATE": {
     "name": "Hot Chocolate",
-    "wiki": "https://wiki.hypixel.net/Hot_Chocolate"
+    "wiki": "https://wiki.hypixel.net/Hot_Chocolate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:70000"
+    ]
   },
   "HOT_CRIMSON_BOOTS": {
     "name": "Hot Crimson Boots",
@@ -17255,7 +17712,10 @@
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Hub Castle",
-    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Hub_Castle"
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Hub_Castle",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "HUB_CRYPTS_PORTAL": {
     "name": "Portal to the Hub Crypts",
@@ -17418,7 +17878,10 @@
   },
   "HYPER_CLEAVER": {
     "name": "Hyper Cleaver",
-    "wiki": "https://wiki.hypixel.net/Hyper_Cleaver"
+    "wiki": "https://wiki.hypixel.net/Hyper_Cleaver",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:800000"
+    ]
   },
   "HYPER_FURNACE": {
     "name": "Hyper Furnace",
@@ -17441,7 +17904,10 @@
   },
   "ICE": {
     "name": "Ice",
-    "wiki": "https://wiki.hypixel.net/Ice"
+    "wiki": "https://wiki.hypixel.net/Ice",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1"
+    ]
   },
   "ICE_BAIT": {
     "name": "Ice Bait",
@@ -17456,7 +17922,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Ice_Bait"
+    "wiki": "https://wiki.hypixel.net/Ice_Bait",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "ICE_CHAIR": {
     "name": "Ice Chair",
@@ -18304,7 +18773,10 @@
   },
   "INFINIDIRT_WAND": {
     "name": "InfiniDirt™ Wand",
-    "wiki": "https://wiki.hypixel.net/InfiniDirt_Wand"
+    "wiki": "https://wiki.hypixel.net/InfiniDirt_Wand",
+    "npc_buy_cost": [
+      "JACOBS_TICKET:1"
+    ]
   },
   "INFINITE_QUIVER;1": {
     "name": "Infinite Quiver I"
@@ -18599,15 +19071,26 @@
   },
   "INTIMIDATION_ARTIFACT": {
     "name": "Intimidation Artifact",
-    "wiki": "https://wiki.hypixel.net/Intimidation_Artifact"
+    "wiki": "https://wiki.hypixel.net/Intimidation_Artifact",
+    "npc_buy_cost": [
+      "INTIMIDATION_RING:1",
+      "PURPLE_CANDY:64"
+    ]
   },
   "INTIMIDATION_RING": {
     "name": "Intimidation Ring",
-    "wiki": "https://wiki.hypixel.net/Intimidation_Ring"
+    "wiki": "https://wiki.hypixel.net/Intimidation_Ring",
+    "npc_buy_cost": [
+      "INTIMIDATION_TALISMAN:1",
+      "GREEN_CANDY:100"
+    ]
   },
   "INTIMIDATION_TALISMAN": {
     "name": "Intimidation Talisman",
-    "wiki": "https://wiki.hypixel.net/Intimidation_Talisman"
+    "wiki": "https://wiki.hypixel.net/Intimidation_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "INVISIBILITY": {
     "name": "Invisibility I Potion"
@@ -18659,7 +19142,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Iron_Boots"
+    "wiki": "https://wiki.hypixel.net/Iron_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "IRON_CHEST": {
     "name": "Iron Chest+",
@@ -18678,7 +19164,10 @@
       "C2": "IRON_INGOT:1",
       "C3": "IRON_INGOT:1"
     },
-    "wiki": "https://wiki.hypixel.net/Iron_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Iron_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25"
+    ]
   },
   "IRON_DOOR": {
     "name": "Iron Door",
@@ -18755,7 +19244,12 @@
   },
   "IRON_GENERATOR_12": {
     "name": "Iron Minion XII",
-    "wiki": "https://wiki.hypixel.net/Iron_Minion"
+    "wiki": "https://wiki.hypixel.net/Iron_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_IRON_BLOCK:16",
+      "IRON_GENERATOR_11"
+    ]
   },
   "IRON_GENERATOR_2": {
     "name": "Iron Minion II",
@@ -18890,7 +19384,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Iron_Helmet"
+    "wiki": "https://wiki.hypixel.net/Iron_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:15"
+    ]
   },
   "IRON_HOE": {
     "name": "Iron Hoe",
@@ -18935,7 +19432,10 @@
       "C2": "",
       "C3": "IRON_INGOT:1"
     },
-    "wiki": "https://wiki.hypixel.net/Iron_Leggings"
+    "wiki": "https://wiki.hypixel.net/Iron_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "IRON_ORE": {
     "name": "Iron Ore",
@@ -18954,7 +19454,10 @@
       "C2": "STICK:1",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Iron_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Iron_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60"
+    ]
   },
   "IRON_PLATE": {
     "name": "Weighted Pressure Plate (Heavy)",
@@ -18968,7 +19471,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "IRON_SPADE": {
     "name": "Iron Shovel",
@@ -19013,10 +19519,6 @@
       "C2": "",
       "C3": ""
     }
-  },
-  "ISLAND_NPC": {
-    "name": "Island NPC",
-    "wiki": "https://wiki.hypixel.net/Island_NPC"
   },
   "ITEM_FRAME": {
     "name": "Item Frame",
@@ -19331,7 +19833,11 @@
   },
   "JUNGLE_AMULET": {
     "name": "Jungle Amulet",
-    "wiki": "https://wiki.hypixel.net/Jungle_Amulet"
+    "wiki": "https://wiki.hypixel.net/Jungle_Amulet",
+    "npc_buy_cost": [
+      "SLUDGE_JUICE:500",
+      "JUNGLE_HEART:4"
+    ]
   },
   "JUNGLE_AXE": {
     "name": "Jungle Axe",
@@ -19576,11 +20082,17 @@
   },
   "JUNGLE_KEY": {
     "name": "Jungle Key",
-    "wiki": "https://wiki.hypixel.net/Jungle_Key"
+    "wiki": "https://wiki.hypixel.net/Jungle_Key",
+    "npc_buy_cost": [
+      "SLUDGE_JUICE:100"
+    ]
   },
   "JUNGLE_PICKAXE": {
     "name": "Jungle Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Jungle_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Jungle_Pickaxe",
+    "npc_buy_cost": [
+      "SLUDGE_JUICE:200"
+    ]
   },
   "JUNGLE_WOOD_STAIRS": {
     "name": "Jungle Wood Stairs",
@@ -19602,7 +20114,11 @@
   },
   "KALHUIKI_MASK": {
     "name": "Kalhuiki Mask",
-    "wiki": "https://wiki.hypixel.net/Kalhuiki_Mask"
+    "wiki": "https://wiki.hypixel.net/Kalhuiki_Mask",
+    "npc_buy_cost": [
+      "SLUDGE_JUICE:20",
+      "WOOD:20"
+    ]
   },
   "KARATE_FISH_BRONZE": {
     "name": "Karate Fish BRONZE",
@@ -19663,7 +20179,10 @@
   },
   "KNOCKOFF_COLA": {
     "name": "KnockOff™ Cola",
-    "wiki": "https://wiki.hypixel.net/Brews"
+    "wiki": "https://wiki.hypixel.net/Brews",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1500"
+    ]
   },
   "KRAMPUS_HELMET": {
     "name": "Krampus Helmet",
@@ -19749,7 +20268,12 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Hot_Kuudra_Key"
+    "wiki": "https://wiki.hypixel.net/Hot_Kuudra_Key",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:38000",
+      "ENCHANTED_MYCELIUM:6",
+      "CORRUPTED_NETHER_STAR:2"
+    ]
   },
   "KUUDRA_INFERNAL_TIER_KEY": {
     "name": "Infernal Kuudra Key",
@@ -19787,7 +20311,12 @@
   },
   "KUUDRA_TIER_KEY": {
     "name": "Kuudra Key",
-    "wiki": "https://wiki.hypixel.net/Kuudra_Key"
+    "wiki": "https://wiki.hypixel.net/Kuudra_Key",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:7600",
+      "ENCHANTED_MYCELIUM:2",
+      "CORRUPTED_NETHER_STAR:2"
+    ]
   },
   "LADDER": {
     "name": "Ladder",
@@ -19809,75 +20338,129 @@
   },
   "LAMP_BLACK": {
     "name": "Black Lamp",
-    "wiki": "https://wiki.hypixel.net/Black_Lamp"
+    "wiki": "https://wiki.hypixel.net/Black_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_BLUE": {
     "name": "Blue Lamp",
-    "wiki": "https://wiki.hypixel.net/Blue_Lamp"
+    "wiki": "https://wiki.hypixel.net/Blue_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_BROWN": {
     "name": "Brown Lamp",
-    "wiki": "https://wiki.hypixel.net/Brown_Lamp"
+    "wiki": "https://wiki.hypixel.net/Brown_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_CYAN": {
     "name": "Cyan Lamp",
-    "wiki": "https://wiki.hypixel.net/Cyan_Lamp"
+    "wiki": "https://wiki.hypixel.net/Cyan_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_GRAY": {
     "name": "Gray Lamp",
-    "wiki": "https://wiki.hypixel.net/Gray_Lamp"
+    "wiki": "https://wiki.hypixel.net/Gray_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_GREEN": {
     "name": "Green Lamp",
-    "wiki": "https://wiki.hypixel.net/Green_Lamp"
+    "wiki": "https://wiki.hypixel.net/Green_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_LIGHT_BLUE": {
     "name": "Light Blue Lamp",
-    "wiki": "https://wiki.hypixel.net/Light_Blue_Lamp"
+    "wiki": "https://wiki.hypixel.net/Light_Blue_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_LIGHT_GRAY": {
     "name": "Light Gray Lamp",
-    "wiki": "https://wiki.hypixel.net/Light_Gray_Lamp"
+    "wiki": "https://wiki.hypixel.net/Light_Gray_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_LILAC": {
     "name": "Lilac Lamp",
-    "wiki": "https://wiki.hypixel.net/Lilac_Lamp"
+    "wiki": "https://wiki.hypixel.net/Lilac_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_LIME": {
     "name": "Lime Lamp",
-    "wiki": "https://wiki.hypixel.net/Lime_Lamp"
+    "wiki": "https://wiki.hypixel.net/Lime_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_MAGENTA": {
     "name": "Magenta Lamp",
-    "wiki": "https://wiki.hypixel.net/Magenta_Lamp"
+    "wiki": "https://wiki.hypixel.net/Magenta_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_ORANGE": {
     "name": "Orange Lamp",
-    "wiki": "https://wiki.hypixel.net/Orange_Lamp"
+    "wiki": "https://wiki.hypixel.net/Orange_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_PINK": {
     "name": "Pink Lamp",
-    "wiki": "https://wiki.hypixel.net/Pink_Lamp"
+    "wiki": "https://wiki.hypixel.net/Pink_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_PURPLE": {
     "name": "Purple Lamp",
-    "wiki": "https://wiki.hypixel.net/Purple_Lamp"
+    "wiki": "https://wiki.hypixel.net/Purple_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_RAINBOW": {
     "name": "Rainbow Lamp",
-    "wiki": "https://wiki.hypixel.net/Rainbow_Lamp"
+    "wiki": "https://wiki.hypixel.net/Rainbow_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:250000"
+    ]
   },
   "LAMP_RED": {
     "name": "Red Lamp",
-    "wiki": "https://wiki.hypixel.net/Red_Lamp"
+    "wiki": "https://wiki.hypixel.net/Red_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_WHITE": {
     "name": "White Lamp",
-    "wiki": "https://wiki.hypixel.net/White_Lamp"
+    "wiki": "https://wiki.hypixel.net/White_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LAMP_YELLOW": {
     "name": "Yellow Lamp",
-    "wiki": "https://wiki.hypixel.net/Yellow_Lamp"
+    "wiki": "https://wiki.hypixel.net/Yellow_Lamp",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "LANTERN": {
     "name": "Lantern",
@@ -19969,7 +20552,12 @@
   },
   "LAPIS_GENERATOR_12": {
     "name": "Lapis Minion XII",
-    "wiki": "https://wiki.hypixel.net/Lapis_Minion"
+    "wiki": "https://wiki.hypixel.net/Lapis_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_LAPIS_LAZULI_BLOCK:64",
+      "LAPIS_GENERATOR_11"
+    ]
   },
   "LAPIS_GENERATOR_2": {
     "name": "Lapis Minion II",
@@ -20390,7 +20978,10 @@
   },
   "LARGE_WINTER_SACK": {
     "name": "Winter Sack",
-    "wiki": "https://wiki.hypixel.net/Winter_Sack"
+    "wiki": "https://wiki.hypixel.net/Winter_Sack",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:250000"
+    ]
   },
   "LAST_BREATH": {
     "name": "Last Breath",
@@ -20825,7 +21416,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2"
+    ]
   },
   "LIFE_PRESERVER": {
     "name": "Life Preserver",
@@ -20852,7 +21446,11 @@
     "name": "Life Steal III"
   },
   "LIFE_STEAL;4": {
-    "name": "Life Steal IV"
+    "name": "Life Steal IV",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1500000",
+      "PURPLE_CANDY:64"
+    ]
   },
   "LIFE_STEAL;5": {
     "name": "Life Steal V"
@@ -20887,27 +21485,47 @@
   "LION;0": {
     "name": "Common Lion",
     "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
-    "wiki": "https://wiki.hypixel.net/Lion_Pet"
+    "wiki": "https://wiki.hypixel.net/Lion_Pet",
+    "npc_buy_cost": [
+      "RAW_BEEF:128",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "LION;1": {
     "name": "Uncommon Lion",
     "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
-    "wiki": "https://wiki.hypixel.net/Lion_Pet"
+    "wiki": "https://wiki.hypixel.net/Lion_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_BEEF:2",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "LION;2": {
     "name": "Rare Lion",
     "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
-    "wiki": "https://wiki.hypixel.net/Lion_Pet"
+    "wiki": "https://wiki.hypixel.net/Lion_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_BEEF:32",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "LION;3": {
     "name": "Epic Lion",
     "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
-    "wiki": "https://wiki.hypixel.net/Lion_Pet"
+    "wiki": "https://wiki.hypixel.net/Lion_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_BEEF:256",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "LION;4": {
     "name": "Legendary Lion",
     "texture": "38ff473bd52b4db2c06f1ac87fe1367bce7574fac330ffac7956229f82efba1",
-    "wiki": "https://wiki.hypixel.net/Lion_Pet"
+    "wiki": "https://wiki.hypixel.net/Lion_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_RAW_BEEF:1024",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "LIVID_DAGGER": {
     "name": "Livid Dagger",
@@ -20931,7 +21549,10 @@
   },
   "LOG": {
     "name": "Oak Wood",
-    "wiki": "https://wiki.hypixel.net/Oak_Wood"
+    "wiki": "https://wiki.hypixel.net/Oak_Wood",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25"
+    ]
   },
   "LOG_2:1": {
     "name": "Dark Oak Wood",
@@ -20939,7 +21560,10 @@
   },
   "LOG_2": {
     "name": "Acacia Wood",
-    "wiki": "https://wiki.hypixel.net/Acacia_Wood"
+    "wiki": "https://wiki.hypixel.net/Acacia_Wood",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25"
+    ]
   },
   "LONG_GRASS:1": {
     "name": "Long Grass"
@@ -21010,7 +21634,10 @@
   },
   "LUCKY_DICE": {
     "name": "Lucky Dice",
-    "wiki": "https://wiki.hypixel.net/Lucky_Dice"
+    "wiki": "https://wiki.hypixel.net/Lucky_Dice",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "LUCKY_HOOF": {
     "name": "Lucky Hoof",
@@ -21133,7 +21760,10 @@
     "wiki": "https://wiki.hypixel.net/Magical_Water_Bucket"
   },
   "MAGIC_FIND": {
-    "name": "Magic Find I Potion"
+    "name": "Magic Find I Potion",
+    "npc_buy_cost": [
+      "GREEN_CANDY:10"
+    ]
   },
   "MAGIC_MUSHROOM_SOUP": {
     "name": "Magical Mushroom Soup",
@@ -21203,7 +21833,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Magma_Cream"
+    "wiki": "https://wiki.hypixel.net/Magma_Cream",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "MAGMA_CREAM_DISTILLATE": {
     "name": "Magma Cream Distillate",
@@ -21281,7 +21914,12 @@
   },
   "MAGMA_CUBE_GENERATOR_12": {
     "name": "Magma Cube Minion XII",
-    "wiki": "https://wiki.hypixel.net/Magma_Cube_Minion"
+    "wiki": "https://wiki.hypixel.net/Magma_Cube_Minion",
+    "npc_buy_cost": [
+      "MAGMA_CUBE_GENERATOR_11:1",
+      "ENCHANTED_MAGMA_CREAM:1024",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "MAGMA_CUBE_GENERATOR_2": {
     "name": "Magma Cube Minion II",
@@ -21737,7 +22375,11 @@
   },
   "MARSH_SPORE_SOUP": {
     "name": "Marsh Spore Soup",
-    "wiki": "https://wiki.hypixel.net/Marsh_Spore_Soup"
+    "wiki": "https://wiki.hypixel.net/Marsh_Spore_Soup",
+    "npc_buy_cost": [
+      "MUSHROOM_SPORE:5",
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "MASTER_SKULL_TIER_1": {
     "name": "Master Skull - Tier 1",
@@ -22161,7 +22803,11 @@
   },
   "MELON_DICER": {
     "name": "Melon Dicer",
-    "wiki": "https://wiki.hypixel.net/Melon_Dicer"
+    "wiki": "https://wiki.hypixel.net/Melon_Dicer",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "MELON_GENERATOR_1": {
     "name": "Melon Minion I",
@@ -22210,7 +22856,12 @@
   },
   "MELON_GENERATOR_12": {
     "name": "Melon Minion XII",
-    "wiki": "https://wiki.hypixel.net/Melon_Minion"
+    "wiki": "https://wiki.hypixel.net/Melon_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_MELON_BLOCK:32",
+      "MELON_GENERATOR_11"
+    ]
   },
   "MELON_GENERATOR_2": {
     "name": "Melon Minion II",
@@ -22352,35 +23003,59 @@
   },
   "MENDER_CROWN": {
     "name": "Mender Crown",
-    "wiki": "https://wiki.hypixel.net/Mender_Crown"
+    "wiki": "https://wiki.hypixel.net/Mender_Crown",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "MENDER_FEDORA": {
     "name": "Mender Fedora",
-    "wiki": "https://wiki.hypixel.net/Mender_Fedora"
+    "wiki": "https://wiki.hypixel.net/Mender_Fedora",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:800000"
+    ]
   },
   "MENDER_HELMET": {
     "name": "Mender Helmet",
-    "wiki": "https://wiki.hypixel.net/Mender_Helmet"
+    "wiki": "https://wiki.hypixel.net/Mender_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80000"
+    ]
   },
   "MERCENARY_AXE": {
     "name": "Mercenary Axe",
-    "wiki": "https://wiki.hypixel.net/Mercenary_Axe"
+    "wiki": "https://wiki.hypixel.net/Mercenary_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30000"
+    ]
   },
   "MERCENARY_BOOTS": {
     "name": "Mercenary Boots",
-    "wiki": "https://wiki.hypixel.net/Mercenary_Boots"
+    "wiki": "https://wiki.hypixel.net/Mercenary_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30000"
+    ]
   },
   "MERCENARY_CHESTPLATE": {
     "name": "Mercenary Chestplate",
-    "wiki": "https://wiki.hypixel.net/Mercenary_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Mercenary_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:70000"
+    ]
   },
   "MERCENARY_HELMET": {
     "name": "Mercenary Helmet",
-    "wiki": "https://wiki.hypixel.net/Mercenary_Helmet"
+    "wiki": "https://wiki.hypixel.net/Mercenary_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35000"
+    ]
   },
   "MERCENARY_LEGGINGS": {
     "name": "Mercenary Leggings",
-    "wiki": "https://wiki.hypixel.net/Mercenary_Leggings"
+    "wiki": "https://wiki.hypixel.net/Mercenary_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:45000"
+    ]
   },
   "MESA_BIOME_STICK": {
     "name": "Mesa Biome Stick",
@@ -22399,7 +23074,10 @@
   },
   "METAL_CHESTPLATE": {
     "name": "Metal Chestplate",
-    "wiki": "https://wiki.hypixel.net/Metal_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Metal_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:800000"
+    ]
   },
   "METEOR_SHARD": {
     "name": "Meteor Shard",
@@ -22590,7 +23268,10 @@
   },
   "MINE_TALISMAN": {
     "name": "Mine Affinity Talisman",
-    "wiki": "https://wiki.hypixel.net/Mine_Affinity_Talisman"
+    "wiki": "https://wiki.hypixel.net/Mine_Affinity_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "MINING_1_PORTAL": {
     "name": "Portal to the Gold Mine",
@@ -22873,7 +23554,12 @@
   },
   "MITHRIL_GENERATOR_12": {
     "name": "Mithril Minion XII",
-    "wiki": "https://wiki.hypixel.net/Mithril_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Mithril_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "REFINED_MITHRIL:16",
+      "MITHRIL_GENERATOR_11"
+    ]
   },
   "MITHRIL_GENERATOR_2": {
     "name": "Mithril Minion II",
@@ -23120,7 +23806,10 @@
   },
   "MOIL_LOG": {
     "name": "Moil Log",
-    "wiki": "https://wiki.hypixel.net/Moil_Log"
+    "wiki": "https://wiki.hypixel.net/Moil_Log",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000"
+    ]
   },
   "MOLDFIN_BRONZE": {
     "name": "Moldfin BRONZE",
@@ -23176,27 +23865,47 @@
   "MONKEY;0": {
     "name": "Common Monkey",
     "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
-    "wiki": "https://wiki.hypixel.net/Monkey_Pet"
+    "wiki": "https://wiki.hypixel.net/Monkey_Pet",
+    "npc_buy_cost": [
+      "LOG_2:64",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "MONKEY;1": {
     "name": "Uncommon Monkey",
     "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
-    "wiki": "https://wiki.hypixel.net/Monkey_Pet"
+    "wiki": "https://wiki.hypixel.net/Monkey_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_JUNGLE_LOG:1",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "MONKEY;2": {
     "name": "Rare Monkey",
     "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
-    "wiki": "https://wiki.hypixel.net/Monkey_Pet"
+    "wiki": "https://wiki.hypixel.net/Monkey_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_JUNGLE_LOG:16",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "MONKEY;3": {
     "name": "Epic Monkey",
     "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
-    "wiki": "https://wiki.hypixel.net/Monkey_Pet"
+    "wiki": "https://wiki.hypixel.net/Monkey_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_JUNGLE_LOG:128",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "MONKEY;4": {
     "name": "Legendary Monkey",
     "texture": "13cf8db84807c471d7c6922302261ac1b5a179f96d1191156ecf3e1b1d3ca",
-    "wiki": "https://wiki.hypixel.net/Monkey_Pet"
+    "wiki": "https://wiki.hypixel.net/Monkey_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_JUNGLE_LOG:512",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "MONSTER_EGG": {
     "name": "Stone Monster Egg"
@@ -23206,7 +23915,10 @@
   },
   "MOODY_GRAPPLESHOT": {
     "name": "Moody Grappleshot",
-    "wiki": "https://wiki.hypixel.net/Moody_Grappleshot"
+    "wiki": "https://wiki.hypixel.net/Moody_Grappleshot",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:3700000"
+    ]
   },
   "MOOGMA_LEGGINGS": {
     "name": "Moogma Leggings",
@@ -23403,7 +24115,10 @@
   },
   "MUSHROOM_COW_AXE": {
     "name": "Mushroom Cow Axe",
-    "wiki": "https://wiki.hypixel.net/Mushroom_Cow_Axe"
+    "wiki": "https://wiki.hypixel.net/Mushroom_Cow_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "MUSHROOM_GENERATOR_1": {
     "name": "Mushroom Minion I",
@@ -23452,7 +24167,13 @@
   },
   "MUSHROOM_GENERATOR_12": {
     "name": "Mushroom Minion XII",
-    "wiki": "https://wiki.hypixel.net/Mushroom_Minion"
+    "wiki": "https://wiki.hypixel.net/Mushroom_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_BROWN_MUSHROOM:512",
+      "ENCHANTED_RED_MUSHROOM:512",
+      "MUSHROOM_GENERATOR_11"
+    ]
   },
   "MUSHROOM_GENERATOR_2": {
     "name": "Mushroom Minion II",
@@ -23671,7 +24392,10 @@
   },
   "MYCEL": {
     "name": "Mycelium",
-    "wiki": "https://wiki.hypixel.net/Mycelium"
+    "wiki": "https://wiki.hypixel.net/Mycelium",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "MYCELIUM_DUST": {
     "name": "Mycelium Dust",
@@ -23735,7 +24459,12 @@
   },
   "MYCELIUM_GENERATOR_12": {
     "name": "Mycelium Minion XII",
-    "wiki": "https://wiki.hypixel.net/Mycelium_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Mycelium_Minion_XII",
+    "npc_buy_cost": [
+      "MYCELIUM_GENERATOR_11:1",
+      "ENCHANTED_MYCELIUM_CUBE:32",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "MYCELIUM_GENERATOR_2": {
     "name": "Mycelium Minion II",
@@ -24000,7 +24729,10 @@
   },
   "NETHER_STALK": {
     "name": "Nether Wart",
-    "wiki": "https://wiki.hypixel.net/Nether_Wart"
+    "wiki": "https://wiki.hypixel.net/Nether_Wart",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "NETHER_STALK_DISTILLATE": {
     "name": "Nether Wart Distillate",
@@ -24056,7 +24788,12 @@
   },
   "NETHER_WARTS_GENERATOR_12": {
     "name": "Nether Wart Minion XII",
-    "wiki": "https://wiki.hypixel.net/Nether_Wart_Minion"
+    "wiki": "https://wiki.hypixel.net/Nether_Wart_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_NETHER_STALK:1024",
+      "NETHER_WARTS_GENERATOR_11"
+    ]
   },
   "NETHER_WARTS_GENERATOR_2": {
     "name": "Nether Wart Minion II",
@@ -24199,7 +24936,11 @@
   },
   "NETHER_WART_POUCH": {
     "name": "Nether Wart Pouch",
-    "wiki": "https://wiki.hypixel.net/Nether_Wart_Pouch"
+    "wiki": "https://wiki.hypixel.net/Nether_Wart_Pouch",
+    "npc_buy_cost": [
+      "SKYBLOCK_SILVER_MEDAL:2",
+      "JACOBS_TICKET:30"
+    ]
   },
   "NEW_YEAR_CAKE": {
     "name": "New Year Cake (Year 59)",
@@ -24555,7 +25296,10 @@
   },
   "OBSIDIAN": {
     "name": "Obsidian",
-    "wiki": "https://wiki.hypixel.net/Obsidian"
+    "wiki": "https://wiki.hypixel.net/Obsidian",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "OBSIDIAN_CHESTPLATE": {
     "name": "Obsidian Chestplate",
@@ -24608,7 +25352,12 @@
   },
   "OBSIDIAN_GENERATOR_12": {
     "name": "Obsidian Minion XII",
-    "wiki": "https://wiki.hypixel.net/Obsidian_Minion"
+    "wiki": "https://wiki.hypixel.net/Obsidian_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_OBSIDIAN:1024",
+      "OBSIDIAN_GENERATOR_11"
+    ]
   },
   "OBSIDIAN_GENERATOR_2": {
     "name": "Obsidian Minion II",
@@ -24923,7 +25672,10 @@
   },
   "ONYX": {
     "name": "Onyx",
-    "wiki": "https://wiki.hypixel.net/Onyx"
+    "wiki": "https://wiki.hypixel.net/Onyx",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "OOPS_THE_FISH": {
     "name": "Oops the Fish",
@@ -25013,7 +25765,10 @@
       "C1": "ICE:1",
       "C2": "ICE:1",
       "C3": "ICE:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:9"
+    ]
   },
   "PAINTING": {
     "name": "Painting",
@@ -25049,15 +25804,24 @@
   },
   "PARKOUR_CONTROLLER": {
     "name": "Parkour Start/End",
-    "wiki": "https://wiki.hypixel.net/Parkour_Start/End"
+    "wiki": "https://wiki.hypixel.net/Parkour_Start/End",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "PARKOUR_POINT": {
     "name": "Parkour Checkpoint",
-    "wiki": "https://wiki.hypixel.net/Parkour_Checkpoint"
+    "wiki": "https://wiki.hypixel.net/Parkour_Checkpoint",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "PARKOUR_TIMES": {
     "name": "Parkour Times",
-    "wiki": "https://wiki.hypixel.net/Parkour_Times"
+    "wiki": "https://wiki.hypixel.net/Parkour_Times",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000"
+    ]
   },
   "PARK_CAVE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Howling Cave",
@@ -25065,7 +25829,10 @@
   },
   "PARK_JUNGLE_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Jungle Island",
-    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Jungle_Island"
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Jungle_Island",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:70000"
+    ]
   },
   "PARROT;3": {
     "name": "Epic Parrot",
@@ -26068,19 +26835,31 @@
   },
   "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
     "name": "All Skills Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000"
+    ]
   },
   "PET_ITEM_BIG_TEETH_COMMON": {
     "name": "Big Teeth",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:750000"
+    ]
   },
   "PET_ITEM_BUBBLEGUM": {
     "name": "Bubblegum",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
     "name": "Combat Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60000"
+    ]
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
     "name": "Combat Exp Boost",
@@ -26115,15 +26894,24 @@
   },
   "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60000"
+    ]
   },
   "PET_ITEM_FARMING_SKILL_BOOST_EPIC": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1500000"
+    ]
   },
   "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:500000"
+    ]
   },
   "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON": {
     "name": "Farming Exp Boost",
@@ -26131,7 +26919,10 @@
   },
   "PET_ITEM_FISHING_SKILL_BOOST_COMMON": {
     "name": "Fishing Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60000"
+    ]
   },
   "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
     "name": "Fishing Exp Boost",
@@ -26151,7 +26942,10 @@
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_COMMON": {
     "name": "Foraging Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60000"
+    ]
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
     "name": "Foraging Exp Boost",
@@ -26159,11 +26953,17 @@
   },
   "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
     "name": "Hardened Scales",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "PET_ITEM_IRON_CLAWS_COMMON": {
     "name": "Iron Claws",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:750000"
+    ]
   },
   "PET_ITEM_LUCKY_CLOVER": {
     "name": "Lucky Clover",
@@ -26186,11 +26986,17 @@
   },
   "PET_ITEM_MINING_SKILL_BOOST_COMMON": {
     "name": "Mining Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:60000"
+    ]
   },
   "PET_ITEM_MINING_SKILL_BOOST_RARE": {
     "name": "Mining Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:500000"
+    ]
   },
   "PET_ITEM_QUICK_CLAW": {
     "name": "Quick Claw",
@@ -26213,7 +27019,10 @@
   },
   "PET_ITEM_SHARPENED_CLAWS_UNCOMMON": {
     "name": "Sharpened Claws",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "PET_ITEM_SPOOKY_CUPCAKE": {
     "name": "Spooky Cupcake",
@@ -26789,7 +27598,10 @@
   },
   "PIG_AXE": {
     "name": "Pig Axe",
-    "wiki": "https://wiki.hypixel.net/Pig_Axe"
+    "wiki": "https://wiki.hypixel.net/Pig_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "PIG_GENERATOR_1": {
     "name": "Pig Minion I",
@@ -26838,7 +27650,12 @@
   },
   "PIG_GENERATOR_12": {
     "name": "Pig Minion XII",
-    "wiki": "https://wiki.hypixel.net/Pig_Minion"
+    "wiki": "https://wiki.hypixel.net/Pig_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_GRILLED_PORK:16",
+      "PIG_GENERATOR_11"
+    ]
   },
   "PIG_GENERATOR_2": {
     "name": "Pig Minion II",
@@ -27062,7 +27879,10 @@
   },
   "PLUMBER_SPONGE": {
     "name": "Plumber\u0027s Sponge",
-    "wiki": "https://wiki.hypixel.net/Plumber\u0027s_Sponge"
+    "wiki": "https://wiki.hypixel.net/Plumber\u0027s_Sponge",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "POCKET_ESPRESSO_MACHINE": {
     "name": "Pocket Espresso Machine",
@@ -27218,7 +28038,12 @@
   },
   "POTATO_GENERATOR_12": {
     "name": "Potato Minion XII",
-    "wiki": "https://wiki.hypixel.net/Potato_Minion"
+    "wiki": "https://wiki.hypixel.net/Potato_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_BAKED_POTATO:32",
+      "POTATO_GENERATOR_11"
+    ]
   },
   "POTATO_GENERATOR_2": {
     "name": "Potato Minion II",
@@ -27353,7 +28178,10 @@
     "wiki": "https://wiki.hypixel.net/Potato_Talisman"
   },
   "POTION": {
-    "name": "Water Bottle"
+    "name": "Water Bottle",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35000"
+    ]
   },
   "POTION_AFFINITY_TALISMAN": {
     "name": "Potion Affinity Talisman",
@@ -27702,7 +28530,10 @@
     "name": "Pristine V"
   },
   "PROJECTILE_PROTECTION;1": {
-    "name": "Projectile Protection I"
+    "name": "Projectile Protection I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25"
+    ]
   },
   "PROJECTILE_PROTECTION;2": {
     "name": "Projectile Protection II"
@@ -27746,11 +28577,17 @@
       "C2": "STICK:1",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Promising_Axe"
+    "wiki": "https://wiki.hypixel.net/Promising_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35"
+    ]
   },
   "PROMISING_PICKAXE": {
     "name": "Promising Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Promising_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Promising_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35"
+    ]
   },
   "PROMISING_SPADE": {
     "name": "Promising Shovel",
@@ -27775,7 +28612,10 @@
     "name": "Prosecute VI"
   },
   "PROTECTION;1": {
-    "name": "Protection I"
+    "name": "Protection I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "PROTECTION;2": {
     "name": "Protection II"
@@ -27801,7 +28641,10 @@
     "name": "Protection V"
   },
   "PROTECTION;6": {
-    "name": "Protection VI"
+    "name": "Protection VI",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4000000"
+    ]
   },
   "PROTECTION;7": {
     "name": "Protection VII"
@@ -27899,7 +28742,10 @@
   },
   "PULPOUS_ORANGE_JUICE": {
     "name": "Pulpous Orange Juice",
-    "wiki": "https://wiki.hypixel.net/Pulpous_Orange_Juice"
+    "wiki": "https://wiki.hypixel.net/Pulpous_Orange_Juice",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "PULSE_RING": {
     "name": "Pulse Ring",
@@ -27918,7 +28764,10 @@
   },
   "PUMPKIN": {
     "name": "Pumpkin",
-    "wiki": "https://wiki.hypixel.net/Pumpkin"
+    "wiki": "https://wiki.hypixel.net/Pumpkin",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8"
+    ]
   },
   "PUMPKIN_BOMB": {
     "name": "Blast o\u0027 Lantern",
@@ -27971,7 +28820,11 @@
   },
   "PUMPKIN_DICER": {
     "name": "Pumpkin Dicer",
-    "wiki": "https://wiki.hypixel.net/Pumpkin_Dicer"
+    "wiki": "https://wiki.hypixel.net/Pumpkin_Dicer",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "PUMPKIN_GENERATOR_1": {
     "name": "Pumpkin Minion I",
@@ -28020,7 +28873,12 @@
   },
   "PUMPKIN_GENERATOR_12": {
     "name": "Pumpkin Minion XII",
-    "wiki": "https://wiki.hypixel.net/Pumpkin_Minion"
+    "wiki": "https://wiki.hypixel.net/Pumpkin_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_PUMPKIN:1024",
+      "PUMPKIN_GENERATOR_11"
+    ]
   },
   "PUMPKIN_GENERATOR_2": {
     "name": "Pumpkin Minion II",
@@ -28267,7 +29125,10 @@
   },
   "QUARTZ": {
     "name": "Nether Quartz",
-    "wiki": "https://wiki.hypixel.net/Nether_Quartz"
+    "wiki": "https://wiki.hypixel.net/Nether_Quartz",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "QUARTZ_BLOCK:1": {
     "name": "Chiseled Quartz Block",
@@ -28358,7 +29219,12 @@
   },
   "QUARTZ_GENERATOR_12": {
     "name": "Quartz Minion XII",
-    "wiki": "https://wiki.hypixel.net/Quartz_Minion"
+    "wiki": "https://wiki.hypixel.net/Quartz_Minion",
+    "npc_buy_cost": [
+      "QUARTZ_GENERATOR_11:1",
+      "ENCHANTED_QUARTZ_BLOCK:16",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "QUARTZ_GENERATOR_2": {
     "name": "Quartz Minion II",
@@ -28584,11 +29450,17 @@
   },
   "RABBIT_AXE": {
     "name": "Rabbit Axe",
-    "wiki": "https://wiki.hypixel.net/Rabbit_Axe"
+    "wiki": "https://wiki.hypixel.net/Rabbit_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "RABBIT_FOOT": {
     "name": "Rabbit\u0027s Foot",
-    "wiki": "https://wiki.hypixel.net/Rabbit\u0027s_Foot"
+    "wiki": "https://wiki.hypixel.net/Rabbit\u0027s_Foot",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "RABBIT_GENERATOR_1": {
     "name": "Rabbit Minion I",
@@ -28637,7 +29509,12 @@
   },
   "RABBIT_GENERATOR_12": {
     "name": "Rabbit Minion XII",
-    "wiki": "https://wiki.hypixel.net/Rabbit_Minion"
+    "wiki": "https://wiki.hypixel.net/Rabbit_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_RABBIT_HIDE:1024",
+      "RABBIT_GENERATOR_11"
+    ]
   },
   "RABBIT_GENERATOR_2": {
     "name": "Rabbit Minion II",
@@ -28840,7 +29717,10 @@
   },
   "RAIDER_AXE": {
     "name": "Raider Axe",
-    "wiki": "https://wiki.hypixel.net/Raider_Axe"
+    "wiki": "https://wiki.hypixel.net/Raider_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:130000"
+    ]
   },
   "RAILS": {
     "name": "Rail",
@@ -28952,7 +29832,10 @@
   },
   "RAW_FISH": {
     "name": "Raw Fish",
-    "wiki": "https://wiki.hypixel.net/Raw_Fish"
+    "wiki": "https://wiki.hypixel.net/Raw_Fish",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "RAW_SOULFLOW": {
     "name": "Raw Soulflow",
@@ -29166,7 +30049,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Redstone"
+    "wiki": "https://wiki.hypixel.net/Redstone",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4"
+    ]
   },
   "REDSTONE_BLOCK": {
     "name": "Block of Redstone",
@@ -29199,7 +30085,10 @@
       "C1": "STONE:1",
       "C2": "STONE:1",
       "C3": "STONE:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "REDSTONE_GENERATOR_1": {
     "name": "Redstone Minion I",
@@ -29248,7 +30137,12 @@
   },
   "REDSTONE_GENERATOR_12": {
     "name": "Redstone Minion XII",
-    "wiki": "https://wiki.hypixel.net/Redstone_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Redstone_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "ENCHANTED_REDSTONE_BLOCK:32",
+      "REDSTONE_GENERATOR_11"
+    ]
   },
   "REDSTONE_GENERATOR_2": {
     "name": "Redstone Minion II",
@@ -29413,7 +30307,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2"
+    ]
   },
   "RED_CLAW_ARTIFACT": {
     "name": "Red Claw Artifact",
@@ -29470,7 +30367,10 @@
   },
   "RED_MUSHROOM": {
     "name": "Red Mushroom",
-    "wiki": "https://wiki.hypixel.net/Mushroom"
+    "wiki": "https://wiki.hypixel.net/Mushroom",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "RED_NOSE": {
     "name": "Red Nose",
@@ -29606,7 +30506,12 @@
   },
   "RED_SAND_GENERATOR_12": {
     "name": "Red Sand Minion XII",
-    "wiki": "https://wiki.hypixel.net/Red_Sand_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Red_Sand_Minion_XII",
+    "npc_buy_cost": [
+      "RED_SAND_GENERATOR_11:1",
+      "ENCHANTED_RED_SAND_CUBE:32",
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "RED_SAND_GENERATOR_2": {
     "name": "Red Sand Minion II",
@@ -29742,11 +30647,18 @@
   },
   "RED_THORNLEAF_TEA": {
     "name": "Red Thornleaf Tea",
-    "wiki": "https://wiki.hypixel.net/Red_Thornleaf_Tea"
+    "wiki": "https://wiki.hypixel.net/Red_Thornleaf_Tea",
+    "npc_buy_cost": [
+      "RED_THORNLEAF:50",
+      "SKYBLOCK_COIN:20000"
+    ]
   },
   "REFINED_AMBER": {
     "name": "Refined Amber",
-    "wiki": "https://wiki.hypixel.net/Refined_Amber"
+    "wiki": "https://wiki.hypixel.net/Refined_Amber",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "REFINED_DIAMOND": {
     "name": "Refined Diamond",
@@ -29774,7 +30686,11 @@
   },
   "REFINED_TITANIUM_PICKAXE": {
     "name": "Refined Titanium Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Refined_Titanium_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Refined_Titanium_Pickaxe",
+    "npc_buy_cost": [
+      "TITANIUM_PICKAXE",
+      "REFINED_TITANIUM:3"
+    ]
   },
   "REFORGE_ANVIL": {
     "name": "Reforge Anvil",
@@ -29789,7 +30705,10 @@
       "C2": "ENCHANTED_IRON:64",
       "C3": "ENCHANTED_IRON:64"
     },
-    "wiki": "https://wiki.hypixel.net/Reforge_Anvil"
+    "wiki": "https://wiki.hypixel.net/Reforge_Anvil",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000"
+    ]
   },
   "REFUND_COOKIE": {
     "name": "Booster Cookie (Untradable)",
@@ -29921,7 +30840,10 @@
   },
   "REMNANT_OF_THE_EYE": {
     "name": "Remnant of the Eye",
-    "wiki": "https://wiki.hypixel.net/Remnant_Of_The_Eye"
+    "wiki": "https://wiki.hypixel.net/Remnant_Of_The_Eye",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:200000"
+    ]
   },
   "REPELLING_CANDLE": {
     "name": "Repelling Candle",
@@ -30075,7 +30997,12 @@
   },
   "REVENANT_GENERATOR_12": {
     "name": "Revenant Minion XII",
-    "wiki": "https://wiki.hypixel.net/Revenant_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Revenant_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000000",
+      "REVENANT_GENERATOR_11",
+      "REVENANT_VISCERA:64"
+    ]
   },
   "REVENANT_GENERATOR_2": {
     "name": "Revenant Minion II",
@@ -30259,7 +31186,10 @@
   },
   "REVIVE_STONE": {
     "name": "Revive Stone",
-    "wiki": "https://wiki.hypixel.net/Revive_Stone"
+    "wiki": "https://wiki.hypixel.net/Revive_Stone",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "RIFT_NECKLACE_INSIDE_1": {
     "name": "Rift Necklace"
@@ -30351,7 +31281,10 @@
   },
   "ROCK_PAPER_SHEARS": {
     "name": "Rock Paper Shears",
-    "wiki": "https://wiki.hypixel.net/Rock_Paper_Shears"
+    "wiki": "https://wiki.hypixel.net/Rock_Paper_Shears",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "ROCK_THE_FISH": {
     "name": "Rock the Fish",
@@ -30412,31 +31345,52 @@
   },
   "ROOKIE_AXE": {
     "name": "Rookie Axe",
-    "wiki": "https://wiki.hypixel.net/Rookie_Axe"
+    "wiki": "https://wiki.hypixel.net/Rookie_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "ROOKIE_HOE": {
     "name": "Rookie Hoe",
-    "wiki": "https://wiki.hypixel.net/Rookie_Hoe"
+    "wiki": "https://wiki.hypixel.net/Rookie_Hoe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "ROOKIE_PICKAXE": {
     "name": "Rookie Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Rookie_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Rookie_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "ROSETTA_BOOTS": {
     "name": "Rosetta\u0027s Boots",
-    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Boots"
+    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:960"
+    ]
   },
   "ROSETTA_CHESTPLATE": {
     "name": "Rosetta\u0027s Chestplate",
-    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1320"
+    ]
   },
   "ROSETTA_HELMET": {
     "name": "Rosetta\u0027s Helmet",
-    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Helmet"
+    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1050"
+    ]
   },
   "ROSETTA_LEGGINGS": {
     "name": "Rosetta\u0027s Leggings",
-    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Leggings"
+    "wiki": "https://wiki.hypixel.net/Rosetta\u0027s_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1200"
+    ]
   },
   "ROSE_BOUQUET": {
     "name": "Rose Bouquet",
@@ -30452,7 +31406,10 @@
   },
   "ROTTEN_FLESH": {
     "name": "Rotten Flesh",
-    "wiki": "https://wiki.hypixel.net/Rotten_Flesh"
+    "wiki": "https://wiki.hypixel.net/Rotten_Flesh",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8"
+    ]
   },
   "ROTTEN_HELMET": {
     "name": "Rotten Helmet",
@@ -31008,7 +31965,11 @@
   },
   "SCARLETON_PREMIUM": {
     "name": "Scarleton Premium",
-    "wiki": "https://wiki.hypixel.net/Scarleton_Premium"
+    "wiki": "https://wiki.hypixel.net/Scarleton_Premium",
+    "npc_buy_cost": [
+      "MUSHROOM_SPORE:50",
+      "SKYBLOCK_COIN:20000"
+    ]
   },
   "SCATHA;0": {
     "name": "Common Scatha",
@@ -31036,7 +31997,10 @@
     "wiki": "https://wiki.hypixel.net/Scatha_Pet"
   },
   "SCAVENGER;1": {
-    "name": "Scavenger I"
+    "name": "Scavenger I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:40"
+    ]
   },
   "SCAVENGER;2": {
     "name": "Scavenger II",
@@ -31059,11 +32023,17 @@
     "name": "Scavenger IV"
   },
   "SCAVENGER;5": {
-    "name": "Scavenger V"
+    "name": "Scavenger V",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:15000000"
+    ]
   },
   "SCAVENGER_TALISMAN": {
     "name": "Scavenger Talisman",
-    "wiki": "https://wiki.hypixel.net/Scavenger_Talisman"
+    "wiki": "https://wiki.hypixel.net/Scavenger_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "SCORCHED_BOOKS": {
     "name": "Scorched Books",
@@ -31075,7 +32045,10 @@
   },
   "SCORNCLAW_BREW": {
     "name": "Scornclaw Brew",
-    "wiki": "https://wiki.hypixel.net/Scornclaw_Brew"
+    "wiki": "https://wiki.hypixel.net/Scornclaw_Brew",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2000"
+    ]
   },
   "SCORPION_BOW": {
     "name": "Scorpion Bow",
@@ -31328,7 +32301,10 @@
   },
   "SHADOW_GOGGLES": {
     "name": "Shadow Goggles",
-    "wiki": "https://wiki.hypixel.net/Shadow_Goggles"
+    "wiki": "https://wiki.hypixel.net/Shadow_Goggles",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:800000"
+    ]
   },
   "SHADOW_WARP_SCROLL": {
     "name": "Shadow Warp",
@@ -31459,7 +32435,10 @@
     "wiki": "https://wiki.hypixel.net/Shark_Water_Orb"
   },
   "SHARPNESS;1": {
-    "name": "Sharpness I"
+    "name": "Sharpness I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30"
+    ]
   },
   "SHARPNESS;2": {
     "name": "Sharpness II"
@@ -31485,7 +32464,10 @@
     "name": "Sharpness V"
   },
   "SHARPNESS;6": {
-    "name": "Sharpness VI"
+    "name": "Sharpness VI",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "SHARPNESS;7": {
     "name": "Sharpness VII"
@@ -31602,7 +32584,10 @@
   },
   "SHEEP_AXE": {
     "name": "Sheep Axe",
-    "wiki": "https://wiki.hypixel.net/Sheep_Axe"
+    "wiki": "https://wiki.hypixel.net/Sheep_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "SHEEP_GENERATOR_1": {
     "name": "Sheep Minion I",
@@ -31651,7 +32636,12 @@
   },
   "SHEEP_GENERATOR_12": {
     "name": "Sheep Minion XII",
-    "wiki": "https://wiki.hypixel.net/Sheep_Minion_XII"
+    "wiki": "https://wiki.hypixel.net/Sheep_Minion_XII",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_COOKED_MUTTON:16",
+      "SHEEP_GENERATOR_11"
+    ]
   },
   "SHEEP_GENERATOR_2": {
     "name": "Sheep Minion II",
@@ -31881,7 +32871,10 @@
   },
   "SHOWCASE_BLOCK": {
     "name": "Showcase Block",
-    "wiki": "https://wiki.hypixel.net/Showcase_Block"
+    "wiki": "https://wiki.hypixel.net/Showcase_Block",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50000"
+    ]
   },
   "SHRIMP_THE_FISH": {
     "name": "Shrimp the Fish",
@@ -32490,7 +33483,10 @@
   },
   "SKELETON_TALISMAN": {
     "name": "Skeleton Talisman",
-    "wiki": "https://wiki.hypixel.net/Skeleton_Talisman"
+    "wiki": "https://wiki.hypixel.net/Skeleton_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:500"
+    ]
   },
   "SKELETOR_BOOTS": {
     "name": "Skeletor Boots",
@@ -32557,7 +33553,10 @@
   },
   "SLAYER_ENERGY_DRINK": {
     "name": "Slayer Energy Drink",
-    "wiki": "https://wiki.hypixel.net/Brews"
+    "wiki": "https://wiki.hypixel.net/Brews",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8500"
+    ]
   },
   "SLED": {
     "name": "Sled",
@@ -32580,7 +33579,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Slimeball"
+    "wiki": "https://wiki.hypixel.net/Slimeball",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:14"
+    ]
   },
   "SLIME_BLOCK": {
     "name": "Slime Block",
@@ -33040,7 +34042,10 @@
     }
   },
   "SMITE;1": {
-    "name": "Smite I"
+    "name": "Smite I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:20"
+    ]
   },
   "SMITE;2": {
     "name": "Smite II"
@@ -33069,7 +34074,10 @@
     "name": "Smite VI"
   },
   "SMITE;7": {
-    "name": "Smite VII"
+    "name": "Smite VII",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25000000"
+    ]
   },
   "SMOKEY_RUNE;1": {
     "name": "◆ Smokey Rune I"
@@ -33503,7 +34511,10 @@
   },
   "SNOW_SHOVEL": {
     "name": "Snow Shovel",
-    "wiki": "https://wiki.hypixel.net/Snow_Shovel"
+    "wiki": "https://wiki.hypixel.net/Snow_Shovel",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "SNOW_SNOWGLOBE": {
     "name": "Snowglobe Skin",
@@ -33527,7 +34538,10 @@
   },
   "SOCIAL_DISPLAY": {
     "name": "Social Display",
-    "wiki": "https://wiki.hypixel.net/Social_Display"
+    "wiki": "https://wiki.hypixel.net/Social_Display",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "SOLAR_PANEL": {
     "name": "Solar Panel",
@@ -33795,7 +34809,10 @@
       "C1": "GOLD_NUGGET:1",
       "C2": "GOLD_NUGGET:1",
       "C3": "GOLD_NUGGET:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "SPECTRE_DUST": {
     "name": "Spectre Dust",
@@ -34108,11 +35125,17 @@
   },
   "SPIDER_EGG_MIXIN": {
     "name": "Spider Egg Mixin",
-    "wiki": "https://wiki.hypixel.net/Spider_Egg_Mixin"
+    "wiki": "https://wiki.hypixel.net/Spider_Egg_Mixin",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "SPIDER_EYE": {
     "name": "Spider Eye",
-    "wiki": "https://wiki.hypixel.net/Spider_Eye"
+    "wiki": "https://wiki.hypixel.net/Spider_Eye",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:12"
+    ]
   },
   "SPIDER_GENERATOR_1": {
     "name": "Spider Minion I",
@@ -34337,7 +35360,10 @@
       "C2": "STICK:1",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Spider_Sword"
+    "wiki": "https://wiki.hypixel.net/Spider_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "SPIDER_TALISMAN": {
     "name": "Spider Talisman",
@@ -34403,7 +35429,10 @@
     "name": "Spiked Hook VI"
   },
   "SPIRIT": {
-    "name": "Spirit I Potion"
+    "name": "Spirit I Potion",
+    "npc_buy_cost": [
+      "GREEN_CANDY:1"
+    ]
   },
   "SPIRIT;3": {
     "name": "Epic Spirit",
@@ -34545,11 +35574,17 @@
   },
   "SPOOKY_BOOTS": {
     "name": "Spooky Boots",
-    "wiki": "https://wiki.hypixel.net/Spooky_Boots"
+    "wiki": "https://wiki.hypixel.net/Spooky_Boots",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:64"
+    ]
   },
   "SPOOKY_CHESTPLATE": {
     "name": "Spooky Chestplate",
-    "wiki": "https://wiki.hypixel.net/Spooky_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Spooky_Chestplate",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:64"
+    ]
   },
   "SPOOKY_DISC": {
     "name": "Spooky Disc",
@@ -34557,11 +35592,17 @@
   },
   "SPOOKY_HELMET": {
     "name": "Spooky Helmet",
-    "wiki": "https://wiki.hypixel.net/Spooky_Helmet"
+    "wiki": "https://wiki.hypixel.net/Spooky_Helmet",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:64"
+    ]
   },
   "SPOOKY_LEGGINGS": {
     "name": "Spooky Leggings",
-    "wiki": "https://wiki.hypixel.net/Spooky_Leggings"
+    "wiki": "https://wiki.hypixel.net/Spooky_Leggings",
+    "npc_buy_cost": [
+      "PURPLE_CANDY:64"
+    ]
   },
   "SPOOKY_PIE": {
     "name": "Spooky Pie (Year 69)",
@@ -34592,7 +35633,10 @@
   },
   "SPORE_HARVESTER": {
     "name": "Spore Harvester",
-    "wiki": "https://wiki.hypixel.net/Spore_Harvester"
+    "wiki": "https://wiki.hypixel.net/Spore_Harvester",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:95000"
+    ]
   },
   "SPRAY_CAN": {
     "name": "Spray Can",
@@ -34880,23 +35924,38 @@
   },
   "SQUIRE_BOOTS": {
     "name": "Squire Boots",
-    "wiki": "https://wiki.hypixel.net/Squire_Boots"
+    "wiki": "https://wiki.hypixel.net/Squire_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4000"
+    ]
   },
   "SQUIRE_CHESTPLATE": {
     "name": "Squire Chestplate",
-    "wiki": "https://wiki.hypixel.net/Squire_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Squire_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:8000"
+    ]
   },
   "SQUIRE_HELMET": {
     "name": "Squire Helmet",
-    "wiki": "https://wiki.hypixel.net/Squire_Helmet"
+    "wiki": "https://wiki.hypixel.net/Squire_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000"
+    ]
   },
   "SQUIRE_LEGGINGS": {
     "name": "Squire Leggings",
-    "wiki": "https://wiki.hypixel.net/Squire_Leggings"
+    "wiki": "https://wiki.hypixel.net/Squire_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:7000"
+    ]
   },
   "SQUIRE_SWORD": {
     "name": "Squire Sword",
-    "wiki": "https://wiki.hypixel.net/Squire_Sword"
+    "wiki": "https://wiki.hypixel.net/Squire_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000"
+    ]
   },
   "STACKED_PUMPKINS": {
     "name": "Stacked Pumpkins",
@@ -35587,23 +36646,38 @@
   },
   "STARLIGHT_BOOTS": {
     "name": "Starlight Boots",
-    "wiki": "https://wiki.hypixel.net/Starlight_Boots"
+    "wiki": "https://wiki.hypixel.net/Starlight_Boots",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30000"
+    ]
   },
   "STARLIGHT_CHESTPLATE": {
     "name": "Starlight Chestplate",
-    "wiki": "https://wiki.hypixel.net/Starlight_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Starlight_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:70000"
+    ]
   },
   "STARLIGHT_HELMET": {
     "name": "Starlight Helmet",
-    "wiki": "https://wiki.hypixel.net/Starlight_Helmet"
+    "wiki": "https://wiki.hypixel.net/Starlight_Helmet",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35000"
+    ]
   },
   "STARLIGHT_LEGGINGS": {
     "name": "Starlight Leggings",
-    "wiki": "https://wiki.hypixel.net/Starlight_Leggings"
+    "wiki": "https://wiki.hypixel.net/Starlight_Leggings",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:45000"
+    ]
   },
   "STARLIGHT_WAND": {
     "name": "Starlight Wand",
-    "wiki": "https://wiki.hypixel.net/Starlight_Wand"
+    "wiki": "https://wiki.hypixel.net/Starlight_Wand",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:30000"
+    ]
   },
   "STARRED_ADAPTIVE_BOOTS": {
     "name": "⚚ Adaptive Boots",
@@ -35864,7 +36938,10 @@
   },
   "STEEL_CHESTPLATE": {
     "name": "Steel Chestplate",
-    "wiki": "https://wiki.hypixel.net/Steel_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Steel_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "STEP:1": {
     "name": "Sandstone Slab",
@@ -36020,7 +37097,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4"
+    ]
   },
   "STONE:3": {
     "name": "Diorite",
@@ -36132,7 +37212,10 @@
   },
   "STONE_CHESTPLATE": {
     "name": "Stone Chestplate",
-    "wiki": "https://wiki.hypixel.net/Stone_Chestplate"
+    "wiki": "https://wiki.hypixel.net/Stone_Chestplate",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80000"
+    ]
   },
   "STONE_HOE": {
     "name": "Stone Hoe",
@@ -36176,7 +37259,10 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4"
+    ]
   },
   "STONE_SLAB2": {
     "name": "Red Sandstone Slab",
@@ -36224,7 +37310,10 @@
   },
   "STONK_PICKAXE": {
     "name": "Stonk",
-    "wiki": "https://wiki.hypixel.net/Stonk"
+    "wiki": "https://wiki.hypixel.net/Stonk",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:499999"
+    ]
   },
   "STOOL": {
     "name": "Stool",
@@ -36253,7 +37342,10 @@
   },
   "STRING": {
     "name": "String",
-    "wiki": "https://wiki.hypixel.net/String"
+    "wiki": "https://wiki.hypixel.net/String",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "STRONG_BABY": {
     "name": "Baby Skin",
@@ -36397,7 +37489,10 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Sugar"
+    "wiki": "https://wiki.hypixel.net/Sugar",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4"
+    ]
   },
   "SUGAR_CANE": {
     "name": "Sugar Cane"
@@ -36449,7 +37544,12 @@
   },
   "SUGAR_CANE_GENERATOR_12": {
     "name": "Sugar Cane Minion XII",
-    "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion"
+    "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_SUGAR_CANE:32",
+      "SUGAR_CANE_GENERATOR_11"
+    ]
   },
   "SUGAR_CANE_GENERATOR_2": {
     "name": "Sugar Cane Minion II",
@@ -36572,7 +37672,11 @@
     "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion_IX"
   },
   "SUGAR_RUSH;1": {
-    "name": "Sugar Rush I"
+    "name": "Sugar Rush I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:250000",
+      "GREEN_CANDY:64"
+    ]
   },
   "SUGAR_RUSH;2": {
     "name": "Sugar Rush II"
@@ -36582,7 +37686,10 @@
   },
   "SULPHUR": {
     "name": "Gunpowder",
-    "wiki": "https://wiki.hypixel.net/Gunpowder"
+    "wiki": "https://wiki.hypixel.net/Gunpowder",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:10"
+    ]
   },
   "SULPHURIC_COAL": {
     "name": "Sulphuric Coal",
@@ -36647,7 +37754,10 @@
   },
   "SUPERBOOM_TNT": {
     "name": "Superboom TNT",
-    "wiki": "https://wiki.hypixel.net/Superboom_TNT"
+    "wiki": "https://wiki.hypixel.net/Superboom_TNT",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "SUPERB_CARROT_CANDY": {
     "name": "Superb Carrot Candy",
@@ -36742,7 +37852,10 @@
   },
   "SUPER_CLEAVER": {
     "name": "Super Cleaver",
-    "wiki": "https://wiki.hypixel.net/Super_Cleaver"
+    "wiki": "https://wiki.hypixel.net/Super_Cleaver",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80000"
+    ]
   },
   "SUPER_COMPACTOR_3000": {
     "name": "Super Compactor 3000",
@@ -36807,7 +37920,10 @@
   },
   "SUPER_UNDEAD_BOW": {
     "name": "Super Undead Bow",
-    "wiki": "https://wiki.hypixel.net/Super_Undead_Bow"
+    "wiki": "https://wiki.hypixel.net/Super_Undead_Bow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:800000"
+    ]
   },
   "SURFBOARD": {
     "name": "Surfboard",
@@ -36838,7 +37954,10 @@
   },
   "SWEET_AXE": {
     "name": "Sweet Axe",
-    "wiki": "https://wiki.hypixel.net/Sweet_Axe"
+    "wiki": "https://wiki.hypixel.net/Sweet_Axe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "SWEET_FLESH": {
     "name": "Sweet Flesh",
@@ -36961,7 +38080,10 @@
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
-    "wiki": "https://wiki.hypixel.net/Tactician\u0027s_Sword"
+    "wiki": "https://wiki.hypixel.net/Tactician\u0027s_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:35000"
+    ]
   },
   "TAIGA_BIOME_STICK": {
     "name": "Taiga Biome Stick",
@@ -37396,7 +38518,10 @@
   },
   "TEPID_GREEN_TEA": {
     "name": "Tepid Green Tea",
-    "wiki": "https://wiki.hypixel.net/Tepid_Green_Tea"
+    "wiki": "https://wiki.hypixel.net/Tepid_Green_Tea",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000"
+    ]
   },
   "TERMINATOR": {
     "name": "Terminator",
@@ -37446,7 +38571,11 @@
   },
   "THEORETICAL_HOE": {
     "name": "Mathematical Hoe Blueprint",
-    "wiki": "https://wiki.hypixel.net/Mathematical_Hoe_Blueprint"
+    "wiki": "https://wiki.hypixel.net/Mathematical_Hoe_Blueprint",
+    "npc_buy_cost": [
+      "SKYBLOCK_GOLD_MEDAL:1",
+      "JACOBS_TICKET:32"
+    ]
   },
   "THEORETICAL_HOE_CANE_1": {
     "name": "Turing Sugar Cane Hoe",
@@ -37709,7 +38838,10 @@
   },
   "THORNLEAF_SCYTHE": {
     "name": "Thornleaf Scythe",
-    "wiki": "https://wiki.hypixel.net/Thornleaf_Scythe"
+    "wiki": "https://wiki.hypixel.net/Thornleaf_Scythe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "THORNS;1": {
     "name": "Thorns I"
@@ -37885,7 +39017,10 @@
   },
   "TIC_TAC_TOE": {
     "name": "Tic Tac Toe",
-    "wiki": "https://wiki.hypixel.net/Tic_Tac_Toe"
+    "wiki": "https://wiki.hypixel.net/Tic_Tac_Toe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "TIDAL_RUNE;1": {
     "name": "◆ Tidal Rune I"
@@ -37899,27 +39034,47 @@
   "TIGER;0": {
     "name": "Common Tiger",
     "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
-    "wiki": "https://wiki.hypixel.net/Tiger_Pet"
+    "wiki": "https://wiki.hypixel.net/Tiger_Pet",
+    "npc_buy_cost": [
+      "RAW_CHICKEN:128",
+      "SKYBLOCK_COIN:10000"
+    ]
   },
   "TIGER;1": {
     "name": "Uncommon Tiger",
     "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
-    "wiki": "https://wiki.hypixel.net/Tiger_Pet"
+    "wiki": "https://wiki.hypixel.net/Tiger_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_CHICKEN:2",
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "TIGER;2": {
     "name": "Rare Tiger",
     "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
-    "wiki": "https://wiki.hypixel.net/Tiger_Pet"
+    "wiki": "https://wiki.hypixel.net/Tiger_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_CHICKEN:32",
+      "SKYBLOCK_COIN:100000"
+    ]
   },
   "TIGER;3": {
     "name": "Epic Tiger",
     "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
-    "wiki": "https://wiki.hypixel.net/Tiger_Pet"
+    "wiki": "https://wiki.hypixel.net/Tiger_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_CHICKEN:256",
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "TIGER;4": {
     "name": "Legendary Tiger",
     "texture": "fc42638744922b5fcf62cd9bf27eeab91b2e72d6c70e86cc5aa3883993e9d84",
-    "wiki": "https://wiki.hypixel.net/Tiger_Pet"
+    "wiki": "https://wiki.hypixel.net/Tiger_Pet",
+    "npc_buy_cost": [
+      "ENCHANTED_CHICKEN:1024",
+      "SKYBLOCK_COIN:10000000"
+    ]
   },
   "TIGER_SHARK_TOOTH": {
     "name": "Tiger Shark Tooth",
@@ -37971,7 +39126,10 @@
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1"
     },
-    "wiki": "https://wiki.hypixel.net/Titanic_Experience_Bottle"
+    "wiki": "https://wiki.hypixel.net/Titanic_Experience_Bottle",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:712500"
+    ]
   },
   "TITANIUM_ARTIFACT": {
     "name": "Titanium Artifact",
@@ -38014,7 +39172,12 @@
   },
   "TITANIUM_PICKAXE": {
     "name": "Titanium Pickaxe",
-    "wiki": "https://wiki.hypixel.net/Titanium_Pickaxe"
+    "wiki": "https://wiki.hypixel.net/Titanium_Pickaxe",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000",
+      "TITANIUM_ORE:100",
+      "BEJEWELED_HANDLE"
+    ]
   },
   "TITANIUM_RELIC": {
     "name": "Titanium Relic",
@@ -38064,14 +39227,20 @@
       "C1": "SULPHUR:1",
       "C2": "SAND:1",
       "C3": "SULPHUR:1"
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:50"
+    ]
   },
   "TNT_CHARGE": {
     "name": "TNT Charge"
   },
   "TOIL_LOG": {
     "name": "Toil Log",
-    "wiki": "https://wiki.hypixel.net/Toil_Log"
+    "wiki": "https://wiki.hypixel.net/Toil_Log",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:1000000"
+    ]
   },
   "TOPAZ_CRYSTAL": {
     "name": "Topaz Crystal",
@@ -38224,11 +39393,18 @@
   },
   "TRIBAL_SPEAR": {
     "name": "Tribal Spear",
-    "wiki": "https://wiki.hypixel.net/Tribal_Spear"
+    "wiki": "https://wiki.hypixel.net/Tribal_Spear",
+    "npc_buy_cost": [
+      "SLUDGE_JUICE:100",
+      "JUNGLE_HEART:1"
+    ]
   },
   "TRICK_OR_TREAT_BAG": {
     "name": "Trick or Treat Bag",
-    "wiki": "https://wiki.hypixel.net/Trick_Or_Treat_Bag"
+    "wiki": "https://wiki.hypixel.net/Trick_Or_Treat_Bag",
+    "npc_buy_cost": [
+      "GREEN_CANDY:1"
+    ]
   },
   "TRIO_CONTACTS_ADDON": {
     "name": "Abiphone Contacts Trio",
@@ -38261,7 +39437,10 @@
       "C1": "WOOD:1",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:4"
+    ]
   },
   "TROPICAL_BIRD_1_PERSONALITY": {
     "name": "Tropical Bird 1 Minion Skin",
@@ -38276,10 +39455,16 @@
   },
   "TRUE_ESSENCE": {
     "name": "True Essence",
-    "wiki": "https://wiki.hypixel.net/True_Essence"
+    "wiki": "https://wiki.hypixel.net/True_Essence",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:25000"
+    ]
   },
   "TRUE_PROTECTION;1": {
-    "name": "True Protection I"
+    "name": "True Protection I",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:900000"
+    ]
   },
   "TRUE_WARDEN": {
     "name": "True Warden Skin",
@@ -38451,7 +39636,10 @@
   },
   "TUTTI_FRUTTI_POISON": {
     "name": "Tutti-Frutti Flavored Poison",
-    "wiki": "https://wiki.hypixel.net/Brews"
+    "wiki": "https://wiki.hypixel.net/Brews",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:850"
+    ]
   },
   "TWILIGHT_ARROW_POISON": {
     "name": "Twilight Arrow Poison",
@@ -38820,7 +40008,10 @@
   },
   "UNDEAD_BOW": {
     "name": "Undead Bow",
-    "wiki": "https://wiki.hypixel.net/Undead_Bow"
+    "wiki": "https://wiki.hypixel.net/Undead_Bow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:80000"
+    ]
   },
   "UNDEAD_CATALYST": {
     "name": "Undead Catalyst",
@@ -38832,7 +40023,10 @@
   },
   "UNDEAD_SWORD": {
     "name": "Undead Sword",
-    "wiki": "https://wiki.hypixel.net/Undead_Sword"
+    "wiki": "https://wiki.hypixel.net/Undead_Sword",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:100"
+    ]
   },
   "UNSTABLE_BABY": {
     "name": "Baby Skin",
@@ -39164,11 +40358,17 @@
   },
   "VIKING_TEAR": {
     "name": "Viking\u0027s Tear",
-    "wiki": "https://wiki.hypixel.net/Viking\u0027s_Tear"
+    "wiki": "https://wiki.hypixel.net/Viking\u0027s_Tear",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:15000"
+    ]
   },
   "VILLAGE_TALISMAN": {
     "name": "Village Affinity Talisman",
-    "wiki": "https://wiki.hypixel.net/Village_Affinity_Talisman"
+    "wiki": "https://wiki.hypixel.net/Village_Affinity_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2500"
+    ]
   },
   "VINE": {
     "name": "Vines"
@@ -39876,7 +41076,12 @@
   },
   "WHEAT_GENERATOR_12": {
     "name": "Wheat Minion XII",
-    "wiki": "https://wiki.hypixel.net/Wheat_Minion"
+    "wiki": "https://wiki.hypixel.net/Wheat_Minion",
+    "npc_buy_cost": [
+      "SKYBLOCK_PELT:75",
+      "ENCHANTED_HAY_BLOCK:64",
+      "WHEAT_GENERATOR_11"
+    ]
   },
   "WHEAT_GENERATOR_2": {
     "name": "Wheat Minion II",
@@ -40052,7 +41257,10 @@
   },
   "WINTER_ROD": {
     "name": "Winter Rod",
-    "wiki": "https://wiki.hypixel.net/Winter_Rod"
+    "wiki": "https://wiki.hypixel.net/Winter_Rod",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:40000"
+    ]
   },
   "WINTER_WATER_ORB": {
     "name": "Winter Water Orb",
@@ -40231,7 +41439,10 @@
   },
   "WITHER_BOW": {
     "name": "Wither Bow",
-    "wiki": "https://wiki.hypixel.net/Wither_Bow"
+    "wiki": "https://wiki.hypixel.net/Wither_Bow",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:250"
+    ]
   },
   "WITHER_CATALYST": {
     "name": "Wither Catalyst",
@@ -40247,7 +41458,10 @@
   },
   "WITHER_GOGGLES": {
     "name": "Wither Goggles",
-    "wiki": "https://wiki.hypixel.net/Wither_Goggles"
+    "wiki": "https://wiki.hypixel.net/Wither_Goggles",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:5000000"
+    ]
   },
   "WITHER_HELMET": {
     "name": "Wither Helmet",
@@ -40398,7 +41612,10 @@
   },
   "WOLF_FUR_MIXIN": {
     "name": "Wolf Fur Mixin",
-    "wiki": "https://wiki.hypixel.net/Wolf_Fur_Mixin"
+    "wiki": "https://wiki.hypixel.net/Wolf_Fur_Mixin",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:150000"
+    ]
   },
   "WOLF_PAW": {
     "name": "Wolf Paw",
@@ -40615,11 +41832,23 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:2"
+    ]
   },
   "WOOD_SINGULARITY": {
     "name": "Wood Singularity",
-    "wiki": "https://wiki.hypixel.net/Wood_Singularity"
+    "wiki": "https://wiki.hypixel.net/Wood_Singularity",
+    "npc_buy_cost": [
+      "ENCHANTED_OAK_LOG:320",
+      "ENCHANTED_SPRUCE_LOG:320",
+      "ENCHANTED_BIRCH_LOG:320",
+      "ENCHANTED_DARK_OAK_LOG:320",
+      "ENCHANTED_ACACIA_LOG:320",
+      "ENCHANTED_JUNGLE_LOG:320",
+      "SKYBLOCK_COIN:1464000"
+    ]
   },
   "WOOD_SPADE": {
     "name": "Wooden Shovel",
@@ -41660,6 +42889,9 @@
   },
   "ZOMBIE_TALISMAN": {
     "name": "Zombie Talisman",
-    "wiki": "https://wiki.hypixel.net/Zombie_Talisman"
+    "wiki": "https://wiki.hypixel.net/Zombie_Talisman",
+    "npc_buy_cost": [
+      "SKYBLOCK_COIN:500"
+    ]
   }
 }
