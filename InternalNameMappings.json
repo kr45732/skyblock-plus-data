@@ -1622,7 +1622,7 @@
     "wiki": "https://wiki.hypixel.net/Bat_Artifact",
     "npc_buy": {
       "cost": [
-        "BAT_RING",
+        "BAT_RING:1",
         "PURPLE_CANDY:64"
       ],
       "count": 1
@@ -3714,7 +3714,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_CACTUS:32",
-        "CACTUS_GENERATOR_11"
+        "CACTUS_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -4031,7 +4031,7 @@
     "wiki": "https://wiki.hypixel.net/Candy_Artifact",
     "npc_buy": {
       "cost": [
-        "CANDY_RING",
+        "CANDY_RING:1",
         "PURPLE_CANDY:32"
       ],
       "count": 1
@@ -4050,7 +4050,7 @@
     "wiki": "https://wiki.hypixel.net/Candy_Relic",
     "npc_buy": {
       "cost": [
-        "CANDY_ARTIFACT",
+        "CANDY_ARTIFACT:1",
         "PURPLE_CANDY:1024"
       ],
       "count": 1
@@ -4412,7 +4412,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_GOLDEN_CARROT:32",
-        "CARROT_GENERATOR_11"
+        "CARROT_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -5189,7 +5189,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_RAW_CHICKEN:1024",
-        "CHICKEN_GENERATOR_11"
+        "CHICKEN_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -5707,7 +5707,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_COAL_BLOCK:16",
-        "COAL_GENERATOR_11"
+        "COAL_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -5898,7 +5898,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_COBBLESTONE:1024",
-        "COBBLESTONE_GENERATOR_11"
+        "COBBLESTONE_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -6126,7 +6126,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_COOKIE:16",
-        "COCOA_GENERATOR_11"
+        "COCOA_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -6553,7 +6553,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_LEATHER:512",
-        "COW_GENERATOR_11"
+        "COW_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -7943,7 +7943,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_DIAMOND_BLOCK:16",
-        "DIAMOND_GENERATOR_11"
+        "DIAMOND_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -9306,7 +9306,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_EMERALD_BLOCK:16",
-        "EMERALD_GENERATOR_11"
+        "EMERALD_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -15965,7 +15965,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_GOLD_BLOCK:16",
-        "GOLD_GENERATOR_11"
+        "GOLD_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -17287,7 +17287,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "CONCENTRATED_STONE:32",
-        "HARD_STONE_GENERATOR_11"
+        "HARD_STONE_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -19762,7 +19762,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_IRON_BLOCK:16",
-        "IRON_GENERATOR_11"
+        "IRON_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -21166,7 +21166,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_LAPIS_LAZULI_BLOCK:64",
-        "LAPIS_GENERATOR_11"
+        "LAPIS_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -23527,7 +23527,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_MELON_BLOCK:32",
-        "MELON_GENERATOR_11"
+        "MELON_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -24258,7 +24258,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "REFINED_MITHRIL:16",
-        "MITHRIL_GENERATOR_11"
+        "MITHRIL_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -24899,7 +24899,7 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_BROWN_MUSHROOM:512",
         "ENCHANTED_RED_MUSHROOM:512",
-        "MUSHROOM_GENERATOR_11"
+        "MUSHROOM_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -25537,7 +25537,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_NETHER_STALK:1024",
-        "NETHER_WARTS_GENERATOR_11"
+        "NETHER_WARTS_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -26110,7 +26110,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_OBSIDIAN:1024",
-        "OBSIDIAN_GENERATOR_11"
+        "OBSIDIAN_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -28474,7 +28474,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_GRILLED_PORK:16",
-        "PIG_GENERATOR_11"
+        "PIG_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -28874,7 +28874,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_BAKED_POTATO:32",
-        "POTATO_GENERATOR_11"
+        "POTATO_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -29746,7 +29746,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_PUMPKIN:1024",
-        "PUMPKIN_GENERATOR_11"
+        "PUMPKIN_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -30397,7 +30397,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_RABBIT_HIDE:1024",
-        "RABBIT_GENERATOR_11"
+        "RABBIT_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -31040,7 +31040,7 @@
       "cost": [
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_REDSTONE_BLOCK:32",
-        "REDSTONE_GENERATOR_11"
+        "REDSTONE_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -31611,7 +31611,7 @@
     "wiki": "https://wiki.hypixel.net/Refined_Titanium_Pickaxe",
     "npc_buy": {
       "cost": [
-        "TITANIUM_PICKAXE",
+        "TITANIUM_PICKAXE:1",
         "REFINED_TITANIUM:3"
       ],
       "count": 1
@@ -31938,7 +31938,7 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000000",
-        "REVENANT_GENERATOR_11",
+        "REVENANT_GENERATOR_11:1",
         "REVENANT_VISCERA:64"
       ],
       "count": 1
@@ -33644,7 +33644,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_COOKED_MUTTON:16",
-        "SHEEP_GENERATOR_11"
+        "SHEEP_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -38672,7 +38672,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_SUGAR_CANE:32",
-        "SUGAR_CANE_GENERATOR_11"
+        "SUGAR_CANE_GENERATOR_11:1"
       ],
       "count": 1
     }
@@ -40354,7 +40354,7 @@
       "cost": [
         "SKYBLOCK_COIN:1000000",
         "TITANIUM_ORE:100",
-        "BEJEWELED_HANDLE"
+        "BEJEWELED_HANDLE:1"
       ],
       "count": 1
     }
@@ -42309,7 +42309,7 @@
       "cost": [
         "SKYBLOCK_PELT:75",
         "ENCHANTED_HAY_BLOCK:64",
-        "WHEAT_GENERATOR_11"
+        "WHEAT_GENERATOR_11:1"
       ],
       "count": 1
     }
