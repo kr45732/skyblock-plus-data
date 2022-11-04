@@ -7629,7 +7629,8 @@
       "C1": "",
       "C2": "MITE_GEL:16",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Deepterror_Mixin"
   },
   "DEEP_OCEAN_BIOME_STICK": {
     "name": "Deep Ocean Biome Stick",
@@ -8523,7 +8524,8 @@
       "C1": "RITUAL_RESIDUE:3",
       "C2": "TESSELLATED_ENDER_PEARL:1",
       "C3": "RITUAL_RESIDUE:3"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Draconic_Artifact"
   },
   "DRACONIC_RING": {
     "name": "Draconic Ring",
@@ -8537,7 +8539,8 @@
       "C1": "RITUAL_RESIDUE:1",
       "C2": "TESSELLATED_ENDER_PEARL:1",
       "C3": "RITUAL_RESIDUE:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Draconic_Ring"
   },
   "DRACONIC_TALISMAN": {
     "name": "Draconic Talisman",
@@ -8551,7 +8554,8 @@
       "C1": "MITE_GEL:16",
       "C2": "MITE_GEL:16",
       "C3": "RITUAL_RESIDUE:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Draconic_Talisman"
   },
   "DRAGONFADE_CLOAK": {
     "name": "Dragonfade Cloak",
@@ -8580,7 +8584,8 @@
       "C1": "ABSOLUTE_ENDER_PEARL:16",
       "C2": "ABSOLUTE_ENDER_PEARL:16",
       "C3": "ABSOLUTE_ENDER_PEARL:16"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Dragonfuse_Glove"
   },
   "DRAGON_CLAW": {
     "name": "Dragon Claw",
@@ -11646,7 +11651,8 @@
     "wiki": "https://wiki.hypixel.net/Ender_Artifact"
   },
   "ENDER_BELT": {
-    "name": "Ender Belt"
+    "name": "Ender Belt",
+    "wiki": "https://wiki.hypixel.net/Ender_Belt"
   },
   "ENDER_BOW": {
     "name": "Ender Bow",
@@ -11679,7 +11685,8 @@
     "wiki": "https://wiki.hypixel.net/Ender_Chest"
   },
   "ENDER_CLOAK": {
-    "name": "Ender Cloak"
+    "name": "Ender Cloak",
+    "wiki": "https://wiki.hypixel.net/Ender_Cloak"
   },
   "ENDER_DRAGON;3": {
     "name": "Epic Ender Dragon",
@@ -11692,14 +11699,16 @@
     "wiki": "https://wiki.hypixel.net/Ender_Dragon_Pet"
   },
   "ENDER_GAUNTLET": {
-    "name": "Ender Gauntlet"
+    "name": "Ender Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Ender_Gauntlet"
   },
   "ENDER_MONOCLE": {
     "name": "Ender Monocle",
     "wiki": "https://wiki.hypixel.net/Ender_Monocle"
   },
   "ENDER_NECKLACE": {
-    "name": "Ender Necklace"
+    "name": "Ender Necklace",
+    "wiki": "https://wiki.hypixel.net/Ender_Necklace"
   },
   "ENDER_PEARL": {
     "name": "Ender Pearl",
@@ -17783,7 +17792,8 @@
     "wiki": "https://wiki.hypixel.net/Hollow_Leggings"
   },
   "HOLLOW_WAND": {
-    "name": "Hollow Wand"
+    "name": "Hollow Wand",
+    "wiki": "https://wiki.hypixel.net/Hollow_Wand"
   },
   "HOLOGRAM": {
     "name": "Hologram",
@@ -18348,7 +18358,8 @@
       "B3": "CATALYST:1",
       "C1": "CATALYST:1",
       "C2": "CATALYST:1",
-      "C3": "CATALYST:1"
+      "C3": "CATALYST:1",
+      "count": 8
     },
     "wiki": "https://wiki.hypixel.net/Hyper_Catalyst"
   },
@@ -24497,7 +24508,19 @@
     "forge": 64800
   },
   "MIXED_MITE_GEL": {
-    "name": "Mixed Mite Gel"
+    "name": "Mixed Mite Gel",
+    "recipe": {
+      "A1": "",
+      "A2": "MITE_GEL:32",
+      "A3": "",
+      "B1": "MITE_GEL:32",
+      "B2": "MITE_GEL:32",
+      "B3": "MITE_GEL:32",
+      "C1": "",
+      "C2": "MITE_GEL:32",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Mixed_Mite_Gel"
   },
   "MOBYS_SHEARS": {
     "name": "Moby\u0027s Shears",
@@ -40896,7 +40919,8 @@
       "B3": "SUPERB_CARROT_CANDY:1",
       "C1": "SUPERB_CARROT_CANDY:1",
       "C2": "SUPERB_CARROT_CANDY:1",
-      "C3": "SUPERB_CARROT_CANDY:1"
+      "C3": "SUPERB_CARROT_CANDY:1",
+      "count": 10
     },
     "wiki": "https://wiki.hypixel.net/Ultimate_Carrot_Candy"
   },
