@@ -1,5 +1,6 @@
 {
   "manual": {
+    "WHEAT": 7,
     "SNOW_GENERATOR_1": 750000,
     "FLOWER_GENERATOR_1": 12000000,
     "SUPERBOOM_TNT": 2500,
