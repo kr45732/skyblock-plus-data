@@ -27,7 +27,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XIII_PRO_GIGA": {
@@ -36,7 +37,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XII_MEGA": {
@@ -45,7 +47,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XII_MEGA_COLOR": {
@@ -54,7 +57,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XIV_ENORMOUS": {
@@ -63,7 +67,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XIV_ENORMOUS_BLACK": {
@@ -72,7 +77,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XIV_ENORMOUS_PURPLE": {
@@ -81,7 +87,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XI_ULTRA": {
@@ -90,7 +97,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_XI_ULTRA_STYLE": {
@@ -99,7 +107,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:7000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_X_PLUS": {
@@ -108,7 +117,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABIPHONE_X_PLUS_SPECIAL_EDITION": {
@@ -117,7 +127,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ABSOLUTE_ENDER_PEARL": {
@@ -708,17 +719,47 @@
       "C3": "PRISMARINE_CRYSTALS:1"
     }
   },
+  "ARACHNE_BOOTS": {
+    "name": "Arachne\u0027s Boots"
+  },
+  "ARACHNE_CHESTPLATE": {
+    "name": "Arachne\u0027s Chestplate"
+  },
+  "ARACHNE_CLOAK": {
+    "name": "Arachne\u0027s Cloak"
+  },
   "ARACHNE_CRYSTAL": {
     "name": "Arachne Crystal",
     "wiki": "https://wiki.hypixel.net/Arachne_Crystal"
+  },
+  "ARACHNE_FANG": {
+    "name": "Arachne\u0027s Fang"
   },
   "ARACHNE_FRAGMENT": {
     "name": "Arachne Fragment",
     "wiki": "https://wiki.hypixel.net/Arachne_Fragment"
   },
+  "ARACHNE_HELMET": {
+    "name": "Arachne\u0027s Helmet"
+  },
   "ARACHNE_KEEPER_FRAGMENT": {
-    "name": "Arachne\u0027s Keeper Fragment",
+    "name": "Arachne\u0027s Calling",
     "wiki": "https://wiki.hypixel.net/Arachne\u0027s_Keeper_Fragment"
+  },
+  "ARACHNE_LEGGINGS": {
+    "name": "Arachne\u0027s Leggings"
+  },
+  "ARACHNE_NECKLACE": {
+    "name": "Arachne\u0027s Necklace"
+  },
+  "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to Arachne\u0027s Sanctuary"
+  },
+  "ARACK": {
+    "name": "Arack"
+  },
+  "ARCHAEOLOGIST_COMPASS": {
+    "name": "Archaeologist\u0027s Compass"
   },
   "ARCHERY": {
     "name": "Archery Potion"
@@ -890,7 +931,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:40"
-      ]
+      ],
+      "count": 1
     }
   },
   "ARROW_BUNDLE_MAGMA": {
@@ -932,7 +974,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:600"
-      ]
+      ],
+      "count": 1
     }
   },
   "ASCENSION_ROPE": {
@@ -1057,7 +1100,8 @@
       "cost": [
         "SKYBLOCK_COIN:95000",
         "ENCHANTED_MYCELIUM:500"
-      ]
+      ],
+      "count": 1
     }
   },
   "ATOMSPLIT_KATANA": {
@@ -1204,7 +1248,8 @@
       "cost": [
         "SKYBLOCK_COIN:100000",
         "MITHRIL_ORE:200"
-      ]
+      ],
+      "count": 1
     }
   },
   "BANE_OF_ARTHROPODS;1": {
@@ -1212,7 +1257,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "BANE_OF_ARTHROPODS;2": {
@@ -1513,7 +1559,8 @@
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:2",
         "JACOBS_TICKET:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "BAT;0": {
@@ -1607,7 +1654,8 @@
       "cost": [
         "BAT_RING:1",
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "BAT_FIREWORK": {
@@ -1616,7 +1664,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "BAT_PERSON_ARTIFACT": {
@@ -1720,7 +1769,8 @@
       "cost": [
         "BAT_TALISMAN:1",
         "GREEN_CANDY:65"
-      ]
+      ],
+      "count": 1
     }
   },
   "BAT_TALISMAN": {
@@ -2090,7 +2140,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BIRCH_DOOR_ITEM": {
@@ -2352,7 +2403,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1200"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLACKSMITH_PLUS": {
@@ -2366,7 +2418,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:2000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLACK_CAT_PLUSH": {
@@ -2379,7 +2432,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLADE_OF_THE_VOLCANO": {
@@ -2567,7 +2621,8 @@
         "BLAZE_GENERATOR_11:1",
         "ENCHANTED_BLAZE_ROD:16",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLAZE_GENERATOR_2": {
@@ -2741,7 +2796,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLAZE_ROD": {
@@ -2750,7 +2806,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLAZE_ROD_DISTILLATE": {
@@ -2808,7 +2865,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLESSING;1": {
@@ -2911,7 +2969,8 @@
       "cost": [
         "RAW_FISH:64",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLUE_WHALE;1": {
@@ -2922,7 +2981,8 @@
       "cost": [
         "ENCHANTED_RAW_FISH:1",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLUE_WHALE;2": {
@@ -2933,7 +2993,8 @@
       "cost": [
         "ENCHANTED_RAW_FISH:16",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLUE_WHALE;3": {
@@ -2944,7 +3005,8 @@
       "cost": [
         "ENCHANTED_COOKED_FISH:1",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BLUE_WHALE;4": {
@@ -2955,7 +3017,8 @@
       "cost": [
         "ENCHANTED_COOKED_FISH:8",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BOAT": {
@@ -2986,7 +3049,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8"
-      ]
+      ],
+      "count": 1
     }
   },
   "BONE_BOOMERANG": {
@@ -3037,7 +3101,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "BOOKCASE": {
@@ -3109,7 +3174,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BOUNCY_ARROW": {
@@ -3155,7 +3221,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25"
-      ]
+      ],
+      "count": 1
     }
   },
   "BOWL": {
@@ -3223,7 +3290,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "BRICK": {
@@ -3296,7 +3364,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "BUCKET": {
@@ -3589,7 +3658,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "CACTUS_BOOTS": {
@@ -3675,7 +3745,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_CACTUS:32",
         "CACTUS_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "CACTUS_GENERATOR_2": {
@@ -3820,7 +3891,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "CACTUS_LEGGINGS": {
@@ -3991,7 +4063,8 @@
       "cost": [
         "CANDY_RING:1",
         "PURPLE_CANDY:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "CANDY_BOWL": {
@@ -4009,7 +4082,8 @@
       "cost": [
         "CANDY_ARTIFACT:1",
         "PURPLE_CANDY:1024"
-      ]
+      ],
+      "count": 1
     }
   },
   "CANDY_RING": {
@@ -4019,7 +4093,8 @@
       "cost": [
         "CANDY_TALISMAN:1",
         "GREEN_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "CANDY_TALISMAN": {
@@ -4028,7 +4103,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:16"
-      ]
+      ],
+      "count": 1
     }
   },
   "CANDY_THE_FISH": {
@@ -4367,7 +4443,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_GOLDEN_CARROT:32",
         "CARROT_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "CARROT_GENERATOR_2": {
@@ -4781,7 +4858,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CELESTE_CHESTPLATE": {
@@ -4790,7 +4868,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CELESTE_HELMET": {
@@ -4799,7 +4878,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CELESTE_LEGGINGS": {
@@ -4808,7 +4888,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:7000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CELESTE_WAND": {
@@ -4817,7 +4898,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHAINMAIL_BOOTS": {
@@ -4906,7 +4988,8 @@
       "cost": [
         "SKYBLOCK_COIN:95000",
         "MUSHROOM_SPORE:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHEAP_COFFEE": {
@@ -4915,7 +4998,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHEAP_TUXEDO_BOOTS": {
@@ -4924,7 +5008,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHEAP_TUXEDO_CHESTPLATE": {
@@ -4933,7 +5018,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHEAP_TUXEDO_LEGGINGS": {
@@ -4942,7 +5028,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHEESE_FUEL": {
@@ -5072,7 +5159,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHICKEN_COOP": {
@@ -5132,7 +5220,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_RAW_CHICKEN:1024",
         "CHICKEN_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "CHICKEN_GENERATOR_2": {
@@ -5649,7 +5738,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_COAL_BLOCK:16",
         "COAL_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "COAL_GENERATOR_2": {
@@ -5782,7 +5872,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:3"
-      ]
+      ],
+      "count": 1
     }
   },
   "COBBLESTONE_GENERATOR_1": {
@@ -5838,7 +5929,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_COBBLESTONE:1024",
         "COBBLESTONE_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "COBBLESTONE_GENERATOR_2": {
@@ -6008,7 +6100,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:7"
-      ]
+      ],
+      "count": 1
     }
   },
   "COCOA_GENERATOR_1": {
@@ -6064,7 +6157,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_COOKIE:16",
         "COCOA_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "COCOA_GENERATOR_2": {
@@ -6194,7 +6288,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "COFFEE_TABLE": {
@@ -6317,7 +6412,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "CONTROL_SWITCH": {
@@ -6431,7 +6527,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "COW_GENERATOR_1": {
@@ -6487,7 +6584,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_LEATHER:512",
         "COW_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "COW_GENERATOR_2": {
@@ -7213,7 +7311,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80000"
-      ]
+      ],
+      "count": 1
     }
   },
   "DARK_OAK_DOOR_ITEM": {
@@ -7442,7 +7541,7 @@
     "wiki": "https://wiki.hypixel.net/Dark_Orb"
   },
   "DARK_QUEENS_SOUL_DROP": {
-    "name": "Dark Queen\u0027s Soul Drop",
+    "name": "Dark Queen\u0027s Soul",
     "wiki": "https://wiki.hypixel.net/Dark_Queen\u0027s_Soul_Drop"
   },
   "DAYLIGHT_DETECTOR": {
@@ -7461,7 +7560,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:18"
-      ]
+      ],
+      "count": 1
     }
   },
   "DAY_CRYSTAL": {
@@ -7521,7 +7621,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "DECAYED_BAT": {
@@ -7538,7 +7639,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
-      ]
+      ],
+      "count": 1
     }
   },
   "DECK_CHAIR": {
@@ -7589,7 +7691,8 @@
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:2",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "DELIRIUM_NECKLACE": {
@@ -7872,7 +7975,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_DIAMOND_BLOCK:16",
         "DIAMOND_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "DIAMOND_GENERATOR_2": {
@@ -8142,7 +8246,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60"
-      ]
+      ],
+      "count": 1
     }
   },
   "DIAMOND_THE_FISH": {
@@ -8194,7 +8299,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:6"
-      ]
+      ],
+      "count": 1
     }
   },
   "DIRT:1": {
@@ -8225,7 +8331,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "DIRT_ROD": {
@@ -8527,7 +8634,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "DRAGON_HUNTER;2": {
@@ -8608,7 +8716,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:3400"
-      ]
+      ],
+      "count": 1
     }
   },
   "DUECES_BUILDER_CLAY": {
@@ -8811,7 +8920,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "ECTOPLASM": {
@@ -8842,7 +8952,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "EFFICIENCY;2": {
@@ -8874,7 +8985,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "EGG": {
@@ -8887,7 +8999,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "EGG_PILE": {
@@ -8912,7 +9025,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:24999999"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEGANT_TUXEDO_CHESTPLATE": {
@@ -8921,7 +9035,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:24999999"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEGANT_TUXEDO_LEGGINGS": {
@@ -8930,7 +9045,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:24999999"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEPHANT;0": {
@@ -8941,7 +9057,8 @@
       "cost": [
         "LOG_2:64",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEPHANT;1": {
@@ -8952,7 +9069,8 @@
       "cost": [
         "ENCHANTED_DARK_OAK_LOG:1",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEPHANT;2": {
@@ -8963,7 +9081,8 @@
       "cost": [
         "ENCHANTED_DARK_OAK_LOG:16",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEPHANT;3": {
@@ -8974,7 +9093,8 @@
       "cost": [
         "ENCHANTED_DARK_OAK_LOG:128",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELEPHANT;4": {
@@ -8985,7 +9105,8 @@
       "cost": [
         "ENCHANTED_DARK_OAK_LOG:512",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ELLES_PICKAXE": {
@@ -9221,7 +9342,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_EMERALD_BLOCK:16",
         "EMERALD_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "EMERALD_GENERATOR_2": {
@@ -9518,7 +9640,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:6"
-      ]
+      ],
+      "count": 1
     }
   },
   "ENCHANTED_BOOK": {
@@ -11675,7 +11798,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1500000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ENDER_SLAYER;7": {
@@ -11687,7 +11811,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "ENDER_STONE_GENERATOR_1": {
@@ -11904,7 +12029,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "END_STONE_BOW": {
@@ -11947,7 +12073,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150"
-      ]
+      ],
+      "count": 1
     }
   },
   "ENRAGER": {
@@ -12160,7 +12287,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:400000"
-      ]
+      ],
+      "count": 1
     }
   },
   "EXPERIENCE_ARTIFACT": {
@@ -12255,7 +12383,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "EXTRA_LARGE_GEMSTONE_SACK": {
@@ -12314,7 +12443,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80"
-      ]
+      ],
+      "count": 1
     }
   },
   "FANCY_TUXEDO_BOOTS": {
@@ -12323,7 +12453,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:6666666"
-      ]
+      ],
+      "count": 1
     }
   },
   "FANCY_TUXEDO_CHESTPLATE": {
@@ -12332,7 +12463,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:6666666"
-      ]
+      ],
+      "count": 1
     }
   },
   "FANCY_TUXEDO_LEGGINGS": {
@@ -12341,7 +12473,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:6666666"
-      ]
+      ],
+      "count": 1
     }
   },
   "FARMER_BOOTS": {
@@ -13269,7 +13402,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "FIRE_PROTECTION;2": {
@@ -13559,7 +13693,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "FISHING_XP_BOOST": {
@@ -14426,7 +14561,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "FRAIL;1": {
@@ -14484,7 +14620,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:75000"
-      ]
+      ],
+      "count": 1
     }
   },
   "FROST_WALKER;1": {
@@ -14635,7 +14772,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "FURBALL": {
@@ -14850,7 +14988,8 @@
         "GHAST_GENERATOR_11:1",
         "SILVER_FANG:1024",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GHAST_GENERATOR_2": {
@@ -14994,7 +15133,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:200"
-      ]
+      ],
+      "count": 1
     }
   },
   "GHOST_BOOK": {
@@ -15048,7 +15188,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GIANT_FISHING_ROD": {
@@ -15176,7 +15317,8 @@
       "cost": [
         "LOG_2:64",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GIRAFFE;1": {
@@ -15187,7 +15329,8 @@
       "cost": [
         "ENCHANTED_ACACIA_LOG:1",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GIRAFFE;2": {
@@ -15198,7 +15341,8 @@
       "cost": [
         "ENCHANTED_ACACIA_LOG:16",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GIRAFFE;3": {
@@ -15209,7 +15353,8 @@
       "cost": [
         "ENCHANTED_ACACIA_LOG:128",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GIRAFFE;4": {
@@ -15220,7 +15365,8 @@
       "cost": [
         "ENCHANTED_ACACIA_LOG:512",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GLACIAL_WISP;3": {
@@ -15381,7 +15527,8 @@
         "GLOWSTONE_GENERATOR_11:1",
         "ENCHANTED_GLOWSTONE:32",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "GLOWSTONE_GENERATOR_2": {
@@ -15636,7 +15783,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLDEN_DANTE_STATUE": {
@@ -15756,7 +15904,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:9"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_CANDY": {
@@ -15784,7 +15933,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:16"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_CLAWS": {
@@ -15855,7 +16005,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_GOLD_BLOCK:16",
         "GOLD_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_GENERATOR_2": {
@@ -15999,7 +16150,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_HOE": {
@@ -16071,7 +16223,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:14"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_LIVID_HEAD": {
@@ -16117,7 +16270,8 @@
     "npc_buy": {
       "cost": [
         "GOLD_INGOT:3"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_PLATE": {
@@ -16136,7 +16290,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:16"
-      ]
+      ],
+      "count": 1
     }
   },
   "GOLD_PROFESSOR_HEAD": {
@@ -16349,7 +16504,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4750"
-      ]
+      ],
+      "count": 1
     }
   },
   "GRAND_SEARING_RUNE;3": {
@@ -17092,7 +17248,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15000"
-      ]
+      ],
+      "count": 1
     }
   },
   "HARD_CLAY": {
@@ -17170,7 +17327,8 @@
         "SKYBLOCK_COIN:2000000",
         "CONCENTRATED_STONE:32",
         "HARD_STONE_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "HARD_STONE_GENERATOR_2": {
@@ -17632,7 +17790,8 @@
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:1",
         "JACOBS_TICKET:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "HOE_OF_GREAT_TILLING": {
@@ -17642,7 +17801,8 @@
       "cost": [
         "SKYBLOCK_BRONZE_MEDAL:1",
         "JACOBS_TICKET:5"
-      ]
+      ],
+      "count": 1
     }
   },
   "HOLLOW_BOOTS": {
@@ -17777,7 +17937,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "HOPPER_MINECART": {
@@ -17899,7 +18060,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "HOT_AURORA_BOOTS": {
@@ -17939,7 +18101,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:70000"
-      ]
+      ],
+      "count": 1
     }
   },
   "HOT_CRIMSON_BOOTS": {
@@ -18070,7 +18233,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "HUB_CRYPTS_PORTAL": {
@@ -18239,7 +18403,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:800000"
-      ]
+      ],
+      "count": 1
     }
   },
   "HYPER_FURNACE": {
@@ -18267,7 +18432,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "ICE_BAIT": {
@@ -18287,7 +18453,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "ICE_CHAIR": {
@@ -19146,7 +19313,8 @@
     "npc_buy": {
       "cost": [
         "JACOBS_TICKET:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "INFINITE_QUIVER;1": {
@@ -19447,7 +19615,8 @@
       "cost": [
         "INTIMIDATION_RING:1",
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "INTIMIDATION_RING": {
@@ -19457,7 +19626,8 @@
       "cost": [
         "INTIMIDATION_TALISMAN:1",
         "GREEN_CANDY:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "INTIMIDATION_TALISMAN": {
@@ -19466,7 +19636,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "INVISIBILITY": {
@@ -19523,7 +19694,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_CHEST": {
@@ -19547,7 +19719,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_DOOR": {
@@ -19631,7 +19804,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_IRON_BLOCK:16",
         "IRON_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_GENERATOR_2": {
@@ -19771,7 +19945,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_HOE": {
@@ -19827,7 +20002,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_ORE": {
@@ -19851,7 +20027,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_PLATE": {
@@ -19870,7 +20047,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "IRON_SPADE": {
@@ -20235,7 +20413,8 @@
       "cost": [
         "SLUDGE_JUICE:500",
         "JUNGLE_HEART:4"
-      ]
+      ],
+      "count": 1
     }
   },
   "JUNGLE_AXE": {
@@ -20485,7 +20664,8 @@
     "npc_buy": {
       "cost": [
         "SLUDGE_JUICE:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "JUNGLE_PICKAXE": {
@@ -20494,7 +20674,8 @@
     "npc_buy": {
       "cost": [
         "SLUDGE_JUICE:200"
-      ]
+      ],
+      "count": 1
     }
   },
   "JUNGLE_WOOD_STAIRS": {
@@ -20522,7 +20703,8 @@
       "cost": [
         "SLUDGE_JUICE:20",
         "WOOD:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "KARATE_FISH_BRONZE": {
@@ -20588,7 +20770,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1500"
-      ]
+      ],
+      "count": 1
     }
   },
   "KRAMPUS_HELMET": {
@@ -20681,7 +20864,8 @@
         "SKYBLOCK_COIN:38000",
         "ENCHANTED_MYCELIUM:6",
         "CORRUPTED_NETHER_STAR:2"
-      ]
+      ],
+      "count": 1
     }
   },
   "KUUDRA_INFERNAL_TIER_KEY": {
@@ -20726,7 +20910,8 @@
         "SKYBLOCK_COIN:7600",
         "ENCHANTED_MYCELIUM:2",
         "CORRUPTED_NETHER_STAR:2"
-      ]
+      ],
+      "count": 1
     }
   },
   "LADDER": {
@@ -20753,7 +20938,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_BLUE": {
@@ -20762,7 +20948,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_BROWN": {
@@ -20771,7 +20958,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_CYAN": {
@@ -20780,7 +20968,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_GRAY": {
@@ -20789,7 +20978,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_GREEN": {
@@ -20798,7 +20988,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_LIGHT_BLUE": {
@@ -20807,7 +20998,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_LIGHT_GRAY": {
@@ -20816,7 +21008,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_LILAC": {
@@ -20825,7 +21018,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_LIME": {
@@ -20834,7 +21028,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_MAGENTA": {
@@ -20843,7 +21038,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_ORANGE": {
@@ -20852,7 +21048,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_PINK": {
@@ -20861,7 +21058,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_PURPLE": {
@@ -20870,7 +21068,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_RAINBOW": {
@@ -20879,7 +21078,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:250000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_RED": {
@@ -20888,7 +21088,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_WHITE": {
@@ -20897,7 +21098,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAMP_YELLOW": {
@@ -20906,7 +21108,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LANTERN": {
@@ -21005,7 +21208,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_LAPIS_LAZULI_BLOCK:64",
         "LAPIS_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAPIS_GENERATOR_2": {
@@ -21431,7 +21635,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:250000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LAST_BREATH": {
@@ -21871,7 +22076,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2"
-      ]
+      ],
+      "count": 1
     }
   },
   "LIFE_PRESERVER": {
@@ -21904,7 +22110,8 @@
       "cost": [
         "SKYBLOCK_COIN:1500000",
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "LIFE_STEAL;5": {
@@ -21945,7 +22152,8 @@
       "cost": [
         "RAW_BEEF:128",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LION;1": {
@@ -21956,7 +22164,8 @@
       "cost": [
         "ENCHANTED_RAW_BEEF:2",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LION;2": {
@@ -21967,7 +22176,8 @@
       "cost": [
         "ENCHANTED_RAW_BEEF:32",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LION;3": {
@@ -21978,7 +22188,8 @@
       "cost": [
         "ENCHANTED_RAW_BEEF:256",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LION;4": {
@@ -21989,7 +22200,8 @@
       "cost": [
         "ENCHANTED_RAW_BEEF:1024",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LIVID_DAGGER": {
@@ -22018,7 +22230,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25"
-      ]
+      ],
+      "count": 1
     }
   },
   "LOG_2:1": {
@@ -22031,7 +22244,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25"
-      ]
+      ],
+      "count": 1
     }
   },
   "LONG_GRASS:1": {
@@ -22107,7 +22321,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "LUCKY_HOOF": {
@@ -22235,7 +22450,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "MAGIC_MUSHROOM_SOUP": {
@@ -22310,7 +22526,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "MAGMA_CREAM_DISTILLATE": {
@@ -22395,7 +22612,8 @@
         "MAGMA_CUBE_GENERATOR_11:1",
         "ENCHANTED_MAGMA_CREAM:1024",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MAGMA_CUBE_GENERATOR_2": {
@@ -22857,7 +23075,8 @@
       "cost": [
         "MUSHROOM_SPORE:5",
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MASTER_SKULL_TIER_1": {
@@ -23293,7 +23512,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "MELON_GENERATOR_1": {
@@ -23349,7 +23569,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_MELON_BLOCK:32",
         "MELON_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "MELON_GENERATOR_2": {
@@ -23496,7 +23717,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MENDER_FEDORA": {
@@ -23505,7 +23727,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:800000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MENDER_HELMET": {
@@ -23514,7 +23737,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MERCENARY_AXE": {
@@ -23523,7 +23747,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MERCENARY_BOOTS": {
@@ -23532,7 +23757,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MERCENARY_CHESTPLATE": {
@@ -23541,7 +23767,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:70000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MERCENARY_HELMET": {
@@ -23550,7 +23777,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MERCENARY_LEGGINGS": {
@@ -23559,7 +23787,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:45000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MESA_BIOME_STICK": {
@@ -23583,7 +23812,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:800000"
-      ]
+      ],
+      "count": 1
     }
   },
   "METEOR_SHARD": {
@@ -23779,7 +24009,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "MINING_1_PORTAL": {
@@ -24069,7 +24300,8 @@
         "SKYBLOCK_COIN:2000000",
         "REFINED_MITHRIL:16",
         "MITHRIL_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "MITHRIL_GENERATOR_2": {
@@ -24333,7 +24565,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MOLDFIN_BRONZE": {
@@ -24395,7 +24628,8 @@
       "cost": [
         "LOG_2:64",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MONKEY;1": {
@@ -24406,7 +24640,8 @@
       "cost": [
         "ENCHANTED_JUNGLE_LOG:1",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MONKEY;2": {
@@ -24417,7 +24652,8 @@
       "cost": [
         "ENCHANTED_JUNGLE_LOG:16",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MONKEY;3": {
@@ -24428,7 +24664,8 @@
       "cost": [
         "ENCHANTED_JUNGLE_LOG:128",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MONKEY;4": {
@@ -24439,7 +24676,8 @@
       "cost": [
         "ENCHANTED_JUNGLE_LOG:512",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MONSTER_EGG": {
@@ -24454,7 +24692,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:3700000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MOOGMA_LEGGINGS": {
@@ -24656,7 +24895,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MUSHROOM_GENERATOR_1": {
@@ -24713,7 +24953,8 @@
         "ENCHANTED_BROWN_MUSHROOM:512",
         "ENCHANTED_RED_MUSHROOM:512",
         "MUSHROOM_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "MUSHROOM_GENERATOR_2": {
@@ -24937,7 +25178,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "MYCELIUM_DUST": {
@@ -25008,7 +25250,8 @@
         "MYCELIUM_GENERATOR_11:1",
         "ENCHANTED_MYCELIUM_CUBE:32",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "MYCELIUM_GENERATOR_2": {
@@ -25284,7 +25527,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "NETHER_STALK_DISTILLATE": {
@@ -25347,7 +25591,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_NETHER_STALK:1024",
         "NETHER_WARTS_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "NETHER_WARTS_GENERATOR_2": {
@@ -25496,7 +25741,8 @@
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:2",
         "JACOBS_TICKET:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "NEW_YEAR_CAKE": {
@@ -25857,7 +26103,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "OBSIDIAN_CHESTPLATE": {
@@ -25917,7 +26164,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_OBSIDIAN:1024",
         "OBSIDIAN_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "OBSIDIAN_GENERATOR_2": {
@@ -26237,7 +26485,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "OOPS_THE_FISH": {
@@ -26332,7 +26581,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:9"
-      ]
+      ],
+      "count": 1
     }
   },
   "PAINTING": {
@@ -26373,7 +26623,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PARKOUR_POINT": {
@@ -26382,7 +26633,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PARKOUR_TIMES": {
@@ -26391,7 +26643,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PARK_CAVE_TRAVEL_SCROLL": {
@@ -26404,7 +26657,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:70000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PARROT;3": {
@@ -27412,7 +27666,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_BIG_TEETH_COMMON": {
@@ -27421,7 +27676,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:750000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_BUBBLEGUM": {
@@ -27430,7 +27686,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
@@ -27439,7 +27696,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
@@ -27479,7 +27737,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_FARMING_SKILL_BOOST_EPIC": {
@@ -27488,7 +27747,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1500000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
@@ -27497,7 +27757,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON": {
@@ -27510,7 +27771,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
@@ -27535,7 +27797,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
@@ -27548,7 +27811,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_IRON_CLAWS_COMMON": {
@@ -27557,7 +27821,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:750000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_LUCKY_CLOVER": {
@@ -27585,7 +27850,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_MINING_SKILL_BOOST_RARE": {
@@ -27594,7 +27860,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_QUICK_CLAW": {
@@ -27622,7 +27889,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PET_ITEM_SPOOKY_CUPCAKE": {
@@ -28207,7 +28475,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PIG_GENERATOR_1": {
@@ -28263,7 +28532,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_GRILLED_PORK:16",
         "PIG_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "PIG_GENERATOR_2": {
@@ -28492,7 +28762,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "POCKET_ESPRESSO_MACHINE": {
@@ -28528,6 +28799,9 @@
   "POISONOUS_POTATO": {
     "name": "Poisonous Potato",
     "wiki": "https://wiki.hypixel.net/Poisonous_Potato"
+  },
+  "POISON_SAMPLE": {
+    "name": "Poison Sample"
   },
   "POLISHED_PEBBLE": {
     "name": "Polished Pebble",
@@ -28661,7 +28935,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_BAKED_POTATO:32",
         "POTATO_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "POTATO_GENERATOR_2": {
@@ -28801,7 +29076,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35000"
-      ]
+      ],
+      "count": 1
     }
   },
   "POTION_AFFINITY_TALISMAN": {
@@ -29162,7 +29438,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25"
-      ]
+      ],
+      "count": 1
     }
   },
   "PROJECTILE_PROTECTION;2": {
@@ -29211,7 +29488,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35"
-      ]
+      ],
+      "count": 1
     }
   },
   "PROMISING_PICKAXE": {
@@ -29220,7 +29498,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35"
-      ]
+      ],
+      "count": 1
     }
   },
   "PROMISING_SPADE": {
@@ -29250,7 +29529,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "PROTECTION;2": {
@@ -29281,7 +29561,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PROTECTION;7": {
@@ -29384,7 +29665,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "PULSE_RING": {
@@ -29408,7 +29690,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8"
-      ]
+      ],
+      "count": 1
     }
   },
   "PUMPKIN_BOMB": {
@@ -29467,7 +29750,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "PUMPKIN_GENERATOR_1": {
@@ -29523,7 +29807,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_PUMPKIN:1024",
         "PUMPKIN_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "PUMPKIN_GENERATOR_2": {
@@ -29775,7 +30060,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "QUARTZ_BLOCK:1": {
@@ -29873,7 +30159,8 @@
         "QUARTZ_GENERATOR_11:1",
         "ENCHANTED_QUARTZ_BLOCK:16",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "QUARTZ_GENERATOR_2": {
@@ -30104,7 +30391,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "RABBIT_FOOT": {
@@ -30113,7 +30401,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "RABBIT_GENERATOR_1": {
@@ -30169,7 +30458,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_RABBIT_HIDE:1024",
         "RABBIT_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "RABBIT_GENERATOR_2": {
@@ -30377,7 +30667,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:130000"
-      ]
+      ],
+      "count": 1
     }
   },
   "RAILS": {
@@ -30494,7 +30785,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "RAW_SOULFLOW": {
@@ -30713,7 +31005,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4"
-      ]
+      ],
+      "count": 1
     }
   },
   "REDSTONE_BLOCK": {
@@ -30751,7 +31044,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "REDSTONE_GENERATOR_1": {
@@ -30807,7 +31101,8 @@
         "SKYBLOCK_COIN:2000000",
         "ENCHANTED_REDSTONE_BLOCK:32",
         "REDSTONE_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "REDSTONE_GENERATOR_2": {
@@ -30983,7 +31278,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2"
-      ]
+      ],
+      "count": 1
     }
   },
   "RED_CLAW_ARTIFACT": {
@@ -31045,7 +31341,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "RED_NOSE": {
@@ -31188,7 +31485,8 @@
         "RED_SAND_GENERATOR_11:1",
         "ENCHANTED_RED_SAND_CUBE:32",
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "RED_SAND_GENERATOR_2": {
@@ -31330,7 +31628,8 @@
       "cost": [
         "RED_THORNLEAF:50",
         "SKYBLOCK_COIN:20000"
-      ]
+      ],
+      "count": 1
     }
   },
   "REFINED_AMBER": {
@@ -31339,7 +31638,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "REFINED_DIAMOND": {
@@ -31373,7 +31673,8 @@
       "cost": [
         "TITANIUM_PICKAXE:1",
         "REFINED_TITANIUM:3"
-      ]
+      ],
+      "count": 1
     }
   },
   "REFORGE_ANVIL": {
@@ -31393,7 +31694,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "REFUND_COOKIE": {
@@ -31536,7 +31838,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:200000"
-      ]
+      ],
+      "count": 1
     }
   },
   "REPELLING_CANDLE": {
@@ -31697,7 +32000,8 @@
         "SKYBLOCK_COIN:2000000",
         "REVENANT_GENERATOR_11:1",
         "REVENANT_VISCERA:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "REVENANT_GENERATOR_2": {
@@ -31886,7 +32190,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "RIFT_NECKLACE_INSIDE_1": {
@@ -31983,7 +32288,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROCK_THE_FISH": {
@@ -32049,7 +32355,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROOKIE_HOE": {
@@ -32058,7 +32365,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROOKIE_PICKAXE": {
@@ -32067,7 +32375,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROSETTA_BOOTS": {
@@ -32076,7 +32385,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:960"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROSETTA_CHESTPLATE": {
@@ -32085,7 +32395,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1320"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROSETTA_HELMET": {
@@ -32094,7 +32405,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1050"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROSETTA_LEGGINGS": {
@@ -32103,7 +32415,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1200"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROSE_BOUQUET": {
@@ -32124,7 +32437,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8"
-      ]
+      ],
+      "count": 1
     }
   },
   "ROTTEN_HELMET": {
@@ -32692,7 +33006,8 @@
       "cost": [
         "MUSHROOM_SPORE:50",
         "SKYBLOCK_COIN:20000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SCATHA;2": {
@@ -32715,7 +33030,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:40"
-      ]
+      ],
+      "count": 1
     }
   },
   "SCAVENGER;2": {
@@ -32743,7 +33059,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SCAVENGER_TALISMAN": {
@@ -32752,7 +33069,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SCORCHED_BOOKS": {
@@ -32769,7 +33087,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SCORPION_BOW": {
@@ -33027,7 +33346,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:800000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHADOW_WARP_SCROLL": {
@@ -33163,7 +33483,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHARPNESS;2": {
@@ -33194,7 +33515,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHARPNESS;7": {
@@ -33316,7 +33638,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHEEP_GENERATOR_1": {
@@ -33372,7 +33695,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_COOKED_MUTTON:16",
         "SHEEP_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHEEP_GENERATOR_2": {
@@ -33607,7 +33931,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SHRIMP_THE_FISH": {
@@ -34227,7 +34552,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500"
-      ]
+      ],
+      "count": 1
     }
   },
   "SKELETOR_BOOTS": {
@@ -34299,7 +34625,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8500"
-      ]
+      ],
+      "count": 1
     }
   },
   "SLED": {
@@ -34327,7 +34654,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:14"
-      ]
+      ],
+      "count": 1
     }
   },
   "SLIME_BLOCK": {
@@ -34792,7 +35120,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20"
-      ]
+      ],
+      "count": 1
     }
   },
   "SMITE;2": {
@@ -34826,7 +35155,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SMOKEY_RUNE;1": {
@@ -35265,7 +35595,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "SNOW_SNOWGLOBE": {
@@ -35294,7 +35625,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SOLAR_PANEL": {
@@ -35567,7 +35899,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPECTRE_DUST": {
@@ -35885,7 +36218,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPIDER_EYE": {
@@ -35894,7 +36228,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:12"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPIDER_GENERATOR_1": {
@@ -36124,7 +36459,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPIDER_TALISMAN": {
@@ -36195,7 +36531,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPIRIT;3": {
@@ -36342,7 +36679,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPOOKY_CHESTPLATE": {
@@ -36351,7 +36689,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPOOKY_DISC": {
@@ -36364,7 +36703,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPOOKY_LEGGINGS": {
@@ -36373,7 +36713,8 @@
     "npc_buy": {
       "cost": [
         "PURPLE_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPOOKY_PIE": {
@@ -36409,7 +36750,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:95000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SPRAY_CAN": {
@@ -36702,7 +37044,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SQUIRE_CHESTPLATE": {
@@ -36711,7 +37054,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:8000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SQUIRE_HELMET": {
@@ -36720,7 +37064,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SQUIRE_LEGGINGS": {
@@ -36729,7 +37074,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:7000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SQUIRE_SWORD": {
@@ -36738,7 +37084,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STACKED_PUMPKINS": {
@@ -37434,7 +37781,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STARLIGHT_CHESTPLATE": {
@@ -37443,7 +37791,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:70000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STARLIGHT_HELMET": {
@@ -37452,7 +37801,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STARLIGHT_LEGGINGS": {
@@ -37461,7 +37811,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:45000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STARLIGHT_WAND": {
@@ -37470,7 +37821,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STARRED_ADAPTIVE_BOOTS": {
@@ -37736,7 +38088,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STEP:1": {
@@ -38015,7 +38368,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80000"
-      ]
+      ],
+      "count": 1
     }
   },
   "STONE_HOE": {
@@ -38064,7 +38418,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4"
-      ]
+      ],
+      "count": 1
     }
   },
   "STONE_SLAB2": {
@@ -38117,7 +38472,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:499999"
-      ]
+      ],
+      "count": 1
     }
   },
   "STOOL": {
@@ -38151,7 +38507,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "STRONG_BABY": {
@@ -38300,7 +38657,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4"
-      ]
+      ],
+      "count": 1
     }
   },
   "SUGAR_CANE": {
@@ -38365,7 +38723,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_SUGAR_CANE:32",
         "SUGAR_CANE_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "SUGAR_CANE_GENERATOR_2": {
@@ -38494,7 +38853,8 @@
       "cost": [
         "SKYBLOCK_COIN:250000",
         "GREEN_CANDY:64"
-      ]
+      ],
+      "count": 1
     }
   },
   "SUGAR_RUSH;2": {
@@ -38509,7 +38869,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10"
-      ]
+      ],
+      "count": 1
     }
   },
   "SULPHURIC_COAL": {
@@ -38579,7 +38940,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "SUPERB_CARROT_CANDY": {
@@ -38679,7 +39041,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SUPER_COMPACTOR_3000": {
@@ -38749,7 +39112,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:800000"
-      ]
+      ],
+      "count": 1
     }
   },
   "SURFBOARD": {
@@ -38785,7 +39149,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "SWEET_FLESH": {
@@ -38913,7 +39278,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:35000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TAIGA_BIOME_STICK": {
@@ -39353,20 +39719,21 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TERMINATOR": {
     "name": "Terminator",
     "recipe": {
-      "A1": "",
-      "A2": "JUDGEMENT_CORE:1",
+      "A1": "TESSELLATED_ENDER_PEARL:4",
+      "A2": "NULL_BLADE:1",
       "A3": "TARANTULA_SILK:64",
-      "B1": "TESSELLATED_ENDER_PEARL:8",
-      "B2": "",
+      "B1": "NULL_BLADE:1",
+      "B2": "JUDGEMENT_CORE:1",
       "B3": "BRAIDED_GRIFFIN_FEATHER:4",
-      "C1": "",
-      "C2": "NULL_BLADE:3",
+      "C1": "TESSELLATED_ENDER_PEARL:4",
+      "C2": "NULL_BLADE:1",
       "C3": "TARANTULA_SILK:64"
     },
     "wiki": "https://wiki.hypixel.net/Terminator"
@@ -39409,7 +39776,8 @@
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
-      ]
+      ],
+      "count": 1
     }
   },
   "THEORETICAL_HOE_CANE_1": {
@@ -39677,7 +40045,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "THORNS;1": {
@@ -39858,7 +40227,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIDAL_RUNE;1": {
@@ -39878,7 +40248,8 @@
       "cost": [
         "RAW_CHICKEN:128",
         "SKYBLOCK_COIN:10000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIGER;1": {
@@ -39889,7 +40260,8 @@
       "cost": [
         "ENCHANTED_CHICKEN:2",
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIGER;2": {
@@ -39900,7 +40272,8 @@
       "cost": [
         "ENCHANTED_CHICKEN:32",
         "SKYBLOCK_COIN:100000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIGER;3": {
@@ -39911,7 +40284,8 @@
       "cost": [
         "ENCHANTED_CHICKEN:256",
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIGER;4": {
@@ -39922,7 +40296,8 @@
       "cost": [
         "ENCHANTED_CHICKEN:1024",
         "SKYBLOCK_COIN:10000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TIGER_SHARK_TOOTH": {
@@ -39979,7 +40354,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:712500"
-      ]
+      ],
+      "count": 1
     }
   },
   "TITANIUM_ARTIFACT": {
@@ -40029,7 +40405,8 @@
         "SKYBLOCK_COIN:1000000",
         "TITANIUM_ORE:100",
         "BEJEWELED_HANDLE:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "TITANIUM_RELIC": {
@@ -40084,7 +40461,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50"
-      ]
+      ],
+      "count": 1
     }
   },
   "TNT_CHARGE": {
@@ -40096,7 +40474,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TOPAZ_CRYSTAL": {
@@ -40261,7 +40640,8 @@
       "cost": [
         "SLUDGE_JUICE:100",
         "JUNGLE_HEART:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "TRICK_OR_TREAT_BAG": {
@@ -40270,7 +40650,8 @@
     "npc_buy": {
       "cost": [
         "GREEN_CANDY:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "TRIO_CONTACTS_ADDON": {
@@ -40308,7 +40689,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:4"
-      ]
+      ],
+      "count": 1
     }
   },
   "TROPICAL_BIRD_1_PERSONALITY": {
@@ -40328,7 +40710,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:25000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TRUE_PROTECTION;1": {
@@ -40336,7 +40719,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:900000"
-      ]
+      ],
+      "count": 1
     }
   },
   "TRUE_WARDEN": {
@@ -40513,7 +40897,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:850"
-      ]
+      ],
+      "count": 1
     }
   },
   "TWILIGHT_ARROW_POISON": {
@@ -40888,7 +41273,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:80000"
-      ]
+      ],
+      "count": 1
     }
   },
   "UNDEAD_CATALYST": {
@@ -40905,7 +41291,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100"
-      ]
+      ],
+      "count": 1
     }
   },
   "UNSTABLE_BABY": {
@@ -41024,6 +41411,12 @@
       "C3": "MOLTEN_POWDER:64"
     },
     "wiki": "https://wiki.hypixel.net/Wisp_Upgrade_Stone"
+  },
+  "VACCINE_ARTIFACT": {
+    "name": "Vaccine Artifact"
+  },
+  "VACCINE_RING": {
+    "name": "Vaccine Ring"
   },
   "VACCINE_TALISMAN": {
     "name": "Vaccine Talisman",
@@ -41242,7 +41635,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15000"
-      ]
+      ],
+      "count": 1
     }
   },
   "VILLAGE_TALISMAN": {
@@ -41251,7 +41645,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
-      ]
+      ],
+      "count": 1
     }
   },
   "VINE": {
@@ -41976,7 +42371,8 @@
         "SKYBLOCK_PELT:75",
         "ENCHANTED_HAY_BLOCK:64",
         "WHEAT_GENERATOR_11:1"
-      ]
+      ],
+      "count": 1
     }
   },
   "WHEAT_GENERATOR_2": {
@@ -42161,7 +42557,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:40000"
-      ]
+      ],
+      "count": 1
     }
   },
   "WINTER_WATER_ORB": {
@@ -42345,7 +42742,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:250"
-      ]
+      ],
+      "count": 1
     }
   },
   "WITHER_CATALYST": {
@@ -42366,7 +42764,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
-      ]
+      ],
+      "count": 1
     }
   },
   "WITHER_HELMET": {
@@ -42522,7 +42921,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:150000"
-      ]
+      ],
+      "count": 1
     }
   },
   "WOLF_PAW": {
@@ -42744,7 +43144,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2"
-      ]
+      ],
+      "count": 1
     }
   },
   "WOOD_SINGULARITY": {
@@ -42759,7 +43160,8 @@
         "ENCHANTED_ACACIA_LOG:320",
         "ENCHANTED_JUNGLE_LOG:320",
         "SKYBLOCK_COIN:1464000"
-      ]
+      ],
+      "count": 1
     }
   },
   "WOOD_SPADE": {
@@ -43805,7 +44207,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500"
-      ]
+      ],
+      "count": 1
     }
   }
 }
