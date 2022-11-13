@@ -535,7 +535,8 @@
   "AMMONITE;4": {
     "name": "Legendary Ammonite",
     "texture": "a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553",
-    "wiki": "https://wiki.hypixel.net/Ammonite_Pet"
+    "wiki": "https://wiki.hypixel.net/Ammonite_Pet",
+    "forge": 1036800
   },
   "ANCESTRAL_SPADE": {
     "name": "Ancestral Spade",
