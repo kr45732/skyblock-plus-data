@@ -708,6 +708,9 @@
       "C3": "PRISMARINE_CRYSTALS:1"
     }
   },
+  "ARACHNE_BELT": {
+    "name": "Arachne\u0027s Belt"
+  },
   "ARACHNE_BOOTS": {
     "name": "Arachne\u0027s Boots"
   },
@@ -727,6 +730,9 @@
   "ARACHNE_FRAGMENT": {
     "name": "Arachne Fragment",
     "wiki": "https://wiki.hypixel.net/Arachne_Fragment"
+  },
+  "ARACHNE_GLOVES": {
+    "name": "Arachne\u0027s Gloves"
   },
   "ARACHNE_HELMET": {
     "name": "Arachne\u0027s Helmet"
@@ -41059,10 +41065,32 @@
     "wiki": "https://wiki.hypixel.net/Wisp_Upgrade_Stone"
   },
   "VACCINE_ARTIFACT": {
-    "name": "Vaccine Artifact"
+    "name": "Vaccine Artifact",
+    "recipe": {
+      "A1": "POSION_SAMPLE:1",
+      "A2": "POSION_SAMPLE:1",
+      "A3": "POSION_SAMPLE:1",
+      "B1": "POSION_SAMPLE:1",
+      "B2": "VACCINE_RING:1",
+      "B3": "POSION_SAMPLE:1",
+      "C1": "POSION_SAMPLE:1",
+      "C2": "POSION_SAMPLE:1",
+      "C3": "POSION_SAMPLE:1"
+    }
   },
   "VACCINE_RING": {
-    "name": "Vaccine Ring"
+    "name": "Vaccine Ring",
+    "recipe": {
+      "A1": "ARACHNE_FANG:1",
+      "A2": "ARACHNE_FANG:1",
+      "A3": "ARACHNE_FANG:1",
+      "B1": "ARACHNE_FANG:1",
+      "B2": "VACCINE_TALISMAN:1",
+      "B3": "ARACHNE_FANG:1",
+      "C1": "ARACHNE_FANG:1",
+      "C2": "ARACHNE_FANG:1",
+      "C3": "ARACHNE_FANG:1"
+    }
   },
   "VACCINE_TALISMAN": {
     "name": "Vaccine Talisman",
