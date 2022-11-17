@@ -21821,9 +21821,9 @@
   "LEGGINGS_OF_THE_PACK": {
     "name": "Leggings of the Pack",
     "recipe": {
-      "A1": "GOLDEN_TOOTH:1",
+      "A1": "ENCHANTED_MUTTON:32",
       "A2": "GOLDEN_TOOTH:1",
-      "A3": "GOLDEN_TOOTH:1",
+      "A3": "ENCHANTED_MUTTON:32",
       "B1": "ENCHANTED_MUTTON:32",
       "B2": "",
       "B3": "ENCHANTED_MUTTON:32",
@@ -26529,6 +26529,9 @@
   "PEDESTAL": {
     "name": "X PEDESTAL",
     "wiki": "https://wiki.hypixel.net/Furniture"
+  },
+  "PELT_BELT": {
+    "name": "Pelt Belt"
   },
   "PENGUIN_PERSONALITY": {
     "name": "Penguin Minion Skin",
@@ -38971,6 +38974,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Taiga_Biome_Stick"
   },
+  "TALBOTS_THEODOLITE": {
+    "name": "Talbot\u0027s Theodolite"
+  },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
     "name": "Attack Speed Enrichment",
     "wiki": "https://wiki.hypixel.net/Attack_Speed_Enrichment"
@@ -40227,6 +40233,12 @@
       "C3": ""
     }
   },
+  "TRAPPER_CREST": {
+    "name": "Trapper Crest"
+  },
+  "TRAPPER_DEN_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Trapper\u0027s Den"
+  },
   "TRAP_DOOR": {
     "name": "Wooden Trapdoor",
     "recipe": {
@@ -41068,15 +41080,15 @@
   "VACCINE_ARTIFACT": {
     "name": "Vaccine Artifact",
     "recipe": {
-      "A1": "POSION_SAMPLE:1",
-      "A2": "POSION_SAMPLE:1",
-      "A3": "POSION_SAMPLE:1",
-      "B1": "POSION_SAMPLE:1",
+      "A1": "POISON_SAMPLE:1",
+      "A2": "POISON_SAMPLE:1",
+      "A3": "POISON_SAMPLE:1",
+      "B1": "POISON_SAMPLE:1",
       "B2": "VACCINE_RING:1",
-      "B3": "POSION_SAMPLE:1",
-      "C1": "POSION_SAMPLE:1",
-      "C2": "POSION_SAMPLE:1",
-      "C3": "POSION_SAMPLE:1"
+      "B3": "POISON_SAMPLE:1",
+      "C1": "POISON_SAMPLE:1",
+      "C2": "POISON_SAMPLE:1",
+      "C3": "POISON_SAMPLE:1"
     }
   },
   "VACCINE_RING": {
