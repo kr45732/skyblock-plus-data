@@ -9021,7 +9021,7 @@
     "npc_buy": {
       "cost": [
         "ENCHANTED_DARK_OAK_LOG:512",
-        "SKYBLOCK_COIN:10000000"
+        "SKYBLOCK_COIN:15000000"
       ]
     }
   },
@@ -27755,6 +27755,10 @@
     "name": "Baby Chick Chicken Skin",
     "wiki": "https://wiki.hypixel.net/Baby_Chick_Chicken_Skin"
   },
+  "PET_SKIN_CHICKEN_TURKEY": {
+    "name": "Turkey Chicken Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "PET_SKIN_DOLPHIN_SNUBFIN": {
     "name": "Snubfin Dolphin Skin",
     "wiki": "https://wiki.hypixel.net/Snubfin_Dolphin_Skin"
@@ -39944,7 +39948,7 @@
     "wiki": "https://wiki.hypixel.net/Tiger_Pet",
     "npc_buy": {
       "cost": [
-        "ENCHANTED_CHICKEN:32",
+        "ENCHANTED_RAW_CHICKEN:32",
         "SKYBLOCK_COIN:100000"
       ]
     }
@@ -39955,7 +39959,7 @@
     "wiki": "https://wiki.hypixel.net/Tiger_Pet",
     "npc_buy": {
       "cost": [
-        "ENCHANTED_CHICKEN:256",
+        "ENCHANTED_RAW_CHICKEN:256",
         "SKYBLOCK_COIN:1000000"
       ]
     }
@@ -39966,7 +39970,7 @@
     "wiki": "https://wiki.hypixel.net/Tiger_Pet",
     "npc_buy": {
       "cost": [
-        "ENCHANTED_CHICKEN:1024",
+        "ENCHANTED_RAW_CHICKEN:1024",
         "SKYBLOCK_COIN:10000000"
       ]
     }
