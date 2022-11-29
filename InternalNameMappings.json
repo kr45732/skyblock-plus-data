@@ -710,52 +710,64 @@
     }
   },
   "ARACHNE_BELT": {
-    "name": "Arachne\u0027s Belt"
+    "name": "Arachne\u0027s Belt",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Belt"
   },
   "ARACHNE_BOOTS": {
-    "name": "Arachne\u0027s Boots"
+    "name": "Arachne\u0027s Boots",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Boots"
   },
   "ARACHNE_CHESTPLATE": {
-    "name": "Arachne\u0027s Chestplate"
+    "name": "Arachne\u0027s Chestplate",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Chestplate"
   },
   "ARACHNE_CLOAK": {
-    "name": "Arachne\u0027s Cloak"
+    "name": "Arachne\u0027s Cloak",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Cloak"
   },
   "ARACHNE_CRYSTAL": {
     "name": "Arachne Crystal",
     "wiki": "https://wiki.hypixel.net/Arachne_Crystal"
   },
   "ARACHNE_FANG": {
-    "name": "Arachne\u0027s Fang"
+    "name": "Arachne\u0027s Fang",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Fang"
   },
   "ARACHNE_FRAGMENT": {
     "name": "Arachne Fragment",
     "wiki": "https://wiki.hypixel.net/Arachne_Fragment"
   },
   "ARACHNE_GLOVES": {
-    "name": "Arachne\u0027s Gloves"
+    "name": "Arachne\u0027s Gloves",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Gloves"
   },
   "ARACHNE_HELMET": {
-    "name": "Arachne\u0027s Helmet"
+    "name": "Arachne\u0027s Helmet",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Helmet"
   },
   "ARACHNE_KEEPER_FRAGMENT": {
     "name": "Arachne\u0027s Calling",
     "wiki": "https://wiki.hypixel.net/Arachne\u0027s_Keeper_Fragment"
   },
   "ARACHNE_LEGGINGS": {
-    "name": "Arachne\u0027s Leggings"
+    "name": "Arachne\u0027s Leggings",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Leggings"
   },
   "ARACHNE_NECKLACE": {
-    "name": "Arachne\u0027s Necklace"
+    "name": "Arachne\u0027s Necklace",
+    "wiki": "https://wiki.hypixel.net/Arachne%27s_Necklace"
   },
   "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to Arachne\u0027s Sanctuary"
+    "name": "Travel Scroll to Arachne\u0027s Sanctuary",
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Arachne%27s_Sanctuary"
   },
   "ARACK": {
-    "name": "Arack"
+    "name": "Arack",
+    "wiki": "https://wiki.hypixel.net/Arack"
   },
   "ARCHAEOLOGIST_COMPASS": {
-    "name": "Archaeologist\u0027s Compass"
+    "name": "Archaeologist\u0027s Compass",
+    "wiki": "https://wiki.hypixel.net/Archaeologist%27s_Compass"
   },
   "ARCHERY": {
     "name": "Archery Potion"
@@ -1946,7 +1958,14 @@
   "BEE;0": {
     "name": "Common Bee",
     "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
-    "wiki": "https://wiki.hypixel.net/Bee_Pet"
+    "wiki": "https://wiki.hypixel.net/Bee_Pet",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:4999",
+        "COAL_BLOCK:2",
+        "GOLD_BLOCK:2"
+      ]
+    }
   },
   "BEE;1": {
     "name": "Uncommon Bee",
@@ -1956,17 +1975,38 @@
   "BEE;2": {
     "name": "Rare Bee",
     "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
-    "wiki": "https://wiki.hypixel.net/Bee_Pet"
+    "wiki": "https://wiki.hypixel.net/Bee_Pet",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:50000",
+        "COAL_BLOCK:128",
+        "GOLD_BLOCK:128"
+      ]
+    }
   },
   "BEE;3": {
     "name": "Epic Bee",
     "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
-    "wiki": "https://wiki.hypixel.net/Bee_Pet"
+    "wiki": "https://wiki.hypixel.net/Bee_Pet",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:200000",
+        "ENCHANTED_COAL_BLOCK:1",
+        "ENCHANTED_GOLD_BLOCK:1"
+      ]
+    }
   },
   "BEE;4": {
     "name": "Legendary Bee",
     "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
-    "wiki": "https://wiki.hypixel.net/Bee_Pet"
+    "wiki": "https://wiki.hypixel.net/Bee_Pet",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:650000",
+        "ENCHANTED_COAL_BLOCK:8",
+        "ENCHANTED_GOLD_BLOCK:8"
+      ]
+    }
   },
   "BEE_PERSONALITY": {
     "name": "Bee Minion Skin",
@@ -2112,6 +2152,9 @@
   "BINGO_DISPLAY": {
     "name": "Bingo Display",
     "wiki": "https://wiki.hypixel.net/Bingo_Display"
+  },
+  "BINGO_RELIC": {
+    "name": "Bingo Relic"
   },
   "BINGO_RING": {
     "name": "Bingo Ring",
@@ -7550,7 +7593,8 @@
     "wiki": "https://wiki.hypixel.net/Dead_Seed"
   },
   "DEAN_LETTER_OF_RECOMMENDATION": {
-    "name": "Letter of Recommendation"
+    "name": "Letter of Recommendation",
+    "wiki": "https://wiki.hypixel.net/Letter_Of_Recommendation"
   },
   "DEATH_BOW": {
     "name": "Death Bow",
@@ -17397,7 +17441,8 @@
     "wiki": "https://wiki.hypixel.net/Haste_Ring"
   },
   "HAUNT_ABILITY": {
-    "name": "Haunt"
+    "name": "Haunt",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Haunt"
   },
   "HAY_BALE": {
     "name": "Hay Bale",
@@ -26531,7 +26576,8 @@
     "wiki": "https://wiki.hypixel.net/Furniture"
   },
   "PELT_BELT": {
-    "name": "Pelt Belt"
+    "name": "Pelt Belt",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt_Belt"
   },
   "PENGUIN_PERSONALITY": {
     "name": "Penguin Minion Skin",
@@ -28574,7 +28620,8 @@
     "wiki": "https://wiki.hypixel.net/Poisonous_Potato"
   },
   "POISON_SAMPLE": {
-    "name": "Poison Sample"
+    "name": "Poison Sample",
+    "wiki": "https://wiki.hypixel.net/Poison_Sample"
   },
   "POLISHED_PEBBLE": {
     "name": "Polished Pebble",
@@ -38979,7 +39026,8 @@
     "wiki": "https://wiki.hypixel.net/Taiga_Biome_Stick"
   },
   "TALBOTS_THEODOLITE": {
-    "name": "Talbot\u0027s Theodolite"
+    "name": "Talbot\u0027s Theodolite",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite"
   },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
     "name": "Attack Speed Enrichment",
@@ -40238,7 +40286,8 @@
     }
   },
   "TRAPPER_CREST": {
-    "name": "Trapper Crest"
+    "name": "Trapper Crest",
+    "wiki": "https://wiki.hypixel.net/Trapper_Crest"
   },
   "TRAPPER_DEN_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Trapper\u0027s Den"
@@ -41093,7 +41142,8 @@
       "C1": "POISON_SAMPLE:1",
       "C2": "POISON_SAMPLE:1",
       "C3": "POISON_SAMPLE:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Vaccine_Artifact"
   },
   "VACCINE_RING": {
     "name": "Vaccine Ring",
@@ -41107,7 +41157,8 @@
       "C1": "ARACHNE_FANG:1",
       "C2": "ARACHNE_FANG:1",
       "C3": "ARACHNE_FANG:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Vaccine_Ring"
   },
   "VACCINE_TALISMAN": {
     "name": "Vaccine Talisman",
