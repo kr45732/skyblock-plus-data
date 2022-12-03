@@ -396,6 +396,9 @@
   "ADRENALINE": {
     "name": "Adrenaline Potion"
   },
+  "ADVENT_CALENDAR_DISPLAY": {
+    "name": "Advent Calendar Display"
+  },
   "AGILITY": {
     "name": "Agility Potion"
   },
@@ -2141,6 +2144,17 @@
     "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
     "wiki": "https://wiki.hypixel.net/Bingo_Pet"
   },
+  "BINGO;4": {
+    "name": "Legendary Bingo",
+    "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
+    "wiki": "https://wiki.hypixel.net/Bingo_Pet"
+  },
+  "BINGOLIBUR": {
+    "name": "Odd Bingolibur"
+  },
+  "BINGONIMBUS_2000": {
+    "name": "Bingonimbus 2000"
+  },
   "BINGO_ARTIFACT": {
     "name": "Bingo Artifact",
     "wiki": "https://wiki.hypixel.net/Bingo_Artifact"
@@ -2974,6 +2988,16 @@
   "BLUE_EGG": {
     "name": "Blue Egged Skin",
     "wiki": "https://wiki.hypixel.net/Blue_Egged_Skin"
+  },
+  "BLUE_GIFT_TALISMAN": {
+    "name": "Blue Gift Talisman",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:60",
+        "GREEN_GIFT_TALISMAN:1"
+      ],
+      "count": 1
+    }
   },
   "BLUE_ICE_HUNK": {
     "name": "Hunk of Blue Ice",
@@ -6983,6 +7007,9 @@
   "CRUDE_GABAGOOL_DISTILLATE": {
     "name": "Gabagool Distillate",
     "wiki": "https://wiki.hypixel.net/Gabagool_Distillate"
+  },
+  "CRYOPOWDER_SHARD": {
+    "name": "Cryopowder Shard"
   },
   "CRYPT_BOW": {
     "name": "Soulstealer Bow",
@@ -12244,6 +12271,9 @@
       ]
     }
   },
+  "EXPERIENCE;5": {
+    "name": "Experience V"
+  },
   "EXPERIENCE_ARTIFACT": {
     "name": "Experience Artifact",
     "recipe": {
@@ -15304,6 +15334,54 @@
       ]
     }
   },
+  "GLACIAL_ARTIFACT": {
+    "name": "Glacial Artifact",
+    "recipe": {
+      "A1": "GLACIAL_FRAGMENT:10",
+      "A2": "ENCHANTED_PACKED_ICE:2",
+      "A3": "GLACIAL_FRAGMENT:10",
+      "B1": "ENCHANTED_PACKED_ICE:2",
+      "B2": "GLACIAL_RING:1",
+      "B3": "ENCHANTED_PACKED_ICE:2",
+      "C1": "GLACIAL_FRAGMENT:10",
+      "C2": "ENCHANTED_PACKED_ICE:2",
+      "C3": "GLACIAL_FRAGMENT:10"
+    }
+  },
+  "GLACIAL_FRAGMENT": {
+    "name": "Glacial Fragment"
+  },
+  "GLACIAL_RING": {
+    "name": "Glacial Ring",
+    "recipe": {
+      "A1": "GLACIAL_FRAGMENT:5",
+      "A2": "ENCHANTED_ICE:32",
+      "A3": "GLACIAL_FRAGMENT:5",
+      "B1": "ENCHANTED_ICE:32",
+      "B2": "GLACIAL_TALISMAN:1",
+      "B3": "ENCHANTED_ICE:32",
+      "C1": "GLACIAL_FRAGMENT:5",
+      "C2": "ENCHANTED_ICE:32",
+      "C3": "GLACIAL_FRAGMENT:5"
+    }
+  },
+  "GLACIAL_SCYTHE": {
+    "name": "Glacial Scythe",
+    "recipe": {
+      "A1": "ENCHANTED_PACKED_ICE:32",
+      "A2": "GLACIAL_FRAGMENT:8",
+      "A3": "ENCHANTED_PACKED_ICE:32",
+      "B1": "ENCHANTED_PACKED_ICE:32",
+      "B2": "FROZEN_SCYTHE:1",
+      "B3": "ENCHANTED_PACKED_ICE:32",
+      "C1": "ENCHANTED_PACKED_ICE:32",
+      "C2": "BLUE_ICE_HUNK:64",
+      "C3": "ENCHANTED_PACKED_ICE:32"
+    }
+  },
+  "GLACIAL_TALISMAN": {
+    "name": "Glacial Talisman"
+  },
   "GLACIAL_WISP;3": {
     "name": "Epic Glacial Wisp",
     "texture": "3e2018feebe1a99177b3cb196d4e44521268b4b3eb56e6419cb0253cdbf0456c",
@@ -16063,6 +16141,17 @@
     "name": "Golden Gift",
     "wiki": "https://wiki.hypixel.net/Golden_Gift"
   },
+  "GOLD_GIFT_TALISMAN": {
+    "name": "Gold Gift Talisman",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:200",
+        "PURPLE_GIFT_TALISMAN:1",
+        "GOLD_GIFT:1"
+      ],
+      "count": 1
+    }
+  },
   "GOLD_HELMET": {
     "name": "Golden Helmet",
     "recipe": {
@@ -16756,6 +16845,16 @@
   "GREEN_GIFT": {
     "name": "Green Gift",
     "wiki": "https://wiki.hypixel.net/Green_Gift"
+  },
+  "GREEN_GIFT_TALISMAN": {
+    "name": "Green Gift Talisman",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:40",
+        "WHITE_GIFT_TALISMAN:1"
+      ],
+      "count": 1
+    }
   },
   "GREEN_RECORD": {
     "name": "Music Disc",
@@ -18436,6 +18535,17 @@
       "C3": "ENCHANTED_ICE:64"
     },
     "wiki": "https://wiki.hypixel.net/Ice_Minion"
+  },
+  "ICE_GENERATOR_12": {
+    "name": "Ice Minion XII",
+    "wiki": "https://wiki.hypixel.net/Ice_Minion",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:300",
+        "ICE_GENERATOR_11:1",
+        "SKYBLOCK_COIN:1000000"
+      ]
+    }
   },
   "ICE_GENERATOR_2": {
     "name": "Ice Minion II",
@@ -22070,7 +22180,7 @@
     "npc_buy": {
       "cost": [
         "ENCHANTED_RAW_BEEF:1024",
-        "SKYBLOCK_COIN:10000000"
+        "SKYBLOCK_COIN:15000000"
       ]
     }
   },
@@ -24520,7 +24630,7 @@
     "npc_buy": {
       "cost": [
         "ENCHANTED_JUNGLE_LOG:512",
-        "SKYBLOCK_COIN:10000000"
+        "SKYBLOCK_COIN:18000000"
       ]
     }
   },
@@ -25715,6 +25825,62 @@
   "NUTCRACKER": {
     "name": "Nutcracker",
     "wiki": "https://wiki.hypixel.net/Nutcracker"
+  },
+  "NUTCRACKER_BOOTS": {
+    "name": "Nutcracker Boots",
+    "recipe": {
+      "A1": "WALNUT:1",
+      "A2": "SNOW_SUIT_BOOTS:1",
+      "A3": "WALNUT:1",
+      "B1": "WALNUT:1",
+      "B2": "",
+      "B3": "WALNUT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "NUTCRACKER_CHESTPLATE": {
+    "name": "Nutcracker Chestplate",
+    "recipe": {
+      "A1": "WALNUT:1",
+      "A2": "SNOW_SUIT_CHESTPLATE:1",
+      "A3": "WALNUT:1",
+      "B1": "WALNUT:1",
+      "B2": "WALNUT:1",
+      "B3": "WALNUT:1",
+      "C1": "WALNUT:1",
+      "C2": "WALNUT:1",
+      "C3": "WALNUT:1"
+    }
+  },
+  "NUTCRACKER_HELMET": {
+    "name": "Nutcracker Helmet",
+    "recipe": {
+      "A1": "WALNUT:1",
+      "A2": "WALNUT:1",
+      "A3": "WALNUT:1",
+      "B1": "WALNUT:1",
+      "B2": "SNOW_SUIT_HELMET:1",
+      "B3": "WALNUT:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "NUTCRACKER_LEGGINGS": {
+    "name": "Nutcracker Leggings",
+    "recipe": {
+      "A1": "WALNUT:1",
+      "A2": "WALNUT:1",
+      "A3": "WALNUT:1",
+      "B1": "WALNUT:1",
+      "B2": "SNOW_SUIT_LEGGINGS:1",
+      "B3": "WALNUT:1",
+      "C1": "WALNUT:1",
+      "C2": "",
+      "C3": "WALNUT:1"
+    }
   },
   "OAK_GENERATOR_1": {
     "name": "Oak Minion I",
@@ -29339,6 +29505,21 @@
   "PROSECUTE;6": {
     "name": "Prosecute VI"
   },
+  "PROSPERITY;1": {
+    "name": "Prosperity I"
+  },
+  "PROSPERITY;2": {
+    "name": "Prosperity II"
+  },
+  "PROSPERITY;3": {
+    "name": "Prosperity III"
+  },
+  "PROSPERITY;4": {
+    "name": "Prosperity IV"
+  },
+  "PROSPERITY;5": {
+    "name": "Prosperity V"
+  },
   "PROTECTION;1": {
     "name": "Protection I",
     "npc_buy": {
@@ -29850,6 +30031,16 @@
   "PURPLE_EGG": {
     "name": "Purple Egged Skin",
     "wiki": "https://wiki.hypixel.net/Purple_Egged_Skin"
+  },
+  "PURPLE_GIFT_TALISMAN": {
+    "name": "Purple Gift Talisman",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:100",
+        "BLUE_GIFT_TALISMAN:1"
+      ],
+      "count": 1
+    }
   },
   "PURPLE_SMALL_BACKPACK": {
     "name": "Small Backpack",
@@ -31512,6 +31703,15 @@
     },
     "wiki": "https://wiki.hypixel.net/Re-heated_Gummy_Polar_Bear"
   },
+  "REINDEER;4": {
+    "name": "Legendary Reindeer",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:40"
+      ],
+      "count": 1
+    }
+  },
   "REINDEER_PERSONALITY": {
     "name": "Reindeer Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
@@ -32312,6 +32512,9 @@
     "name": "Aurora Staff",
     "wiki": "https://wiki.hypixel.net/Aurora_Staff"
   },
+  "RUSTY_ANCHOR": {
+    "name": "Rusty Anchor"
+  },
   "SADAN_BROOCH": {
     "name": "Sadan\u0027s Brooch",
     "wiki": "https://wiki.hypixel.net/Sadan\u0027s_Brooch"
@@ -32403,6 +32606,9 @@
   "SALMON_OPAL": {
     "name": "Salmon Opal",
     "wiki": "https://wiki.hypixel.net/Salmon_Opal"
+  },
+  "SALT_CUBE": {
+    "name": "Salt Cube"
   },
   "SAND:1": {
     "name": "Red Sand"
@@ -34375,6 +34581,9 @@
     "name": "SkyBlock Menu (Right Click)",
     "wiki": "https://wiki.hypixel.net/Skyblock_Menu"
   },
+  "SKYBLOCK_NORTH_STAR": {
+    "name": "North Star"
+  },
   "SKYBLOCK_PELT": {
     "name": "Pelt",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt"
@@ -35167,6 +35376,15 @@
   "SNOW_BALL": {
     "name": "Snowball"
   },
+  "SNOW_BELT": {
+    "name": "Snow Belt",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10"
+      ],
+      "count": 1
+    }
+  },
   "SNOW_BLASTER": {
     "name": "Frosty the Snow Blaster",
     "wiki": "https://wiki.hypixel.net/Frosty_The_Snow_Blaster"
@@ -35189,6 +35407,15 @@
   "SNOW_CANNON": {
     "name": "Frosty the Snow Cannon",
     "wiki": "https://wiki.hypixel.net/Frosty_The_Snow_Cannon"
+  },
+  "SNOW_CLOAK": {
+    "name": "Snow Cloak",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10"
+      ],
+      "count": 1
+    }
   },
   "SNOW_GENERATOR_1": {
     "name": "Snow Minion I",
@@ -35223,6 +35450,17 @@
       "C3": "ENCHANTED_SNOW_BLOCK:16"
     },
     "wiki": "https://wiki.hypixel.net/Snow_Minion_XI"
+  },
+  "SNOW_GENERATOR_12": {
+    "name": "Snow Minion XII",
+    "wiki": "https://wiki.hypixel.net/Snow_Minion",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:500",
+        "SNOW_GENERATOR_11:1",
+        "SKYBLOCK_COIN:2000000"
+      ]
+    }
   },
   "SNOW_GENERATOR_2": {
     "name": "Snow Minion II",
@@ -35343,6 +35581,24 @@
       "C3": "ENCHANTED_SNOW_BLOCK:4"
     },
     "wiki": "https://wiki.hypixel.net/Snow_Minion_IX"
+  },
+  "SNOW_GLOVES": {
+    "name": "Snow Gloves",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10"
+      ],
+      "count": 1
+    }
+  },
+  "SNOW_NECKLACE": {
+    "name": "Snow Necklace",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10"
+      ],
+      "count": 1
+    }
   },
   "SNOW_RUNE;1": {
     "name": "◆ Snow Rune I"
@@ -39985,7 +40241,7 @@
     "wiki": "https://wiki.hypixel.net/Tiger_Pet",
     "npc_buy": {
       "cost": [
-        "ENCHANTED_CHICKEN:2",
+        "ENCHANTED_RAW_CHICKEN:2",
         "SKYBLOCK_COIN:25000"
       ]
     }
@@ -40019,7 +40275,7 @@
     "npc_buy": {
       "cost": [
         "ENCHANTED_RAW_CHICKEN:1024",
-        "SKYBLOCK_COIN:10000000"
+        "SKYBLOCK_COIN:15000000"
       ]
     }
   },
@@ -41677,6 +41933,9 @@
   "WAKE_RUNE;3": {
     "name": "◆ Wake Rune III"
   },
+  "WALNUT": {
+    "name": "Walnut"
+  },
   "WAND_OF_ATONEMENT": {
     "name": "Wand of Atonement",
     "recipe": {
@@ -42260,6 +42519,15 @@
   "WHITE_GIFT": {
     "name": "White Gift",
     "wiki": "https://wiki.hypixel.net/White_Gift"
+  },
+  "WHITE_GIFT_TALISMAN": {
+    "name": "White Gift Talisman",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:20"
+      ],
+      "count": 1
+    }
   },
   "WHITE_SPIRAL_RUNE;1": {
     "name": "◆ White Spiral Rune I"
