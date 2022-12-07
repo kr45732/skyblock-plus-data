@@ -31705,6 +31705,7 @@
   },
   "REINDEER;4": {
     "name": "Legendary Reindeer",
+    "texture": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:40"
