@@ -2167,6 +2167,10 @@
     "name": "Bingo Display",
     "wiki": "https://wiki.hypixel.net/Bingo_Display"
   },
+  "BINGO_LAVA_ROD": {
+    "name": "Bingo Lava Rod",
+    "wiki": "https://wiki.hypixel.net/Bingo_Lava_Rod"
+  },
   "BINGO_RELIC": {
     "name": "Bingo Relic"
   },
@@ -5431,7 +5435,7 @@
       "A2": "CLAY_BALL:10",
       "A3": "CLAY_BALL:10",
       "B1": "CLAY_BALL:10",
-      "B2": "WOOD_PICKAXE:1",
+      "B2": "WOOD_SHOVEL:1",
       "B3": "CLAY_BALL:10",
       "C1": "CLAY_BALL:10",
       "C2": "CLAY_BALL:10",
@@ -8873,6 +8877,10 @@
     "name": "Flame Dye",
     "wiki": "https://wiki.hypixel.net/Flame_Dye"
   },
+  "DYE_HOLLY": {
+    "name": "Holly Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes"
+  },
   "DYE_MANGO": {
     "name": "Mango Dye",
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
@@ -12077,6 +12085,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Entropy_Suppressor"
   },
+  "EPIC_KUUDRA_CHUNK": {
+    "name": "Hardened Kuudra Chunk"
+  },
   "EPOCH_CAKE_AQUA": {
     "name": "Barry Century Cake",
     "wiki": "https://wiki.hypixel.net/Barry_Century_Cake"
@@ -12371,6 +12382,10 @@
   },
   "EXTRA_LARGE_GEMSTONE_SACK": {
     "name": "Extra Large Gemstone Sack"
+  },
+  "EXTREME_BINGO_CARD": {
+    "name": "Extreme Bingo Card (Extreme Bingo #1)",
+    "wiki": "https://wiki.hypixel.net/Bingo_Card"
   },
   "EYE_OF_ENDER": {
     "name": "Eye of Ender",
@@ -15369,7 +15384,7 @@
     "name": "Glacial Scythe",
     "recipe": {
       "A1": "ENCHANTED_PACKED_ICE:32",
-      "A2": "GLACIAL_FRAGMENT:8",
+      "A2": "GLACIAL_FRAGMENT:40",
       "A3": "ENCHANTED_PACKED_ICE:32",
       "B1": "ENCHANTED_PACKED_ICE:32",
       "B2": "FROZEN_SCYTHE:1",
@@ -18543,7 +18558,8 @@
       "cost": [
         "SKYBLOCK_NORTH_STAR:300",
         "ICE_GENERATOR_11:1",
-        "SKYBLOCK_COIN:1000000"
+        "SKYBLOCK_COIN:1000000",
+        "ENCHANTED_ICE:1024"
       ]
     }
   },
@@ -21957,6 +21973,9 @@
       "C2": "DEADGEHOG_SPINE:12",
       "C3": ""
     }
+  },
+  "LEGENDARY_KUUDRA_CHUNK": {
+    "name": "Enriched Kuudra Chunk"
   },
   "LEGEND_ROD": {
     "name": "Rod of Legends",
@@ -30740,6 +30759,9 @@
     "name": "Rare Diamond",
     "wiki": "https://wiki.hypixel.net/Rare_Diamond"
   },
+  "RARE_KUUDRA_CHUNK": {
+    "name": "Meaty Kuudra Chunk"
+  },
   "RAT;4": {
     "name": "Legendary Rat",
     "texture": "a8abb471db0ab78703011979dc8b40798a941f3a4dec3ec61cbeec2af8cffe8",
@@ -34579,7 +34601,7 @@
     "wiki": "https://wiki.hypixel.net/Gold_Medal"
   },
   "SKYBLOCK_MENU": {
-    "name": "SkyBlock Menu (Right Click)",
+    "name": "SkyBlock Menu (Click)",
     "wiki": "https://wiki.hypixel.net/Skyblock_Menu"
   },
   "SKYBLOCK_NORTH_STAR": {
@@ -35459,7 +35481,8 @@
       "cost": [
         "SKYBLOCK_NORTH_STAR:500",
         "SNOW_GENERATOR_11:1",
-        "SKYBLOCK_COIN:2000000"
+        "SKYBLOCK_COIN:2000000",
+        "ENCHANTED_SNOW_BLOCK:1024"
       ]
     }
   },
@@ -35591,6 +35614,9 @@
       ],
       "count": 1
     }
+  },
+  "SNOW_HOWITZER": {
+    "name": "Frosty the Howitzer"
   },
   "SNOW_NECKLACE": {
     "name": "Snow Necklace",
@@ -41244,6 +41270,9 @@
     "name": "Ultimate Wise V",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   },
+  "UNCOMMON_KUUDRA_CHUNK": {
+    "name": "Kuudra Chunk"
+  },
   "UNDEAD_BOW": {
     "name": "Undead Bow",
     "wiki": "https://wiki.hypixel.net/Undead_Bow",
@@ -42558,6 +42587,9 @@
   "WINTER_DISC": {
     "name": "Winter Disc",
     "wiki": "https://wiki.hypixel.net/Winter_Disc"
+  },
+  "WINTER_ISLAND": {
+    "name": "Winter Island"
   },
   "WINTER_ROD": {
     "name": "Winter Rod",
