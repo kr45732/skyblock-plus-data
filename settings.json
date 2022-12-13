@@ -1,4 +1,5 @@
 {
   "mojangApiNum": 1,
-  "ahApiUrl": "https://query-api-prod-skyblock-plus-85hhl5.mo4.mogenius.io/"
+  "ahApiUrl": "https://query-api-prod-skyblock-plus-85hhl5.mo4.mogenius.io/",
+  "allowMojangApi": true
 }
