@@ -762,7 +762,12 @@
   },
   "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Arachne\u0027s Sanctuary",
-    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Arachne%27s_Sanctuary"
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Arachne%27s_Sanctuary",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_SPIDER:5000"
+      ]
+    }
   },
   "ARACK": {
     "name": "Arack",
@@ -5389,6 +5394,9 @@
   "CHILL_THE_FISH_2": {
     "name": "Chill the Fish",
     "wiki": "https://wiki.hypixel.net/Chill_The_Fish"
+  },
+  "CHRISTMAS_TREE": {
+    "name": "Christmas Tree"
   },
   "CHUM": {
     "name": "Chum",
@@ -12283,7 +12291,12 @@
     }
   },
   "EXPERIENCE;5": {
-    "name": "Experience V"
+    "name": "Experience V",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_ICE:15000"
+      ]
+    }
   },
   "EXPERIENCE_ARTIFACT": {
     "name": "Experience Artifact",
@@ -12948,6 +12961,9 @@
   "FESTIVE_JERRY_PERSONALITY": {
     "name": "Festive Jerry Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
+  },
+  "FESTIVE_MAILBOX": {
+    "name": "Festive Mailbox"
   },
   "FESTIVE_SKELETON_PERSONALITY": {
     "name": "Festive Skeleton Minion Skin",
@@ -15870,6 +15886,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Golden_Tooth"
+  },
+  "GOLDOR_CELESTIAL": {
+    "name": "Celestial Goldor\u0027s Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "GOLDOR_THE_FISH": {
     "name": "Goldor the Fish",
@@ -20841,7 +20861,14 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Burning_Kuudra_Key"
+    "wiki": "https://wiki.hypixel.net/Burning_Kuudra_Key",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:750000",
+        "ENCHANTED_MYCELIUM:20",
+        "CORRUPTED_NETHER_STAR:2"
+      ]
+    }
   },
   "KUUDRA_FIERY_TIER_KEY": {
     "name": "Fiery Kuudra Key",
@@ -20856,7 +20883,14 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Fiery_Kuudra_Key"
+    "wiki": "https://wiki.hypixel.net/Fiery_Kuudra_Key",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1500000",
+        "ENCHANTED_MYCELIUM:60",
+        "CORRUPTED_NETHER_STAR:2"
+      ]
+    }
   },
   "KUUDRA_FOLLOWER_BOOTS": {
     "name": "Kuudra Follower Boots",
@@ -20905,7 +20939,14 @@
       "C2": "",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Infernal_Kuudra_Key"
+    "wiki": "https://wiki.hypixel.net/Infernal_Kuudra_Key",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:3000000",
+        "ENCHANTED_MYCELIUM:120",
+        "CORRUPTED_NETHER_STAR:2"
+      ]
+    }
   },
   "KUUDRA_MANDIBLE": {
     "name": "Kuudra Mandible",
@@ -23270,6 +23311,10 @@
   "MAXED_ENCHANT_BOOK": {
     "name": "Max Enchanted Book"
   },
+  "MAXOR_CELESTIAL": {
+    "name": "Celestial Maxor\u0027s Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "MAXOR_THE_FISH": {
     "name": "Maxor the Fish",
     "wiki": "https://wiki.hypixel.net/Maxor_The_Fish"
@@ -25398,6 +25443,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Necron_Blade_(Unrefined)"
   },
+  "NECRON_CELESTIAL": {
+    "name": "Celestial Necron\u0027s Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "NECRON_HANDLE": {
     "name": "Necron\u0027s Handle",
     "wiki": "https://wiki.hypixel.net/Necron\u0027s_Handle"
@@ -25848,12 +25897,12 @@
   "NUTCRACKER_BOOTS": {
     "name": "Nutcracker Boots",
     "recipe": {
-      "A1": "WALNUT:1",
+      "A1": "WALNUT:3",
       "A2": "SNOW_SUIT_BOOTS:1",
-      "A3": "WALNUT:1",
-      "B1": "WALNUT:1",
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
       "B2": "",
-      "B3": "WALNUT:1",
+      "B3": "WALNUT:3",
       "C1": "",
       "C2": "",
       "C3": ""
@@ -25862,26 +25911,26 @@
   "NUTCRACKER_CHESTPLATE": {
     "name": "Nutcracker Chestplate",
     "recipe": {
-      "A1": "WALNUT:1",
+      "A1": "WALNUT:3",
       "A2": "SNOW_SUIT_CHESTPLATE:1",
-      "A3": "WALNUT:1",
-      "B1": "WALNUT:1",
-      "B2": "WALNUT:1",
-      "B3": "WALNUT:1",
-      "C1": "WALNUT:1",
-      "C2": "WALNUT:1",
-      "C3": "WALNUT:1"
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
+      "B2": "WALNUT:3",
+      "B3": "WALNUT:3",
+      "C1": "WALNUT:3",
+      "C2": "WALNUT:3",
+      "C3": "WALNUT:3"
     }
   },
   "NUTCRACKER_HELMET": {
     "name": "Nutcracker Helmet",
     "recipe": {
-      "A1": "WALNUT:1",
-      "A2": "WALNUT:1",
-      "A3": "WALNUT:1",
-      "B1": "WALNUT:1",
+      "A1": "WALNUT:3",
+      "A2": "WALNUT:3",
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
       "B2": "SNOW_SUIT_HELMET:1",
-      "B3": "WALNUT:1",
+      "B3": "WALNUT:3",
       "C1": "",
       "C2": "",
       "C3": ""
@@ -25890,15 +25939,15 @@
   "NUTCRACKER_LEGGINGS": {
     "name": "Nutcracker Leggings",
     "recipe": {
-      "A1": "WALNUT:1",
-      "A2": "WALNUT:1",
-      "A3": "WALNUT:1",
-      "B1": "WALNUT:1",
+      "A1": "WALNUT:3",
+      "A2": "WALNUT:3",
+      "A3": "WALNUT:3",
+      "B1": "WALNUT:3",
       "B2": "SNOW_SUIT_LEGGINGS:1",
-      "B3": "WALNUT:1",
-      "C1": "WALNUT:1",
+      "B3": "WALNUT:3",
+      "C1": "WALNUT:3",
       "C2": "",
-      "C3": "WALNUT:1"
+      "C3": "WALNUT:3"
     }
   },
   "OAK_GENERATOR_1": {
@@ -31730,7 +31779,7 @@
     "texture": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_NORTH_STAR:40"
+        "SKYBLOCK_NORTH_STAR:60"
       ],
       "count": 1
     }
@@ -32284,6 +32333,9 @@
     "name": "Legendary Rock",
     "texture": "cb2b5d48e57577563aca31735519cb622219bc058b1f34648b67b8e71bc0fa",
     "wiki": "https://wiki.hypixel.net/Rock_Pet"
+  },
+  "ROCKING_CHAIR": {
+    "name": "Rocking Chair"
   },
   "ROCK_CANDY": {
     "name": "Rock Candy",
@@ -38514,6 +38566,10 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "STORM_CELESTIAL": {
+    "name": "Celestial Storm\u0027s Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "STORM_THE_FISH": {
     "name": "Storm the Fish",
