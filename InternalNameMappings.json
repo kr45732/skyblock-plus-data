@@ -397,7 +397,8 @@
     "name": "Adrenaline Potion"
   },
   "ADVENT_CALENDAR_DISPLAY": {
-    "name": "Advent Calendar Display"
+    "name": "Advent Calendar Display",
+    "wiki": "https://wiki.hypixel.net/Advent_Calendar_Display"
   },
   "AGILITY": {
     "name": "Agility Potion"
@@ -2158,7 +2159,8 @@
     "name": "Odd Bingolibur"
   },
   "BINGONIMBUS_2000": {
-    "name": "Bingonimbus 2000"
+    "name": "Bingonimbus 2000",
+    "wiki": "https://wiki.hypixel.net/Bingonimbus_2000"
   },
   "BINGO_ARTIFACT": {
     "name": "Bingo Artifact",
@@ -2177,7 +2179,8 @@
     "wiki": "https://wiki.hypixel.net/Bingo_Lava_Rod"
   },
   "BINGO_RELIC": {
-    "name": "Bingo Relic"
+    "name": "Bingo Relic",
+    "wiki": "https://wiki.hypixel.net/Bingo_Relic"
   },
   "BINGO_RING": {
     "name": "Bingo Ring",
@@ -3000,6 +3003,7 @@
   },
   "BLUE_GIFT_TALISMAN": {
     "name": "Blue Gift Talisman",
+    "wiki": "https://wiki.hypixel.net/Blue_Gift_Talisman",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:60",
@@ -5396,7 +5400,8 @@
     "wiki": "https://wiki.hypixel.net/Chill_The_Fish"
   },
   "CHRISTMAS_TREE": {
-    "name": "Christmas Tree"
+    "name": "Christmas Tree",
+    "wiki": "https://wiki.hypixel.net/Christmas_Tree"
   },
   "CHUM": {
     "name": "Chum",
@@ -7021,7 +7026,8 @@
     "wiki": "https://wiki.hypixel.net/Gabagool_Distillate"
   },
   "CRYOPOWDER_SHARD": {
-    "name": "Cryopowder Shard"
+    "name": "Cryopowder Shard",
+    "wiki": "https://wiki.hypixel.net/Cryopowder_Shard"
   },
   "CRYPT_BOW": {
     "name": "Soulstealer Bow",
@@ -12094,7 +12100,8 @@
     "wiki": "https://wiki.hypixel.net/Entropy_Suppressor"
   },
   "EPIC_KUUDRA_CHUNK": {
-    "name": "Hardened Kuudra Chunk"
+    "name": "Hardened Kuudra Chunk",
+    "wiki": "https://wiki.hypixel.net/Hardened_Kuudra_Chunk"
   },
   "EPOCH_CAKE_AQUA": {
     "name": "Barry Century Cake",
@@ -12963,7 +12970,8 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
   },
   "FESTIVE_MAILBOX": {
-    "name": "Festive Mailbox"
+    "name": "Festive Mailbox",
+    "wiki": "https://wiki.hypixel.net/Festive_Mailbox"
   },
   "FESTIVE_SKELETON_PERSONALITY": {
     "name": "Festive Skeleton Minion Skin",
@@ -15377,10 +15385,12 @@
       "C1": "GLACIAL_FRAGMENT:10",
       "C2": "ENCHANTED_PACKED_ICE:2",
       "C3": "GLACIAL_FRAGMENT:10"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glacial_Artifact"
   },
   "GLACIAL_FRAGMENT": {
-    "name": "Glacial Fragment"
+    "name": "Glacial Fragment",
+    "wiki": "https://wiki.hypixel.net/Glacial_Fragment"
   },
   "GLACIAL_RING": {
     "name": "Glacial Ring",
@@ -15394,7 +15404,8 @@
       "C1": "GLACIAL_FRAGMENT:5",
       "C2": "ENCHANTED_ICE:32",
       "C3": "GLACIAL_FRAGMENT:5"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glacial_Ring"
   },
   "GLACIAL_SCYTHE": {
     "name": "Glacial Scythe",
@@ -15408,10 +15419,12 @@
       "C1": "ENCHANTED_PACKED_ICE:32",
       "C2": "BLUE_ICE_HUNK:64",
       "C3": "ENCHANTED_PACKED_ICE:32"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Glacial_Scythe"
   },
   "GLACIAL_TALISMAN": {
-    "name": "Glacial Talisman"
+    "name": "Glacial Talisman",
+    "wiki": "https://wiki.hypixel.net/Glacial_Talisman"
   },
   "GLACIAL_WISP;3": {
     "name": "Epic Glacial Wisp",
@@ -16178,6 +16191,7 @@
   },
   "GOLD_GIFT_TALISMAN": {
     "name": "Gold Gift Talisman",
+    "wiki": "https://wiki.hypixel.net/Gold_Gift_Talisman",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:200",
@@ -16883,6 +16897,7 @@
   },
   "GREEN_GIFT_TALISMAN": {
     "name": "Green Gift Talisman",
+    "wiki": "https://wiki.hypixel.net/Green_Gift_Talisman",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:40",
@@ -20900,6 +20915,10 @@
     "name": "Kuudra Follower Chestplate",
     "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Chestplate"
   },
+  "KUUDRA_FOLLOWER_HELMET": {
+    "name": "Kuudra Follower Helmet",
+    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Helmet"
+  },
   "KUUDRA_FOLLOWER_LEGGINGS": {
     "name": "Kuudra Follower Leggings",
     "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Leggings"
@@ -22016,7 +22035,8 @@
     }
   },
   "LEGENDARY_KUUDRA_CHUNK": {
-    "name": "Enriched Kuudra Chunk"
+    "name": "Enriched Kuudra Chunk",
+    "wiki": "https://wiki.hypixel.net/Enriched_Kuudra_Chunk"
   },
   "LEGEND_ROD": {
     "name": "Rod of Legends",
@@ -25906,7 +25926,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Nutcracker_Boots"
   },
   "NUTCRACKER_CHESTPLATE": {
     "name": "Nutcracker Chestplate",
@@ -25920,7 +25941,8 @@
       "C1": "WALNUT:3",
       "C2": "WALNUT:3",
       "C3": "WALNUT:3"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Nutcracker_Chestplate"
   },
   "NUTCRACKER_HELMET": {
     "name": "Nutcracker Helmet",
@@ -25934,7 +25956,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Nutcracker_Helmet"
   },
   "NUTCRACKER_LEGGINGS": {
     "name": "Nutcracker Leggings",
@@ -25948,7 +25971,8 @@
       "C1": "WALNUT:3",
       "C2": "",
       "C3": "WALNUT:3"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Nutcracker_Leggings"
   },
   "OAK_GENERATOR_1": {
     "name": "Oak Minion I",
@@ -30102,6 +30126,7 @@
   },
   "PURPLE_GIFT_TALISMAN": {
     "name": "Purple Gift Talisman",
+    "wiki": "https://wiki.hypixel.net/Purple_Gift_Talisman",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:100",
@@ -30809,7 +30834,8 @@
     "wiki": "https://wiki.hypixel.net/Rare_Diamond"
   },
   "RARE_KUUDRA_CHUNK": {
-    "name": "Meaty Kuudra Chunk"
+    "name": "Meaty Kuudra Chunk",
+    "wiki": "https://wiki.hypixel.net/Meaty_Kuudra_Chunk"
   },
   "RAT;4": {
     "name": "Legendary Rat",
@@ -31777,6 +31803,7 @@
   "REINDEER;4": {
     "name": "Legendary Reindeer",
     "texture": "a2df65c6fd19a58bee38252192ac7ce2cf1dc8632c3547a9228b6b697240d098",
+    "wiki": "https://wiki.hypixel.net/Reindeer_Pet",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:60"
@@ -32335,7 +32362,8 @@
     "wiki": "https://wiki.hypixel.net/Rock_Pet"
   },
   "ROCKING_CHAIR": {
-    "name": "Rocking Chair"
+    "name": "Rocking Chair",
+    "wiki": "https://wiki.hypixel.net/Rocking_Chair"
   },
   "ROCK_CANDY": {
     "name": "Rock Candy",
@@ -32588,7 +32616,8 @@
     "wiki": "https://wiki.hypixel.net/Aurora_Staff"
   },
   "RUSTY_ANCHOR": {
-    "name": "Rusty Anchor"
+    "name": "Rusty Anchor",
+    "wiki": "https://wiki.hypixel.net/Rusty_Anchor"
   },
   "SADAN_BROOCH": {
     "name": "Sadan\u0027s Brooch",
@@ -32683,7 +32712,8 @@
     "wiki": "https://wiki.hypixel.net/Salmon_Opal"
   },
   "SALT_CUBE": {
-    "name": "Salt Cube"
+    "name": "Salt Cube",
+    "wiki": "https://wiki.hypixel.net/Salt_Cube"
   },
   "SAND:1": {
     "name": "Red Sand"
@@ -34657,7 +34687,8 @@
     "wiki": "https://wiki.hypixel.net/Skyblock_Menu"
   },
   "SKYBLOCK_NORTH_STAR": {
-    "name": "North Star"
+    "name": "North Star",
+    "wiki": "https://wiki.hypixel.net/North_Star"
   },
   "SKYBLOCK_PELT": {
     "name": "Pelt",
@@ -35439,6 +35470,10 @@
     "name": "Flake the Fish",
     "wiki": "https://wiki.hypixel.net/Flake_The_Fish"
   },
+  "SNOWGLOBE": {
+    "name": "Snowglobe",
+    "wiki": "https://wiki.hypixel.net/Snowglobe"
+  },
   "SNOWMAN": {
     "name": "Derpy Snowman",
     "wiki": "https://wiki.hypixel.net/Derpy_Snowman"
@@ -35453,6 +35488,7 @@
   },
   "SNOW_BELT": {
     "name": "Snow Belt",
+    "wiki": "https://wiki.hypixel.net/Snow_Belt",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:10"
@@ -35485,6 +35521,7 @@
   },
   "SNOW_CLOAK": {
     "name": "Snow Cloak",
+    "wiki": "https://wiki.hypixel.net/Snow_Cloak",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:10"
@@ -35660,6 +35697,7 @@
   },
   "SNOW_GLOVES": {
     "name": "Snow Gloves",
+    "wiki": "https://wiki.hypixel.net/Snow_Gloves",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:10"
@@ -35668,10 +35706,12 @@
     }
   },
   "SNOW_HOWITZER": {
-    "name": "Frosty the Howitzer"
+    "name": "Frosty the Howitzer",
+    "wiki": "https://wiki.hypixel.net/Frosty_The_Howitzer"
   },
   "SNOW_NECKLACE": {
     "name": "Snow Necklace",
+    "wiki": "https://wiki.hypixel.net/Snow_Necklace",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:10"
@@ -40629,7 +40669,8 @@
     "wiki": "https://wiki.hypixel.net/Trapper_Crest"
   },
   "TRAPPER_DEN_TRAVEL_SCROLL": {
-    "name": "Travel Scroll to the Trapper\u0027s Den"
+    "name": "Travel Scroll to the Trapper\u0027s Den",
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Trapper%27s_Den"
   },
   "TRAP_DOOR": {
     "name": "Wooden Trapdoor",
@@ -41327,7 +41368,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments"
   },
   "UNCOMMON_KUUDRA_CHUNK": {
-    "name": "Kuudra Chunk"
+    "name": "Kuudra Chunk",
+    "wiki": "https://wiki.hypixel.net/Kuudra_Chunk"
   },
   "UNDEAD_BOW": {
     "name": "Undead Bow",
@@ -42020,7 +42062,8 @@
     "name": "◆ Wake Rune III"
   },
   "WALNUT": {
-    "name": "Walnut"
+    "name": "Walnut",
+    "wiki": "https://wiki.hypixel.net/Walnut"
   },
   "WAND_OF_ATONEMENT": {
     "name": "Wand of Atonement",
@@ -42608,6 +42651,7 @@
   },
   "WHITE_GIFT_TALISMAN": {
     "name": "White Gift Talisman",
+    "wiki": "https://wiki.hypixel.net/White_Gift_Talisman",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_NORTH_STAR:20"
@@ -42645,7 +42689,11 @@
     "wiki": "https://wiki.hypixel.net/Winter_Disc"
   },
   "WINTER_ISLAND": {
-    "name": "Winter Island"
+    "name": "Winter Island",
+    "wiki": "https://wiki.hypixel.net/Winter_Island"
+  },
+  "WINTER_ISLAND_CRYSTAL": {
+    "name": "Winter Crystal"
   },
   "WINTER_ROD": {
     "name": "Winter Rod",
