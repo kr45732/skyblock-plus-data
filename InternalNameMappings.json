@@ -1209,6 +1209,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Axe_Of_The_Shredded"
   },
+  "BABYSEAL_BACKPACK": {
+    "name": "Baby Seal Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "BABY_YETI;3": {
     "name": "Epic Baby Yeti",
     "texture": "ab126814fc3fa846dad934c349628a7a1de5b415021a03ef4211d62514d5",
@@ -3536,6 +3540,9 @@
   "BULKY_STONE": {
     "name": "Bulky Stone",
     "wiki": "https://wiki.hypixel.net/Bulky_Stone"
+  },
+  "BUNDLED_SNOWMAN": {
+    "name": "Bundled Snowman"
   },
   "BUNNY": {
     "name": "Bunny",
@@ -17876,6 +17883,9 @@
       ]
     }
   },
+  "HOLIDAY_TRAIN": {
+    "name": "Holiday Train"
+  },
   "HOLLOW_BOOTS": {
     "name": "Hollow Boots",
     "wiki": "https://wiki.hypixel.net/Hollow_Boots"
@@ -18172,6 +18182,9 @@
         "SKYBLOCK_COIN:70000"
       ]
     }
+  },
+  "HOT_CHOCOLATE_AND_COOKIES": {
+    "name": "Hot Chocolate and Cookies"
   },
   "HOT_CRIMSON_BOOTS": {
     "name": "Hot Crimson Boots",
@@ -26837,6 +26850,10 @@
     "name": "Pelt Belt",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt_Belt"
   },
+  "PENGUIN_BACKPACK": {
+    "name": "Penguin Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "PENGUIN_PERSONALITY": {
     "name": "Penguin Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
@@ -28151,6 +28168,10 @@
     "name": "Anubis Golden Dragon Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_GRIFFIN_REINDRAKE": {
+    "name": "Reindrake Griffin Skin",
+    "wiki": "https://wiki.hypixel.net/Pet_Skin"
+  },
   "PET_SKIN_GUARDIAN": {
     "name": "Watcher Guardian Skin",
     "wiki": "https://wiki.hypixel.net/Watcher_Guardian_Skin"
@@ -28227,6 +28248,10 @@
     "name": "Hide and Squeak Rat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
   },
+  "PET_SKIN_REINDEER_AURORA": {
+    "name": "Aurora Reindeer Skin",
+    "wiki": "https://wiki.hypixel.net/Pet_Skin"
+  },
   "PET_SKIN_ROCK_BLINKING": {
     "name": "Blinking Rock Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
@@ -28246,6 +28271,9 @@
   "PET_SKIN_ROCK_LAUGH": {
     "name": "Laughing Rock Skin",
     "wiki": "https://wiki.hypixel.net/Laughing_Rock_Skin"
+  },
+  "PET_SKIN_ROCK_NORTH_STAR": {
+    "name": "North Star Rock Skin"
   },
   "PET_SKIN_ROCK_SMILE": {
     "name": "Smiling Rock Skin",
@@ -31810,6 +31838,10 @@
       ],
       "count": 1
     }
+  },
+  "REINDEER_BACKPACK": {
+    "name": "Reindeer Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "REINDEER_PERSONALITY": {
     "name": "Reindeer Minion Skin",
@@ -35482,6 +35514,9 @@
     "name": "Legendary Snowman",
     "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208",
     "wiki": "https://wiki.hypixel.net/Snowman_Pet"
+  },
+  "SNOWMAN_PERSONALITY": {
+    "name": "Snowman Minion Skin"
   },
   "SNOW_BALL": {
     "name": "Snowball"
