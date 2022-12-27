@@ -1781,7 +1781,7 @@
     "npc_buy": {
       "cost": [
         "BAT_TALISMAN:1",
-        "GREEN_CANDY:65"
+        "GREEN_CANDY:64"
       ]
     }
   },
@@ -5455,7 +5455,7 @@
       "A2": "CLAY_BALL:10",
       "A3": "CLAY_BALL:10",
       "B1": "CLAY_BALL:10",
-      "B2": "WOOD_SHOVEL:1",
+      "B2": "WOOD_SPADE:1",
       "B3": "CLAY_BALL:10",
       "C1": "CLAY_BALL:10",
       "C2": "CLAY_BALL:10",
@@ -20919,6 +20919,10 @@
         "CORRUPTED_NETHER_STAR:2"
       ]
     }
+  },
+  "KUUDRA_FOLLOWER_ARTIFACT": {
+    "name": "Kuudra Follower Artifact",
+    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact"
   },
   "KUUDRA_FOLLOWER_BOOTS": {
     "name": "Kuudra Follower Boots",
@@ -42254,9 +42258,9 @@
       "A1": "ENCHANTED_RAW_FISH:16",
       "A2": "ENCHANTED_WATER_LILY:8",
       "A3": "ENCHANTED_RAW_SALMON:16",
-      "B1": "ENCHANTED_PRISMARINE_CRYSTALS:16",
+      "B1": "ENCHANTED_PRISMARINE_SHARD:16",
       "B2": "DIVER_FRAGMENT:1",
-      "B3": "ENCHANTED_PRISMARINE_SHARD:16",
+      "B3": "ENCHANTED_PRISMARINE_CRYSTALS:16",
       "C1": "ENCHANTED_SPONGE:4",
       "C2": "ENCHANTED_PUFFERFISH:16",
       "C3": "ENCHANTED_CLOWNFISH:8"
