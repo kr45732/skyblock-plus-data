@@ -33290,7 +33290,7 @@
                 }
             },
             {
-                "item": "Implosion Scroll",
+                "item": "Implosion",
                 "floor": 14,
                 "chest": "Bedrock",
                 "cost": 1300000,
@@ -33338,7 +33338,7 @@
                 }
             },
             {
-                "item": "Shadow Warp Scroll",
+                "item": "Shadow Warp",
                 "floor": 14,
                 "chest": "Bedrock",
                 "cost": 1300000,
@@ -33386,7 +33386,7 @@
                 }
             },
             {
-                "item": "Wither Shield Scroll",
+                "item": "Wither Shield",
                 "floor": 14,
                 "chest": "Bedrock",
                 "cost": 1300000,
