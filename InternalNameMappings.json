@@ -14457,6 +14457,17 @@
   },
   "FORAGING_1_TRAVEL_SCROLL": {
     "name": "Travel Scroll to The Park",
+    "recipe": {
+      "A1": "ENCHANTED_BIRCH_LOG:16",
+      "A2": "ENCHANTED_BIRCH_LOG:16",
+      "A3": "ENCHANTED_BIRCH_LOG:16",
+      "B1": "ENCHANTED_BIRCH_LOG:16",
+      "B2": "ENCHANTED_ENDER_PEARL:16",
+      "B3": "ENCHANTED_BIRCH_LOG:16",
+      "C1": "ENCHANTED_BIRCH_LOG:16",
+      "C2": "ENCHANTED_BIRCH_LOG:16",
+      "C3": "ENCHANTED_BIRCH_LOG:16"
+    },
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Park"
   },
   "FORAGING_2_PORTAL": {
