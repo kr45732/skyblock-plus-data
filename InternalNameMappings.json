@@ -40718,6 +40718,10 @@
     "name": "Trapper Crest",
     "wiki": "https://wiki.hypixel.net/Trapper_Crest"
   },
+  "TRAPPER_DEN_PORTAL": {
+    "name": "Portal to the Trapper\u0027s Den",
+    "wiki": "https://wiki.hypixel.net/Portals"
+  },
   "TRAPPER_DEN_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Trapper\u0027s Den",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Trapper%27s_Den"
@@ -42958,6 +42962,14 @@
         "SKYBLOCK_COIN:5000000"
       ]
     }
+  },
+  "WITHER_GOGGLES_CELESTIAL": {
+    "name": "Celestial Wither Goggles Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "WITHER_GOGGLES_CYBERPUNK": {
+    "name": "Cyberpunk Wither Goggles Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "WITHER_HELMET": {
     "name": "Wither Helmet",
