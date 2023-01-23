@@ -22455,6 +22455,10 @@
     "name": "Lump of Magma",
     "wiki": "https://wiki.hypixel.net/Lump_Of_Magma"
   },
+  "LUNAR_RABBIT_HAT": {
+    "name": "Lunar Rabbit Hat Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "LURE;1": {
     "name": "Lure I"
   },
@@ -28254,6 +28258,10 @@
   "PET_SKIN_RABBIT_AQUAMARINE": {
     "name": "Aquamarine Rabbit Skin",
     "wiki": "https://wiki.hypixel.net/Aquamarine_Rabbit_Skin"
+  },
+  "PET_SKIN_RABBIT_LUNAR": {
+    "name": "Lunar Rabbit Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "PET_SKIN_RABBIT_ROSE": {
     "name": "Rose Rabbit Skin",
