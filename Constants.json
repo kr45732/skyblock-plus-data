@@ -55,7 +55,7 @@
     "master_catacombs_5": "<:master_floor_5:867511391518457877>",
     "master_catacombs_6": "<:master_floor_6:867511391228657685>",
     "master_catacombs_7": "<:master_floor_7:867511391644549120>",
-    "catacombs": "<:catacombs:867535694103707679>"
+    "catacombs": "<:catacombs:1067859969086607411>"
   },
   "FETCHUR_ITEMS": [
     "**Item:** Yellow Stained Glass\n**Quantity:** 20|STAINED_GLASS:4",
@@ -133,16 +133,16 @@
   },
   "SKILLS_EMOJI_MAP": {
     "taming": "<:taming:800462115365716018>",
-    "farming": "<:farming:800462115055992832>",
-    "foraging": "<:foraging:800462114829500477>",
-    "combat": "<:combat:800462115009855548>",
-    "alchemy": "<:alchemy:800462114589376564>",
-    "fishing": "<:fishing:800462114853617705>",
+    "farming": "<:golden_hoe:964896797053042750>",
+    "foraging": "<:jungle_sapling:990321105317265469>",
+    "combat": "<:stone_sword:964899520632717312>",
+    "alchemy": "<:brewing_stand:964895304107294870>",
+    "fishing": "<:fishing_rod:964896458446897242>",
     "enchanting": "<:enchanting:800462115193225256>",
-    "mining": "<:mining:800462115009069076>",
-    "carpentry": "<:carpentry:800462115156131880>",
-    "runecrafting": "<:runecrafting:800462115172909086>",
-    "social": "<:social:984262128993181767>"
+    "mining": "<:stone_pickaxe:964899515729575976>",
+    "carpentry": "<:crafting_table:964900064206159963>",
+    "runecrafting": "<:magma_cream:964897495148793927>",
+    "social": "<:emerald:964896133459615764>"
   },
   "SKILLS_LEVEL_50_XP": 55172425,
   "SKILLS_LEVEL_60_XP": 111672425,
