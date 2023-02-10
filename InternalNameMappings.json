@@ -28329,6 +28329,18 @@
     "name": "Thinking Rock Skin",
     "wiki": "https://wiki.hypixel.net/Thinking_Rock_Skin"
   },
+  "PET_SKIN_SCATHA_ALBINO": {
+    "name": "Albino Scatha Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "PET_SKIN_SCATHA_DARK": {
+    "name": "Dark Scatha Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "PET_SKIN_SCATHA_GOLDEN": {
+    "name": "Golden Scatha Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "PET_SKIN_SHEEP_BLACK": {
     "name": "Black Sheep Skin",
     "wiki": "https://wiki.hypixel.net/Black_Sheep_Skin"
@@ -34004,13 +34016,13 @@
     "name": "Shimmering Light Trousers",
     "recipe": {
       "A1": "ENCHANTED_MYCELIUM_CUBE:1",
-      "A2": "",
+      "A2": "Z:10",
       "A3": "ENCHANTED_MYCELIUM_CUBE:1",
       "B1": "Y:30",
-      "B2": "Z:10",
+      "B2": "",
       "B3": "Y:30",
       "C1": "ENCHANTED_MYCELIUM_CUBE:1",
-      "C2": "ENCHANTED_MYCELIUM_CUBE:1",
+      "C2": "",
       "C3": "ENCHANTED_MYCELIUM_CUBE:1"
     },
     "wiki": "https://wiki.hypixel.net/Shimmering_Light_Trousers"
