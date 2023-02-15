@@ -396,6 +396,12 @@
   "ADRENALINE": {
     "name": "Adrenaline Potion"
   },
+  "ADVANCED_GARDENING_AXE": {
+    "name": "Advanced Gardening Axe"
+  },
+  "ADVANCED_GARDENING_HOE": {
+    "name": "Advanced Gardening Hoe"
+  },
   "ADVENT_CALENDAR_DISPLAY": {
     "name": "Advent Calendar Display",
     "wiki": "https://wiki.hypixel.net/Advent_Calendar_Display"
@@ -1194,6 +1200,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Auto_Smelter"
   },
+  "AUTUMN_HUT_BARN_SKIN": {
+    "name": "Autumn Hut Barn Skin"
+  },
   "AXE_OF_THE_SHREDDED": {
     "name": "Axe of the Shredded",
     "recipe": {
@@ -1258,6 +1267,9 @@
     "name": "Legendary Bal",
     "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://wiki.hypixel.net/Bal_Pet"
+  },
+  "BAMBOO_BARN_SKIN": {
+    "name": "Bamboo Barn Skin"
   },
   "BANDAGED_MITHRIL_PICKAXE": {
     "name": "Bandaged Mithril Pickaxe",
@@ -1563,6 +1575,12 @@
       "C3": "GRIFFIN_FEATHER:2"
     },
     "wiki": "https://wiki.hypixel.net/Base_Griffin_Upgrade_Stone"
+  },
+  "BASIC_GARDENING_AXE": {
+    "name": "Basic Gardening Axe"
+  },
+  "BASIC_GARDENING_HOE": {
+    "name": "Basic Gardening Hoe"
   },
   "BASKETBALL_PERSONALITY": {
     "name": "Basketball Minion Skin",
@@ -3294,6 +3312,20 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bowl"
   },
+  "BOX_OF_SEEDS": {
+    "name": "Box of Seeds",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_SEEDS:32",
+      "A3": "",
+      "B1": "ENCHANTED_SEEDS:32",
+      "B2": "ENCHANTED_SEEDS:32",
+      "B3": "ENCHANTED_SEEDS:32",
+      "C1": "",
+      "C2": "ENCHANTED_SEEDS:32",
+      "C3": ""
+    }
+  },
   "BRAIDED_GRIFFIN_FEATHER": {
     "name": "Braided Griffin Feather",
     "recipe": {
@@ -3448,6 +3480,9 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Budget_Hopper"
+  },
+  "BUILDERS_RULER": {
+    "name": "Builder\u0027s Ruler"
   },
   "BUILDERS_WAND": {
     "name": "Builder\u0027s Wand",
@@ -4636,6 +4671,9 @@
       "C3": ""
     }
   },
+  "CASHMERE_JACKET": {
+    "name": "Cashmere Jacket"
+  },
   "CASTER;1": {
     "name": "Caster I"
   },
@@ -4664,6 +4702,9 @@
   },
   "CASTER;6": {
     "name": "Caster VI"
+  },
+  "CASTLE_BARN_SKIN": {
+    "name": "Castle Barn Skin"
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
@@ -6420,6 +6461,9 @@
       "C3": ""
     }
   },
+  "COMPOST": {
+    "name": "Compost"
+  },
   "CONCENTRATED_STONE": {
     "name": "Concentrated Stone",
     "recipe": {
@@ -6434,6 +6478,9 @@
       "C3": "ENCHANTED_HARD_STONE:64"
     },
     "wiki": "https://wiki.hypixel.net/Concentrated_Stone"
+  },
+  "CONDENSED_FERMENTO": {
+    "name": "Condensed Fermento"
   },
   "CONJURING_SWORD": {
     "name": "Conjuring",
@@ -6753,6 +6800,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Cow_Head"
   },
+  "COZY_COTTAGE_BARN_SKIN": {
+    "name": "Cozy Cottage Barn Skin"
+  },
   "CRAB": {
     "name": "Crab",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
@@ -7020,6 +7070,65 @@
     "name": "Crooked Artifact",
     "wiki": "https://wiki.hypixel.net/Crooked_Artifact"
   },
+  "CROPIE": {
+    "name": "Cropie"
+  },
+  "CROPIE_BOOTS": {
+    "name": "Cropie Boots",
+    "recipe": {
+      "A1": "CROPIE:10",
+      "A2": "",
+      "A3": "CROPIE:10",
+      "B1": "TIGHTLY_TIED_HAY_BALE:1",
+      "B2": "MELON_BOOTS:1",
+      "B3": "TIGHTLY_TIED_HAY_BALE:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "CROPIE_CHESTPLATE": {
+    "name": "Cropie Chestplate",
+    "recipe": {
+      "A1": "CROPIE:10",
+      "A2": "MELON_CHESTPLATE:1",
+      "A3": "CROPIE:10",
+      "B1": "BOX_OF_SEEDS:3",
+      "B2": "TIGHTLY_TIED_HAY_BALE:1",
+      "B3": "BOX_OF_SEEDS:3",
+      "C1": "ENCHANTED_BAKED_POTATO:15",
+      "C2": "ENCHANTED_BAKED_POTATO:15",
+      "C3": "ENCHANTED_BAKED_POTATO:15"
+    }
+  },
+  "CROPIE_HELMET": {
+    "name": "Cropie Helmet",
+    "recipe": {
+      "A1": "CROPIE:10",
+      "A2": "TIGHTLY_TIED_HAY_BALE:1",
+      "A3": "CROPIE:10",
+      "B1": "BOX_OF_SEEDS:3",
+      "B2": "MELON_HELMET:1",
+      "B3": "BOX_OF_SEEDS:3",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "CROPIE_LEGGINGS": {
+    "name": "Cropie Leggings",
+    "recipe": {
+      "A1": "CROPIE:10",
+      "A2": "TIGHTLY_TIED_HAY_BALE:1",
+      "A3": "CROPIE:10",
+      "B1": "BOX_OF_SEEDS:3",
+      "B2": "MELON_LEGGINGS:1",
+      "B3": "BOX_OF_SEEDS:3",
+      "C1": "ENCHANTED_GOLDEN_CARROT:15",
+      "C2": "",
+      "C3": "ENCHANTED_GOLDEN_CARROT:15"
+    }
+  },
   "CROWN_OF_GREED": {
     "name": "Crown of Greed",
     "wiki": "https://wiki.hypixel.net/Crown_Of_Greed"
@@ -7163,6 +7272,9 @@
   "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Nucleus",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Nucleus"
+  },
+  "CUBE_BARN_SKIN": {
+    "name": "Cube Barn Skin"
   },
   "CUBISM;1": {
     "name": "Cubism I"
@@ -7627,7 +7739,7 @@
     "wiki": "https://wiki.hypixel.net/Day_Saver"
   },
   "DCTR_SPACE_HELM": {
-    "name": "Dctr\u0027s Space Helmet",
+    "name": "Space Helmet",
     "wiki": "https://wiki.hypixel.net/Dctr\u0027s_Space_Helmet"
   },
   "DEADGEHOG_SPINE": {
@@ -9897,6 +10009,20 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Cocoa_Bean"
+  },
+  "ENCHANTED_COMPOST": {
+    "name": "Compost Bundle",
+    "recipe": {
+      "A1": "",
+      "A2": "COMPOST:32",
+      "A3": "",
+      "B1": "COMPOST:32",
+      "B2": "COMPOST:32",
+      "B3": "COMPOST:32",
+      "C1": "",
+      "C2": "COMPOST:32",
+      "C3": ""
+    }
   },
   "ENCHANTED_COOKED_FISH": {
     "name": "Enchanted Cooked Fish",
@@ -12926,6 +13052,62 @@
     },
     "wiki": "https://wiki.hypixel.net/Fermented_Spider_Eye"
   },
+  "FERMENTO_BOOTS": {
+    "name": "Fermento Boots",
+    "recipe": {
+      "A1": "CONDENSED_FERMENTO:2",
+      "A2": "",
+      "A3": "CONDENSED_FERMENTO:2",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
+      "B2": "SQUASH_BOOTS:1",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "FERMENTO_CHESTPLATE": {
+    "name": "Fermento Chestplate",
+    "recipe": {
+      "A1": "CONDENSED_FERMENTO:2",
+      "A2": "SQUASH_CHESTPLATE:1",
+      "A3": "CONDENSED_FERMENTO:2",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
+      "B2": "ENCHANTED_SUGAR_CANE:32",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
+      "C1": "MUTANT_NETHER_STALK:10",
+      "C2": "MUTANT_NETHER_STALK:10",
+      "C3": "MUTANT_NETHER_STALK:10"
+    }
+  },
+  "FERMENTO_HELMET": {
+    "name": "Fermento Helmet",
+    "recipe": {
+      "A1": "CONDENSED_FERMENTO:2",
+      "A2": "ENCHANTED_SUGAR_CANE:32",
+      "A3": "CONDENSED_FERMENTO:2",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
+      "B2": "SQUASH_HELMET:1",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "FERMENTO_LEGGINGS": {
+    "name": "Fermento Leggings",
+    "recipe": {
+      "A1": "CONDENSED_FERMENTO:2",
+      "A2": "ENCHANTED_SUGAR_CANE:32",
+      "A3": "CONDENSED_FERMENTO:2",
+      "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
+      "B2": "SQUASH_LEGGINGS:1",
+      "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
+      "C1": "MUTANT_NETHER_STALK:20",
+      "C2": "",
+      "C3": "MUTANT_NETHER_STALK:20"
+    }
+  },
   "FEROCIOUS_MANA;1": {
     "name": "Ferocious Mana I"
   },
@@ -14843,6 +15025,9 @@
   "GAME_BREAKER": {
     "name": "Game Breaker",
     "wiki": "https://wiki.hypixel.net/Game_Breaker"
+  },
+  "GARDEN_SCYTHE": {
+    "name": "Garden Scythe"
   },
   "GARLAND": {
     "name": "Garland",
@@ -17874,6 +18059,9 @@
     "name": "Hilt of True Ice",
     "wiki": "https://wiki.hypixel.net/Hilt_Of_True_Ice"
   },
+  "HIVE_BARN_SKIN": {
+    "name": "Hive Barn Skin"
+  },
   "HOE_OF_GREATER_TILLING": {
     "name": "Hoe of Greater Tilling",
     "wiki": "https://wiki.hypixel.net/Hoe_Of_Greater_Tilling",
@@ -17883,6 +18071,9 @@
         "JACOBS_TICKET:10"
       ]
     }
+  },
+  "HOE_OF_GREATEST_TILLING": {
+    "name": "Hoe of Greatest Tilling"
   },
   "HOE_OF_GREAT_TILLING": {
     "name": "Hoe of Great Tilling",
@@ -22369,6 +22560,18 @@
   "LOOTING;5": {
     "name": "Looting V"
   },
+  "LOTUS_BELT": {
+    "name": "Lotus Belt"
+  },
+  "LOTUS_BRACELET": {
+    "name": "Lotus Bracelet"
+  },
+  "LOTUS_CLOAK": {
+    "name": "Lotus Cloak"
+  },
+  "LOTUS_NECKLACE": {
+    "name": "Lotus Necklace"
+  },
   "LUCK;1": {
     "name": "Luck I"
   },
@@ -23594,6 +23797,34 @@
     },
     "wiki": "https://wiki.hypixel.net/Melon"
   },
+  "MELON_BOOTS": {
+    "name": "Melon Boots",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:5",
+      "A2": "",
+      "A3": "ENCHANTED_MELON_BLOCK:5",
+      "B1": "ENCHANTED_MELON_BLOCK:5",
+      "B2": "",
+      "B3": "ENCHANTED_MELON_BLOCK:5",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "MELON_CHESTPLATE": {
+    "name": "Melon Chestplate",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:5",
+      "A2": "",
+      "A3": "ENCHANTED_MELON_BLOCK:5",
+      "B1": "ENCHANTED_MELON_BLOCK:5",
+      "B2": "ENCHANTED_MELON_BLOCK:5",
+      "B3": "ENCHANTED_MELON_BLOCK:5",
+      "C1": "ENCHANTED_MELON_BLOCK:5",
+      "C2": "ENCHANTED_MELON_BLOCK:5",
+      "C3": "ENCHANTED_MELON_BLOCK:5"
+    }
+  },
   "MELON_DICER": {
     "name": "Melon Dicer",
     "wiki": "https://wiki.hypixel.net/Melon_Dicer",
@@ -23602,6 +23833,34 @@
         "SKYBLOCK_GOLD_MEDAL:1",
         "JACOBS_TICKET:32"
       ]
+    }
+  },
+  "MELON_DICER_2": {
+    "name": "Melon Dicer 2.0",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:8",
+      "A2": "ENCHANTED_MELON_BLOCK:8",
+      "A3": "ENCHANTED_MELON_BLOCK:8",
+      "B1": "ENCHANTED_MELON_BLOCK:8",
+      "B2": "MELON_DICER:1",
+      "B3": "ENCHANTED_MELON_BLOCK:8",
+      "C1": "ENCHANTED_MELON_BLOCK:8",
+      "C2": "ENCHANTED_MELON_BLOCK:8",
+      "C3": "ENCHANTED_MELON_BLOCK:8"
+    }
+  },
+  "MELON_DICER_3": {
+    "name": "Melon Dicer 3.0",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:16",
+      "A2": "ENCHANTED_MELON_BLOCK:16",
+      "A3": "ENCHANTED_MELON_BLOCK:16",
+      "B1": "ENCHANTED_MELON_BLOCK:16",
+      "B2": "MELON_DICER_2:1",
+      "B3": "ENCHANTED_MELON_BLOCK:16",
+      "C1": "ENCHANTED_MELON_BLOCK:16",
+      "C2": "ENCHANTED_MELON_BLOCK:16",
+      "C3": "ENCHANTED_MELON_BLOCK:16"
     }
   },
   "MELON_GENERATOR_1": {
@@ -23779,6 +24038,34 @@
       "C3": "ENCHANTED_MELON:64"
     },
     "wiki": "https://wiki.hypixel.net/Melon_Minion_IX"
+  },
+  "MELON_HELMET": {
+    "name": "Melon Helmet",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:5",
+      "A2": "ENCHANTED_MELON_BLOCK:5",
+      "A3": "ENCHANTED_MELON_BLOCK:5",
+      "B1": "ENCHANTED_MELON_BLOCK:5",
+      "B2": "",
+      "B3": "ENCHANTED_MELON_BLOCK:5",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "MELON_LEGGINGS": {
+    "name": "Melon Leggings",
+    "recipe": {
+      "A1": "ENCHANTED_MELON_BLOCK:5",
+      "A2": "ENCHANTED_MELON_BLOCK:5",
+      "A3": "ENCHANTED_MELON_BLOCK:5",
+      "B1": "ENCHANTED_MELON_BLOCK:5",
+      "B2": "",
+      "B3": "ENCHANTED_MELON_BLOCK:5",
+      "C1": "ENCHANTED_MELON_BLOCK:5",
+      "C2": "",
+      "C3": "ENCHANTED_MELON_BLOCK:5"
+    }
   },
   "MELON_PERSONALITY": {
     "name": "Melon Minion Skin",
@@ -25438,6 +25725,9 @@
       "C3": "ENCHANTED_MYCELIUM:64"
     },
     "wiki": "https://wiki.hypixel.net/Mycelium_Minion_IX"
+  },
+  "MYSTERIOUS_CROP": {
+    "name": "Mysterious Crop"
   },
   "MYSTERIOUS_MEAT": {
     "name": "Mysterious Meat",
@@ -29911,6 +30201,34 @@
       ]
     }
   },
+  "PUMPKIN_DICER_2": {
+    "name": "Pumpkin Dicer 2.0",
+    "recipe": {
+      "A1": "POLISHED_PUMPKIN:2",
+      "A2": "POLISHED_PUMPKIN:2",
+      "A3": "POLISHED_PUMPKIN:2",
+      "B1": "POLISHED_PUMPKIN:2",
+      "B2": "PUMPKIN_DICER:1",
+      "B3": "POLISHED_PUMPKIN:2",
+      "C1": "POLISHED_PUMPKIN:2",
+      "C2": "POLISHED_PUMPKIN:2",
+      "C3": "POLISHED_PUMPKIN:2"
+    }
+  },
+  "PUMPKIN_DICER_3": {
+    "name": "Pumpkin Dicer 3.0",
+    "recipe": {
+      "A1": "POLISHED_PUMPKIN:4",
+      "A2": "POLISHED_PUMPKIN:4",
+      "A3": "POLISHED_PUMPKIN:4",
+      "B1": "POLISHED_PUMPKIN:4",
+      "B2": "PUMPKIN_DICER_2:1",
+      "B3": "POLISHED_PUMPKIN:4",
+      "C1": "POLISHED_PUMPKIN:4",
+      "C2": "POLISHED_PUMPKIN:4",
+      "C3": "POLISHED_PUMPKIN:4"
+    }
+  },
   "PUMPKIN_GENERATOR_1": {
     "name": "Pumpkin Minion I",
     "recipe": {
@@ -30559,6 +30877,34 @@
       ]
     }
   },
+  "RABBIT_BOOTS": {
+    "name": "Rabbit Boots",
+    "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_FOOT:10",
+      "B2": "",
+      "B3": "ENCHANTED_RABBIT_FOOT:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "RABBIT_CHESTPLATE": {
+    "name": "Rabbit Chestplate",
+    "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_HIDE:5",
+      "B2": "ENCHANTED_RABBIT_FOOT:10",
+      "B3": "ENCHANTED_RABBIT_HIDE:5",
+      "C1": "ENCHANTED_RABBIT_HIDE:5",
+      "C2": "ENCHANTED_RABBIT_FOOT:10",
+      "C3": "ENCHANTED_RABBIT_HIDE:5"
+    }
+  },
   "RABBIT_FOOT": {
     "name": "Rabbit\u0027s Foot",
     "wiki": "https://wiki.hypixel.net/Rabbit\u0027s_Foot",
@@ -30748,6 +31094,20 @@
     "name": "Rabbit Hat",
     "wiki": "https://wiki.hypixel.net/Rabbit_Hat"
   },
+  "RABBIT_HELMET": {
+    "name": "Rabbit Helmet",
+    "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "ENCHANTED_RABBIT_FOOT:10",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_HIDE:5",
+      "B2": "",
+      "B3": "ENCHANTED_RABBIT_HIDE:5",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
   "RABBIT_HIDE": {
     "name": "Rabbit Hide",
     "wiki": "https://wiki.hypixel.net/Rabbit_Hide"
@@ -30755,6 +31115,20 @@
   "RABBIT_HUTCH": {
     "name": "Rabbit Hutch",
     "wiki": "https://wiki.hypixel.net/Rabbit_Hutch"
+  },
+  "RABBIT_LEGGINGS": {
+    "name": "Rabbit Leggings",
+    "recipe": {
+      "A1": "ENCHANTED_RABBIT_HIDE:5",
+      "A2": "ENCHANTED_RABBIT_FOOT:10",
+      "A3": "ENCHANTED_RABBIT_HIDE:5",
+      "B1": "ENCHANTED_RABBIT_HIDE:5",
+      "B2": "",
+      "B3": "ENCHANTED_RABBIT_HIDE:5",
+      "C1": "ENCHANTED_RABBIT_HIDE:5",
+      "C2": "",
+      "C3": "ENCHANTED_RABBIT_HIDE:5"
+    }
   },
   "RABBIT_STEW": {
     "name": "Rabbit Stew",
@@ -32792,6 +33166,12 @@
   "SALT_CUBE": {
     "name": "Salt Cube",
     "wiki": "https://wiki.hypixel.net/Salt_Cube"
+  },
+  "SAM_ASSISTANT": {
+    "name": "Move Sam"
+  },
+  "SAM_SCYTHE": {
+    "name": "Sam\u0027s Scythe"
   },
   "SAND:1": {
     "name": "Red Sand"
@@ -37202,6 +37582,65 @@
       "C3": "WOOD-1:1"
     }
   },
+  "SQUASH": {
+    "name": "Squash"
+  },
+  "SQUASH_BOOTS": {
+    "name": "Squash Boots",
+    "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "",
+      "A3": "SQUASH:10",
+      "B1": "POLISHED_PUMPKIN:6",
+      "B2": "CROPIE_BOOTS:1",
+      "B3": "POLISHED_PUMPKIN:6",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "SQUASH_CHESTPLATE": {
+    "name": "Squash Chestplate",
+    "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "CROPIE_CHESTPLATE:1",
+      "A3": "SQUASH:10",
+      "B1": "ENCHANTED_MELON_BLOCK:24",
+      "B2": "POLISHED_PUMPKIN:8",
+      "B3": "ENCHANTED_MELON_BLOCK:24",
+      "C1": "ENCHANTED_COOKIE:10",
+      "C2": "ENCHANTED_COOKIE:10",
+      "C3": "ENCHANTED_COOKIE:10"
+    }
+  },
+  "SQUASH_HELMET": {
+    "name": "Squash Helmet",
+    "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "POLISHED_PUMPKIN:8",
+      "A3": "SQUASH:10",
+      "B1": "ENCHANTED_MELON_BLOCK:24",
+      "B2": "CROPIE_HELMET:1",
+      "B3": "ENCHANTED_MELON_BLOCK:24",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    }
+  },
+  "SQUASH_LEGGINGS": {
+    "name": "Squash Leggings",
+    "recipe": {
+      "A1": "SQUASH:10",
+      "A2": "POLISHED_PUMPKIN:8",
+      "A3": "SQUASH:10",
+      "B1": "ENCHANTED_MELON_BLOCK:24",
+      "B2": "CROPIE_LEGGINGS:1",
+      "B3": "ENCHANTED_MELON_BLOCK:24",
+      "C1": "ENCHANTED_COOKIE:10",
+      "C2": "",
+      "C3": "ENCHANTED_COOKIE:10"
+    }
+  },
   "SQUID;0": {
     "name": "Common Squid",
     "texture": "01433be242366af126da434b8735df1eb5b3cb2cede39145974e9c483607bac",
@@ -39123,6 +39562,21 @@
     "name": "Summoning Ring",
     "wiki": "https://wiki.hypixel.net/Summoning_Ring"
   },
+  "SUNDER;1": {
+    "name": "Sunder I"
+  },
+  "SUNDER;2": {
+    "name": "Sunder 2"
+  },
+  "SUNDER;3": {
+    "name": "Sunder 3"
+  },
+  "SUNDER;4": {
+    "name": "Sunder 4"
+  },
+  "SUNDER;5": {
+    "name": "Sunder 5"
+  },
   "SUN_PERSONALITY": {
     "name": "Sun Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
@@ -39879,6 +40333,9 @@
     "name": "Taurus Helmet",
     "wiki": "https://wiki.hypixel.net/Taurus_Helmet"
   },
+  "TAVERN_BARN_SKIN": {
+    "name": "Tavern Barn Skin"
+  },
   "TELEKINESIS;1": {
     "name": "Telekinesis I"
   },
@@ -40184,13 +40641,13 @@
     "name": "Euclid\u0027s Wheat Hoe",
     "recipe": {
       "A1": "JACOBS_TICKET:64",
-      "A2": "TIGHTLY_TIED_HAY_BALE:64",
+      "A2": "TIGHTLY_TIED_HAY_BALE:16",
       "A3": "JACOBS_TICKET:64",
-      "B1": "TIGHTLY_TIED_HAY_BALE:64",
+      "B1": "TIGHTLY_TIED_HAY_BALE:16",
       "B2": "THEORETICAL_HOE_WHEAT_2:1",
-      "B3": "TIGHTLY_TIED_HAY_BALE:64",
+      "B3": "TIGHTLY_TIED_HAY_BALE:16",
       "C1": "JACOBS_TICKET:64",
-      "C2": "TIGHTLY_TIED_HAY_BALE:64",
+      "C2": "TIGHTLY_TIED_HAY_BALE:16",
       "C3": "JACOBS_TICKET:64"
     },
     "wiki": "https://wiki.hypixel.net/Euclid%27s_Wheat_Hoe"
@@ -40707,6 +41164,9 @@
   "TOY": {
     "name": "Toy",
     "wiki": "https://wiki.hypixel.net/Toy"
+  },
+  "TRADING_POST_BARN_SKIN": {
+    "name": "Trading Post Barn Skin"
   },
   "TRAINING_DUMMY": {
     "name": "Training Dummy",
@@ -42764,6 +43224,9 @@
   "WILSON_ENGINEERING_PLANS": {
     "name": "Wilson\u0027s Engineering Plans",
     "wiki": "https://wiki.hypixel.net/Wilson%27s_Engineering_Plans"
+  },
+  "WINDMILL_BARN_SKIN": {
+    "name": "Windmill Barn Skin"
   },
   "WIND_CHIMES": {
     "name": "Wind Chimes",
