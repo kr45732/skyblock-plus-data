@@ -6504,6 +6504,17 @@
   },
   "CONDENSED_FERMENTO": {
     "name": "Condensed Fermento",
+    "recipe": {
+      "A1": "FERMENTO:1",
+      "A2": "FERMENTO:1",
+      "A3": "FERMENTO:1",
+      "B1": "FERMENTO:1",
+      "B2": "FERMENTO:1",
+      "B3": "FERMENTO:1",
+      "C1": "FERMENTO:1",
+      "C2": "FERMENTO:1",
+      "C3": "FERMENTO:1"
+    },
     "wiki": "https://wiki.hypixel.net/Condensed_Fermento"
   },
   "CONJURING_SWORD": {
@@ -10510,30 +10521,30 @@
   "ENCHANTED_HUGE_MUSHROOM_1": {
     "name": "Enchanted Brown Mushroom Block",
     "recipe": {
-      "A1": "HUGE_MUSHROOM_1:64",
-      "A2": "HUGE_MUSHROOM_1:64",
-      "A3": "HUGE_MUSHROOM_1:64",
-      "B1": "HUGE_MUSHROOM_1:64",
-      "B2": "HUGE_MUSHROOM_1:64",
-      "B3": "HUGE_MUSHROOM_1:64",
-      "C1": "HUGE_MUSHROOM_1:64",
-      "C2": "HUGE_MUSHROOM_1:64",
-      "C3": "HUGE_MUSHROOM_1:64"
+      "A1": "ENCHANTED_BROWN_MUSHROOM:8",
+      "A2": "ENCHANTED_BROWN_MUSHROOM:8",
+      "A3": "",
+      "B1": "ENCHANTED_BROWN_MUSHROOM:8",
+      "B2": "ENCHANTED_BROWN_MUSHROOM:8",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Brown_Mushroom_Block"
   },
   "ENCHANTED_HUGE_MUSHROOM_2": {
     "name": "Enchanted Red Mushroom Block",
     "recipe": {
-      "A1": "HUGE_MUSHROOM_2:64",
-      "A2": "HUGE_MUSHROOM_2:64",
-      "A3": "HUGE_MUSHROOM_2:64",
-      "B1": "HUGE_MUSHROOM_2:64",
-      "B2": "HUGE_MUSHROOM_2:64",
-      "B3": "HUGE_MUSHROOM_2:64",
-      "C1": "HUGE_MUSHROOM_2:64",
-      "C2": "HUGE_MUSHROOM_2:64",
-      "C3": "HUGE_MUSHROOM_2:64"
+      "A1": "ENCHANTED_RED_MUSHROOM:8",
+      "A2": "ENCHANTED_RED_MUSHROOM:8",
+      "A3": "",
+      "B1": "ENCHANTED_RED_MUSHROOM:8",
+      "B2": "ENCHANTED_RED_MUSHROOM:8",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Red_Mushroom_Block"
   },
@@ -13085,12 +13096,15 @@
     },
     "wiki": "https://wiki.hypixel.net/Fermented_Spider_Eye"
   },
+  "FERMENTO": {
+    "name": "Fermento"
+  },
   "FERMENTO_BOOTS": {
     "name": "Fermento Boots",
     "recipe": {
-      "A1": "CONDENSED_FERMENTO:2",
+      "A1": "CONDENSED_FERMENTO:1",
       "A2": "",
-      "A3": "CONDENSED_FERMENTO:2",
+      "A3": "CONDENSED_FERMENTO:1",
       "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
       "B2": "SQUASH_BOOTS:1",
       "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
@@ -13103,24 +13117,24 @@
   "FERMENTO_CHESTPLATE": {
     "name": "Fermento Chestplate",
     "recipe": {
-      "A1": "CONDENSED_FERMENTO:2",
+      "A1": "CONDENSED_FERMENTO:1",
       "A2": "SQUASH_CHESTPLATE:1",
-      "A3": "CONDENSED_FERMENTO:2",
+      "A3": "CONDENSED_FERMENTO:1",
       "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
       "B2": "ENCHANTED_SUGAR_CANE:32",
       "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
-      "C1": "MUTANT_NETHER_STALK:10",
-      "C2": "MUTANT_NETHER_STALK:10",
-      "C3": "MUTANT_NETHER_STALK:10"
+      "C1": "MUTANT_NETHER_STALK:15",
+      "C2": "ENCHANTED_CACTUS:25",
+      "C3": "MUTANT_NETHER_STALK:15"
     },
     "wiki": "https://wiki.hypixel.net/Fermento_Chestplate"
   },
   "FERMENTO_HELMET": {
     "name": "Fermento Helmet",
     "recipe": {
-      "A1": "CONDENSED_FERMENTO:2",
+      "A1": "CONDENSED_FERMENTO:1",
       "A2": "ENCHANTED_SUGAR_CANE:32",
-      "A3": "CONDENSED_FERMENTO:2",
+      "A3": "CONDENSED_FERMENTO:1",
       "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
       "B2": "SQUASH_HELMET:1",
       "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
@@ -13133,9 +13147,9 @@
   "FERMENTO_LEGGINGS": {
     "name": "Fermento Leggings",
     "recipe": {
-      "A1": "CONDENSED_FERMENTO:2",
+      "A1": "CONDENSED_FERMENTO:1",
       "A2": "ENCHANTED_SUGAR_CANE:32",
-      "A3": "CONDENSED_FERMENTO:2",
+      "A3": "CONDENSED_FERMENTO:1",
       "B1": "ENCHANTED_HUGE_MUSHROOM_2:32",
       "B2": "SQUASH_LEGGINGS:1",
       "B3": "ENCHANTED_HUGE_MUSHROOM_1:32",
@@ -27042,6 +27056,9 @@
   },
   "OVERLOAD;5": {
     "name": "Overload V"
+  },
+  "OXFORD_SHOES": {
+    "name": "Oxford Shoes"
   },
   "PACKED_ICE": {
     "name": "Packed Ice",
@@ -42319,6 +42336,9 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Vanquished_Magma_Necklace"
+  },
+  "VELVET_TOP_HAT": {
+    "name": "Velvet Top Hat"
   },
   "VENOMOUS;1": {
     "name": "Venomous I"
