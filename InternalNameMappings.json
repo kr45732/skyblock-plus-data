@@ -18127,7 +18127,13 @@
   },
   "HOE_OF_GREATEST_TILLING": {
     "name": "Hoe of Greatest Tilling",
-    "wiki": "https://wiki.hypixel.net/Hoe_Of_Greatest_Tilling"
+    "wiki": "https://wiki.hypixel.net/Hoe_Of_Greatest_Tilling",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_SILVER_MEDAL:2",
+        "JACOBS_TICKET:20"
+      ]
+    }
   },
   "HOE_OF_GREAT_TILLING": {
     "name": "Hoe of Great Tilling",
@@ -20478,6 +20484,10 @@
   "JADE_CRYSTAL": {
     "name": "Jade Crystal",
     "wiki": "https://wiki.hypixel.net/Jade_Crystal"
+  },
+  "JAKE_PLUSHIE": {
+    "name": "Jake\u0027s Plushie",
+    "wiki": "https://wiki.hypixel.net/Jake%27s_Plushie"
   },
   "JALAPENO_BOOK": {
     "name": "Jalapeno Book",
