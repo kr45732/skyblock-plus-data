@@ -9040,6 +9040,10 @@
     "name": "Carmine Dye",
     "wiki": "https://wiki.hypixel.net/Carmine_Dye"
   },
+  "DYE_CELESTE": {
+    "name": "Celeste Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes"
+  },
   "DYE_DARK_PURPLE": {
     "name": "Dark Purple Dye",
     "wiki": "https://wiki.hypixel.net/Dark_Purple_Dye"
@@ -9063,6 +9067,10 @@
   "DYE_NECRON": {
     "name": "Necron Dye",
     "wiki": "https://wiki.hypixel.net/Necron_Dye"
+  },
+  "DYE_NYANZA": {
+    "name": "Nyanza Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes"
   },
   "DYE_PURE_BLACK": {
     "name": "Pure Black Dye",
@@ -14879,6 +14887,9 @@
     "name": "French Fries",
     "wiki": "https://wiki.hypixel.net/French_Fries"
   },
+  "FROG_BARN_SKIN": {
+    "name": "Frog Barn Skin"
+  },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
     "wiki": "https://wiki.hypixel.net/Frosty_Snowball",
@@ -20456,7 +20467,7 @@
     "wiki": "https://wiki.hypixel.net/Spirit_Bow"
   },
   "JACK_O_LANTERN": {
-    "name": "Jack o\u0027Lantern",
+    "name": "Jack o\u0027 Lantern",
     "recipe": {
       "A1": "PUMPKIN:1",
       "A2": "",
@@ -21190,15 +21201,7 @@
   },
   "KUUDRA_FOLLOWER_ARTIFACT": {
     "name": "Kuudra Follower Artifact",
-    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact",
-    "npc_buy": {
-      "cost": [
-        "SKYBLOCK_COIN:100000000",
-        "ENCHANTED_MYCELIUM:1024",
-        "ENCHANTED_RED_SAND:1024",
-        "KUUDRA_TEETH:64"
-      ]
-    }
+    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact"
   },
   "KUUDRA_FOLLOWER_BOOTS": {
     "name": "Kuudra Follower Boots",
@@ -41236,7 +41239,7 @@
   "TORCH": {
     "name": "Torch",
     "recipe": {
-      "A1": "COAL-1:1",
+      "A1": "COAL:1",
       "A2": "",
       "A3": "",
       "B1": "STICK:1",
