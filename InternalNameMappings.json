@@ -21212,7 +21212,15 @@
   },
   "KUUDRA_FOLLOWER_ARTIFACT": {
     "name": "Kuudra Follower Artifact",
-    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact"
+    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact",
+     "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000000",
+        "ENCHANTED_MYCELIUM:1024",
+        "ENCHANTED_RED_SAND:1024",
+        "KUUDRA_TEETH:64"
+      ]
+    }
   },
   "KUUDRA_FOLLOWER_BOOTS": {
     "name": "Kuudra Follower Boots",
