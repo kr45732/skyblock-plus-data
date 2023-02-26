@@ -11308,6 +11308,17 @@
   },
   "ENCHANTED_SHEARS": {
     "name": "Enchanted Shears",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "",
+      "B3": "ENCHANTED_IRON:1",
+      "C1": "",
+      "C2": "ENCHANTED_IRON:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Enchanted_Shears"
   },
   "ENCHANTED_SLIME_BALL": {
@@ -19673,7 +19684,7 @@
   },
   "INFINIDIRT_WAND": {
     "name": "InfiniDirt™ Wand",
-    "wiki": "https://wiki.hypixel.net/InfiniDirt_Wand",
+    "wiki": "https://wiki.hypixel.net/InfiniDirt™_Wand",
     "npc_buy": {
       "cost": [
         "JACOBS_TICKET:1"
@@ -19731,7 +19742,7 @@
   },
   "INFINI_TORCH": {
     "name": "InfiniTorch™",
-    "wiki": "https://wiki.hypixel.net/InfiniTorch"
+    "wiki": "https://wiki.hypixel.net/InfiniTorch™"
   },
   "INFLATABLE_JERRY": {
     "name": "Inflatable Jerry",
@@ -21201,15 +21212,7 @@
   },
   "KUUDRA_FOLLOWER_ARTIFACT": {
     "name": "Kuudra Follower Artifact",
-    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact",
-    "npc_buy": {
-      "cost": [
-        "SKYBLOCK_COIN:100000000",
-        "ENCHANTED_MYCELIUM:1024",
-        "ENCHANTED_RED_SAND:1024",
-        "KUUDRA_TEETH:64"
-      ]
-    }
+    "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact"
   },
   "KUUDRA_FOLLOWER_BOOTS": {
     "name": "Kuudra Follower Boots",
@@ -33279,11 +33282,12 @@
     "wiki": "https://wiki.hypixel.net/Salt_Cube"
   },
   "SAM_ASSISTANT": {
-    "name": "Move Sam"
+    "name": "Move Sam",
+    "wiki": "https://wiki.hypixel.net/Move_Sam"
   },
   "SAM_SCYTHE": {
     "name": "Sam\u0027s Scythe",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sam%27s_Scythe"
+    "wiki": "https://wiki.hypixel.net/Sam\u0027s_Scythe"
   },
   "SAND:1": {
     "name": "Red Sand"
@@ -39419,6 +39423,7 @@
   },
   "SUGAR_CANE": {
     "name": "Sugar Cane",
+    "wiki": "https://wiki.hypixel.net/Sugar_Cane",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:15"
@@ -39665,7 +39670,8 @@
     "wiki": "https://wiki.hypixel.net/Trophy_Fish"
   },
   "SULPHUR_SKITTER_DIAMOND": {
-    "name": "Sulphur Skitter DIAMOND"
+    "name": "Sulphur Skitter DIAMOND",
+    "wiki": "https://wiki.hypixel.net/Trophy_Fish"
   },
   "SULPHUR_SKITTER_GOLD": {
     "name": "Sulphur Skitter GOLD",
@@ -43988,6 +43994,17 @@
   },
   "WOOD_SPADE": {
     "name": "Wooden Shovel",
+    "recipe": {
+      "A1": "",
+      "A2": "WOOD:1",
+      "A3": "",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Wooden_Shovel"
   },
   "WOOD_STAIRS": {
