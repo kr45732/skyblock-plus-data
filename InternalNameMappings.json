@@ -21213,7 +21213,7 @@
   "KUUDRA_FOLLOWER_ARTIFACT": {
     "name": "Kuudra Follower Artifact",
     "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Artifact",
-     "npc_buy": {
+    "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000000",
         "ENCHANTED_MYCELIUM:1024",
