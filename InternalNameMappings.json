@@ -29424,13 +29424,7 @@
   },
   "POTATO": {
     "name": "Potatoes",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potato",
-    "npc_buy": {
-      "cost": [
-        "SKYBLOCK_COIN:7"
-      ],
-      "count": 3
-    }
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potato"
   },
   "POTATO_BASKET": {
     "name": "Basket of Hope from the Great Potato War",
@@ -29618,7 +29612,13 @@
   },
   "POTATO_ITEM": {
     "name": "Potato",
-    "wiki": "https://wiki.hypixel.net/Potato"
+    "wiki": "https://wiki.hypixel.net/Potato",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:7"
+      ],
+      "count": 3
+    }
   },
   "POTATO_SPREADING": {
     "name": "Potato Spreading",
