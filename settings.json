@@ -1,5 +1,6 @@
 {
   "mojangApiNum": 0,
   "ahApiUrl": "https://auctions.skyblock-plus.ml/",
-  "allowMojangApi": true
+  "allowMojangApi": true,
+  "neuBranch": "prerelease"
 }
