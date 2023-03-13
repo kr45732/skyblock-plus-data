@@ -15751,6 +15751,10 @@
       "count": 8
     }
   },
+  "GLISTENING_MELON_FLUX": {
+    "name": "Glistening Melon Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
   "GLOOMLOCK_GRIMOIRE": {
     "name": "Gloomlock Grimoire",
     "recipe": {
@@ -15765,6 +15769,10 @@
       "C3": "NULL_OVOID:4"
     },
     "wiki": "https://wiki.hypixel.net/Gloomlock_Grimoire"
+  },
+  "GLOWING_GRAPE_FLUX": {
+    "name": "Glowing Grape Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "GLOWING_MUSHROOM": {
     "name": "Glowing Mushroom",
@@ -16094,6 +16102,10 @@
       "C2": "GOLD_INGOT:1",
       "C3": "GOLD_INGOT:1"
     }
+  },
+  "GOLDEN_APPLE_FLUX": {
+    "name": "Golden Apple Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "GOLDEN_BALL": {
     "name": "Golden Ball",
@@ -29230,19 +29242,19 @@
     "name": "Piscary I"
   },
   "PISCARY;2": {
-    "name": "Piscary 2"
+    "name": "Piscary II"
   },
   "PISCARY;3": {
-    "name": "Piscary 3"
+    "name": "Piscary III"
   },
   "PISCARY;4": {
-    "name": "Piscary 4"
+    "name": "Piscary IV"
   },
   "PISCARY;5": {
-    "name": "Piscary 5"
+    "name": "Piscary V"
   },
   "PISCARY;6": {
-    "name": "Piscary 6"
+    "name": "Piscary VI"
   },
   "PISTON_BASE": {
     "name": "Piston",
