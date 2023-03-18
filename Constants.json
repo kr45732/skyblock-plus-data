@@ -517,592 +517,592 @@
     "BRONZE_HUNTER_HELMET": {
       "items": {
         "1": [
-          "§9Magmafish §8x1"
+          "MAGMA_FISH:1"
         ],
         "2": [
-          "§9Magmafish §8x2"
+          "MAGMA_FISH:2"
         ],
         "3": [
-          "§9Magmafish §8x3"
+          "MAGMA_FISH:3"
         ],
         "4": [
-          "§9Magmafish §8x4"
+          "MAGMA_FISH:4"
         ],
         "5": [
-          "§9Magmafish §8x5"
+          "MAGMA_FISH:5"
         ],
         "6": [
-          "§9Magmafish §8x6"
+          "MAGMA_FISH:6"
         ],
         "7": [
-          "§9Magmafish §8x7"
+          "MAGMA_FISH:7"
         ],
         "8": [
-          "§9Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§9Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§9Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "BRONZE_HUNTER_CHESTPLATE": {
       "items": {
         "1": [
-          "§9Magmafish §8x1"
+          "MAGMA_FISH:1"
         ],
         "2": [
-          "§9Magmafish §8x2"
+          "MAGMA_FISH:2"
         ],
         "3": [
-          "§9Magmafish §8x3"
+          "MAGMA_FISH:3"
         ],
         "4": [
-          "§9Magmafish §8x4"
+          "MAGMA_FISH:4"
         ],
         "5": [
-          "§9Magmafish §8x5"
+          "MAGMA_FISH:5"
         ],
         "6": [
-          "§9Magmafish §8x6"
+          "MAGMA_FISH:6"
         ],
         "7": [
-          "§9Magmafish §8x7"
+          "MAGMA_FISH:7"
         ],
         "8": [
-          "§9Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§9Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§9Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "BRONZE_HUNTER_LEGGINGS": {
       "items": {
         "1": [
-          "§9Magmafish §8x1"
+          "MAGMA_FISH:1"
         ],
         "2": [
-          "§9Magmafish §8x2"
+          "MAGMA_FISH:2"
         ],
         "3": [
-          "§9Magmafish §8x3"
+          "MAGMA_FISH:3"
         ],
         "4": [
-          "§9Magmafish §8x4"
+          "MAGMA_FISH:4"
         ],
         "5": [
-          "§9Magmafish §8x5"
+          "MAGMA_FISH:5"
         ],
         "6": [
-          "§9Magmafish §8x6"
+          "MAGMA_FISH:6"
         ],
         "7": [
-          "§9Magmafish §8x7"
+          "MAGMA_FISH:7"
         ],
         "8": [
-          "§9Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§9Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§9Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "BRONZE_HUNTER_BOOTS": {
       "items": {
         "1": [
-          "§9Magmafish §8x1"
+          "MAGMA_FISH:1"
         ],
         "2": [
-          "§9Magmafish §8x2"
+          "MAGMA_FISH:2"
         ],
         "3": [
-          "§9Magmafish §8x3"
+          "MAGMA_FISH:3"
         ],
         "4": [
-          "§9Magmafish §8x4"
+          "MAGMA_FISH:4"
         ],
         "5": [
-          "§9Magmafish §8x5"
+          "MAGMA_FISH:5"
         ],
         "6": [
-          "§9Magmafish §8x6"
+          "MAGMA_FISH:6"
         ],
         "7": [
-          "§9Magmafish §8x7"
+          "MAGMA_FISH:7"
         ],
         "8": [
-          "§9Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§9Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§9Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "SILVER_HUNTER_HELMET": {
       "items": {
         "1": [
-          "§5Silver Magmafish §8x1"
+          "MAGMA_FISH_SILVER:1"
         ],
         "2": [
-          "§5Silver Magmafish §8x2"
+          "MAGMA_FISH_SILVER:2"
         ],
         "3": [
-          "§5Silver Magmafish §8x3"
+          "MAGMA_FISH_SILVER:3"
         ],
         "4": [
-          "§5Silver Magmafish §8x4"
+          "MAGMA_FISH_SILVER:4"
         ],
         "5": [
-          "§5Silver Magmafish §8x5"
+          "MAGMA_FISH_SILVER:5"
         ],
         "6": [
-          "§5Silver Magmafish §8x6"
+          "MAGMA_FISH_SILVER:6"
         ],
         "7": [
-          "§5Silver Magmafish §8x7"
+          "MAGMA_FISH_SILVER:7"
         ],
         "8": [
-          "§5Silver Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_SILVER:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§5Silver Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_SILVER:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§5Silver Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_SILVER:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "SILVER_HUNTER_CHESTPLATE": {
       "items": {
         "1": [
-          "§5Silver Magmafish §8x1"
+          "MAGMA_FISH_SILVER:1"
         ],
         "2": [
-          "§5Silver Magmafish §8x2"
+          "MAGMA_FISH_SILVER:2"
         ],
         "3": [
-          "§5Silver Magmafish §8x3"
+          "MAGMA_FISH_SILVER:3"
         ],
         "4": [
-          "§5Silver Magmafish §8x4"
+          "MAGMA_FISH_SILVER:4"
         ],
         "5": [
-          "§5Silver Magmafish §8x5"
+          "MAGMA_FISH_SILVER:5"
         ],
         "6": [
-          "§5Silver Magmafish §8x6"
+          "MAGMA_FISH_SILVER:6"
         ],
         "7": [
-          "§5Silver Magmafish §8x7"
+          "MAGMA_FISH_SILVER:7"
         ],
         "8": [
-          "§5Silver Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_SILVER:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§5Silver Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_SILVER:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§5Silver Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_SILVER:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "SILVER_HUNTER_LEGGINGS": {
       "items": {
         "1": [
-          "§5Silver Magmafish §8x1"
+          "MAGMA_FISH_SILVER:1"
         ],
         "2": [
-          "§5Silver Magmafish §8x2"
+          "MAGMA_FISH_SILVER:2"
         ],
         "3": [
-          "§5Silver Magmafish §8x3"
+          "MAGMA_FISH_SILVER:3"
         ],
         "4": [
-          "§5Silver Magmafish §8x4"
+          "MAGMA_FISH_SILVER:4"
         ],
         "5": [
-          "§5Silver Magmafish §8x5"
+          "MAGMA_FISH_SILVER:5"
         ],
         "6": [
-          "§5Silver Magmafish §8x6"
+          "MAGMA_FISH_SILVER:6"
         ],
         "7": [
-          "§5Silver Magmafish §8x7"
+          "MAGMA_FISH_SILVER:7"
         ],
         "8": [
-          "§5Silver Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_SILVER:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§5Silver Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_SILVER:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§5Silver Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_SILVER:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "SILVER_HUNTER_BOOTS": {
       "items": {
         "1": [
-          "§5Silver Magmafish §8x1"
+          "MAGMA_FISH_SILVER:1"
         ],
         "2": [
-          "§5Silver Magmafish §8x2"
+          "MAGMA_FISH_SILVER:2"
         ],
         "3": [
-          "§5Silver Magmafish §8x3"
+          "MAGMA_FISH_SILVER:3"
         ],
         "4": [
-          "§5Silver Magmafish §8x4"
+          "MAGMA_FISH_SILVER:4"
         ],
         "5": [
-          "§5Silver Magmafish §8x5"
+          "MAGMA_FISH_SILVER:5"
         ],
         "6": [
-          "§5Silver Magmafish §8x6"
+          "MAGMA_FISH_SILVER:6"
         ],
         "7": [
-          "§5Silver Magmafish §8x7"
+          "MAGMA_FISH_SILVER:7"
         ],
         "8": [
-          "§5Silver Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_SILVER:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§5Silver Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_SILVER:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§5Silver Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_SILVER:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "GOLD_HUNTER_HELMET": {
       "items": {
         "1": [
-          "§6Gold Magmafish §8x1"
+          "MAGMA_FISH_GOLD:1"
         ],
         "2": [
-          "§6Gold Magmafish §8x2"
+          "MAGMA_FISH_GOLD:2"
         ],
         "3": [
-          "§6Gold Magmafish §8x3"
+          "MAGMA_FISH_GOLD:3"
         ],
         "4": [
-          "§6Gold Magmafish §8x4"
+          "MAGMA_FISH_GOLD:4"
         ],
         "5": [
-          "§6Gold Magmafish §8x5"
+          "MAGMA_FISH_GOLD:5"
         ],
         "6": [
-          "§6Gold Magmafish §8x6"
+          "MAGMA_FISH_GOLD:6"
         ],
         "7": [
-          "§6Gold Magmafish §8x7"
+          "MAGMA_FISH_GOLD:7"
         ],
         "8": [
-          "§6Gold Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_GOLD:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§6Gold Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_GOLD:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§6Gold Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_GOLD:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "GOLD_HUNTER_CHESTPLATE": {
       "items": {
         "1": [
-          "§6Gold Magmafish §8x1"
+          "MAGMA_FISH_GOLD:1"
         ],
         "2": [
-          "§6Gold Magmafish §8x2"
+          "MAGMA_FISH_GOLD:2"
         ],
         "3": [
-          "§6Gold Magmafish §8x3"
+          "MAGMA_FISH_GOLD:3"
         ],
         "4": [
-          "§6Gold Magmafish §8x4"
+          "MAGMA_FISH_GOLD:4"
         ],
         "5": [
-          "§6Gold Magmafish §8x5"
+          "MAGMA_FISH_GOLD:5"
         ],
         "6": [
-          "§6Gold Magmafish §8x6"
+          "MAGMA_FISH_GOLD:6"
         ],
         "7": [
-          "§6Gold Magmafish §8x7"
+          "MAGMA_FISH_GOLD:7"
         ],
         "8": [
-          "§6Gold Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_GOLD:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§6Gold Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_GOLD:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§6Gold Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_GOLD:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "GOLD_HUNTER_LEGGINGS": {
       "items": {
         "1": [
-          "§6Gold Magmafish §8x1"
+          "MAGMA_FISH_GOLD:1"
         ],
         "2": [
-          "§6Gold Magmafish §8x2"
+          "MAGMA_FISH_GOLD:2"
         ],
         "3": [
-          "§6Gold Magmafish §8x3"
+          "MAGMA_FISH_GOLD:3"
         ],
         "4": [
-          "§6Gold Magmafish §8x4"
+          "MAGMA_FISH_GOLD:4"
         ],
         "5": [
-          "§6Gold Magmafish §8x5"
+          "MAGMA_FISH_GOLD:5"
         ],
         "6": [
-          "§6Gold Magmafish §8x6"
+          "MAGMA_FISH_GOLD:6"
         ],
         "7": [
-          "§6Gold Magmafish §8x7"
+          "MAGMA_FISH_GOLD:7"
         ],
         "8": [
-          "§6Gold Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_GOLD:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§6Gold Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_GOLD:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§6Gold Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_GOLD:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "GOLD_HUNTER_BOOTS": {
       "items": {
         "1": [
-          "§6Gold Magmafish §8x1"
+          "MAGMA_FISH_GOLD:1"
         ],
         "2": [
-          "§6Gold Magmafish §8x2"
+          "MAGMA_FISH_GOLD:2"
         ],
         "3": [
-          "§6Gold Magmafish §8x3"
+          "MAGMA_FISH_GOLD:3"
         ],
         "4": [
-          "§6Gold Magmafish §8x4"
+          "MAGMA_FISH_GOLD:4"
         ],
         "5": [
-          "§6Gold Magmafish §8x5"
+          "MAGMA_FISH_GOLD:5"
         ],
         "6": [
-          "§6Gold Magmafish §8x6"
+          "MAGMA_FISH_GOLD:6"
         ],
         "7": [
-          "§6Gold Magmafish §8x7"
+          "MAGMA_FISH_GOLD:7"
         ],
         "8": [
-          "§6Gold Magmafish §8x8",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_GOLD:8",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§6Gold Magmafish §8x9",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_GOLD:9",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§6Gold Magmafish §8x10",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_GOLD:10",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "DIAMOND_HUNTER_HELMET": {
       "items": {
         "1": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "2": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "3": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "4": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "5": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "6": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "7": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "8": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "DIAMOND_HUNTER_CHESTPLATE": {
       "items": {
         "1": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "2": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "3": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "4": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "5": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "6": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "7": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "8": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "DIAMOND_HUNTER_LEGGINGS": {
       "items": {
         "1": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "2": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "3": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "4": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "5": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "6": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "7": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "8": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:5"
         ]
       }
     },
     "DIAMOND_HUNTER_BOOTS": {
       "items": {
         "1": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "2": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "3": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "4": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "5": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "6": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "7": [
-          "§dDiamond Magmafish §8x1"
+          "MAGMA_FISH_DIAMOND:1"
         ],
         "8": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x3"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:3"
         ],
         "9": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x4"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:4"
         ],
         "10": [
-          "§dDiamond Magmafish §8x1",
-          "§6Heavy Pearl §8x5"
+          "MAGMA_FISH_DIAMOND:1",
+          "HEAVY_PEARL:5"
         ]
       }
     }
