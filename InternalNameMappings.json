@@ -17246,6 +17246,9 @@
     },
     "wiki": "https://wiki.hypixel.net/Great_White_Tooth_Meal"
   },
+  "GREEN_BANDANA": {
+    "name": "Green Bandana"
+  },
   "GREEN_CANDY": {
     "name": "Green Candy",
     "wiki": "https://wiki.hypixel.net/Green_Candy"
@@ -20735,6 +20738,9 @@
     },
     "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://wiki.hypixel.net/Jerry_Pet"
+  },
+  "JERRY_BARN_SKIN": {
+    "name": "Jerry Barn Skin"
   },
   "JERRY_BOX_BLUE": {
     "name": "Blue Jerry Box",
@@ -40604,13 +40610,13 @@
     "name": "Teleporter Pill",
     "recipe": {
       "A1": "MOLTEN_POWDER:1",
-      "A2": "ENCHANTED_CAKE:64",
+      "A2": "ENCHANTED_SUGAR:64",
       "A3": "MOLTEN_POWDER:1",
       "B1": "INFERNO_VERTEX:1",
       "B2": "TELEPORT_PAD:64",
       "B3": "INFERNO_VERTEX:1",
       "C1": "MOLTEN_POWDER:1",
-      "C2": "ENCHANTED_CAKE:64",
+      "C2": "ENCHANTED_SUGAR:64",
       "C3": "MOLTEN_POWDER:1"
     },
     "wiki": "https://wiki.hypixel.net/Teleporter_Pill"
