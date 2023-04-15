@@ -325,22 +325,26 @@
     "HOT": {
       "KUUDRA_TEETH": 10,
       "HEAVY_PEARL": 9,
-      "CRIMSON_ESSENCE": 705
+      "CRIMSON_ESSENCE": 705,
+      "SKYBLOCK_COIN": 1935000
     },
     "BURNING": {
       "KUUDRA_TEETH": 20,
       "HEAVY_PEARL": 12,
-      "CRIMSON_ESSENCE": 3855
+      "CRIMSON_ESSENCE": 3855,
+      "SKYBLOCK_COIN": 1935000
     },
     "FIERY": {
       "KUUDRA_TEETH": 50,
       "HEAVY_PEARL": 12,
-      "CRIMSON_ESSENCE": 20845
+      "CRIMSON_ESSENCE": 20845,
+      "SKYBLOCK_COIN": 1935000
     },
     "INFERNAL": {
       "KUUDRA_TEETH": 80,
       "HEAVY_PEARL": 12,
-      "CRIMSON_ESSENCE": 115600
+      "CRIMSON_ESSENCE": 115600,
+      "SKYBLOCK_COIN": 1935000
     }
   },
   "POWER_TO_BASE_STATS": {
