@@ -1130,17 +1130,5 @@
   "EXTRA_ACCESSORIES": [
     "KUUDRA_FOLLOWER_ARTIFACT",
     "PARTY_HAT_CRAB_ANIMATED"
-  ],
-  "EXTRA_INTERNAL_MAPPINGS": {
-    "KUUDRA_FOLLOWER_ARTIFACT": {
-      "npc_buy": {
-        "cost": [
-          "SKYBLOCK_COIN:100000000",
-          "ENCHANTED_MYCELIUM:1024",
-          "ENCHANTED_RED_SAND:1024",
-          "KUUDRA_TEETH:64"
-        ]
-      }
-    }
-  }
+  ]
 }
