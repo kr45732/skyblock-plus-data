@@ -2085,6 +2085,9 @@
       ]
     }
   },
+  "BEE_HIVE": {
+    "name": "Bee Hive"
+  },
   "BEE_PERSONALITY": {
     "name": "Bee Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins"
@@ -9121,6 +9124,10 @@
     "name": "Mango Dye",
     "wiki": "https://wiki.hypixel.net/Mango_Dye"
   },
+  "DYE_NADESHIKO": {
+    "name": "Nadeshiko Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes"
+  },
   "DYE_NECRON": {
     "name": "Necron Dye",
     "wiki": "https://wiki.hypixel.net/Necron_Dye"
@@ -14478,6 +14485,9 @@
   "FLORAL_LAMPPOST": {
     "name": "Floral Lamppost",
     "wiki": "https://wiki.hypixel.net/Furniture"
+  },
+  "FLORAL_WHEELBARROW": {
+    "name": "Floral Wheelbarrow"
   },
   "FLORID_ZOMBIE_SWORD": {
     "name": "Florid Zombie Sword",
@@ -22130,6 +22140,9 @@
   "LAST_BREATH": {
     "name": "Last Breath",
     "wiki": "https://wiki.hypixel.net/Last_Breath"
+  },
+  "LATTICE_BENCH": {
+    "name": "Lattice Bench"
   },
   "LAUNCH_PAD": {
     "name": "Launch Pad",
