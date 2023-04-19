@@ -3735,7 +3735,8 @@
     "wiki": "https://wiki.hypixel.net/Burning_Terror_Leggings"
   },
   "BURROWING_SPORES": {
-    "name": "Burrowing Spores"
+    "name": "Burrowing Spores",
+    "wiki": "https://wiki.hypixel.net/Burrowing_Spores"
   },
   "BURSTFIRE_DAGGER": {
     "name": "Kindlebane Dagger",
@@ -4727,7 +4728,8 @@
     }
   },
   "CASHMERE_JACKET": {
-    "name": "Cashmere Jacket"
+    "name": "Cashmere Jacket",
+    "wiki": "https://wiki.hypixel.net/Cashmere_Jacket"
   },
   "CASTER;1": {
     "name": "Caster I"
@@ -6875,7 +6877,7 @@
   },
   "CRAB": {
     "name": "Crab",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+    "wiki": "https://wiki.hypixel.net/Crab"
   },
   "CRACKED_PIGGY_BANK": {
     "name": "Cracked Piggy Bank",
@@ -7216,7 +7218,8 @@
       "C1": "CROPIE:32",
       "C2": "CROPIE:32",
       "C3": "CROPIE:32"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Cropie_Talisman"
   },
   "CROWN_OF_GREED": {
     "name": "Crown of Greed",
@@ -7334,6 +7337,9 @@
     "name": "Portal to the Crystal Hollows",
     "wiki": "https://wiki.hypixel.net/Portals"
   },
+  "CRYSTAL_HOLLOWS_SACK": {
+    "name": "Crystal Hollows Sack"
+  },
   "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Hollows",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Crystal_Hollows",
@@ -7429,7 +7435,7 @@
     "name": "Damage Potion"
   },
   "DANGER_1_PORTAL": {
-    "name": "Portal to Spider\u0027s Den",
+    "name": "Portal to the Spider\u0027s Den",
     "recipe": {
       "A1": "WEB:16",
       "A2": "WEB:16",
@@ -9072,6 +9078,9 @@
     "name": "Portal to the Dwarven Mines",
     "wiki": "https://wiki.hypixel.net/Portals"
   },
+  "DWARVEN_MINES_SACK": {
+    "name": "Dwarven Sack"
+  },
   "DWARVEN_TANKARD": {
     "name": "Dwarven Tankard",
     "wiki": "https://wiki.hypixel.net/Dwarven_Tankard"
@@ -10048,7 +10057,7 @@
   },
   "ENCHANTED_CLOCK": {
     "name": "Enchanted Clock",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Enchanted_Clock"
+    "wiki": "https://wiki.hypixel.net/Enchanted_Clock"
   },
   "ENCHANTED_CLOWNFISH": {
     "name": "Enchanted Clownfish",
@@ -13180,7 +13189,8 @@
     "wiki": "https://wiki.hypixel.net/Fermented_Spider_Eye"
   },
   "FERMENTO": {
-    "name": "Fermento"
+    "name": "Fermento",
+    "wiki": "https://wiki.hypixel.net/Fermento"
   },
   "FERMENTO_ARTIFACT": {
     "name": "Fermento Artifact",
@@ -13194,7 +13204,8 @@
       "C1": "CONDENSED_FERMENTO:1",
       "C2": "CONDENSED_FERMENTO:1",
       "C3": "CONDENSED_FERMENTO:1"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Fermento_Artifact"
   },
   "FERMENTO_BOOTS": {
     "name": "Fermento Boots",
@@ -14088,7 +14099,7 @@
   },
   "FISH_PERSONALITY": {
     "name": "Fish Minion Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Minion_Skin"
+    "wiki": "https://wiki.hypixel.net/Fish_Minion_Skin"
   },
   "FLAME;1": {
     "name": "Flame I",
@@ -14505,7 +14516,8 @@
     "wiki": "https://wiki.hypixel.net/Florid_Zombie_Sword"
   },
   "FLOWERING_BOUQUET": {
-    "name": "Flowering Bouquet"
+    "name": "Flowering Bouquet",
+    "wiki": "https://wiki.hypixel.net/Flowering_Bouquet"
   },
   "FLOWER_BED": {
     "name": "Flower Bed",
@@ -14712,6 +14724,9 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "FLOWER_SACK": {
+    "name": "Flower Sack"
   },
   "FLYCATCHER_UPGRADE": {
     "name": "Flycatcher",
@@ -14983,7 +14998,8 @@
     "wiki": "https://wiki.hypixel.net/French_Fries"
   },
   "FROG_BARN_SKIN": {
-    "name": "Frog Barn Skin"
+    "name": "Frog Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Frog_Barn_Skin"
   },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
@@ -15015,6 +15031,9 @@
     "name": "Rare Frost Wisp",
     "texture": "1d8ad9936d758c5ea30b0b7cc7c67c2bfcea829ecf2425c0b50fc92a26ae23d0",
     "wiki": "https://wiki.hypixel.net/Wisp_Pet"
+  },
+  "FROZEN_BAUBLE": {
+    "name": "Frozen Bauble"
   },
   "FROZEN_BLAZE_BOOTS": {
     "name": "Frozen Blaze Boots",
@@ -17257,7 +17276,8 @@
     "wiki": "https://wiki.hypixel.net/Great_White_Tooth_Meal"
   },
   "GREEN_BANDANA": {
-    "name": "Green Bandana"
+    "name": "Green Bandana",
+    "wiki": "https://wiki.hypixel.net/Green_Bandana"
   },
   "GREEN_CANDY": {
     "name": "Green Candy",
@@ -17591,11 +17611,11 @@
   },
   "HALLOWEEN_SCARECROW": {
     "name": "Halloween Scarecrow",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+    "wiki": "https://wiki.hypixel.net/Halloween_Scarecrow"
   },
   "HAMMOCK": {
     "name": "Hammock",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+    "wiki": "https://wiki.hypixel.net/Hammock"
   },
   "HAMSTER_WHEEL": {
     "name": "Hamster Wheel",
@@ -17607,7 +17627,7 @@
   },
   "HANGING_REAPER": {
     "name": "Hanging Reaper",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+    "wiki": "https://wiki.hypixel.net/Hanging_Reaper"
   },
   "HAPPY_MASK": {
     "name": "Happy Mask",
@@ -18940,7 +18960,7 @@
   },
   "ICE_CREAM_CART": {
     "name": "Ice Cream Cart",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture"
+    "wiki": "https://wiki.hypixel.net/Ice_Cream_Cart"
   },
   "ICE_CREAM_PERSONALITY": {
     "name": "Ice Cream Minion Skin",
@@ -19174,7 +19194,7 @@
       "B2": "",
       "B3": "BLUE_SHARK_TOOTH:8",
       "C1": "NURSE_SHARK_TOOTH:16",
-      "C2": "ENCHANTED_SHARK_FIN:16",
+      "C2": "ENCHANTED_SHARK_FIN:4",
       "C3": "NURSE_SHARK_TOOTH:16"
     },
     "wiki": "https://wiki.hypixel.net/Ichthyic_Belt"
@@ -19185,23 +19205,23 @@
       "A1": "BLUE_SHARK_TOOTH:8",
       "A2": "NURSE_SHARK_TOOTH:32",
       "A3": "BLUE_SHARK_TOOTH:8",
-      "B1": "ENCHANTED_SHARK_FIN:16",
+      "B1": "ENCHANTED_SHARK_FIN:1",
       "B2": "",
-      "B3": "ENCHANTED_SHARK_FIN:16",
-      "C1": "ENCHANTED_SHARK_FIN:16",
+      "B3": "ENCHANTED_SHARK_FIN:1",
+      "C1": "ENCHANTED_SHARK_FIN:1",
       "C2": "",
-      "C3": "ENCHANTED_SHARK_FIN:16"
+      "C3": "ENCHANTED_SHARK_FIN:1"
     },
     "wiki": "https://wiki.hypixel.net/Ichthyic_Cloak"
   },
   "ICHTHYIC_GLOVES": {
     "name": "Ichthyic Gloves",
     "recipe": {
-      "A1": "BLUE_SHARK_TOOTH:8",
-      "A2": "BLUE_SHARK_TOOTH:16",
-      "A3": "BLUE_SHARK_TOOTH:8",
+      "A1": "BLUE_SHARK_TOOTH:4",
+      "A2": "BLUE_SHARK_TOOTH:4",
+      "A3": "BLUE_SHARK_TOOTH:4",
       "B1": "NURSE_SHARK_TOOTH:16",
-      "B2": "NURSE_SHARK_TOOTH:16",
+      "B2": "ENCHANTED_SHARK_FIN:4",
       "B3": "NURSE_SHARK_TOOTH:16",
       "C1": "",
       "C2": "",
@@ -20750,7 +20770,8 @@
     "wiki": "https://wiki.hypixel.net/Jerry_Pet"
   },
   "JERRY_BARN_SKIN": {
-    "name": "Jerry Barn Skin"
+    "name": "Jerry Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Jerry_Barn_Skin"
   },
   "JERRY_BOX_BLUE": {
     "name": "Blue Jerry Box",
@@ -21429,6 +21450,10 @@
       ]
     }
   },
+  "KUUDRA_WASHING_MACHINE": {
+    "name": "Kuudra Washing Machine",
+    "wiki": "https://wiki.hypixel.net/Kuudra_Washing_Machine"
+  },
   "LADDER": {
     "name": "Ladder",
     "recipe": {
@@ -21896,6 +21921,20 @@
     },
     "wiki": "https://wiki.hypixel.net/Large_Combat_Sack"
   },
+  "LARGE_DRAGON_SACK": {
+    "name": "Large Dragon Sack",
+    "recipe": {
+      "A1": "CRYSTAL_FRAGMENT:8",
+      "A2": "DRAGON_HORN:1",
+      "A3": "CRYSTAL_FRAGMENT:8",
+      "B1": "DRAGON_HORN:1",
+      "B2": "MEDIUM_DRAGON_SACK:1",
+      "B3": "DRAGON_HORN:1",
+      "C1": "CRYSTAL_FRAGMENT:8",
+      "C2": "DRAGON_HORN:1",
+      "C3": "CRYSTAL_FRAGMENT:8"
+    }
+  },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
     "wiki": "https://wiki.hypixel.net/Dungeon_Sack"
@@ -22126,7 +22165,8 @@
     "wiki": "https://wiki.hypixel.net/Large_Slayer_Sack"
   },
   "LARGE_WALNUT": {
-    "name": "Large Walnut"
+    "name": "Large Walnut",
+    "wiki": "https://wiki.hypixel.net/Large_Walnut"
   },
   "LARGE_WINTER_SACK": {
     "name": "Winter Sack",
@@ -22418,15 +22458,15 @@
   },
   "LEAVES:1": {
     "name": "Spruce Leaves",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaves"
+    "wiki": "https://wiki.hypixel.net/Spruce_Leaves"
   },
   "LEAVES:2": {
     "name": "Birch Leaves",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaves"
+    "wiki": "https://wiki.hypixel.net/Birch_Leaves"
   },
   "LEAVES:3": {
     "name": "Jungle Leaves",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaves"
+    "wiki": "https://wiki.hypixel.net/Jungle_Leaves"
   },
   "LEAVES": {
     "name": "Oak Leaves",
@@ -22434,7 +22474,7 @@
   },
   "LEAVES_2:1": {
     "name": "Dark Oak Leaves",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaves"
+    "wiki": "https://wiki.hypixel.net/Dark_Oak_Leaves"
   },
   "LEAVES_2": {
     "name": "Acacia Leaves",
@@ -22926,6 +22966,9 @@
   "MACHINE_GUN_BOW": {
     "name": "Machine Gun Bow",
     "wiki": "https://wiki.hypixel.net/Machine_Gun_Bow"
+  },
+  "MADAME_ELEANOR_Q_GOLDSWORTH_IIINPC": {
+    "name": "Madame Eleanor Q. Goldsworth III(NPC)"
   },
   "MAGICAL_LAVA_BUCKET": {
     "name": "Magical Lava Bucket",
@@ -23842,6 +23885,20 @@
       "C3": "ENCHANTED_ROTTEN_FLESH:4"
     },
     "wiki": "https://wiki.hypixel.net/Medium_Combat_Sack"
+  },
+  "MEDIUM_DRAGON_SACK": {
+    "name": "Medium Dragon Sack",
+    "recipe": {
+      "A1": "CRYSTAL_FRAGMENT:2",
+      "A2": "SUMMONING_EYE:1",
+      "A3": "CRYSTAL_FRAGMENT:2",
+      "B1": "SUMMONING_EYE:1",
+      "B2": "SMALL_DRAGON_SACK:1",
+      "B3": "SUMMONING_EYE:1",
+      "C1": "CRYSTAL_FRAGMENT:2",
+      "C2": "SUMMONING_EYE:1",
+      "C3": "CRYSTAL_FRAGMENT:2"
+    }
   },
   "MEDIUM_ENCHANTED_CHEST": {
     "name": "Medium Storage",
@@ -27207,7 +27264,8 @@
     "wiki": "https://wiki.hypixel.net/Overflux_Power_Orb"
   },
   "OVERGROWN_GRASS": {
-    "name": "Overgrown Grass"
+    "name": "Overgrown Grass",
+    "wiki": "https://wiki.hypixel.net/Overgrown_Grass"
   },
   "OVERLOAD;1": {
     "name": "Overload I"
@@ -27225,7 +27283,8 @@
     "name": "Overload V"
   },
   "OXFORD_SHOES": {
-    "name": "Oxford Shoes"
+    "name": "Oxford Shoes",
+    "wiki": "https://wiki.hypixel.net/Oxford_Shoes"
   },
   "PACKED_ICE": {
     "name": "Packed Ice",
@@ -27406,7 +27465,7 @@
   },
   "PELT_BELT": {
     "name": "Pelt Belt",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt_Belt"
+    "wiki": "https://wiki.hypixel.net/Pelt_Belt"
   },
   "PENGUIN_BACKPACK": {
     "name": "Penguin Backpack Skin",
@@ -28327,11 +28386,11 @@
   },
   "PET_CAKE": {
     "name": "Pet Cake",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Cake"
+    "wiki": "https://wiki.hypixel.net/Pet_Cake"
   },
   "PET_ITEM_ALL_SKILLS_BOOST_COMMON": {
     "name": "All Skills Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/All_Skills_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:50000"
@@ -28340,7 +28399,7 @@
   },
   "PET_ITEM_BIG_TEETH_COMMON": {
     "name": "Big Teeth",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Big_Teeth",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:750000"
@@ -28349,7 +28408,7 @@
   },
   "PET_ITEM_BUBBLEGUM": {
     "name": "Bubblegum",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Bubblegum",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000000"
@@ -28358,7 +28417,7 @@
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
     "name": "Combat Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Combat_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
@@ -28367,15 +28426,15 @@
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
     "name": "Combat Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Combat_Exp_Boost"
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_RARE": {
     "name": "Combat Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Combat_Exp_Boost"
   },
   "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON": {
     "name": "Combat Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Combat_Exp_Boost"
   },
   "PET_ITEM_EXP_SHARE": {
     "name": "Exp Share",
@@ -28390,7 +28449,7 @@
       "C2": "ENCHANTED_GOLD:12",
       "C3": "ENCHANTED_GOLD:12"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Exp_Share"
   },
   "PET_ITEM_EXP_SHARE_DROP": {
     "name": "Exp Share Core",
@@ -28398,7 +28457,7 @@
   },
   "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Farming_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
@@ -28407,7 +28466,7 @@
   },
   "PET_ITEM_FARMING_SKILL_BOOST_EPIC": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Farming_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1500000"
@@ -28416,7 +28475,7 @@
   },
   "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Farming_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500000"
@@ -28425,11 +28484,11 @@
   },
   "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON": {
     "name": "Farming Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Farming_Exp_Boost"
   },
   "PET_ITEM_FISHING_SKILL_BOOST_COMMON": {
     "name": "Fishing Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Fishing_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
@@ -28438,23 +28497,23 @@
   },
   "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
     "name": "Fishing Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Fishing_Exp_Boost"
   },
   "PET_ITEM_FISHING_SKILL_BOOST_RARE": {
     "name": "Fishing Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Fishing_Exp_Boost"
   },
   "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON": {
     "name": "Fishing Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Fishing_Exp_Boost"
   },
   "PET_ITEM_FLYING_PIG": {
     "name": "Flying Pig",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Flying_Pig"
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_COMMON": {
     "name": "Foraging Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Foraging_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
@@ -28463,11 +28522,11 @@
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
     "name": "Foraging Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Foraging_Exp_Boost"
   },
   "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
     "name": "Hardened Scales",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Hardened_Scales",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
@@ -28476,7 +28535,7 @@
   },
   "PET_ITEM_IRON_CLAWS_COMMON": {
     "name": "Iron Claws",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Iron_Claws",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:750000"
@@ -28496,7 +28555,7 @@
       "C2": "ENCHANTED_EMERALD:32",
       "C3": "ENCHANTED_EMERALD:32"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Lucky_Clover"
   },
   "PET_ITEM_LUCKY_CLOVER_DROP": {
     "name": "Lucky Clover Core",
@@ -28504,7 +28563,7 @@
   },
   "PET_ITEM_MINING_SKILL_BOOST_COMMON": {
     "name": "Mining Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Mining_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:60000"
@@ -28513,7 +28572,7 @@
   },
   "PET_ITEM_MINING_SKILL_BOOST_RARE": {
     "name": "Mining Exp Boost",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Mining_Exp_Boost",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:500000"
@@ -28522,7 +28581,7 @@
   },
   "PET_ITEM_QUICK_CLAW": {
     "name": "Quick Claw",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Quick_Claw"
   },
   "PET_ITEM_SADDLE": {
     "name": "Saddle",
@@ -28537,11 +28596,11 @@
       "C2": "",
       "C3": "ENCHANTED_LEATHER:1"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Saddle"
   },
   "PET_ITEM_SHARPENED_CLAWS_UNCOMMON": {
     "name": "Sharpened Claws",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items",
+    "wiki": "https://wiki.hypixel.net/Sharpened_Claws",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:1000000"
@@ -28550,7 +28609,7 @@
   },
   "PET_ITEM_SPOOKY_CUPCAKE": {
     "name": "Spooky Cupcake",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Spooky_Cupcake"
   },
   "PET_ITEM_TEXTBOOK": {
     "name": "Textbook",
@@ -28565,7 +28624,7 @@
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1"
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Textbook"
   },
   "PET_ITEM_TIER_BOOST": {
     "name": "Tier Boost",
@@ -28580,7 +28639,7 @@
       "C2": "ENCHANTED_IRON_BLOCK:2",
       "C3": ""
     },
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Tier_Boost"
   },
   "PET_ITEM_TIER_BOOST_DROP": {
     "name": "Tier Boost Core",
@@ -28588,11 +28647,11 @@
   },
   "PET_ITEM_TOY_JERRY": {
     "name": "Jerry 3D Glasses",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Jerry_3D_Glasses"
   },
   "PET_ITEM_VAMPIRE_FANG": {
     "name": "Vampire Fang",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Items"
+    "wiki": "https://wiki.hypixel.net/Vampire_Fang"
   },
   "PET_SKIN_ARMADILLO_ENCHANTED": {
     "name": "Enchanted Armadillo Skin",
@@ -28612,7 +28671,7 @@
   },
   "PET_SKIN_BEE_RGBEE": {
     "name": "RGBee Bee Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/RGBee_Bee_Skin"
   },
   "PET_SKIN_BEE_ZOMBEE": {
     "name": "ZomBee Bee Skin",
@@ -28628,7 +28687,7 @@
   },
   "PET_SKIN_BLACK_CAT_PURRANORMAL": {
     "name": "Purranormal Black Cat Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Purranormal_Black_Cat_Skin"
   },
   "PET_SKIN_BLAZE_FROZEN": {
     "name": "Frozen Blaze Skin",
@@ -28724,11 +28783,11 @@
   },
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
     "name": "Undead Ender Dragon Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Undead_Ender_Dragon_Skin"
   },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Anubis_Golden_Dragon_Skin"
   },
   "PET_SKIN_GRIFFIN_REINDRAKE": {
     "name": "Reindrake Griffin Skin",
@@ -28748,7 +28807,7 @@
   },
   "PET_SKIN_JELLYFISH_LUMINESCENT": {
     "name": "Luminescent Jellyfish Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Luminescent_Jellyfish_Skin"
   },
   "PET_SKIN_JERRY_GREEN_ELF": {
     "name": "Green Elf Jerry Skin",
@@ -28812,7 +28871,7 @@
   },
   "PET_SKIN_RAT_HIDE_AND_SQUEAK": {
     "name": "Hide and Squeak Rat Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Hide_And_Squeak_Rat_Skin"
   },
   "PET_SKIN_REINDEER_AURORA": {
     "name": "Aurora Reindeer Skin",
@@ -28820,7 +28879,7 @@
   },
   "PET_SKIN_ROCK_BLINKING": {
     "name": "Blinking Rock Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
+    "wiki": "https://wiki.hypixel.net/Blinking_Rock_Skin"
   },
   "PET_SKIN_ROCK_COOL": {
     "name": "Cool Rock Skin",
@@ -28840,7 +28899,7 @@
   },
   "PET_SKIN_ROCK_NORTH_STAR": {
     "name": "North Star Rock Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/North_Star_Rock_Skin"
+    "wiki": "https://wiki.hypixel.net/North_Star_Rock_Skin"
   },
   "PET_SKIN_ROCK_SMILE": {
     "name": "Smiling Rock Skin",
@@ -28848,15 +28907,15 @@
   },
   "PET_SKIN_ROCK_SURPRISED": {
     "name": "Surprised Rock Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
+    "wiki": "https://wiki.hypixel.net/Surprised_Rock_Skin"
   },
   "PET_SKIN_ROCK_SUS": {
     "name": "Sus Rock Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
+    "wiki": "https://wiki.hypixel.net/Sus_Rock_Skin"
   },
   "PET_SKIN_ROCK_SWEATING": {
     "name": "Sweating Rock Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pet_Skin"
+    "wiki": "https://wiki.hypixel.net/Sweating_Rock_Skin"
   },
   "PET_SKIN_ROCK_THINKING": {
     "name": "Thinking Rock Skin",
@@ -28880,11 +28939,11 @@
   },
   "PET_SKIN_SHEEP_BLACK_WOOLY": {
     "name": "Black Wooly Sheep Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Black_Wooly_Sheep_Skin"
   },
   "PET_SKIN_SHEEP_CHROMA_WOOLY": {
     "name": "Chroma Sheep Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/Chroma_Sheep_Skin"
   },
   "PET_SKIN_SHEEP_LIGHT_BLUE": {
     "name": "Light Blue Sheep Skin",
@@ -28924,7 +28983,7 @@
   },
   "PET_SKIN_SHEEP_WHITE_WOOLY": {
     "name": "White Wooly Sheep Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+    "wiki": "https://wiki.hypixel.net/White_Wooly_Sheep_Skin"
   },
   "PET_SKIN_SILVERFISH": {
     "name": "Fortified Silverfish Skin",
@@ -34263,15 +34322,15 @@
   "SHARK_WATER_ORB": {
     "name": "Shark Water Orb",
     "recipe": {
-      "A1": "ENCHANTED_SHARK_FIN:3",
+      "A1": "ENCHANTED_SHARK_FIN:1",
       "A2": "GREAT_WHITE_SHARK_TOOTH:1",
-      "A3": "ENCHANTED_SHARK_FIN:3",
-      "B1": "BLUE_SHARK_TOOTH:8",
+      "A3": "ENCHANTED_SHARK_FIN:1",
+      "B1": "BLUE_SHARK_TOOTH:6",
       "B2": "WATER_ORB:1",
-      "B3": "NURSE_SHARK_TOOTH:16",
-      "C1": "ENCHANTED_SHARK_FIN:3",
+      "B3": "NURSE_SHARK_TOOTH:12",
+      "C1": "ENCHANTED_SHARK_FIN:1",
       "C2": "TIGER_SHARK_TOOTH:4",
-      "C3": "ENCHANTED_SHARK_FIN:3"
+      "C3": "ENCHANTED_SHARK_FIN:1"
     },
     "wiki": "https://wiki.hypixel.net/Shark_Water_Orb"
   },
@@ -35734,6 +35793,20 @@
       "C3": "ENCHANTED_ROTTEN_FLESH:2"
     },
     "wiki": "https://wiki.hypixel.net/Small_Combat_Sack"
+  },
+  "SMALL_DRAGON_SACK": {
+    "name": "Small Dragon Sack",
+    "recipe": {
+      "A1": "CRYSTAL_FRAGMENT:2",
+      "A2": "DRAGON_CLAW:1",
+      "A3": "CRYSTAL_FRAGMENT:2",
+      "B1": "DRAGON_CLAW:1",
+      "B2": "ENCHANTED_LEATHER:1",
+      "B3": "DRAGON_CLAW:1",
+      "C1": "CRYSTAL_FRAGMENT:2",
+      "C2": "DRAGON_CLAW:1",
+      "C3": "CRYSTAL_FRAGMENT:2"
+    }
   },
   "SMALL_ENCHANTED_CHEST": {
     "name": "Small Storage",
@@ -40681,6 +40754,9 @@
   "TERROR_LEGGINGS": {
     "name": "Terror Leggings",
     "wiki": "https://wiki.hypixel.net/Terror_Leggings"
+  },
+  "TERRY_SNOWGLOBE": {
+    "name": "Terry\u0027s Snowglobe"
   },
   "TESSELLATED_ENDER_PEARL": {
     "name": "Tessellated Ender Pearl",
