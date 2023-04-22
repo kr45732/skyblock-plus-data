@@ -1722,6 +1722,11 @@
     "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
     "wiki": "https://wiki.hypixel.net/Bat_Pet"
   },
+  "BAT;5": {
+    "name": "Mythic Bat",
+    "texture": "382fc3f71b41769376a9e92fe3adbaac3772b999b219c9d6b4680ba9983e527",
+    "wiki": "https://wiki.hypixel.net/Bat_Pet"
+  },
   "BATTLE_DISC": {
     "name": "Battle Disc",
     "wiki": "https://wiki.hypixel.net/Battle_Disc"
@@ -20769,6 +20774,11 @@
     "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
     "wiki": "https://wiki.hypixel.net/Jerry_Pet"
   },
+  "JERRY;5": {
+    "name": "Mythic Jerry",
+    "texture": "822d8e751c8f2fd4c8942c44bdb2f5ca4d8ae8e575ed3eb34c18a86e93b",
+    "wiki": "https://wiki.hypixel.net/Jerry_Pet"
+  },
   "JERRY_BARN_SKIN": {
     "name": "Jerry Barn Skin",
     "wiki": "https://wiki.hypixel.net/Jerry_Barn_Skin"
@@ -21326,6 +21336,10 @@
       ]
     }
   },
+  "KUUDRA_CAVITY": {
+    "name": "Kuudra Teeth Plaque",
+    "wiki": "https://wiki.hypixel.net/Kuudra_Teeth_Plaque"
+  },
   "KUUDRA_FIERY_TIER_KEY": {
     "name": "Fiery Kuudra Key",
     "recipe": {
@@ -21375,6 +21389,9 @@
   "KUUDRA_FOLLOWER_LEGGINGS": {
     "name": "Kuudra Follower Leggings",
     "wiki": "https://wiki.hypixel.net/Kuudra_Follower_Leggings"
+  },
+  "KUUDRA_FOLLOWER_RELIC": {
+    "name": "Kuudra Follower Relic"
   },
   "KUUDRA_HOT_TIER_KEY": {
     "name": "Hot Kuudra Key",
@@ -28649,6 +28666,14 @@
   "PET_ITEM_VAMPIRE_FANG": {
     "name": "Vampire Fang",
     "wiki": "https://wiki.hypixel.net/Vampire_Fang"
+  },
+  "PET_SKIN_AMMONITE_MAGMA": {
+    "name": "Magma Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
+  },
+  "PET_SKIN_AMMONITE_NATURAL": {
+    "name": "Natural Ammonite Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "PET_SKIN_ARMADILLO_ENCHANTED": {
     "name": "Enchanted Armadillo Skin",
