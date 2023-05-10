@@ -7343,7 +7343,8 @@
     "wiki": "https://wiki.hypixel.net/Portals"
   },
   "CRYSTAL_HOLLOWS_SACK": {
-    "name": "Crystal Hollows Sack"
+    "name": "Crystal Hollows Sack",
+    "wiki": "https://wiki.hypixel.net/Crystal_Hollows_Sack"
   },
   "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Hollows",
@@ -9084,7 +9085,8 @@
     "wiki": "https://wiki.hypixel.net/Portals"
   },
   "DWARVEN_MINES_SACK": {
-    "name": "Dwarven Sack"
+    "name": "Dwarven Sack",
+    "wiki": "https://wiki.hypixel.net/Dwarven_Sack"
   },
   "DWARVEN_TANKARD": {
     "name": "Dwarven Tankard",
@@ -14731,7 +14733,8 @@
     }
   },
   "FLOWER_SACK": {
-    "name": "Flower Sack"
+    "name": "Flower Sack",
+    "wiki": "https://wiki.hypixel.net/Flower_Sack"
   },
   "FLYCATCHER_UPGRADE": {
     "name": "Flycatcher",
@@ -15038,7 +15041,15 @@
     "wiki": "https://wiki.hypixel.net/Wisp_Pet"
   },
   "FROZEN_BAUBLE": {
-    "name": "Frozen Bauble"
+    "name": "Frozen Bauble",
+    "wiki": "https://wiki.hypixel.net/Frozen_Bauble",
+    "npc_buy": {
+      "cost": [
+        "ICE_HUNK:64",
+        "BLUE_ICE_HUNK:32"
+      ],
+      "count": 1
+    }
   },
   "FROZEN_BLAZE_BOOTS": {
     "name": "Frozen Blaze Boots",
@@ -21950,7 +21961,8 @@
       "C1": "CRYSTAL_FRAGMENT:8",
       "C2": "DRAGON_HORN:1",
       "C3": "CRYSTAL_FRAGMENT:8"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Large_Dragon_Sack"
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
@@ -23912,7 +23924,8 @@
       "C1": "CRYSTAL_FRAGMENT:2",
       "C2": "SUMMONING_EYE:1",
       "C3": "CRYSTAL_FRAGMENT:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Medium_Dragon_Sack"
   },
   "MEDIUM_ENCHANTED_CHEST": {
     "name": "Medium Storage",
@@ -24078,7 +24091,7 @@
     }
   },
   "MELON_BLOCK": {
-    "name": "Melon",
+    "name": "Melon Block",
     "recipe": {
       "A1": "MELON:1",
       "A2": "MELON:1",
@@ -33399,7 +33412,13 @@
   },
   "RUSTY_ANCHOR": {
     "name": "Rusty Anchor",
-    "wiki": "https://wiki.hypixel.net/Rusty_Anchor"
+    "wiki": "https://wiki.hypixel.net/Rusty_Anchor",
+    "npc_buy": {
+      "cost": [
+        "BLUE_ICE_HUNK:64"
+      ],
+      "count": 1
+    }
   },
   "SADAN_BROOCH": {
     "name": "Sadan\u0027s Brooch",
@@ -33495,7 +33514,13 @@
   },
   "SALT_CUBE": {
     "name": "Salt Cube",
-    "wiki": "https://wiki.hypixel.net/Salt_Cube"
+    "wiki": "https://wiki.hypixel.net/Salt_Cube",
+    "npc_buy": {
+      "cost": [
+        "ICE_HUNK:64"
+      ],
+      "count": 1
+    }
   },
   "SAM_ASSISTANT": {
     "name": "Move Sam",
@@ -33790,7 +33815,8 @@
     "wiki": "https://wiki.hypixel.net/Sapphire_Power_Scroll"
   },
   "SATIN_TROUSERS": {
-    "name": "Satin Trousers"
+    "name": "Satin Trousers",
+    "wiki": "https://wiki.hypixel.net/Satin_Trousers"
   },
   "SAVANA_BIOME_STICK": {
     "name": "Savanna Biome Stick",
@@ -34860,7 +34886,8 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silex"
   },
   "SILKRIDER_SAFETY_BELT": {
-    "name": "Silkrider Safety Belt"
+    "name": "Silkrider Safety Belt",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silkrider_Safety_Belt"
   },
   "SILKY_LICHEN": {
     "name": "Silky Lichen",
@@ -35496,7 +35523,8 @@
     "wiki": "https://wiki.hypixel.net/Dark_Oak_Table"
   },
   "SKYMART_BROCHURE": {
-    "name": "SkyMart Brochure"
+    "name": "SkyMart Brochure",
+    "wiki": "https://wiki.hypixel.net/SkyMart_Brochure"
   },
   "SLAYER_ENERGY_DRINK": {
     "name": "Slayer Energy Drink",
@@ -35828,7 +35856,8 @@
       "C1": "CRYSTAL_FRAGMENT:2",
       "C2": "DRAGON_CLAW:1",
       "C3": "CRYSTAL_FRAGMENT:2"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Small_Dragon_Sack"
   },
   "SMALL_ENCHANTED_CHEST": {
     "name": "Small Storage",
@@ -38011,7 +38040,8 @@
       "C1": "SQUASH:16",
       "C2": "SQUASH:16",
       "C3": "SQUASH:16"
-    }
+    },
+    "wiki": "https://wiki.hypixel.net/Squash_Ring"
   },
   "SQUID;0": {
     "name": "Common Squid",
@@ -40778,7 +40808,15 @@
     "wiki": "https://wiki.hypixel.net/Terror_Leggings"
   },
   "TERRY_SNOWGLOBE": {
-    "name": "Terry\u0027s Snowglobe"
+    "name": "Terry\u0027s Snowglobe",
+    "wiki": "https://wiki.hypixel.net/Terry%27s_Snowglobe",
+    "npc_buy": {
+      "cost": [
+        "ICE_HUNK:32",
+        "BLUE_ICE_HUNK:8"
+      ],
+      "count": 1
+    }
   },
   "TESSELLATED_ENDER_PEARL": {
     "name": "Tessellated Ender Pearl",
@@ -42623,7 +42661,8 @@
     "wiki": "https://wiki.hypixel.net/Vanquished_Magma_Necklace"
   },
   "VELVET_TOP_HAT": {
-    "name": "Velvet Top Hat"
+    "name": "Velvet Top Hat",
+    "wiki": "https://wiki.hypixel.net/Velvet_Top_Hat"
   },
   "VENOMOUS;1": {
     "name": "Venomous I"
@@ -44688,7 +44727,8 @@
     "wiki": "https://wiki.hypixel.net/Y"
   },
   "YELLOW_BANDANA": {
-    "name": "Yellow Bandana"
+    "name": "Yellow Bandana",
+    "wiki": "https://wiki.hypixel.net/Yellow_Bandana"
   },
   "YELLOW_FLOWER": {
     "name": "Dandelion"
