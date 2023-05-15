@@ -6420,7 +6420,7 @@
     "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion_IX"
   },
   "COCO_CHOPPER": {
-    "name": "Coco Chopper",
+    "name": "Cocoa Chopper",
     "wiki": "https://wiki.hypixel.net/Coco_Chopper",
     "npc_buy": {
       "cost": [
@@ -34237,6 +34237,10 @@
   "SHADOW_ASSASSIN_MAUVE": {
     "name": "Mauve Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale"
+  },
+  "SHADOW_ASSASSIN_SLY_FOX": {
+    "name": "Sly Fox Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale"
   },
   "SHADOW_CRUX": {
     "name": "Shadow Crux"
