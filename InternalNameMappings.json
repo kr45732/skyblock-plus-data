@@ -13,8 +13,7 @@
       "C3": "ENCHANTED_COBBLESTONE:1"
     },
     "wiki": "https://wiki.hypixel.net/Maddox_Batphone",
-    "base_rarity": "UNCOMMON",
-    "scrollable": true
+    "base_rarity": "UNCOMMON"
   },
   "AATROX_PHONE_NUMBER": {
     "name": "Maddox\u0027s Phone Number",
@@ -24,42 +23,42 @@
   "ABICASE_BLUE_AQUA": {
     "name": "Lighter Blue™ Abicase",
     "wiki": "https://wiki.hypixel.net/Lighter_Blue™_Abicase",
-    "base_rarity": "17,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_BLUE_BLUE": {
     "name": "Actually Blue™ Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "17,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_BLUE_GREEN": {
     "name": "Blue™ but Green Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "17,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_BLUE_RED": {
     "name": "Blue™ but Red Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "17,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_BLUE_YELLOW": {
     "name": "Blue™ but Yellow Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "17,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_REZAR": {
     "name": "Rezar® Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "26,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_SUMSUNG_1": {
     "name": "Sumsung© G3 Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "15,000"
+    "base_rarity": "RARE"
   },
   "ABICASE_SUMSUNG_2": {
     "name": "Sumsung© GG Abicase",
     "wiki": "https://wiki.hypixel.net/Abicase",
-    "base_rarity": "25,000"
+    "base_rarity": "RARE"
   },
   "ABIPHONE_XIII_PRO": {
     "name": "Abiphone XIII Pro",
@@ -485,12 +484,12 @@
   "ADVANCED_GARDENING_AXE": {
     "name": "Advanced Gardening Axe",
     "wiki": "https://wiki.hypixel.net/Advanced_Gardening_Axe",
-    "base_rarity": "25"
+    "base_rarity": "RARE"
   },
   "ADVANCED_GARDENING_HOE": {
     "name": "Advanced Gardening Hoe",
     "wiki": "https://wiki.hypixel.net/Advanced_Gardening_Hoe",
-    "base_rarity": "25"
+    "base_rarity": "RARE"
   },
   "ADVENT_CALENDAR_DISPLAY": {
     "name": "Advent Calendar Display",
@@ -535,8 +534,7 @@
   "ALCHEMISTS_STAFF": {
     "name": "The Alchemist\u0027s Staff",
     "wiki": "https://wiki.hypixel.net/The_Alchemist\u0027s_Staff",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion",
@@ -663,8 +661,7 @@
   "ANCESTRAL_SPADE": {
     "name": "Ancestral Spade",
     "wiki": "https://wiki.hypixel.net/Ancestral_Spade",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ANCIENT_CLAW": {
     "name": "Ancient Claw",
@@ -939,8 +936,7 @@
   "ARCHFIEND_DICE": {
     "name": "Archfiend Dice",
     "wiki": "https://wiki.hypixel.net/Archfiend_Dice",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "ARMADILLO;0": {
     "name": "Common Armadillo",
@@ -1179,14 +1175,12 @@
   "ASCENSION_ROPE": {
     "name": "Ascension Rope",
     "wiki": "https://wiki.hypixel.net/Ascension_Rope",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ASPECT_OF_THE_DRAGON": {
     "name": "Aspect of the Dragons",
     "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Dragons",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "ASPECT_OF_THE_END": {
     "name": "Aspect of the End",
@@ -1202,8 +1196,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Aspect_Of_The_End",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ASPECT_OF_THE_JERRY": {
     "name": "Aspect of the Jerry",
@@ -1219,8 +1212,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Jerry",
-    "base_rarity": "COMMON",
-    "scrollable": true
+    "base_rarity": "COMMON"
   },
   "ASPECT_OF_THE_LEECH_1": {
     "name": "Aspect of the Leech",
@@ -1235,8 +1227,7 @@
       "C2": "LEECH_SUPREME_FRAGMENT:8",
       "C3": ""
     },
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ASPECT_OF_THE_LEECH_2": {
     "name": "Aspect of the Leech",
@@ -1251,8 +1242,7 @@
       "C2": "",
       "C3": ""
     },
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ASPECT_OF_THE_VOID": {
     "name": "Aspect of the Void",
@@ -1268,8 +1258,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Void",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "ASPIRING_LEAP": {
     "name": "Aspiring Leap",
@@ -1285,8 +1274,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Aspiring_Leap",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "ASSISTANT": {
     "name": "Move Jerry",
@@ -1334,8 +1322,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Atomsplit_Katana",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "ATTRIBUTE_SHARD": {
     "name": "Attribute Shard",
@@ -1427,8 +1414,7 @@
       "C3": "REVENANT_VISCERA:64"
     },
     "wiki": "https://wiki.hypixel.net/Axe_Of_The_Shredded",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "BABYSEAL_BACKPACK": {
     "name": "Baby Seal Backpack Skin",
@@ -1844,7 +1830,6 @@
     "name": "Basket of Seeds",
     "wiki": "https://wiki.hypixel.net/Basket_Of_Seeds",
     "base_rarity": "EPIC",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:2",
@@ -2105,8 +2090,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Spirit_Sceptre",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "BBQ": {
     "name": "BBQ Grill",
@@ -2834,7 +2818,7 @@
   "BITS_TALISMAN": {
     "name": "Bits Talisman",
     "wiki": "https://wiki.hypixel.net/Bits_Talisman",
-    "base_rarity": "15,000"
+    "base_rarity": "RARE"
   },
   "BITTER_ICE_TEA": {
     "name": "Bitter Iced Tea",
@@ -2969,8 +2953,7 @@
       "C3": "MOLTEN_POWDER:16"
     },
     "wiki": "https://wiki.hypixel.net/Blazetekk™_Ham_Radio",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "BLAZE_ASHES": {
     "name": "Blaze Ashes",
@@ -3422,8 +3405,7 @@
   "BLOCK_ZAPPER": {
     "name": "Block Zapper",
     "wiki": "https://wiki.hypixel.net/Block_Zapper",
-    "base_rarity": "5,000",
-    "scrollable": true
+    "base_rarity": "5,000"
   },
   "BLOOD_2_RUNE;1": {
     "name": "◆ Blood Rune I",
@@ -3578,8 +3560,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Bonemerang",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "BONZO_FRAGMENT": {
     "name": "Bonzo Fragment",
@@ -3594,8 +3575,7 @@
   "BONZO_STAFF": {
     "name": "Bonzo\u0027s Staff",
     "wiki": "https://wiki.hypixel.net/Bonzo\u0027s_Staff",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "BONZO_STATUE": {
     "name": "Bonzo Statue",
@@ -3961,14 +3941,12 @@
   "BUILDERS_RULER": {
     "name": "Builder\u0027s Ruler",
     "wiki": "https://wiki.hypixel.net/Builder%27s_Ruler",
-    "base_rarity": "20",
-    "scrollable": true
+    "base_rarity": "20"
   },
   "BUILDERS_WAND": {
     "name": "Builder\u0027s Wand",
     "wiki": "https://wiki.hypixel.net/Builder\u0027s_Wand",
-    "base_rarity": "12,000",
-    "scrollable": true
+    "base_rarity": "12,000"
   },
   "BUILDER_ANCIENT_FRUIT": {
     "name": "Ancient Fruit",
@@ -4233,8 +4211,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Kindlebane_Dagger",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "BURSTMAW_DAGGER": {
     "name": "Mawdredge Dagger",
@@ -4250,8 +4227,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Mawdredge_Dagger",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "BURSTSTOPPER_ARTIFACT": {
     "name": "Burststopper Artifact",
@@ -5649,7 +5625,6 @@
     "name": "Celeste Wand",
     "wiki": "https://wiki.hypixel.net/Celeste_Wand",
     "base_rarity": "UNCOMMON",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:5000"
@@ -8080,8 +8055,7 @@
   "CRYPT_DREADLORD_SWORD": {
     "name": "Dreadlord Sword",
     "wiki": "https://wiki.hypixel.net/Dreadlord_Sword",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "CRYPT_WITHERLORD_BOOTS": {
     "name": "Crypt Witherlord Boots",
@@ -8106,8 +8080,7 @@
   "CRYPT_WITHERLORD_SWORD": {
     "name": "Crypt Witherlord Sword",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crypt_Witherlord_Sword",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "CRYSTALLIZED_HEART": {
     "name": "Crystallized Heart",
@@ -10304,8 +10277,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Edible_Mace",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "EDITOR_PENCIL": {
     "name": "Editor\u0027s Pencil",
@@ -10560,8 +10532,7 @@
   "EMBER_ROD": {
     "name": "Ember Rod",
     "wiki": "https://wiki.hypixel.net/Ember_Rod",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "EMERALD": {
     "name": "Emerald",
@@ -11236,8 +11207,7 @@
   "ENCHANTED_CLOCK": {
     "name": "Enchanted Clock",
     "wiki": "https://wiki.hypixel.net/Enchanted_Clock",
-    "base_rarity": "NOTE:",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ENCHANTED_CLOWNFISH": {
     "name": "Enchanted Clownfish",
@@ -13691,8 +13661,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/End_Stone_Sword",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "END_SWORD": {
     "name": "End Sword",
@@ -13718,8 +13687,7 @@
   "ENRAGER": {
     "name": "Enrager",
     "wiki": "https://wiki.hypixel.net/Enrager",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "ENTROPY_SUPPRESSOR": {
     "name": "Entropy Suppressor",
@@ -13877,8 +13845,7 @@
       "C3": "NULL_OVOID:3"
     },
     "wiki": "https://wiki.hypixel.net/Etherwarp_Conduit",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "ETHERWARP_MERGER": {
     "name": "Etherwarp Merger",
@@ -15225,8 +15192,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Firedust_Dagger",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "FIREPLACE": {
     "name": "Fireplace",
@@ -15289,8 +15255,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Fire_Freeze_Staff",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "FIRE_FURY_STAFF": {
     "name": "Fire Fury Staff",
@@ -15306,8 +15271,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Fire_Fury_Staff",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "FIRE_PROTECTION;1": {
     "name": "Fire Protection I",
@@ -15399,8 +15363,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Fire_Veil_Wand",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "FIRST_MASTER_STAR": {
     "name": "First Master Star",
@@ -16135,8 +16098,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Florid_Zombie_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "FLOWERING_BOUQUET": {
     "name": "Flowering Bouquet",
@@ -16348,8 +16310,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Flower_Of_Truth",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "FLOWER_POT_ITEM": {
     "name": "Flower Pot",
@@ -16823,8 +16784,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Frozen_Scythe",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "FROZEN_SPIDER": {
     "name": "Frozen Spider",
@@ -16872,7 +16832,6 @@
     "name": "Fungi Cutter",
     "wiki": "https://wiki.hypixel.net/Fungi_Cutter",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
@@ -16928,7 +16887,7 @@
   "GARDEN_SCYTHE": {
     "name": "Garden Scythe",
     "wiki": "https://wiki.hypixel.net/Garden_Scythe",
-    "base_rarity": "20"
+    "base_rarity": "RARE"
   },
   "GARLAND": {
     "name": "Garland",
@@ -17054,8 +17013,7 @@
   "GENERALS_HOPE_OF_THE_RESISTANCE": {
     "name": "Staff of the Rising Sun",
     "wiki": "https://wiki.hypixel.net/Staff_Of_The_Rising_Sun",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "GHAST_CLOAK": {
     "name": "Ghast Cloak",
@@ -17338,8 +17296,7 @@
   "GIANTS_SWORD": {
     "name": "Giant\u0027s Sword",
     "wiki": "https://wiki.hypixel.net/Giant\u0027s_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "GIANT_CLEAVER": {
     "name": "Giant Cleaver",
@@ -17599,8 +17556,7 @@
       "C3": "ENCHANTED_PACKED_ICE:32"
     },
     "wiki": "https://wiki.hypixel.net/Glacial_Scythe",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "GLACIAL_TALISMAN": {
     "name": "Glacial Talisman",
@@ -17682,8 +17638,7 @@
       "C3": "NULL_OVOID:4"
     },
     "wiki": "https://wiki.hypixel.net/Gloomlock_Grimoire",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "GLOWING_GRAPE_FLUX": {
     "name": "Glowing Grape Power Orb Skin",
@@ -18833,8 +18788,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Golem_Sword",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "GRANDFATHER_CLOCK": {
     "name": "Grandfather Clock",
@@ -19204,8 +19158,7 @@
   "GREAT_SPOOK_STAFF": {
     "name": "Great Spook Staff",
     "wiki": "https://wiki.hypixel.net/Great_Spook_Staff",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "GREAT_SPOOK_SWORD": {
     "name": "Great Spook Sword",
@@ -19610,8 +19563,7 @@
       "C3": "NULL_OVOID:16"
     },
     "wiki": "https://wiki.hypixel.net/Gyrokinetic_Wand",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "HALLOWED_SKULL": {
     "name": "Hallowed Skull",
@@ -20064,8 +20016,7 @@
   "HAUNT_ABILITY": {
     "name": "Haunt",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Haunt",
-    "base_rarity": "UNCOMMON",
-    "scrollable": true
+    "base_rarity": "UNCOMMON"
   },
   "HAY_BALE": {
     "name": "Hay Bale",
@@ -20153,8 +20104,7 @@
       "C3": "INFERNO_VERTEX:8"
     },
     "wiki": "https://wiki.hypixel.net/Pyrochaos_Dagger",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "HEARTMAW_DAGGER": {
     "name": "Deathripper Dagger",
@@ -20170,8 +20120,7 @@
       "C3": "INFERNO_VERTEX:8"
     },
     "wiki": "https://wiki.hypixel.net/Deathripper_Dagger",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "HEARTS_RUNE;1": {
     "name": "◆ Hearts Rune I",
@@ -20328,8 +20277,7 @@
   "HELLSTORM_STAFF": {
     "name": "Hellstorm Wand",
     "wiki": "https://wiki.hypixel.net/Hellstorm_Wand",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "HELMET_OF_THE_PACK": {
     "name": "Helmet of the Pack",
@@ -20360,8 +20308,7 @@
   "HIGH_CLASS_ARCHFIEND_DICE": {
     "name": "High Class Archfiend Dice",
     "wiki": "https://wiki.hypixel.net/High_Class_Archfiend_Dice",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "HILT_OF_TRUE_ICE": {
     "name": "Hilt of True Ice",
@@ -20543,8 +20490,7 @@
   "HOPE_OF_THE_RESISTANCE": {
     "name": "Staff of the Rising Sun",
     "wiki": "https://wiki.hypixel.net/Staff_Of_The_Rising_Sun",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "HOPPER": {
     "name": "Hopper",
@@ -21397,8 +21343,7 @@
   "ICE_SPRAY_WAND": {
     "name": "Ice Spray Wand",
     "wiki": "https://wiki.hypixel.net/Ice_Spray_Wand",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ICHTHYIC_BELT": {
     "name": "Ichthyic Belt",
@@ -21506,8 +21451,7 @@
   "IMPLOSION_SCROLL": {
     "name": "Implosion",
     "wiki": "https://wiki.hypixel.net/Implosion",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "INFERNAL_AURORA_BOOTS": {
     "name": "Infernal Aurora Boots",
@@ -22098,7 +22042,6 @@
     "name": "InfiniDirt™ Wand",
     "wiki": "https://wiki.hypixel.net/InfiniDirt™_Wand",
     "base_rarity": "UNCOMMON",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "JACOBS_TICKET:1"
@@ -22159,8 +22102,7 @@
   "INFINITE_SPIRIT_LEAP": {
     "name": "Infinileap",
     "wiki": "https://wiki.hypixel.net/Infinileap",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
@@ -22412,8 +22354,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Ink_Wand",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "INSPIRED_CHESTPLATE": {
     "name": "Inspired Chestplate",
@@ -23178,8 +23119,7 @@
   "JERRY_STAFF": {
     "name": "Jerry-chine Gun",
     "wiki": "https://wiki.hypixel.net/Jerry-chine_Gun",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "JERRY_STONE": {
     "name": "Jerry Stone",
@@ -23242,8 +23182,7 @@
   "JINGLE_BELLS": {
     "name": "Jingle Bells",
     "wiki": "https://wiki.hypixel.net/Jingle_Bells",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "JUDGEMENT_CORE": {
     "name": "Judgement Core",
@@ -23669,7 +23608,7 @@
   "KISMET_FEATHER": {
     "name": "Kismet Feather",
     "wiki": "https://wiki.hypixel.net/Kismet_Feather",
-    "base_rarity": "1,350"
+    "base_rarity": "RARE"
   },
   "KLOONBOAT": {
     "name": "Kloonboat",
@@ -23886,8 +23825,7 @@
   },
   "KUUDRA_SHOP_ITEM": {
     "name": "Open Shop",
-    "base_rarity": "SPECIAL",
-    "scrollable": true
+    "base_rarity": "SPECIAL"
   },
   "KUUDRA_SKULL_PORTAL": {
     "name": "Portal to the Forgotten Skull",
@@ -24693,7 +24631,7 @@
   "LARGE_WALNUT": {
     "name": "Large Walnut",
     "wiki": "https://wiki.hypixel.net/Large_Walnut",
-    "base_rarity": "150"
+    "base_rarity": "RARE"
   },
   "LARGE_WINTER_SACK": {
     "name": "Winter Sack",
@@ -24913,8 +24851,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Leaping_Sword",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "LEASH": {
     "name": "Lead",
@@ -25343,8 +25280,7 @@
   "LIVID_DAGGER": {
     "name": "Livid Dagger",
     "wiki": "https://wiki.hypixel.net/Livid_Dagger",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "LIVID_FRAGMENT": {
     "name": "Livid Fragment",
@@ -25437,22 +25373,22 @@
   "LOTUS_BELT": {
     "name": "Lotus Belt",
     "wiki": "https://wiki.hypixel.net/Lotus_Belt",
-    "base_rarity": "100"
+    "base_rarity": "RARE"
   },
   "LOTUS_BRACELET": {
     "name": "Lotus Bracelet",
     "wiki": "https://wiki.hypixel.net/Lotus_Bracelet",
-    "base_rarity": "50"
+    "base_rarity": "RARE"
   },
   "LOTUS_CLOAK": {
     "name": "Lotus Cloak",
     "wiki": "https://wiki.hypixel.net/Lotus_Cloak",
-    "base_rarity": "500"
+    "base_rarity": "RARE"
   },
   "LOTUS_NECKLACE": {
     "name": "Lotus Necklace",
     "wiki": "https://wiki.hypixel.net/Lotus_Necklace",
-    "base_rarity": "200"
+    "base_rarity": "RARE"
   },
   "LUCK;1": {
     "name": "Luck I",
@@ -26562,8 +26498,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Twilight_Dagger",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "MAXED_ATTRIBUTE_SHARD": {
     "name": "Max Attribute Shard",
@@ -27286,8 +27221,7 @@
   "MIDAS_STAFF": {
     "name": "Midas Staff",
     "wiki": "https://wiki.hypixel.net/Midas_Staff",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "MIDAS_SWORD": {
     "name": "Midas\u0027 Sword",
@@ -28216,7 +28150,6 @@
     "name": "Moody Grappleshot",
     "wiki": "https://wiki.hypixel.net/Moody_Grappleshot",
     "base_rarity": "EPIC",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:3700000"
@@ -29006,8 +28939,7 @@
   "NECROMANCER_SWORD": {
     "name": "Necromancer Sword",
     "wiki": "https://wiki.hypixel.net/Necromancer_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "NECRON_BLADE": {
     "name": "Necron\u0027s Blade (Unrefined)",
@@ -29363,7 +29295,6 @@
     "name": "Nether Wart Pouch",
     "wiki": "https://wiki.hypixel.net/Nether_Wart_Pouch",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_SILVER_MEDAL:2",
@@ -30309,8 +30240,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Ornate_Zombie_Sword",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "OVERFLUX_CAPACITOR": {
     "name": "Overflux Capacitor",
@@ -32543,8 +32473,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Pigman_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "PIGS_FOOT": {
     "name": "Pig\u0027s Foot",
@@ -33477,7 +33406,6 @@
     "name": "Prismapump",
     "wiki": "https://wiki.hypixel.net/Prismapump",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_BRONZE_MEDAL:1",
@@ -35078,8 +35006,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Ragnarock_Axe",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "RAIDER_AXE": {
     "name": "Raider Axe",
@@ -35362,8 +35289,7 @@
       "C3": "REAPER_SWORD:1"
     },
     "wiki": "https://wiki.hypixel.net/Reaper_Scythe",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "REAPER_SPIRIT": {
     "name": "Spirit Skin",
@@ -35389,8 +35315,7 @@
   "RECALL_POTION": {
     "name": "Recall Potion",
     "wiki": "https://wiki.hypixel.net/Recall_Potion",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "RECLUSE_FANG": {
     "name": "Recluse Fang",
@@ -36784,7 +36709,6 @@
     "name": "Revive Stone",
     "wiki": "https://wiki.hypixel.net/Revive_Stone",
     "base_rarity": "LEGENDARY",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:100000"
@@ -36936,8 +36860,7 @@
   "ROGUE_SWORD": {
     "name": "Rogue Sword",
     "wiki": "https://wiki.hypixel.net/Rogue_Sword",
-    "base_rarity": "COMMON",
-    "scrollable": true
+    "base_rarity": "COMMON"
   },
   "ROOFED_FOREST_BIOME_STICK": {
     "name": "Roofed Forest Biome Stick",
@@ -37119,8 +37042,7 @@
   "ROYAL_PIGEON": {
     "name": "Royal Pigeon",
     "wiki": "https://wiki.hypixel.net/Royal_Pigeon",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "RUBY_CRYSTAL": {
     "name": "Ruby Crystal",
@@ -37173,8 +37095,7 @@
   "RUNIC_STAFF": {
     "name": "Aurora Staff",
     "wiki": "https://wiki.hypixel.net/Aurora_Staff",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "RUSTY_ANCHOR": {
     "name": "Rusty Anchor",
@@ -38113,8 +38034,7 @@
   "SHADOW_FURY": {
     "name": "Shadow Fury",
     "wiki": "https://wiki.hypixel.net/Shadow_Fury",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "SHADOW_GOGGLES": {
     "name": "Shadow Goggles",
@@ -38129,8 +38049,7 @@
   "SHADOW_WARP_SCROLL": {
     "name": "Shadow Warp",
     "wiki": "https://wiki.hypixel.net/Shadow_Warp",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "SHADY_RING": {
     "name": "Shady Ring",
@@ -38797,8 +38716,7 @@
   "SILENT_DEATH": {
     "name": "Silent Death",
     "wiki": "https://wiki.hypixel.net/Silent_Death",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "SILENT_PEARL": {
     "name": "Silent Pearl",
@@ -38840,8 +38758,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Silk-Edge_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "SILK_TOUCH;1": {
     "name": "Silk Touch I",
@@ -39030,8 +38947,7 @@
       "C3": "NULL_ATOM:4"
     },
     "wiki": "https://wiki.hypixel.net/Sinseeker_Scythe",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "SKELETON;0": {
     "name": "Common Skeleton",
@@ -39534,7 +39450,7 @@
   "SKYMART_BROCHURE": {
     "name": "SkyMart Brochure",
     "wiki": "https://wiki.hypixel.net/SkyMart_Brochure",
-    "base_rarity": "100"
+    "base_rarity": "RARE"
   },
   "SLAYER_ENERGY_DRINK": {
     "name": "Slayer Energy Drink",
@@ -40697,7 +40613,6 @@
     "name": "Snow Shovel",
     "wiki": "https://wiki.hypixel.net/Snow_Shovel",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:2500"
@@ -40958,8 +40873,7 @@
       "C3": "NULL_OVOID:2"
     },
     "wiki": "https://wiki.hypixel.net/Soul_Esoward",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "SOUL_FISH_BRONZE": {
     "name": "Soul Fish BRONZE",
@@ -41009,8 +40923,7 @@
       "C3": "SOUL_FRAGMENT:4"
     },
     "wiki": "https://wiki.hypixel.net/Soul_Whip",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "SPARKLING_RUNE;1": {
     "name": "◆ Sparkling Rune I",
@@ -41748,8 +41661,7 @@
   "SPIRIT_LEAP": {
     "name": "Spirit Leap",
     "wiki": "https://wiki.hypixel.net/Spirit_Leap",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "SPIRIT_MASK": {
     "name": "Spirit Mask",
@@ -42417,8 +42329,7 @@
   "STAFF_OF_THE_VOLCANO": {
     "name": "Staff of the Volcano",
     "wiki": "https://wiki.hypixel.net/Staff_Of_The_Volcano",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "STAINED_CLAY:1": {
     "name": "Orange Stained Clay",
@@ -43193,7 +43104,6 @@
     "name": "Starlight Wand",
     "wiki": "https://wiki.hypixel.net/Starlight_Wand",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:30000"
@@ -43294,8 +43204,7 @@
       "C3": "BONZO_FRAGMENT:1"
     },
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Bonzo\u0027s_Staff",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "STARRED_LAST_BREATH": {
     "name": "⚚ Last Breath",
@@ -43391,8 +43300,7 @@
       "C3": "LIVID_FRAGMENT:1"
     },
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Shadow_Fury",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "STARRED_SPIDER_QUEENS_STINGER": {
     "name": "⚚ Spider Queen\u0027s Stinger",
@@ -44415,8 +44323,7 @@
   "SUMMONING_RING": {
     "name": "Summoning Ring",
     "wiki": "https://wiki.hypixel.net/Summoning_Ring",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "SUNDER;1": {
     "name": "Sunder I",
@@ -44694,8 +44601,7 @@
   "SWORD_OF_BAD_HEALTH": {
     "name": "Sword of Bad Health",
     "wiki": "https://wiki.hypixel.net/Sword_Of_Bad_Health",
-    "base_rarity": "UNCOMMON",
-    "scrollable": true
+    "base_rarity": "UNCOMMON"
   },
   "SWORD_OF_REVELATIONS": {
     "name": "Sword of Revelations",
@@ -44819,8 +44725,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Tactical_Insertion",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
@@ -44851,8 +44756,7 @@
   "TALBOTS_THEODOLITE": {
     "name": "Talbot\u0027s Theodolite",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
     "name": "Attack Speed Enrichment",
@@ -45348,8 +45252,7 @@
       "C3": "TARANTULA_SILK:64"
     },
     "wiki": "https://wiki.hypixel.net/Terminator",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "TERROR_BOOTS": {
     "name": "Terror Boots",
@@ -46375,7 +46278,6 @@
     "name": "Tribal Spear",
     "wiki": "https://wiki.hypixel.net/Tribal_Spear",
     "base_rarity": "RARE",
-    "scrollable": true,
     "npc_buy": {
       "cost": [
         "SLUDGE_JUICE:100",
@@ -47644,8 +47546,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Voidedge_Katana",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "VOIDLING_GENERATOR_1": {
     "name": "Voidling Minion I",
@@ -47909,8 +47810,7 @@
       "C3": "ARROW:64"
     },
     "wiki": "https://wiki.hypixel.net/Voodoo_Doll",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "VORPAL_KATANA": {
     "name": "Vorpal Katana",
@@ -47926,8 +47826,7 @@
       "C3": "REFINED_MITHRIL:4"
     },
     "wiki": "https://wiki.hypixel.net/Vorpal_Katana",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WAKE_RUNE;1": {
     "name": "◆ Wake Rune I",
@@ -47960,8 +47859,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wand_Of_Atonement",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "WAND_OF_HEALING": {
     "name": "Wand of Healing",
@@ -47977,8 +47875,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wand_Of_Healing",
-    "base_rarity": "UNCOMMON",
-    "scrollable": true
+    "base_rarity": "UNCOMMON"
   },
   "WAND_OF_MENDING": {
     "name": "Wand of Mending",
@@ -47994,8 +47891,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wand_Of_Mending",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "WAND_OF_RESTORATION": {
     "name": "Wand of Restoration",
@@ -48011,8 +47907,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wand_Of_Restoration",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WAND_OF_STRENGTH": {
     "name": "Wand of Strength",
@@ -48028,8 +47923,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wand_Of_Strength",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WARDEN_HEART": {
     "name": "Warden Heart",
@@ -48183,8 +48077,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Weather_Stick",
-    "base_rarity": "UNCOMMON",
-    "scrollable": true
+    "base_rarity": "UNCOMMON"
   },
   "WEB": {
     "name": "Web",
@@ -48265,8 +48158,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Weird_Tuba",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "WEREWOLF_BOOTS": {
     "name": "Werewolf Boots",
@@ -48893,8 +48785,7 @@
   "WITHER_CLOAK": {
     "name": "Wither Cloak Sword",
     "wiki": "https://wiki.hypixel.net/Wither_Cloak",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WITHER_GOGGLES": {
     "name": "Wither Goggles",
@@ -48945,8 +48836,7 @@
   "WITHER_SHIELD_SCROLL": {
     "name": "Wither Shield",
     "wiki": "https://wiki.hypixel.net/Wither_Shield",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WITHER_SKELETON;3": {
     "name": "Epic Wither Skeleton",
@@ -48990,8 +48880,7 @@
   "WIZARD_WAND": {
     "name": "Wizard Wand",
     "wiki": "https://wiki.hypixel.net/Wizard_Wand",
-    "base_rarity": "EPIC",
-    "scrollable": true
+    "base_rarity": "EPIC"
   },
   "WOLF;0": {
     "name": "Common Wolf",
@@ -49830,7 +49719,7 @@
   "YELLOW_BANDANA": {
     "name": "Yellow Bandana",
     "wiki": "https://wiki.hypixel.net/Yellow_Bandana",
-    "base_rarity": "300"
+    "base_rarity": "RARE"
   },
   "YELLOW_FLOWER": {
     "name": "Dandelion",
@@ -49860,8 +49749,7 @@
       "C3": "ENCHANTED_PACKED_ICE:64"
     },
     "wiki": "https://wiki.hypixel.net/Yeti_Sword",
-    "base_rarity": "LEGENDARY",
-    "scrollable": true
+    "base_rarity": "LEGENDARY"
   },
   "YOGGIE": {
     "name": "Yoggie",
@@ -50504,8 +50392,7 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Zombie_Sword",
-    "base_rarity": "RARE",
-    "scrollable": true
+    "base_rarity": "RARE"
   },
   "ZOMBIE_TALISMAN": {
     "name": "Zombie Talisman",
