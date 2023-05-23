@@ -6175,12 +6175,25 @@
   "CHUMMING_TALISMAN": {
     "name": "Chumming Talisman",
     "wiki": "https://wiki.hypixel.net/Chumming_Talisman",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:32"
+      ],
+      "count": 1
+    }
   },
   "CHUM_ROD": {
     "name": "Chum Rod",
     "wiki": "https://wiki.hypixel.net/Chum_Rod",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:4",
+        "GLOWING_MUSHROOM:15"
+      ],
+      "count": 1
+    }
   },
   "CHYME": {
     "name": "Chyme",
@@ -10895,7 +10908,14 @@
   "EMPTY_CHUM_BUCKET": {
     "name": "Empty Chum Bucket",
     "wiki": "https://wiki.hypixel.net/Chum_Bucket",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1940",
+        "GLOWING_MUSHROOM:8"
+      ],
+      "count": 1
+    }
   },
   "EMPTY_MAP": {
     "name": "Empty Map",
@@ -17909,7 +17929,14 @@
   "GLOWY_CHUM_BAIT": {
     "name": "Glowy Chum Bait",
     "wiki": "https://wiki.hypixel.net/Glowy_Chum_Bait",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:1",
+        "GLOWING_MUSHROOM:4"
+      ],
+      "count": 16
+    }
   },
   "GLUE_ARROW": {
     "name": "Glue Arrow",
@@ -25526,7 +25553,14 @@
   "LUMINOUS_BRACELET": {
     "name": "Luminous Bracelet",
     "wiki": "https://wiki.hypixel.net/Luminous_Bracelet",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:2",
+        "GLOWING_MUSHROOM:10"
+      ],
+      "count": 1
+    }
   },
   "LUMINO_FIBER": {
     "name": "Lumino Fiber",
@@ -28046,7 +28080,14 @@
   "MOBYS_SHEARS": {
     "name": "Moby\u0027s Shears",
     "wiki": "https://wiki.hypixel.net/Moby%27s_Shears",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:5",
+        "GLOWING_MUSHROOM:15"
+      ],
+      "count": 1
+    }
   },
   "MOB_SPAWNER": {
     "name": "Monster Spawner",
