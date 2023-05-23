@@ -26262,7 +26262,12 @@
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1"
     },
     "wiki": "https://wiki.hypixel.net/Mana_Flux_Power_Orb",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "skins": [
+      "GLISTENING_MELON_FLUX",
+      "GLOWING_GRAPE_FLUX",
+      "GOLDEN_APPLE_FLUX"
+    ]
   },
   "MANA_RAY_BRONZE": {
     "name": "Mana Ray BRONZE",
@@ -30349,7 +30354,12 @@
       "C3": "GOLDEN_TOOTH:32"
     },
     "wiki": "https://wiki.hypixel.net/Overflux_Power_Orb",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "skins": [
+      "GLISTENING_MELON_FLUX",
+      "GLOWING_GRAPE_FLUX",
+      "GOLDEN_APPLE_FLUX"
+    ]
   },
   "OVERGROWN_GRASS": {
     "name": "Overgrown Grass",
@@ -32863,7 +32873,12 @@
       "C3": "ENCHANTED_OBSIDIAN:64"
     },
     "wiki": "https://wiki.hypixel.net/Plasmaflux_Power_Orb",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "skins": [
+      "GLISTENING_MELON_FLUX",
+      "GLOWING_GRAPE_FLUX",
+      "GOLDEN_APPLE_FLUX"
+    ]
   },
   "PLASMA_BUCKET": {
     "name": "Plasma Bucket",
@@ -35057,7 +35072,12 @@
       "C3": "WOLF_TOOTH:2"
     },
     "wiki": "https://wiki.hypixel.net/Radiant_Power_Orb",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "skins": [
+      "GLISTENING_MELON_FLUX",
+      "GLOWING_GRAPE_FLUX",
+      "GOLDEN_APPLE_FLUX"
+    ]
   },
   "RADIOACTIVE_VIAL": {
     "name": "Radioactive Vial",
