@@ -1,7 +1,7 @@
 # skyblock-plus-data
 
 ## glint_images
-Used to render the enchanted glint on items. 
+Used for rendering the enchanted glint on items. 
 
 ## BitPrices.json
 Prices for items that cost bits.
@@ -72,7 +72,7 @@ Information about all items in the game (credit to [NotEnoughUpdates-REPO](https
   "ITEM_ID": {
     "name": String,
     "recipe": {
-      "slot: String,
+      "slot": String,
       ...,
       "count": Number
     },
