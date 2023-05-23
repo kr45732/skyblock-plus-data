@@ -66,7 +66,7 @@ Loot items and drop chances for dungeons.
 ```
 
 ## InternalNameMappings.json
-Information about all items in the game.
+Information about all items in the game (credit to [NotEnoughUpdates-REPO](https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO)). 
 ```yaml
 {
   "ITEM_ID": {
