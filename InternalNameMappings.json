@@ -1367,7 +1367,8 @@
   },
   "AUTOPET_RULES_2": {
     "name": "Autopet Rules 2-Pack",
-    "wiki": "https://wiki.hypixel.net/Autopet"
+    "wiki": "https://wiki.hypixel.net/Autopet",
+    "base_rarity": "SPECIAL"
   },
   "AUTO_RECOMBOBULATOR": {
     "name": "Auto Recombobulator",
@@ -1396,7 +1397,8 @@
   },
   "AUTUMN_HUT_BARN_SKIN": {
     "name": "Autumn Hut Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Autumn_Hut_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Autumn_Hut_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "AXE_OF_THE_SHREDDED": {
     "name": "Axe of the Shredded",
@@ -1475,7 +1477,8 @@
   },
   "BAMBOO_BARN_SKIN": {
     "name": "Bamboo Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Bamboo_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Bamboo_Barn_Skin",
+    "base_rarity": "EPIC"
   },
   "BANDAGED_MITHRIL_PICKAXE": {
     "name": "Bandaged Mithril Pickaxe",
@@ -1810,11 +1813,13 @@
   },
   "BASIC_GARDENING_AXE": {
     "name": "Basic Gardening Axe",
-    "wiki": "https://wiki.hypixel.net/Basic_Gardening_Axe"
+    "wiki": "https://wiki.hypixel.net/Basic_Gardening_Axe",
+    "base_rarity": "UNCOMMON"
   },
   "BASIC_GARDENING_HOE": {
     "name": "Basic Gardening Hoe",
-    "wiki": "https://wiki.hypixel.net/Basic_Gardening_Hoe"
+    "wiki": "https://wiki.hypixel.net/Basic_Gardening_Hoe",
+    "base_rarity": "UNCOMMON"
   },
   "BASKETBALL_PERSONALITY": {
     "name": "Basketball Minion Skin",
@@ -2159,8 +2164,7 @@
   "BEACON_5": {
     "name": "Beacon V",
     "wiki": "https://wiki.hypixel.net/Beacon",
-    "forge": 180000,
-    "base_rarity": "EPIC"
+    "forge": 180000
   },
   "BEASTMASTER_CREST_COMMON": {
     "name": "Beastmaster Crest",
@@ -2513,7 +2517,8 @@
   },
   "BINGO_RELIC": {
     "name": "Bingo Relic",
-    "wiki": "https://wiki.hypixel.net/Bingo_Relic"
+    "wiki": "https://wiki.hypixel.net/Bingo_Relic",
+    "base_rarity": "EPIC"
   },
   "BINGO_RING": {
     "name": "Bingo Ring",
@@ -3393,7 +3398,8 @@
   },
   "BLOCK_ZAPPER": {
     "name": "Block Zapper",
-    "wiki": "https://wiki.hypixel.net/Block_Zapper"
+    "wiki": "https://wiki.hypixel.net/Block_Zapper",
+    "base_rarity": "EPIC"
   },
   "BLOOD_2_RUNE;1": {
     "name": "◆ Blood Rune I",
@@ -3927,11 +3933,13 @@
   },
   "BUILDERS_RULER": {
     "name": "Builder\u0027s Ruler",
-    "wiki": "https://wiki.hypixel.net/Builder%27s_Ruler"
+    "wiki": "https://wiki.hypixel.net/Builder%27s_Ruler",
+    "base_rarity": "LEGENDARY"
   },
   "BUILDERS_WAND": {
     "name": "Builder\u0027s Wand",
-    "wiki": "https://wiki.hypixel.net/Builder\u0027s_Wand"
+    "wiki": "https://wiki.hypixel.net/Builder\u0027s_Wand",
+    "base_rarity": "LEGENDARY"
   },
   "BUILDER_ANCIENT_FRUIT": {
     "name": "Ancient Fruit",
@@ -5311,7 +5319,8 @@
   },
   "CASTLE_BARN_SKIN": {
     "name": "Castle Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Castle_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Castle_Barn_Skin",
+    "base_rarity": "LEGENDARY"
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
@@ -5652,7 +5661,8 @@
     "base_rarity": "RARE"
   },
   "CHAMPION;1": {
-    "name": "Champion I"
+    "name": "Champion I",
+    "base_rarity": "COMMON"
   },
   "CHAMP_ROD": {
     "name": "Rod of Champions",
@@ -7175,7 +7185,8 @@
   },
   "COLOSSAL_EXP_BOTTLE_UPGRADE": {
     "name": "Colossal Experience Bottle Upgrade",
-    "wiki": "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade"
+    "wiki": "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade",
+    "base_rarity": "SPECIAL"
   },
   "COMBAT_XP_BOOST": {
     "name": "Combat XP Boost I Potion",
@@ -7190,7 +7201,8 @@
     "base_rarity": "COMMON"
   },
   "COMPACT;1": {
-    "name": "Compact I"
+    "name": "Compact I",
+    "base_rarity": "COMMON"
   },
   "COMPACTOR": {
     "name": "Compactor",
@@ -7623,7 +7635,8 @@
   },
   "COZY_COTTAGE_BARN_SKIN": {
     "name": "Cozy Cottage Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Cozy_Cottage_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Cozy_Cottage_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "CRAB": {
     "name": "Crab",
@@ -8143,7 +8156,8 @@
   },
   "CRYSTAL_HOLLOWS_SACK": {
     "name": "Crystal Hollows Sack",
-    "wiki": "https://wiki.hypixel.net/Crystal_Hollows_Sack"
+    "wiki": "https://wiki.hypixel.net/Crystal_Hollows_Sack",
+    "base_rarity": "EPIC"
   },
   "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Crystal Hollows",
@@ -8179,7 +8193,8 @@
   },
   "CUBE_BARN_SKIN": {
     "name": "Cube Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Cube_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Cube_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "CUBISM;1": {
     "name": "Cubism I",
@@ -8217,7 +8232,8 @@
     "base_rarity": "RARE"
   },
   "CULTIVATING;1": {
-    "name": "Cultivating I"
+    "name": "Cultivating I",
+    "base_rarity": "COMMON"
   },
   "CUP_OF_BLOOD": {
     "name": "Cup of Blood",
@@ -8748,7 +8764,8 @@
     "base_rarity": "RARE"
   },
   "DEDICATION;1": {
-    "name": "Dedication I"
+    "name": "Dedication I",
+    "base_rarity": "COMMON"
   },
   "DEDICATION;2": {
     "name": "Dedication II",
@@ -9534,7 +9551,8 @@
   },
   "DITTO_BLOB": {
     "name": "Ditto Blob",
-    "wiki": "https://wiki.hypixel.net/Ditto_Blob"
+    "wiki": "https://wiki.hypixel.net/Ditto_Blob",
+    "base_rarity": "LEGENDARY"
   },
   "DITTO_SKIN": {
     "name": "Ditto Skin",
@@ -10098,7 +10116,8 @@
   },
   "DWARVEN_MINES_SACK": {
     "name": "Dwarven Sack",
-    "wiki": "https://wiki.hypixel.net/Dwarven_Sack"
+    "wiki": "https://wiki.hypixel.net/Dwarven_Sack",
+    "base_rarity": "EPIC"
   },
   "DWARVEN_TANKARD": {
     "name": "Dwarven Tankard",
@@ -10182,11 +10201,13 @@
   },
   "DYE_PURE_BLACK": {
     "name": "Pure Black Dye",
-    "wiki": "https://wiki.hypixel.net/Pure_Black_Dye"
+    "wiki": "https://wiki.hypixel.net/Pure_Black_Dye",
+    "base_rarity": "EPIC"
   },
   "DYE_PURE_WHITE": {
     "name": "Pure White Dye",
-    "wiki": "https://wiki.hypixel.net/Pure_White_Dye"
+    "wiki": "https://wiki.hypixel.net/Pure_White_Dye",
+    "base_rarity": "EPIC"
   },
   "DYE_WILD_STRAWBERRY": {
     "name": "Wild Strawberry Dye",
@@ -13949,7 +13970,8 @@
     "base_rarity": "SPECIAL"
   },
   "EXPERTISE;1": {
-    "name": "Expertise I"
+    "name": "Expertise I",
+    "base_rarity": "COMMON"
   },
   "EXPLOSIVE_ARROW": {
     "name": "Explosive Arrow",
@@ -16287,7 +16309,8 @@
   },
   "FLOWER_SACK": {
     "name": "Flower Sack",
-    "wiki": "https://wiki.hypixel.net/Flower_Sack"
+    "wiki": "https://wiki.hypixel.net/Flower_Sack",
+    "base_rarity": "EPIC"
   },
   "FLYCATCHER_UPGRADE": {
     "name": "Flycatcher",
@@ -17935,7 +17958,8 @@
   },
   "GOD_POTION_2": {
     "name": "God Potion",
-    "wiki": "https://wiki.hypixel.net/God_Potion"
+    "wiki": "https://wiki.hypixel.net/God_Potion",
+    "base_rarity": "SPECIAL"
   },
   "GOLDEN_APPLE:1": {
     "name": "Enchanted Golden Apple",
@@ -19185,7 +19209,8 @@
     "base_rarity": "COMMON"
   },
   "GREEN_THUMB;1": {
-    "name": "Green Thumb I"
+    "name": "Green Thumb I",
+    "base_rarity": "COMMON"
   },
   "GREEN_THUMB;2": {
     "name": "Green Thumb II",
@@ -20123,7 +20148,8 @@
   },
   "HEAT_CORE": {
     "name": "Heat Core",
-    "wiki": "https://wiki.hypixel.net/Heat_Core"
+    "wiki": "https://wiki.hypixel.net/Heat_Core",
+    "base_rarity": "SPECIAL"
   },
   "HEAT_HELMET": {
     "name": "Heat Helmet",
@@ -20199,7 +20225,8 @@
     "base_rarity": "LEGENDARY"
   },
   "HECATOMB;1": {
-    "name": "Hecatomb I"
+    "name": "Hecatomb I",
+    "base_rarity": "COMMON"
   },
   "HEGEMONY_ARTIFACT": {
     "name": "Hegemony Artifact",
@@ -20270,7 +20297,8 @@
   },
   "HIVE_BARN_SKIN": {
     "name": "Hive Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Hive_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Hive_Barn_Skin",
+    "base_rarity": "LEGENDARY"
   },
   "HOE_OF_GREATER_TILLING": {
     "name": "Hoe of Greater Tilling",
@@ -20337,7 +20365,8 @@
   },
   "HOLOGRAM": {
     "name": "Hologram",
-    "wiki": "https://wiki.hypixel.net/Hologram"
+    "wiki": "https://wiki.hypixel.net/Hologram",
+    "base_rarity": "LEGENDARY"
   },
   "HOLY_BABY": {
     "name": "Baby Skin",
@@ -20975,7 +21004,8 @@
   },
   "HYPER_CATALYST_UPGRADE": {
     "name": "Hyper Catalyst Upgrade",
-    "wiki": "https://wiki.hypixel.net/Hyper_Catalyst_Upgrade"
+    "wiki": "https://wiki.hypixel.net/Hyper_Catalyst_Upgrade",
+    "base_rarity": "SPECIAL"
   },
   "HYPER_CLEAVER": {
     "name": "Hyper Cleaver",
@@ -23187,7 +23217,8 @@
   },
   "JUMBO_BACKPACK_UPGRADE": {
     "name": "Jumbo Backpack Upgrade",
-    "wiki": "https://wiki.hypixel.net/Jumbo_Backpack_Upgrade"
+    "wiki": "https://wiki.hypixel.net/Jumbo_Backpack_Upgrade",
+    "base_rarity": "SPECIAL"
   },
   "JUMP_BOOST": {
     "name": "Jump Boost Potion",
@@ -23535,7 +23566,8 @@
   },
   "KAT_FLOWER": {
     "name": "Kat Flower",
-    "wiki": "https://wiki.hypixel.net/Kat_Flower"
+    "wiki": "https://wiki.hypixel.net/Kat_Flower",
+    "base_rarity": "SPECIAL"
   },
   "KELVIN_INVERTER": {
     "name": "Kelvin Inverter",
@@ -24332,7 +24364,8 @@
   },
   "LARGE_DUNGEON_SACK": {
     "name": "Dungeon Sack",
-    "wiki": "https://wiki.hypixel.net/Dungeon_Sack"
+    "wiki": "https://wiki.hypixel.net/Dungeon_Sack",
+    "base_rarity": "LEGENDARY"
   },
   "LARGE_ENCHANTED_AGRONOMY_SACK": {
     "name": "Large Enchanted Agronomy Sack",
@@ -26165,7 +26198,8 @@
     "base_rarity": "COMMON"
   },
   "MANA_VAMPIRE;1": {
-    "name": "Mana Vampire I"
+    "name": "Mana Vampire I",
+    "base_rarity": "COMMON"
   },
   "MANA_VAMPIRE;10": {
     "name": "Mana Vampire X",
@@ -26426,7 +26460,8 @@
   },
   "MATRIARCH_PARFUM": {
     "name": "Matriarch\u0027s Perfume",
-    "wiki": "https://wiki.hypixel.net/Matriarch%27s_Perfume"
+    "wiki": "https://wiki.hypixel.net/Matriarch%27s_Perfume",
+    "base_rarity": "SPECIAL"
   },
   "MAWDUST_DAGGER": {
     "name": "Twilight Dagger",
@@ -26446,12 +26481,10 @@
   },
   "MAXED_ATTRIBUTE_SHARD": {
     "name": "Max Attribute Shard",
-    "wiki": "§aUsed to test /neuec",
-    "base_rarity": "SPECIAL"
+    "wiki": "§aUsed to test /neuec"
   },
   "MAXED_ENCHANT_BOOK": {
-    "name": "Max Enchanted Book",
-    "base_rarity": "SPECIAL"
+    "name": "Max Enchanted Book"
   },
   "MAXOR_CELESTIAL": {
     "name": "Celestial Maxor\u0027s Helmet Skin",
@@ -27461,7 +27494,8 @@
   },
   "MINION_STORAGE_EXPANDER": {
     "name": "Minion Storage X-pender",
-    "wiki": "https://wiki.hypixel.net/Minion_Storage_X-pender"
+    "wiki": "https://wiki.hypixel.net/Minion_Storage_X-pender",
+    "base_rarity": "SPECIAL"
   },
   "MINI_SANDCASTLE": {
     "name": "Mini Sandcastle",
@@ -32754,7 +32788,8 @@
   },
   "POCKET_SACK_IN_A_SACK": {
     "name": "Pocket Sack-in-a-Sack",
-    "wiki": "https://wiki.hypixel.net/Pocket_Sack-in-a-Sack"
+    "wiki": "https://wiki.hypixel.net/Pocket_Sack-in-a-Sack",
+    "base_rarity": "SPECIAL"
   },
   "POEM_OF_INFINITE_LOVE": {
     "name": "Poem of True Love",
@@ -32855,7 +32890,8 @@
   },
   "PORTALIZER": {
     "name": "Portalizer",
-    "wiki": "https://wiki.hypixel.net/Portalizer"
+    "wiki": "https://wiki.hypixel.net/Portalizer",
+    "base_rarity": "SPECIAL"
   },
   "POTATO": {
     "name": "Potatoes",
@@ -37024,7 +37060,8 @@
   },
   "RUNE_SACK": {
     "name": "Rune Sack",
-    "wiki": "https://wiki.hypixel.net/Rune_Sack"
+    "wiki": "https://wiki.hypixel.net/Rune_Sack",
+    "base_rarity": "EPIC"
   },
   "RUNIC_STAFF": {
     "name": "Aurora Staff",
@@ -39343,8 +39380,7 @@
   },
   "SKYBLOCK_BRONZE_MEDAL": {
     "name": "Bronze Medal",
-    "wiki": "https://wiki.hypixel.net/Bronze_Medal",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Bronze_Medal"
   },
   "SKYBLOCK_CHAIR": {
     "name": "Dark Oak Chair",
@@ -39353,8 +39389,7 @@
   },
   "SKYBLOCK_GOLD_MEDAL": {
     "name": "Gold Medal",
-    "wiki": "https://wiki.hypixel.net/Gold_Medal",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Gold_Medal"
   },
   "SKYBLOCK_MENU": {
     "name": "SkyBlock Menu (Click)",
@@ -39362,18 +39397,15 @@
   },
   "SKYBLOCK_NORTH_STAR": {
     "name": "North Star",
-    "wiki": "https://wiki.hypixel.net/North_Star",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/North_Star"
   },
   "SKYBLOCK_PELT": {
     "name": "Pelt",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt"
   },
   "SKYBLOCK_SILVER_MEDAL": {
     "name": "Silver Medal",
-    "wiki": "https://wiki.hypixel.net/Silver_Medal",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Silver_Medal"
   },
   "SKYBLOCK_TABLE": {
     "name": "Dark Oak Table",
@@ -44259,7 +44291,8 @@
     "base_rarity": "RARE"
   },
   "SUNDER;1": {
-    "name": "Sunder I"
+    "name": "Sunder I",
+    "base_rarity": "COMMON"
   },
   "SUNDER;2": {
     "name": "Sunder 2",
@@ -44601,7 +44634,8 @@
   },
   "SYNTHETIC_HEART": {
     "name": "Synthetic Heart",
-    "wiki": "https://wiki.hypixel.net/Synthetic_Heart"
+    "wiki": "https://wiki.hypixel.net/Synthetic_Heart",
+    "base_rarity": "RARE"
   },
   "SYPHON;1": {
     "name": "Syphon I",
@@ -44691,51 +44725,63 @@
   },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
     "name": "Attack Speed Enrichment",
-    "wiki": "https://wiki.hypixel.net/Attack_Speed_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Attack_Speed_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_CRITICAL_CHANCE": {
     "name": "Critical Chance Enrichment",
-    "wiki": "https://wiki.hypixel.net/Critical_Chance_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Critical_Chance_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_CRITICAL_DAMAGE": {
     "name": "Critical Damage Enrichment",
-    "wiki": "https://wiki.hypixel.net/Critical_Damage_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Critical_Damage_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_DEFENSE": {
     "name": "Defense Enrichment",
-    "wiki": "https://wiki.hypixel.net/Defense_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Defense_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_FEROCITY": {
     "name": "Ferocity Enrichment",
-    "wiki": "https://wiki.hypixel.net/Ferocity_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Ferocity_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_HEALTH": {
     "name": "Health Enrichment",
-    "wiki": "https://wiki.hypixel.net/Health_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Health_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_INTELLIGENCE": {
     "name": "Intelligence Enrichment",
-    "wiki": "https://wiki.hypixel.net/Intelligence_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Intelligence_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_MAGIC_FIND": {
     "name": "Magic Find Enrichment",
-    "wiki": "https://wiki.hypixel.net/Magic_Find_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Magic_Find_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_SEA_CREATURE_CHANCE": {
     "name": "Sea Creature Chance Enrichment",
-    "wiki": "https://wiki.hypixel.net/Sea_Creature_Chance_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Sea_Creature_Chance_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_STRENGTH": {
     "name": "Strength Enrichment",
-    "wiki": "https://wiki.hypixel.net/Strength_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Strength_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_SWAPPER": {
     "name": "Accessory Enrichment Swapper",
-    "wiki": "https://wiki.hypixel.net/Accessory_Enrichment_Swapper"
+    "wiki": "https://wiki.hypixel.net/Accessory_Enrichment_Swapper",
+    "base_rarity": "SPECIAL"
   },
   "TALISMAN_ENRICHMENT_WALK_SPEED": {
     "name": "Speed Enrichment",
-    "wiki": "https://wiki.hypixel.net/Speed_Enrichment"
+    "wiki": "https://wiki.hypixel.net/Speed_Enrichment",
+    "base_rarity": "SPECIAL"
   },
   "TANK_MINER_BOOTS": {
     "name": "Miner Boots",
@@ -45114,7 +45160,8 @@
   },
   "TAVERN_BARN_SKIN": {
     "name": "Tavern Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Tavern_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Tavern_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "TELEKINESIS;1": {
     "name": "Telekinesis I",
@@ -46059,7 +46106,8 @@
   },
   "TRADING_POST_BARN_SKIN": {
     "name": "Trading Post Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Trading_Post_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Trading_Post_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "TRAINING_DUMMY": {
     "name": "Training Dummy",
@@ -46213,7 +46261,8 @@
   },
   "TRIO_CONTACTS_ADDON": {
     "name": "Abiphone Contacts Trio",
-    "wiki": "https://wiki.hypixel.net/Abiphone_Contacts_Trio"
+    "wiki": "https://wiki.hypixel.net/Abiphone_Contacts_Trio",
+    "base_rarity": "SPECIAL"
   },
   "TRIPLE_STRIKE;1": {
     "name": "Triple-Strike I",
@@ -46592,7 +46641,8 @@
   },
   "ULTIMATE_CARROT_CANDY_UPGRADE": {
     "name": "Ultimate Carrot Candy Upgrade",
-    "wiki": "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade"
+    "wiki": "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade",
+    "base_rarity": "SPECIAL"
   },
   "ULTIMATE_CHIMERA;1": {
     "name": "Chimera I",
@@ -46661,8 +46711,7 @@
     "base_rarity": "COMMON"
   },
   "ULTIMATE_FATAL_TEMPO;5": {
-    "name": "Fatal Tempo V",
-    "base_rarity": "UNCOMMON"
+    "name": "Fatal Tempo V"
   },
   "ULTIMATE_FLASH;1": {
     "name": "Flash I",
@@ -46722,8 +46771,7 @@
     "base_rarity": "COMMON"
   },
   "ULTIMATE_INFERNO;5": {
-    "name": "Inferno V",
-    "base_rarity": "UNCOMMON"
+    "name": "Inferno V"
   },
   "ULTIMATE_JERRY;1": {
     "name": "Ultimate Jerry I",
@@ -48050,8 +48098,7 @@
   },
   "WEDDING_RING_8": {
     "name": "Invaluable Ring of Love",
-    "wiki": "https://wiki.hypixel.net/Invaluable_Ring_Of_Love",
-    "base_rarity": "RARE"
+    "wiki": "https://wiki.hypixel.net/Invaluable_Ring_Of_Love"
   },
   "WEDDING_RING_9": {
     "name": "Legendary Ring of Love",
@@ -48444,7 +48491,8 @@
   },
   "WINDMILL_BARN_SKIN": {
     "name": "Windmill Barn Skin",
-    "wiki": "https://wiki.hypixel.net/Windmill_Barn_Skin"
+    "wiki": "https://wiki.hypixel.net/Windmill_Barn_Skin",
+    "base_rarity": "UNCOMMON"
   },
   "WIND_CHIMES": {
     "name": "Wind Chimes",
