@@ -6452,6 +6452,18 @@
     "wiki": "https://wiki.hypixel.net/Cleaver",
     "base_rarity": "UNCOMMON"
   },
+  "CLOUDS_RUNE;1": {
+    "name": "◆ Clouds Rune I",
+    "base_rarity": "EPIC"
+  },
+  "CLOUDS_RUNE;2": {
+    "name": "◆ Clouds Rune II",
+    "base_rarity": "EPIC"
+  },
+  "CLOUDS_RUNE;3": {
+    "name": "◆ Clouds Rune III",
+    "base_rarity": "EPIC"
+  },
   "CLOVER_HELMET": {
     "name": "Clover Helmet",
     "wiki": "https://wiki.hypixel.net/Clover_Helmet",
@@ -49752,7 +49764,7 @@
     "base_rarity": "COMMON"
   },
   "WOOL": {
-    "name": "Wool",
+    "name": "White Wool",
     "recipe": {
       "A1": "INK_SACK-15:1",
       "A2": "WOOL:1",
