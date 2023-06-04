@@ -3911,6 +3911,10 @@
     "wiki": "https://wiki.hypixel.net/Bronze_Hunter_Leggings",
     "base_rarity": "UNCOMMON"
   },
+  "BRONZE_TROPHY_FISHING_SACK": {
+    "name": "Bronze Trophy Fishing Sack",
+    "base_rarity": "UNCOMMON"
+  },
   "BROWN_MUSHROOM": {
     "name": "Brown Mushroom",
     "wiki": "https://wiki.hypixel.net/Mushroom",
@@ -32371,6 +32375,11 @@
     "wiki": "https://wiki.hypixel.net/Twilight_Tiger_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_WHALE_COSMIC": {
+    "name": "Cosmic Blue Whale Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_WHALE_ORCA": {
     "name": "Orca Blue Whale Skin",
     "wiki": "https://wiki.hypixel.net/Orca_Blue_Whale_Skin",
@@ -39024,6 +39033,10 @@
   "SILVER_HUNTER_LEGGINGS": {
     "name": "Silver Hunter Leggings",
     "wiki": "https://wiki.hypixel.net/Silver_Hunter_Leggings",
+    "base_rarity": "RARE"
+  },
+  "SILVER_TROPHY_FISHING_SACK": {
+    "name": "Silver Trophy Fishing Sack",
     "base_rarity": "RARE"
   },
   "SIL_EX": {
@@ -49029,6 +49042,11 @@
     "wiki": "https://wiki.hypixel.net/Wither_Soul",
     "base_rarity": "UNCOMMON"
   },
+  "WIZARD_PORTAL_MEMENTO": {
+    "name": "Piece of Wizard Portal",
+    "wiki": "https://wiki.hypixel.net/Piece_Of_Wizard_Portal",
+    "base_rarity": "SPECIAL"
+  },
   "WIZARD_WAND": {
     "name": "Wizard Wand",
     "wiki": "https://wiki.hypixel.net/Wizard_Wand",
@@ -49280,7 +49298,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wooden_Axe",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5"
+      ]
+    }
   },
   "WOOD_BUTTON": {
     "name": "Button",
@@ -49331,7 +49354,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wooden_Hoe",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5"
+      ]
+    }
   },
   "WOOD_PICKAXE": {
     "name": "Wooden Pickaxe",
@@ -49347,7 +49375,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wooden_Pickaxe",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5"
+      ]
+    }
   },
   "WOOD_PLATE": {
     "name": "Wooden Pressure Plate",
@@ -49399,7 +49432,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wooden_Shovel",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5"
+      ]
+    }
   },
   "WOOD_STAIRS": {
     "name": "Oak Wood Stairs",
@@ -49520,7 +49558,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Wooden_Sword",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5"
+      ]
+    }
   },
   "WOOD_TALISMAN": {
     "name": "Wood Affinity Talisman",
