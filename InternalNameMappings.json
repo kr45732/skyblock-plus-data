@@ -5730,6 +5730,10 @@
     "name": "Chance V",
     "base_rarity": "UNCOMMON"
   },
+  "CHARCOAL": {
+    "name": "Charcoal",
+    "base_rarity": "COMMON"
+  },
   "CHARM;1": {
     "name": "Charm I",
     "base_rarity": "COMMON"
