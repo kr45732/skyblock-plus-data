@@ -5069,13 +5069,7 @@
   "CARROT": {
     "name": "Carrots",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Carrot",
-    "base_rarity": "COMMON",
-    "npc_buy": {
-      "cost": [
-        "SKYBLOCK_COIN:7"
-      ],
-      "count": 3
-    }
+    "base_rarity": "COMMON"
   },
   "CARROT_BAIT": {
     "name": "Carrot Bait",
@@ -5284,7 +5278,13 @@
   "CARROT_ITEM": {
     "name": "Carrot",
     "wiki": "https://wiki.hypixel.net/Carrot",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:7"
+      ],
+      "count": 3
+    }
   },
   "CARROT_PATCH": {
     "name": "Carrot Patch",
@@ -8426,6 +8426,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_End",
     "base_rarity": "RARE"
+  },
+  "DANTE_RING": {
+    "name": "Dante Ring",
+    "wiki": "https://wiki.hypixel.net/Dante_Ring",
+    "base_rarity": "COMMON"
   },
   "DANTE_TALISMAN": {
     "name": "Dante Talisman",
@@ -30613,6 +30618,11 @@
     "wiki": "https://wiki.hypixel.net/Crab_Hat_Of_Celebration",
     "base_rarity": "SPECIAL"
   },
+  "PARTY_HAT_SLOTH": {
+    "name": "Shock Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
   "PEDESTAL": {
     "name": "X PEDESTAL",
     "wiki": "https://wiki.hypixel.net/Furniture",
@@ -38798,7 +38808,7 @@
       "B3": "STRING:1",
       "C1": "SHINY_SHARD:1",
       "C2": "",
-      "C3": "CARROT:1"
+      "C3": "CARROT_ITEM:1"
     },
     "wiki": "https://wiki.hypixel.net/Shiny_Rod",
     "base_rarity": "LEGENDARY"
