@@ -11516,8 +11516,8 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:2.0:1",
-        "SKYBLOCK_MOTE:400.0:1"
+        "SHAME_CRUX:2.0",
+        "SKYBLOCK_MOTE:400.0"
       ],
       "count": 1
     }
@@ -20781,8 +20781,8 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "BOTTLED_ODONATA:1.0:1",
-        "SKYBLOCK_MOTE:2000.0:1"
+        "BOTTLED_ODONATA:1.0",
+        "SKYBLOCK_MOTE:2000.0"
       ],
       "count": 1
     }
@@ -25598,7 +25598,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:6.0:1"
+        "SHAME_CRUX:6.0"
       ],
       "count": 1
     }
@@ -38075,6 +38075,7 @@
   },
   "RIFT_FERRET;3": {
     "name": "Epic Rift Ferret",
+    "texture": "b6b11399448260185da1d17e54c984515faab6d8585f00972451ec2b43d46f94",
     "wiki": "https://wiki.hypixel.net/Rift_Ferret_Pet",
     "base_rarity": "EPIC",
     "npc_buy": {
@@ -38093,8 +38094,8 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:5.0:1",
-        "SKYBLOCK_MOTE:5000.0:1"
+        "SHAME_CRUX:5.0",
+        "SKYBLOCK_MOTE:5000.0"
       ],
       "count": 1
     }
@@ -38120,8 +38121,8 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:5.0:1",
-        "SKYBLOCK_MOTE:10000.0:1"
+        "SHAME_CRUX:5.0",
+        "SKYBLOCK_MOTE:10000.0"
       ],
       "count": 1
     }
@@ -38132,7 +38133,7 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:1.0:1"
+        "SHAME_CRUX:1.0"
       ],
       "count": 1
     }
@@ -38143,8 +38144,8 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SHAME_CRUX:5.0:1",
-        "SKYBLOCK_MOTE:12000.0:1"
+        "SHAME_CRUX:5.0",
+        "SKYBLOCK_MOTE:12000.0"
       ],
       "count": 1
     }
@@ -51607,7 +51608,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_MOTE:50.0:1"
+        "SKYBLOCK_MOTE:50.0"
       ],
       "count": 1
     }
@@ -51640,7 +51641,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_MOTE:1000.0:1"
+        "SKYBLOCK_MOTE:1000.0"
       ],
       "count": 1
     }
@@ -51651,8 +51652,8 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_MOTE:333.0:1",
-        "SHAME_CRUX:3.0:1"
+        "SKYBLOCK_MOTE:333.0",
+        "SHAME_CRUX:3.0"
       ],
       "count": 1
     }
