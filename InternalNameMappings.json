@@ -1,4 +1,21 @@
 {
+  "AATROX_BADPHONE": {
+    "name": "Maddox Badphone",
+    "recipe": {
+      "A1": "",
+      "A2": "COVEN_SEAL:2",
+      "A3": "COVEN_SEAL:2",
+      "B1": "",
+      "B2": "",
+      "B3": "AATROX_BATPHONE:1",
+      "C1": "",
+      "C2": "COVEN_SEAL:2",
+      "C3": "COVEN_SEAL:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Maddox_Badphone",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
   "AATROX_BATPHONE": {
     "name": "Maddox Batphone",
     "recipe": {
@@ -497,6 +514,129 @@
     "wiki": "https://wiki.hypixel.net/Advent_Calendar_Display",
     "base_rarity": "EPIC"
   },
+  "AGARICUS_CAP": {
+    "name": "Agaricus Cap",
+    "wiki": "https://wiki.hypixel.net/Agaricus_Cap",
+    "base_rarity": "COMMON"
+  },
+  "AGARICUS_CAP_BUNCH": {
+    "name": "Agaricus Cap Bunch",
+    "recipe": {
+      "A1": "",
+      "A2": "AGARICUS_CAP:4",
+      "A3": "",
+      "B1": "AGARICUS_CAP:4",
+      "B2": "AGARICUS_CAP:4",
+      "B3": "AGARICUS_CAP:4",
+      "C1": "",
+      "C2": "AGARICUS_CAP:4",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Agaricus_Cap_Bunch",
+    "base_rarity": "UNCOMMON"
+  },
+  "AGARICUS_CAP_CAP": {
+    "name": "Agaricus Cap Cap",
+    "recipe": {
+      "A1": "AGARICUS_CAP:10",
+      "A2": "AGARICUS_CAP:10",
+      "A3": "AGARICUS_CAP:10",
+      "B1": "AGARICUS_CAP:10",
+      "B2": "NOT_DEADGEHOG_MASK:1",
+      "B3": "AGARICUS_CAP:10",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Agaricus_Cap_Cap",
+    "base_rarity": "RARE"
+  },
+  "AGARICUS_CHUM_CAP": {
+    "name": "Agaricus Chumcap",
+    "recipe": {
+      "A1": "AGARICUS_CAP:1",
+      "A2": "AGARICUS_CAP:1",
+      "A3": "AGARICUS_CAP:1",
+      "B1": "AGARICUS_CAP:1",
+      "B2": "RIFT_BUCKET:1",
+      "B3": "AGARICUS_CAP:1",
+      "C1": "AGARICUS_CAP:1",
+      "C2": "AGARICUS_CAP:1",
+      "C3": "AGARICUS_CAP:1",
+      "count": 8
+    },
+    "wiki": "https://wiki.hypixel.net/Agaricus_Chumcap",
+    "base_rarity": "UNCOMMON"
+  },
+  "AGARICUS_SOUP": {
+    "name": "Agaricus Soup",
+    "recipe": {
+      "A1": "",
+      "A2": "AGARICUS_CAP:2",
+      "A3": "",
+      "B1": "",
+      "B2": "AGARICUS_CAP:2",
+      "B3": "",
+      "C1": "",
+      "C2": "RIFT_BUCKET:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Agaricus_Soup",
+    "base_rarity": "UNCOMMON"
+  },
+  "AGARIMOO_ARTIFACT": {
+    "name": "Agarimoo Artifact",
+    "recipe": {
+      "A1": "AGARIMOO_TONGUE:64",
+      "A2": "AGARIMOO_TONGUE:64",
+      "A3": "AGARIMOO_TONGUE:64",
+      "B1": "AGARIMOO_TONGUE:64",
+      "B2": "AGARIMOO_RING:1",
+      "B3": "AGARIMOO_TONGUE:64",
+      "C1": "AGARIMOO_TONGUE:64",
+      "C2": "AGARIMOO_TONGUE:64",
+      "C3": "AGARIMOO_TONGUE:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Agarimoo_Artifact",
+    "base_rarity": "RARE"
+  },
+  "AGARIMOO_RING": {
+    "name": "Agarimoo Ring",
+    "recipe": {
+      "A1": "AGARIMOO_TONGUE:12",
+      "A2": "AGARIMOO_TONGUE:12",
+      "A3": "AGARIMOO_TONGUE:12",
+      "B1": "AGARIMOO_TONGUE:12",
+      "B2": "AGARIMOO_TALISMAN:1",
+      "B3": "AGARIMOO_TONGUE:12",
+      "C1": "AGARIMOO_TONGUE:12",
+      "C2": "AGARIMOO_TONGUE:12",
+      "C3": "AGARIMOO_TONGUE:12"
+    },
+    "wiki": "https://wiki.hypixel.net/Agarimoo_Ring",
+    "base_rarity": "UNCOMMON"
+  },
+  "AGARIMOO_TALISMAN": {
+    "name": "Agarimoo Talisman",
+    "recipe": {
+      "A1": "AGARIMOO_TONGUE:1",
+      "A2": "AGARIMOO_TONGUE:1",
+      "A3": "AGARIMOO_TONGUE:1",
+      "B1": "AGARIMOO_TONGUE:1",
+      "B2": "AGARIMOO_TONGUE:1",
+      "B3": "AGARIMOO_TONGUE:1",
+      "C1": "AGARIMOO_TONGUE:1",
+      "C2": "AGARIMOO_TONGUE:1",
+      "C3": "AGARIMOO_TONGUE:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Agarimoo_Talisman",
+    "base_rarity": "COMMON"
+  },
+  "AGARIMOO_TONGUE": {
+    "name": "Agarimoo Tongue",
+    "wiki": "https://wiki.hypixel.net/Agarimoo_Tongue",
+    "base_rarity": "RARE"
+  },
   "AGILITY": {
     "name": "Agility Potion",
     "base_rarity": "COMMON"
@@ -810,6 +950,21 @@
   "ANTIQUE_REMEDIES": {
     "name": "Antique Remedies",
     "wiki": "https://wiki.hypixel.net/Antique_Remedies",
+    "base_rarity": "EPIC"
+  },
+  "ANTI_BITE_SCARF": {
+    "name": "Anti-Bite Scarf",
+    "wiki": "https://wiki.hypixel.net/Anti-Bite_Scarf",
+    "base_rarity": "LEGENDARY"
+  },
+  "ANTI_BITE_SCARF_2": {
+    "name": "Anti-Bite Scarf",
+    "wiki": "https://wiki.hypixel.net/Anti-Bite_Scarf",
+    "base_rarity": "MYTHIC"
+  },
+  "ANTI_MORPH_POTION": {
+    "name": "Anti-Morph Potion",
+    "wiki": "https://wiki.hypixel.net/Anti-Morph_Potion",
     "base_rarity": "EPIC"
   },
   "ANVIL": {
@@ -1447,6 +1602,11 @@
     "wiki": "https://wiki.hypixel.net/Baby_Yeti_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "BACTE_FRAGMENT": {
+    "name": "Bacte Fragment",
+    "wiki": "https://wiki.hypixel.net/Bacte_Fragment",
+    "base_rarity": "RARE"
+  },
   "BAG_OF_CASH": {
     "name": "Bag of Cash",
     "wiki": "https://wiki.hypixel.net/Bag_Of_Cash",
@@ -1808,6 +1968,11 @@
     "name": "Barrier",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Barrier",
     "base_rarity": "COMMON"
+  },
+  "BARRY_PEN": {
+    "name": "Barry\u0027s Montgray Pen",
+    "wiki": "https://wiki.hypixel.net/Barry%27s_Montgray_Pen",
+    "base_rarity": "UNCOMMON"
   },
   "BASE_GRIFFIN_UPGRADE_STONE": {
     "name": "Base Griffin Upgrade Stone",
@@ -2364,6 +2529,39 @@
     "name": "Bejeweled Handle",
     "wiki": "https://wiki.hypixel.net/Bejeweled_Handle",
     "forge": 1800,
+    "base_rarity": "RARE"
+  },
+  "BERBERIS_BLOWGUN": {
+    "name": "Berberis Blowgun",
+    "recipe": {
+      "A1": "",
+      "A2": "WILTED_BERBERIS:20",
+      "A3": "",
+      "B1": "",
+      "B2": "WILTED_BERBERIS:20",
+      "B3": "",
+      "C1": "",
+      "C2": "WILTED_BERBERIS:20",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Berberis_Blowgun",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
+  "BERBERIS_FUEL_INJECTOR": {
+    "name": "Berberis Fuel Injector",
+    "recipe": {
+      "A1": "",
+      "A2": "WILTED_BERBERIS:48",
+      "A3": "",
+      "B1": "WILTED_BERBERIS:48",
+      "B2": "WILTED_BERBERIS:48",
+      "B3": "WILTED_BERBERIS:48",
+      "C1": "WILTED_BERBERIS:48",
+      "C2": "WILTED_BERBERIS:48",
+      "C3": "WILTED_BERBERIS:48"
+    },
+    "wiki": "https://wiki.hypixel.net/Berberis_Fuel_Injector",
     "base_rarity": "RARE"
   },
   "BERSERKER_BOOTS": {
@@ -3420,6 +3618,22 @@
     "scrollable": true,
     "base_rarity": "EPIC"
   },
+  "BLOODBADGE": {
+    "name": "Bloodbadge",
+    "recipe": {
+      "A1": "",
+      "A2": "COVEN_SEAL:16",
+      "A3": "BACTE_FRAGMENT:2",
+      "B1": "COVEN_SEAL:16",
+      "B2": "CRUXMOTION:2",
+      "B3": "COVEN_SEAL:16",
+      "C1": "LEECH_SUPREME_FRAGMENT:2",
+      "C2": "COVEN_SEAL:16",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Bloodbadge",
+    "base_rarity": "RARE"
+  },
   "BLOOD_2_RUNE;1": {
     "name": "◆ Blood Rune I",
     "base_rarity": "COMMON"
@@ -3432,10 +3646,63 @@
     "name": "◆ Blood Rune III",
     "base_rarity": "COMMON"
   },
+  "BLOOD_DONOR_ARTIFACT": {
+    "name": "Blood Donor Artifact",
+    "recipe": {
+      "A1": "HEMOBOMB:64",
+      "A2": "HEMOBOMB:64",
+      "A3": "HEMOBOMB:64",
+      "B1": "HEMOBOMB:64",
+      "B2": "BLOOD_DONOR_RING:1",
+      "B3": "HEMOBOMB:64",
+      "C1": "HEMOBOMB:64",
+      "C2": "HEMOBOMB:64",
+      "C3": "HEMOBOMB:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Blood_Donor_Artifact",
+    "base_rarity": "RARE"
+  },
+  "BLOOD_DONOR_RING": {
+    "name": "Blood Donor Ring",
+    "recipe": {
+      "A1": "HEMOGLASS:12",
+      "A2": "HEMOGLASS:12",
+      "A3": "HEMOGLASS:12",
+      "B1": "HEMOGLASS:12",
+      "B2": "BLOOD_DONOR_TALISMAN:1",
+      "B3": "HEMOGLASS:12",
+      "C1": "HEMOGLASS:12",
+      "C2": "HEMOGLASS:12",
+      "C3": "HEMOGLASS:12"
+    },
+    "wiki": "https://wiki.hypixel.net/Blood_Donor_Ring",
+    "base_rarity": "UNCOMMON"
+  },
+  "BLOOD_DONOR_TALISMAN": {
+    "name": "Blood Donor Talisman",
+    "wiki": "https://wiki.hypixel.net/Blood_Donor_Talisman",
+    "base_rarity": "COMMON"
+  },
   "BLOOD_GOD_CREST": {
     "name": "Blood God Crest",
     "wiki": "https://wiki.hypixel.net/Blood_God_Crest",
     "base_rarity": "COMMON"
+  },
+  "BLUETOOTH_RING": {
+    "name": "Bluetooth Ring",
+    "recipe": {
+      "A1": "METAL_HEART:4",
+      "A2": "METAL_HEART:4",
+      "A3": "METAL_HEART:4",
+      "B1": "METAL_HEART:4",
+      "B2": "",
+      "B3": "METAL_HEART:4",
+      "C1": "METAL_HEART:4",
+      "C2": "METAL_HEART:4",
+      "C3": "METAL_HEART:4"
+    },
+    "wiki": "https://wiki.hypixel.net/Bluetooth_Ring",
+    "base_rarity": "RARE"
   },
   "BLUE_EGG": {
     "name": "Blue Egged Skin",
@@ -3688,6 +3955,11 @@
     "name": "Bottled Inspiration",
     "base_rarity": "RARE"
   },
+  "BOTTLED_ODONATA": {
+    "name": "Bottled Odonata",
+    "wiki": "https://wiki.hypixel.net/Bottled_Odonata",
+    "base_rarity": "RARE"
+  },
   "BOTTLE_OF_JYRRE": {
     "name": "Water Bottle",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bottle_of_Jyrre",
@@ -3924,6 +4196,11 @@
         "SKYBLOCK_COIN:12"
       ]
     }
+  },
+  "BUBBA_BLISTER": {
+    "name": "Bubba Blister",
+    "wiki": "https://wiki.hypixel.net/Bubba_Blister",
+    "base_rarity": "LEGENDARY"
   },
   "BUCKET": {
     "name": "Bucket",
@@ -4555,6 +4832,75 @@
     },
     "wiki": "https://wiki.hypixel.net/Cactus_Leggings",
     "base_rarity": "COMMON"
+  },
+  "CADUCOUS_EXTRACT": {
+    "name": "Caducous Extract",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "RIFT_BUCKET:1",
+      "B2": "CADUCOUS_STEM:20",
+      "B3": "RIFT_BUCKET:1",
+      "C1": "",
+      "C2": "RIFT_BUCKET:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Caducous_Extract",
+    "base_rarity": "UNCOMMON"
+  },
+  "CADUCOUS_FEEDER": {
+    "name": "Caducous Feeder",
+    "recipe": {
+      "A1": "CADUCOUS_STEM:64",
+      "A2": "",
+      "A3": "CADUCOUS_STEM:64",
+      "B1": "CADUCOUS_STEM:64",
+      "B2": "",
+      "B3": "CADUCOUS_STEM:64",
+      "C1": "CADUCOUS_STEM:64",
+      "C2": "CADUCOUS_STEM:64",
+      "C3": "CADUCOUS_STEM:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Caducous_Feeder",
+    "base_rarity": "RARE"
+  },
+  "CADUCOUS_LEGUME": {
+    "name": "Caducous Legume",
+    "recipe": {
+      "A1": "",
+      "A2": "CADUCOUS_STEM:10",
+      "A3": "",
+      "B1": "",
+      "B2": "CADUCOUS_STEM:10",
+      "B3": "",
+      "C1": "",
+      "C2": "CADUCOUS_STEM:10",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Caducous_Legume",
+    "base_rarity": "UNCOMMON"
+  },
+  "CADUCOUS_STEM": {
+    "name": "Caducous Stem",
+    "wiki": "https://wiki.hypixel.net/Caducous_Stem",
+    "base_rarity": "COMMON"
+  },
+  "CADUCOUS_STEM_BUNCH": {
+    "name": "Caducous Stem Bunch",
+    "recipe": {
+      "A1": "",
+      "A2": "CADUCOUS_STEM:4",
+      "A3": "",
+      "B1": "CADUCOUS_STEM:4",
+      "B2": "CADUCOUS_STEM:4",
+      "B3": "CADUCOUS_STEM:4",
+      "C1": "",
+      "C2": "CADUCOUS_STEM:4",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Caducous_Stem_Bunch",
+    "base_rarity": "UNCOMMON"
   },
   "CAKE": {
     "name": "Cake",
@@ -6155,6 +6501,22 @@
     "wiki": "https://wiki.hypixel.net/Chicken_Head",
     "base_rarity": "COMMON"
   },
+  "CHICKEN_LEGGS": {
+    "name": "Chicken Leggs",
+    "recipe": {
+      "A1": "VOLT_CRUX:8",
+      "A2": "WYLD_LEGGINGS:1",
+      "A3": "VOLT_CRUX:8",
+      "B1": "METAPHORIC_EGG:8",
+      "B2": "",
+      "B3": "METAPHORIC_EGG:8",
+      "C1": "METAPHORIC_EGG:8",
+      "C2": "",
+      "C3": "METAPHORIC_EGG:8"
+    },
+    "wiki": "https://wiki.hypixel.net/Chicken_Leggs",
+    "base_rarity": "RARE"
+  },
   "CHICK_NEST": {
     "name": "Chick Nest",
     "wiki": "https://wiki.hypixel.net/Furniture",
@@ -6169,6 +6531,11 @@
     "name": "Chill the Fish",
     "wiki": "https://wiki.hypixel.net/Chill_The_Fish",
     "base_rarity": "SPECIAL"
+  },
+  "CHOCOLATE_CHIP": {
+    "name": "Fang-tastic Chocolate Chip",
+    "wiki": "https://wiki.hypixel.net/Fang-tastic_Chocolate_Chip",
+    "base_rarity": "LEGENDARY"
   },
   "CHRISTMAS_TREE": {
     "name": "Christmas Tree",
@@ -7478,6 +7845,11 @@
     "name": "◆ Couture Rune III",
     "base_rarity": "LEGENDARY"
   },
+  "COVEN_SEAL": {
+    "name": "Coven Seal",
+    "wiki": "https://wiki.hypixel.net/Coven_Seal",
+    "base_rarity": "UNCOMMON"
+  },
   "COW_AXE": {
     "name": "Cow Axe",
     "wiki": "https://wiki.hypixel.net/Cow_Axe",
@@ -8094,6 +8466,118 @@
     "wiki": "https://wiki.hypixel.net/Gabagool_Distillate",
     "base_rarity": "RARE"
   },
+  "CRUXMOTION": {
+    "name": "Cruxmotion",
+    "recipe": {
+      "A1": "SHAME_CRUX:1",
+      "A2": "SHADOW_CRUX:1",
+      "A3": "VOLT_CRUX:1",
+      "B1": "SCRIBE_CRUX:1",
+      "B2": "FROSTY_CRUX:1",
+      "B3": "SPLATTER_CRUX:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Cruxmotion",
+    "base_rarity": "EPIC"
+  },
+  "CRUX_TALISMAN_1": {
+    "name": "Crux Talisman",
+    "recipe": {
+      "A1": "SHAME_CRUX:1",
+      "A2": "SHAME_CRUX:1",
+      "A3": "SHAME_CRUX:1",
+      "B1": "SHAME_CRUX:1",
+      "B2": "",
+      "B3": "SHAME_CRUX:1",
+      "C1": "SHAME_CRUX:1",
+      "C2": "SHAME_CRUX:1",
+      "C3": "SHAME_CRUX:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Talisman",
+    "base_rarity": "COMMON"
+  },
+  "CRUX_TALISMAN_2": {
+    "name": "Crux Ring",
+    "recipe": {
+      "A1": "SHADOW_CRUX:2",
+      "A2": "SHADOW_CRUX:2",
+      "A3": "SHADOW_CRUX:2",
+      "B1": "SHADOW_CRUX:2",
+      "B2": "CRUX_TALISMAN_1:1",
+      "B3": "SHADOW_CRUX:2",
+      "C1": "SHADOW_CRUX:2",
+      "C2": "SHADOW_CRUX:2",
+      "C3": "SHADOW_CRUX:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Ring",
+    "base_rarity": "UNCOMMON"
+  },
+  "CRUX_TALISMAN_3": {
+    "name": "Crux Artifact",
+    "recipe": {
+      "A1": "VOLT_CRUX:2",
+      "A2": "VOLT_CRUX:2",
+      "A3": "VOLT_CRUX:2",
+      "B1": "VOLT_CRUX:2",
+      "B2": "CRUX_TALISMAN_2:1",
+      "B3": "VOLT_CRUX:2",
+      "C1": "VOLT_CRUX:2",
+      "C2": "VOLT_CRUX:2",
+      "C3": "VOLT_CRUX:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Artifact",
+    "base_rarity": "RARE"
+  },
+  "CRUX_TALISMAN_4": {
+    "name": "Crux Relic",
+    "recipe": {
+      "A1": "SCRIBE_CRUX:2",
+      "A2": "SCRIBE_CRUX:2",
+      "A3": "SCRIBE_CRUX:2",
+      "B1": "SCRIBE_CRUX:2",
+      "B2": "CRUX_TALISMAN_3:1",
+      "B3": "SCRIBE_CRUX:2",
+      "C1": "SCRIBE_CRUX:2",
+      "C2": "SCRIBE_CRUX:2",
+      "C3": "SCRIBE_CRUX:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Relic",
+    "base_rarity": "EPIC"
+  },
+  "CRUX_TALISMAN_5": {
+    "name": "Crux Heirloom",
+    "recipe": {
+      "A1": "FROSTY_CRUX:3",
+      "A2": "FROSTY_CRUX:3",
+      "A3": "FROSTY_CRUX:3",
+      "B1": "FROSTY_CRUX:3",
+      "B2": "CRUX_TALISMAN_4:1",
+      "B3": "FROSTY_CRUX:3",
+      "C1": "FROSTY_CRUX:3",
+      "C2": "FROSTY_CRUX:3",
+      "C3": "FROSTY_CRUX:3"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Heirloom",
+    "base_rarity": "LEGENDARY"
+  },
+  "CRUX_TALISMAN_6": {
+    "name": "Crux Chronomicon",
+    "recipe": {
+      "A1": "SPLATTER_CRUX:4",
+      "A2": "SPLATTER_CRUX:4",
+      "A3": "SPLATTER_CRUX:4",
+      "B1": "SPLATTER_CRUX:4",
+      "B2": "CRUX_TALISMAN_5:1",
+      "B3": "SPLATTER_CRUX:4",
+      "C1": "SPLATTER_CRUX:4",
+      "C2": "SPLATTER_CRUX:4",
+      "C3": "SPLATTER_CRUX:4"
+    },
+    "wiki": "https://wiki.hypixel.net/Crux_Chronomicon",
+    "base_rarity": "MYTHIC"
+  },
   "CRYOPOWDER_SHARD": {
     "name": "Cryopowder Shard",
     "wiki": "https://wiki.hypixel.net/Cryopowder_Shard",
@@ -8709,6 +9193,11 @@
     "wiki": "https://wiki.hypixel.net/Dark_Orb",
     "base_rarity": "RARE"
   },
+  "DARK_PEBBLE": {
+    "name": "Dark Pebble",
+    "wiki": "https://wiki.hypixel.net/Dark_Pebble",
+    "base_rarity": "COMMON"
+  },
   "DARK_QUEENS_SOUL_DROP": {
     "name": "Dark Queen\u0027s Soul",
     "wiki": "https://wiki.hypixel.net/Dark_Queen\u0027s_Soul_Drop",
@@ -8783,6 +9272,17 @@
     "name": "Dead Bush of Love",
     "wiki": "https://wiki.hypixel.net/Dead_Bush_Of_Love",
     "base_rarity": "SPECIAL"
+  },
+  "DEAD_CAT_DETECTOR": {
+    "name": "Cat Detector",
+    "wiki": "https://wiki.hypixel.net/Cat_Detector",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
+  "DEAD_CAT_FOOD": {
+    "name": "Dead Cat Food",
+    "wiki": "https://wiki.hypixel.net/Dead_Cat_Food",
+    "base_rarity": "RARE"
   },
   "DEAD_SEED": {
     "name": "Dead Seed",
@@ -9013,6 +9513,12 @@
     "wiki": "https://wiki.hypixel.net/Destruction_Cloak",
     "base_rarity": "EPIC"
   },
+  "DETECTIVE_SCANNER": {
+    "name": "Detective Scanner",
+    "wiki": "https://wiki.hypixel.net/Detective_Scanner",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
   "DETECTOR_RAIL": {
     "name": "Detector Rail",
     "recipe": {
@@ -9027,6 +9533,18 @@
       "C3": "IRON_INGOT:1"
     },
     "base_rarity": "COMMON"
+  },
+  "DETRANSFIGURED_MASK": {
+    "name": "Used Detransfigured Face",
+    "wiki": "https://wiki.hypixel.net/Used_Detransfigured_Face",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:1500",
+        "AGARICUS_CAP_CAP:1"
+      ],
+      "count": 1
+    }
   },
   "DEVOUR_RING": {
     "name": "Devour Ring",
@@ -9600,6 +10118,20 @@
     "wiki": "https://wiki.hypixel.net/Dirt_Rod",
     "base_rarity": "UNCOMMON"
   },
+  "DISINFESTOR_GLOVES": {
+    "name": "Disinfestor Gloves",
+    "wiki": "https://wiki.hypixel.net/Disinfestor_Gloves",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SHADOW_CRUX:12",
+        "SKYBLOCK_FLY:4",
+        "SKYBLOCK_SPIDER:4",
+        "SKYBLOCK_SILVERFISH:4"
+      ],
+      "count": 1
+    }
+  },
   "DISPENSER": {
     "name": "Dispenser",
     "recipe": {
@@ -9614,6 +10146,11 @@
       "C3": "COBBLESTONE:1"
     },
     "base_rarity": "COMMON"
+  },
+  "DISPLACED_LEECH": {
+    "name": "Displaced Leech",
+    "wiki": "https://wiki.hypixel.net/Displaced_Leech",
+    "base_rarity": "UNCOMMON"
   },
   "DITTO_BLOB": {
     "name": "Ditto Blob",
@@ -10930,6 +11467,21 @@
       "count": 64
     }
   },
+  "EMPTY_CHUMCAP_BUCKET": {
+    "name": "Empty Chumcap Bucket",
+    "recipe": {
+      "A1": "AGARICUS_CHUM_CAP:1",
+      "A2": "AGARICUS_CHUM_CAP:1",
+      "A3": "AGARICUS_CHUM_CAP:1",
+      "B1": "AGARICUS_CHUM_CAP:1",
+      "B2": "EMPTY_CHUM_BUCKET:1",
+      "B3": "AGARICUS_CHUM_CAP:1",
+      "C1": "AGARICUS_CHUM_CAP:1",
+      "C2": "AGARICUS_CHUM_CAP:1",
+      "C3": "AGARICUS_CHUM_CAP:1"
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "EMPTY_CHUM_BUCKET": {
     "name": "Empty Chum Bucket",
     "wiki": "https://wiki.hypixel.net/Chum_Bucket",
@@ -10957,6 +11509,18 @@
     },
     "wiki": "https://wiki.hypixel.net/Empty_Map",
     "base_rarity": "COMMON"
+  },
+  "EMPTY_ODONATA_BOTTLE": {
+    "name": "Empty Odonata Bottle",
+    "wiki": "https://wiki.hypixel.net/Empty_Odonata_Bottle",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:2.0:1",
+        "SKYBLOCK_MOTE:400.0:1"
+      ],
+      "count": 1
+    }
   },
   "ENCHANTED_ACACIA_LOG": {
     "name": "Enchanted Acacia Wood",
@@ -11119,6 +11683,15 @@
   "ENCHANTED_BOOK_BUNDLE_BIG_BRAIN": {
     "name": "Enchanted Book Bundle",
     "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle_Big_Brain",
+    "base_rarity": "UNCOMMON"
+  },
+  "ENCHANTED_BOOK_BUNDLE_QUANTUM": {
+    "name": "Enchanted Book Bundle",
+    "base_rarity": "UNCOMMON"
+  },
+  "ENCHANTED_BOOK_BUNDLE_REFLECTION": {
+    "name": "Enchanted Book Bundle",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_BOOK_BUNDLE_VICIOUS": {
@@ -12044,6 +12617,11 @@
     "wiki": "https://wiki.hypixel.net/Enchanted_Leather",
     "base_rarity": "UNCOMMON"
   },
+  "ENCHANTED_LUSH_BERBERIS": {
+    "name": "Enchanted Lush Berberis",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Lush_Berberis",
+    "base_rarity": "RARE"
+  },
   "ENCHANTED_MAGMA_CREAM": {
     "name": "Enchanted Magma Cream",
     "recipe": {
@@ -12891,6 +13469,22 @@
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Titanium",
     "base_rarity": "EPIC"
+  },
+  "ENCHANTED_VAMPIRIC_MELON": {
+    "name": "Enchanted Vampiric Melon",
+    "recipe": {
+      "A1": "",
+      "A2": "VAMPIRIC_MELON:32",
+      "A3": "",
+      "B1": "VAMPIRIC_MELON:32",
+      "B2": "VAMPIRIC_MELON:32",
+      "B3": "VAMPIRIC_MELON:32",
+      "C1": "",
+      "C2": "VAMPIRIC_MELON:32",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Enchanted_Vampiric_Melon",
+    "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_WATER_LILY": {
     "name": "Enchanted Lily Pad",
@@ -13752,6 +14346,11 @@
       ]
     }
   },
+  "ENIGMA_CLOAK": {
+    "name": "Enigma Cloak",
+    "wiki": "https://wiki.hypixel.net/Enigma_Cloak",
+    "base_rarity": "EPIC"
+  },
   "ENRAGER": {
     "name": "Enrager",
     "wiki": "https://wiki.hypixel.net/Enrager",
@@ -13871,6 +14470,11 @@
     "name": "Wither Essence",
     "wiki": "https://wiki.hypixel.net/Wither_Essence"
   },
+  "ETALPTSEHC_NORI": {
+    "name": "etalptsehC norI",
+    "wiki": "https://wiki.hypixel.net/etalptsehC_NorI",
+    "base_rarity": "RARE"
+  },
   "ETERNAL_FLAME_RING": {
     "name": "Eternal Flame Ring",
     "wiki": "https://wiki.hypixel.net/Eternal_Flame_Ring",
@@ -13929,6 +14533,18 @@
     },
     "wiki": "https://wiki.hypixel.net/Everburning_Flame",
     "base_rarity": "EPIC"
+  },
+  "EXCEEDINGLY_COMFY_SNEAKERS": {
+    "name": "Exceedingly Comfy Sneakers",
+    "wiki": "https://wiki.hypixel.net/Exceedingly_Comfy_Sneakers",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:49999",
+        "GUNTHER_SNEAKERS:1"
+      ],
+      "count": 1
+    }
   },
   "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": {
     "name": "Exceedingly Rare Ender Artifact Upgrader",
@@ -14094,6 +14710,22 @@
     },
     "base_rarity": "COMMON"
   },
+  "EXPORTABLE_CARROTS": {
+    "name": "Exportable Carrots",
+    "recipe": {
+      "A1": "",
+      "A2": "VOLT_CRUX:1",
+      "A3": "",
+      "B1": "",
+      "B2": "NEARLY_WHOLE_CARROT:2",
+      "B3": "",
+      "C1": "",
+      "C2": "SCRIBE_CRUX:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Exportable_Carrots",
+    "base_rarity": "UNCOMMON"
+  },
   "EXP_BOTTLE": {
     "name": "Bottle o\u0027 Enchanting",
     "recipe": {
@@ -14169,9 +14801,29 @@
     "wiki": "https://wiki.hypixel.net/Fake_Emerald_Altar",
     "base_rarity": "UNCOMMON"
   },
+  "FAKE_NEUROSCIENCE_DEGREE": {
+    "name": "Fake Neuroscience Degree",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "VOLT_CRUX:10",
+        "SHADOW_CRUX:10",
+        "SKYBLOCK_MOTE:5000",
+        "SKYBLOCK_FLY:30",
+        "SKYBLOCK_SPIDER:40",
+        "SKYBLOCK_SILVERFISH:60"
+      ],
+      "count": 1
+    }
+  },
   "FALLEN_STAR_HAT": {
     "name": "Fallen Star Helmet",
     "wiki": "https://wiki.hypixel.net/Fallen_Star_Helmet",
+    "base_rarity": "RARE"
+  },
+  "FAMILY_DOUBLOON": {
+    "name": "Doubloon of the Family",
+    "wiki": "https://wiki.hypixel.net/Doubloon_Of_The_Family",
     "base_rarity": "RARE"
   },
   "FANCY_FLOWER_POT": {
@@ -14366,6 +15018,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Farming_Talisman",
     "base_rarity": "COMMON"
+  },
+  "FARMING_WAND": {
+    "name": "Wand of Farming",
+    "wiki": "https://wiki.hypixel.net/Wand_Of_Farming",
+    "base_rarity": "RARE"
   },
   "FARMING_XP_BOOST": {
     "name": "Farming XP Boost I Potion",
@@ -14637,6 +15294,22 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Fel_Sword",
+    "base_rarity": "EPIC"
+  },
+  "FEMURGROWTH_LEGGINGS": {
+    "name": "Femurgrowth Leggings",
+    "recipe": {
+      "A1": "SHADOW_CRUX:8",
+      "A2": "CHICKEN_LEGGS:1",
+      "A3": "VOLT_CRUX:8",
+      "B1": "BACTE_FRAGMENT:2",
+      "B2": "",
+      "B3": "BACTE_FRAGMENT:2",
+      "C1": "BACTE_FRAGMENT:2",
+      "C2": "",
+      "C3": "BACTE_FRAGMENT:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Femurgrowth_Leggings",
     "base_rarity": "EPIC"
   },
   "FENCE": {
@@ -16711,6 +17384,11 @@
     "wiki": "https://wiki.hypixel.net/Frog_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
+  "FROSTY_CRUX": {
+    "name": "Frosty Crux",
+    "wiki": "https://wiki.hypixel.net/Frosty_Crux",
+    "base_rarity": "UNCOMMON"
+  },
   "FROSTY_SNOW_BALL": {
     "name": "Frosty Snowball",
     "wiki": "https://wiki.hypixel.net/Frosty_Snowball",
@@ -16857,6 +17535,16 @@
     "wiki": "https://wiki.hypixel.net/Frozen_Spider",
     "base_rarity": "LEGENDARY"
   },
+  "FROZEN_WATER": {
+    "name": "Frozen Water",
+    "wiki": "https://wiki.hypixel.net/Frozen_Water",
+    "base_rarity": "RARE"
+  },
+  "FROZEN_WATER_PUNGI": {
+    "name": "Frozen Water Pungi",
+    "wiki": "https://wiki.hypixel.net/Frozen_Water_Pungi",
+    "base_rarity": "EPIC"
+  },
   "FTX_3070": {
     "name": "FTX 3070",
     "wiki": "https://wiki.hypixel.net/FTX_3070",
@@ -16888,6 +17576,11 @@
     "name": "Full Chum Bucket",
     "wiki": "https://wiki.hypixel.net/Full_Chum_Bucket",
     "base_rarity": "UNCOMMON"
+  },
+  "FULL_JAW_FANGING_KIT": {
+    "name": "Full-Jaw Fanging Kit",
+    "wiki": "https://wiki.hypixel.net/Full-Jaw_Fanging_Kit",
+    "base_rarity": "RARE"
   },
   "FUMING_POTATO_BOOK": {
     "name": "Fuming Potato Book",
@@ -16960,6 +17653,22 @@
     "name": "Garland",
     "wiki": "https://wiki.hypixel.net/Furniture",
     "base_rarity": "COMMON"
+  },
+  "GARLIC_FLAVORED_GUMMY_BEAR": {
+    "name": "Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear",
+    "recipe": {
+      "A1": "NEARLY_WHOLE_CARROT:4",
+      "A2": "BACTE_FRAGMENT:8",
+      "A3": "NEARLY_WHOLE_CARROT:4",
+      "B1": "BLOODBADGE:4",
+      "B2": "REHEATED_GUMMY_POLAR_BEAR:16",
+      "B3": "BLOODBADGE:4",
+      "C1": "NEARLY_WHOLE_CARROT:4",
+      "C2": "BACTE_FRAGMENT:8",
+      "C3": "NEARLY_WHOLE_CARROT:4"
+    },
+    "wiki": "https://wiki.hypixel.net/Perma-Jelled_Garlic-Flavored_Re-Heated_Gummy_Polar_Bear",
+    "base_rarity": "EPIC"
   },
   "GAUNTLET_OF_CONTAGION": {
     "name": "Gauntlet of Contagion",
@@ -17973,6 +18682,38 @@
       ],
       "count": 64
     }
+  },
+  "GLYPH_CONCLAMATUS": {
+    "name": "Conclamatus Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_FIRMITAS": {
+    "name": "Firmitas Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_FORTIS": {
+    "name": "Fortis Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_PERNIMIUS": {
+    "name": "Pernimius Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_POTENTIA": {
+    "name": "Potentia Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_ROBUR": {
+    "name": "Robur Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_VALIDUS": {
+    "name": "Validus Glyph",
+    "base_rarity": "EPIC"
+  },
+  "GLYPH_VIS": {
+    "name": "Vis Glyph",
+    "base_rarity": "EPIC"
   },
   "GOBLIN_BOOTS": {
     "name": "Goblin Boots",
@@ -19574,6 +20315,12 @@
     "wiki": "https://wiki.hypixel.net/Guardian_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "GUARDIAN;5": {
+    "name": "Mythic Guardian",
+    "texture": "221025434045bda7025b3e514b316a4b770c6faa4ba9adb4be3809526db77f9d",
+    "wiki": "https://wiki.hypixel.net/Guardian_Pet",
+    "base_rarity": "MYTHIC"
+  },
   "GUARDIAN_CHESTPLATE": {
     "name": "Guardian Chestplate",
     "recipe": {
@@ -19589,6 +20336,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Guardian_Chestplate",
     "base_rarity": "RARE"
+  },
+  "GUARDIAN_LUCKY_BLOCK": {
+    "name": "Guardian Lucky Block",
+    "wiki": "https://wiki.hypixel.net/Guardian_Lucky_Block",
+    "base_rarity": "LEGENDARY"
   },
   "GUNTHER_SNEAKERS": {
     "name": "Gunther\u0027s Sneakers",
@@ -19645,6 +20397,11 @@
     "wiki": "https://wiki.hypixel.net/Gyrokinetic_Wand",
     "scrollable": true,
     "base_rarity": "EPIC"
+  },
+  "HALF_EATEN_CARROT": {
+    "name": "Half-Eaten Carrot",
+    "wiki": "https://wiki.hypixel.net/Half-Eaten_Carrot",
+    "base_rarity": "COMMON"
   },
   "HALLOWED_SKULL": {
     "name": "Hallowed Skull",
@@ -20018,6 +20775,18 @@
     "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion",
     "base_rarity": "RARE"
   },
+  "HARMONIOUS_SURGERY_TOOLKIT": {
+    "name": "Harmonious Surgery Toolkit",
+    "wiki": "https://wiki.hypixel.net/Harmonious_Surgery_Toolkit",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "BOTTLED_ODONATA:1.0:1",
+        "SKYBLOCK_MOTE:2000.0:1"
+      ],
+      "count": 1
+    }
+  },
   "HARP": {
     "name": "Personal Harp",
     "wiki": "https://wiki.hypixel.net/Personal_Harp",
@@ -20134,6 +20903,23 @@
   "HEALING": {
     "name": "Healing Potion",
     "base_rarity": "COMMON"
+  },
+  "HEALING_MELON": {
+    "name": "Healing Melon",
+    "recipe": {
+      "A1": "VAMPIRIC_MELON:2",
+      "A2": "",
+      "A3": "",
+      "B1": "VAMPIRIC_MELON:2",
+      "B2": "VAMPIRIC_MELON:2",
+      "B3": "",
+      "C1": "VAMPIRIC_MELON:2",
+      "C2": "VAMPIRIC_MELON:2",
+      "C3": "VAMPIRIC_MELON:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Healing_Melon",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
   },
   "HEALING_RING": {
     "name": "Healing Ring",
@@ -20380,6 +21166,21 @@
     "wiki": "https://wiki.hypixel.net/Helmet_Of_The_Pack",
     "base_rarity": "EPIC"
   },
+  "HEMOBOMB": {
+    "name": "Hemobomb",
+    "wiki": "https://wiki.hypixel.net/Hemobomb",
+    "base_rarity": "EPIC"
+  },
+  "HEMOGLASS": {
+    "name": "Hemoglass",
+    "wiki": "https://wiki.hypixel.net/Hemoglass",
+    "base_rarity": "RARE"
+  },
+  "HEMOVIBE": {
+    "name": "Hemovibe",
+    "wiki": "https://wiki.hypixel.net/Hemovibe",
+    "base_rarity": "UNCOMMON"
+  },
   "HERMIT_CRAB_PERSONALITY": {
     "name": "Hermit Crab Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
@@ -20405,6 +21206,10 @@
     "name": "Hive Barn Skin",
     "wiki": "https://wiki.hypixel.net/Hive_Barn_Skin",
     "base_rarity": "LEGENDARY"
+  },
+  "HOCUS_POCUS_CIPHER": {
+    "name": "Hocus-Pocus Cipher",
+    "base_rarity": "EPIC"
   },
   "HOE_OF_GREATER_TILLING": {
     "name": "Hoe of Greater Tilling",
@@ -20731,6 +21536,12 @@
       ]
     }
   },
+  "HORSEZOOKA": {
+    "name": "Horsezooka",
+    "wiki": "https://wiki.hypixel.net/Horsezooka",
+    "scrollable": true,
+    "base_rarity": "EPIC"
+  },
   "HOT_AURORA_BOOTS": {
     "name": "Hot Aurora Boots",
     "wiki": "https://wiki.hypixel.net/Hot_Aurora_Boots",
@@ -20801,6 +21612,11 @@
     "name": "Hot Crimson Leggings",
     "wiki": "https://wiki.hypixel.net/Hot_Crimson_Leggings",
     "base_rarity": "LEGENDARY"
+  },
+  "HOT_DOG": {
+    "name": "Hot Dog",
+    "wiki": "https://wiki.hypixel.net/Hot_Dog",
+    "base_rarity": "COMMON"
   },
   "HOT_FERVOR_BOOTS": {
     "name": "Hot Fervor Boots",
@@ -20969,6 +21785,17 @@
     "name": "Portal to the Hub",
     "wiki": "https://wiki.hypixel.net/Portal_To_The_Hub",
     "base_rarity": "COMMON"
+  },
+  "HUB_WIZARD_TOWER_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Wizard Tower",
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Wizard_Tower",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:5000"
+      ],
+      "count": 1
+    }
   },
   "HUGE_MUSHROOM_1": {
     "name": "Brown Mushroom Block",
@@ -23282,6 +24109,23 @@
     "wiki": "https://wiki.hypixel.net/Judgement_Core",
     "base_rarity": "LEGENDARY"
   },
+  "JUICY_HEALING_MELON": {
+    "name": "Juicy Healing Melon",
+    "recipe": {
+      "A1": "COVEN_SEAL:2",
+      "A2": "COVEN_SEAL:2",
+      "A3": "COVEN_SEAL:2",
+      "B1": "COVEN_SEAL:2",
+      "B2": "HEALING_MELON:1",
+      "B3": "COVEN_SEAL:2",
+      "C1": "COVEN_SEAL:2",
+      "C2": "COVEN_SEAL:2",
+      "C3": "COVEN_SEAL:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Juicy_Healing_Melon",
+    "scrollable": true,
+    "base_rarity": "EPIC"
+  },
   "JUJU_SHORTBOW": {
     "name": "Juju Shortbow",
     "recipe": {
@@ -23687,6 +24531,17 @@
     "name": "Kelvin Inverter",
     "wiki": "https://wiki.hypixel.net/Kelvin_Inverter",
     "base_rarity": "RARE"
+  },
+  "KEY_TO_KAT_SOUL": {
+    "name": "Key to Infested House Soul",
+    "wiki": "https://wiki.hypixel.net/Key_To_Infested_House_Soul",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_SILVERFISH:40"
+      ],
+      "count": 1
+    }
   },
   "KILLER_PERSONALITY": {
     "name": "Killer Minion Skin",
@@ -24737,6 +25592,17 @@
       ]
     }
   },
+  "LARVA_HOOK": {
+    "name": "Larva Hook",
+    "wiki": "https://wiki.hypixel.net/Larva_Hook",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:6.0:1"
+      ],
+      "count": 1
+    }
+  },
   "LAST_BREATH": {
     "name": "Last Breath",
     "wiki": "https://wiki.hypixel.net/Last_Breath",
@@ -25092,7 +25958,7 @@
       "C3": "LEECH_SUPREME_FRAGMENT:1"
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leech_Belt",
-    "base_rarity": "EPIC"
+    "base_rarity": "RARE"
   },
   "LEECH_SUPREME_FRAGMENT": {
     "name": "Leech Supreme Fragment",
@@ -25102,15 +25968,15 @@
   "LEECH_SWORD": {
     "name": "Leech Sword",
     "recipe": {
-      "A1": "",
-      "A2": "LEECH_SUPREME_FRAGMENT:4",
-      "A3": "",
-      "B1": "",
-      "B2": "LEECH_SUPREME_FRAGMENT:4",
-      "B3": "",
-      "C1": "",
-      "C2": "DEADGEHOG_SPINE:12",
-      "C3": ""
+      "A1": "DEADGEHOG_SPINE:2",
+      "A2": "LEECH_SUPREME_FRAGMENT:2",
+      "A3": "DEADGEHOG_SPINE:2",
+      "B1": "DEADGEHOG_SPINE:2",
+      "B2": "LEECH_SUPREME_FRAGMENT:2",
+      "B3": "DEADGEHOG_SPINE:2",
+      "C1": "DEADGEHOG_SPINE:2",
+      "C2": "WYLD_SWORD:1",
+      "C3": "DEADGEHOG_SPINE:2"
     },
     "base_rarity": "RARE"
   },
@@ -25133,6 +25999,22 @@
       "C3": "ENCHANTED_WATER_LILY:16"
     },
     "wiki": "https://wiki.hypixel.net/Rod_Of_Legends",
+    "base_rarity": "EPIC"
+  },
+  "LEGGINGS_OF_THE_COVEN": {
+    "name": "Leggings of the Coven",
+    "recipe": {
+      "A1": "FEMURGROWTH_LEGGINGS:1",
+      "A2": "BLOODBADGE:1",
+      "A3": "LEGGINGS_OF_THE_PACK:1",
+      "B1": "METAL_HEART:6",
+      "B2": "",
+      "B3": "METAL_HEART:6",
+      "C1": "METAL_HEART:6",
+      "C2": "",
+      "C3": "METAL_HEART:6"
+    },
+    "wiki": "https://wiki.hypixel.net/Leggings_Of_The_Coven",
     "base_rarity": "EPIC"
   },
   "LEGGINGS_OF_THE_PACK": {
@@ -25381,6 +26263,95 @@
   "LIVID_FRAGMENT": {
     "name": "Livid Fragment",
     "wiki": "https://wiki.hypixel.net/Livid_Fragment",
+    "base_rarity": "RARE"
+  },
+  "LIVING_METAL": {
+    "name": "Living Metal",
+    "wiki": "https://wiki.hypixel.net/Living_Metal",
+    "base_rarity": "RARE"
+  },
+  "LIVING_METAL_ANVIL": {
+    "name": "Living Metal Anchor",
+    "recipe": {
+      "A1": "METAL_HEART:3",
+      "A2": "METAL_HEART:3",
+      "A3": "METAL_HEART:3",
+      "B1": "",
+      "B2": "LIVING_METAL:32",
+      "B3": "",
+      "C1": "LIVING_METAL:32",
+      "C2": "LIVING_METAL:32",
+      "C3": "LIVING_METAL:32"
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Anchor",
+    "base_rarity": "RARE"
+  },
+  "LM_EGG_BOOTS": {
+    "name": "Living Metal Bootspawn",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "LIVING_METAL:1",
+      "B2": "",
+      "B3": "LIVING_METAL:1",
+      "C1": "LIVING_METAL:1",
+      "C2": "",
+      "C3": "LIVING_METAL:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Bootspawn",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
+  "LM_EGG_CAP": {
+    "name": "Living Metal Capspawn",
+    "recipe": {
+      "A1": "LIVING_METAL:1",
+      "A2": "LIVING_METAL:1",
+      "A3": "LIVING_METAL:1",
+      "B1": "LIVING_METAL:1",
+      "B2": "",
+      "B3": "LIVING_METAL:1",
+      "C1": "",
+      "C2": "",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Capspawn",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
+  "LM_EGG_CHEST": {
+    "name": "Living Metal Chestspawn",
+    "recipe": {
+      "A1": "LIVING_METAL:1",
+      "A2": "",
+      "A3": "LIVING_METAL:1",
+      "B1": "LIVING_METAL:1",
+      "B2": "LIVING_METAL:1",
+      "B3": "LIVING_METAL:1",
+      "C1": "LIVING_METAL:1",
+      "C2": "LIVING_METAL:1",
+      "C3": "LIVING_METAL:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Chestspawn",
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
+  "LM_EGG_LEGS": {
+    "name": "Living Metal Pantspawn",
+    "recipe": {
+      "A1": "LIVING_METAL:1",
+      "A2": "LIVING_METAL:1",
+      "A3": "LIVING_METAL:1",
+      "B1": "LIVING_METAL:1",
+      "B2": "",
+      "B3": "LIVING_METAL:1",
+      "C1": "LIVING_METAL:1",
+      "C2": "",
+      "C3": "LIVING_METAL:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Pantspawn",
+    "scrollable": true,
     "base_rarity": "RARE"
   },
   "LOG:1": {
@@ -25636,6 +26607,59 @@
   "LURE;6": {
     "name": "Lure VI",
     "base_rarity": "RARE"
+  },
+  "LUSH_ARTIFACT": {
+    "name": "Lush Artifact",
+    "recipe": {
+      "A1": "ENCHANTED_LUSH_BERBERIS:64",
+      "A2": "ENCHANTED_LUSH_BERBERIS:64",
+      "A3": "ENCHANTED_LUSH_BERBERIS:64",
+      "B1": "ENCHANTED_LUSH_BERBERIS:64",
+      "B2": "LUSH_RING:1",
+      "B3": "ENCHANTED_LUSH_BERBERIS:64",
+      "C1": "ENCHANTED_LUSH_BERBERIS:64",
+      "C2": "ENCHANTED_LUSH_BERBERIS:64",
+      "C3": "ENCHANTED_LUSH_BERBERIS:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Lush_Artifact",
+    "base_rarity": "EPIC"
+  },
+  "LUSH_BERBERIS": {
+    "name": "Lush Berberis",
+    "wiki": "https://wiki.hypixel.net/Lush_Berberis",
+    "base_rarity": "UNCOMMON"
+  },
+  "LUSH_RING": {
+    "name": "Lush Ring",
+    "recipe": {
+      "A1": "ENCHANTED_LUSH_BERBERIS:8",
+      "A2": "ENCHANTED_LUSH_BERBERIS:8",
+      "A3": "ENCHANTED_LUSH_BERBERIS:8",
+      "B1": "ENCHANTED_LUSH_BERBERIS:8",
+      "B2": "LUSH_TALISMAN:1",
+      "B3": "ENCHANTED_LUSH_BERBERIS:8",
+      "C1": "ENCHANTED_LUSH_BERBERIS:8",
+      "C2": "ENCHANTED_LUSH_BERBERIS:8",
+      "C3": "ENCHANTED_LUSH_BERBERIS:8"
+    },
+    "wiki": "https://wiki.hypixel.net/Lush_Ring",
+    "base_rarity": "RARE"
+  },
+  "LUSH_TALISMAN": {
+    "name": "Lush Talisman",
+    "recipe": {
+      "A1": "LUSH_BERBERIS:64",
+      "A2": "LUSH_BERBERIS:64",
+      "A3": "LUSH_BERBERIS:64",
+      "B1": "LUSH_BERBERIS:64",
+      "B2": "LUSH_BERBERIS:64",
+      "B3": "LUSH_BERBERIS:64",
+      "C1": "LUSH_BERBERIS:64",
+      "C2": "LUSH_BERBERIS:64",
+      "C3": "LUSH_BERBERIS:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Lush_Talisman",
+    "base_rarity": "UNCOMMON"
   },
   "LUXURIOUS_SPOOL": {
     "name": "Luxurious Spool",
@@ -27306,6 +28330,16 @@
       ]
     }
   },
+  "METAL_HEART": {
+    "name": "Living Metal Heart",
+    "wiki": "https://wiki.hypixel.net/Living_Metal_Heart",
+    "base_rarity": "RARE"
+  },
+  "METAPHORIC_EGG": {
+    "name": "Metaphoric Egg",
+    "wiki": "https://wiki.hypixel.net/Metaphoric_Egg",
+    "base_rarity": "RARE"
+  },
   "METEOR_SHARD": {
     "name": "Meteor Shard",
     "recipe": {
@@ -27520,6 +28554,11 @@
         "SKYBLOCK_COIN:2500"
       ]
     }
+  },
+  "MINIATURIZED_TUBULATOR": {
+    "name": "Miniaturized Tubulator",
+    "wiki": "https://wiki.hypixel.net/Miniaturized_Tubulator",
+    "base_rarity": "UNCOMMON"
   },
   "MINING_1_PORTAL": {
     "name": "Portal to the Gold Mine",
@@ -28783,6 +29822,11 @@
     "wiki": "https://wiki.hypixel.net/Mutated_Blaze_Ashes",
     "base_rarity": "RARE"
   },
+  "MUTED_BARK": {
+    "name": "Muted Bark",
+    "wiki": "https://wiki.hypixel.net/Muted_Bark",
+    "base_rarity": "UNCOMMON"
+  },
   "MUTTON": {
     "name": "Mutton",
     "wiki": "https://wiki.hypixel.net/Raw_Mutton",
@@ -29027,6 +30071,37 @@
       ],
       "count": 64
     }
+  },
+  "NEARLY_COHERENT_ROD": {
+    "name": "Nearly Coherent doR gnihsiF",
+    "recipe": {
+      "A1": "MIRRORED_STICK:1",
+      "A2": "",
+      "A3": "",
+      "B1": "MIRRORED_STRING:1",
+      "B2": "MIRRORED_STICK:1",
+      "B3": "",
+      "C1": "NEARLY_WHOLE_CARROT:16",
+      "C2": "",
+      "C3": "MIRRORED_STICK:1"
+    },
+    "base_rarity": "UNCOMMON"
+  },
+  "NEARLY_WHOLE_CARROT": {
+    "name": "Nearly-Whole Carrot",
+    "recipe": {
+      "A1": "",
+      "A2": "HALF_EATEN_CARROT:16",
+      "A3": "",
+      "B1": "HALF_EATEN_CARROT:16",
+      "B2": "HALF_EATEN_CARROT:16",
+      "B3": "HALF_EATEN_CARROT:16",
+      "C1": "",
+      "C2": "HALF_EATEN_CARROT:16",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Nearly-Whole_Carrot",
+    "base_rarity": "UNCOMMON"
   },
   "NECROMANCER_BROOCH": {
     "name": "Necromancer\u0027s Brooch",
@@ -29500,6 +30575,27 @@
       "C3": "WOOD:1"
     },
     "base_rarity": "COMMON"
+  },
+  "NOT_DEADGEHOG_MASK": {
+    "name": "Not-Dead-Gehog Mask",
+    "recipe": {
+      "A1": "VOLT_CRUX:8",
+      "A2": "WYLD_LEGGINGS:1",
+      "A3": "VOLT_CRUX:8",
+      "B1": "METAPHORIC_EGG:8",
+      "B2": "",
+      "B3": "METAPHORIC_EGG:8",
+      "C1": "METAPHORIC_EGG:8",
+      "C2": "",
+      "C3": "METAPHORIC_EGG:8"
+    },
+    "wiki": "https://wiki.hypixel.net/Not-Dead-Gehog_Mask",
+    "base_rarity": "UNCOMMON"
+  },
+  "NULLIFIED_METAL": {
+    "name": "Nullified Metal",
+    "wiki": "https://wiki.hypixel.net/Nullified_Metal",
+    "base_rarity": "UNCOMMON"
   },
   "NULL_ATOM": {
     "name": "Null Atom",
@@ -30337,6 +31433,22 @@
     "name": "Optical Lens",
     "wiki": "https://wiki.hypixel.net/Optical_Lens",
     "base_rarity": "RARE"
+  },
+  "ORANGE_CHESTPLATE": {
+    "name": "Orange Chestplate",
+    "recipe": {
+      "A1": "HALF_EATEN_CARROT:64",
+      "A2": "",
+      "A3": "HALF_EATEN_CARROT:64",
+      "B1": "HALF_EATEN_CARROT:64",
+      "B2": "ETALPTSEHC_NORI:1",
+      "B3": "HALF_EATEN_CARROT:64",
+      "C1": "HALF_EATEN_CARROT:64",
+      "C2": "HALF_EATEN_CARROT:64",
+      "C3": "HALF_EATEN_CARROT:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Orange_Chestplate",
+    "base_rarity": "EPIC"
   },
   "ORB_OF_ENERGY": {
     "name": "Orb of Energy",
@@ -32164,6 +33276,11 @@
     "wiki": "https://wiki.hypixel.net/Gorilla_Monkey_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_MONKEY_LEMUR": {
+    "name": "Lemur Monkey Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
     "name": "Moocelium Mooshroom Cow Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
@@ -32889,6 +34006,11 @@
     "wiki": "https://wiki.hypixel.net/Pitchin%27_Koi",
     "base_rarity": "RARE"
   },
+  "PLACEABLE_FAIRY_SOUL_RIFT": {
+    "name": "Placeable Fairy Soul",
+    "wiki": "https://wiki.hypixel.net/Placeable_Fairy_Soul",
+    "base_rarity": "EPIC"
+  },
   "PLASMA": {
     "name": "Plasma",
     "wiki": "https://wiki.hypixel.net/Plasma",
@@ -32990,6 +34112,22 @@
     "name": "Poison Sample",
     "wiki": "https://wiki.hypixel.net/Poison_Sample",
     "base_rarity": "UNCOMMON"
+  },
+  "POLARVOID_BOOK": {
+    "name": "Polarvoid Book",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "FROSTY_CRUX:1",
+      "B3": "FROSTY_CRUX:1",
+      "C1": "",
+      "C2": "FROSTY_CRUX:1",
+      "C3": "METAL_HEART:20"
+    },
+    "wiki": "https://wiki.hypixel.net/Polarvoid_Book",
+    "base_rarity": "RARE"
   },
   "POLISHED_PEBBLE": {
     "name": "Polished Pebble",
@@ -33534,6 +34672,11 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
   },
+  "PRESUMED_GALLON_OF_RED_PAINT": {
+    "name": "Presumed Gallon of Red Paint",
+    "wiki": "https://wiki.hypixel.net/Presumed_Gallon_Of_Red_Paint",
+    "base_rarity": "RARE"
+  },
   "PRICELESS_THE_FISH": {
     "name": "Priceless the Fish",
     "wiki": "https://wiki.hypixel.net/Priceless_The_Fish",
@@ -33941,6 +35084,11 @@
     "name": "Shimmer Skin",
     "wiki": "https://wiki.hypixel.net/Shimmer_Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PROTOCHICKEN": {
+    "name": "Proto-Chicken",
+    "wiki": "https://wiki.hypixel.net/Proto-Chicken",
+    "base_rarity": "EPIC"
   },
   "PUFFERFISH_HAT": {
     "name": "Pufferfish Hat",
@@ -34390,6 +35538,11 @@
     "name": "Punch II",
     "base_rarity": "COMMON"
   },
+  "PUNCHCARD_ARTIFACT": {
+    "name": "Punchcard Artifact",
+    "wiki": "https://wiki.hypixel.net/Punchcard_Artifact",
+    "base_rarity": "EPIC"
+  },
   "PURE_MITHRIL": {
     "name": "Pure Mithril",
     "wiki": "https://wiki.hypixel.net/Pure_Mithril",
@@ -34432,6 +35585,18 @@
     "name": "Quality Map",
     "wiki": "https://wiki.hypixel.net/Quality_Map",
     "base_rarity": "SPECIAL"
+  },
+  "QUANTUM;3": {
+    "name": "Quantum III",
+    "base_rarity": "COMMON"
+  },
+  "QUANTUM;4": {
+    "name": "Quantum IV",
+    "base_rarity": "COMMON"
+  },
+  "QUANTUM;5": {
+    "name": "Quantum V",
+    "base_rarity": "UNCOMMON"
   },
   "QUARTZ": {
     "name": "Nether Quartz",
@@ -36230,6 +37395,11 @@
       ]
     }
   },
+  "REED_BOAT": {
+    "name": "Rift Boat",
+    "wiki": "https://wiki.hypixel.net/Rift_Boat",
+    "base_rarity": "UNCOMMON"
+  },
   "REFINED_AMBER": {
     "name": "Refined Amber",
     "wiki": "https://wiki.hypixel.net/Refined_Amber",
@@ -36279,6 +37449,26 @@
         "REFINED_TITANIUM:3"
       ]
     }
+  },
+  "REFLECTION;1": {
+    "name": "Reflection I",
+    "base_rarity": "COMMON"
+  },
+  "REFLECTION;2": {
+    "name": "Reflection II",
+    "base_rarity": "COMMON"
+  },
+  "REFLECTION;3": {
+    "name": "Reflection III",
+    "base_rarity": "COMMON"
+  },
+  "REFLECTION;4": {
+    "name": "Reflection IV",
+    "base_rarity": "COMMON"
+  },
+  "REFLECTION;5": {
+    "name": "Reflection V",
+    "base_rarity": "UNCOMMON"
   },
   "REFORGE_ANVIL": {
     "name": "Reforge Anvil",
@@ -36556,6 +37746,11 @@
   "RESPITE;5": {
     "name": "Respite V",
     "base_rarity": "UNCOMMON"
+  },
+  "RETRO_ENCABULATING_VISOR": {
+    "name": "Retro-Encabulating Visor",
+    "wiki": "https://wiki.hypixel.net/Retro-Encabulating_Visor",
+    "base_rarity": "MYTHIC"
   },
   "REVENANT_BOOTS": {
     "name": "Revenant Boots",
@@ -36862,39 +38057,180 @@
       ]
     }
   },
-  "RIFT_NECKLACE_INSIDE_1": {
-    "name": "Rift Necklace",
+  "RIFTWART_ROOTS": {
+    "name": "Riftwart Roots",
+    "wiki": "https://wiki.hypixel.net/Riftwart_Roots",
     "base_rarity": "UNCOMMON"
   },
-  "RIFT_NECKLACE_INSIDE_2": {
-    "name": "Rift Necklace",
-    "recipe": {
-      "A1": "SHAME_CRUX:2",
-      "A2": "SHAME_CRUX:2",
-      "A3": "SHAME_CRUX:2",
-      "B1": "SHAME_CRUX:2",
-      "B2": "RIFT_NECKLACE_INSIDE_1:1",
-      "B3": "SHAME_CRUX:2",
-      "C1": "SHAME_CRUX:2",
-      "C2": "SHAME_CRUX:2",
-      "C3": "SHAME_CRUX:2"
-    },
-    "base_rarity": "UNCOMMON"
+  "RIFT_BUCKET": {
+    "name": "Plumber\u0027s Bucket",
+    "wiki": "https://wiki.hypixel.net/Plumber%27s_Bucket",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:1000"
+      ],
+      "count": 1
+    }
   },
-  "RIFT_NECKLACE_INSIDE_3": {
+  "RIFT_FERRET;3": {
+    "name": "Epic Rift Ferret",
+    "wiki": "https://wiki.hypixel.net/Rift_Ferret_Pet",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "RIFTWART_ROOTS:12",
+        "SKYBLOCK_FLY:20",
+        "SKYBLOCK_SPIDER:10",
+        "SKYBLOCK_SILVERFISH:20"
+      ],
+      "count": 1
+    }
+  },
+  "RIFT_JUMP_ELIXIR": {
+    "name": "Jump Elixir",
+    "wiki": "https://wiki.hypixel.net/Jump_Elixir",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:5.0:1",
+        "SKYBLOCK_MOTE:5000.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "RIFT_NECKLACE_INSIDE": {
     "name": "Rift Necklace",
+    "wiki": "https://wiki.hypixel.net/Rift_Necklace",
+    "base_rarity": "MYTHIC"
+  },
+  "RIFT_NECKLACE_OUTSIDE": {
+    "name": "Rift Necklace",
+    "wiki": "https://wiki.hypixel.net/Rift_Necklace",
+    "base_rarity": "LEGENDARY"
+  },
+  "RIFT_PRISM": {
+    "name": "Rift Prism",
+    "wiki": "https://wiki.hypixel.net/Rift_Prism",
+    "base_rarity": "RARE"
+  },
+  "RIFT_SPEED_ELIXIR": {
+    "name": "Speed Elixir",
+    "wiki": "https://wiki.hypixel.net/Speed_Elixir",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:5.0:1",
+        "SKYBLOCK_MOTE:10000.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "RIFT_STABILITY_ELIXIR": {
+    "name": "Stability Elixir",
+    "wiki": "https://wiki.hypixel.net/Stability_Elixir",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:1.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "RIFT_STRENGTH_ELIXIR": {
+    "name": "Strength Elixir",
+    "wiki": "https://wiki.hypixel.net/Strength_Elixir",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SHAME_CRUX:5.0:1",
+        "SKYBLOCK_MOTE:12000.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "RIFT_TROPHY_CHICKEN_N_EGG": {
+    "name": "Chicken N Egg Timecharm",
     "recipe": {
-      "A1": "DEADGEHOG_SPINE:1",
-      "A2": "DEADGEHOG_SPINE:1",
-      "A3": "DEADGEHOG_SPINE:1",
-      "B1": "DEADGEHOG_SPINE:1",
-      "B2": "RIFT_NECKLACE_INSIDE_2:1",
-      "B3": "DEADGEHOG_SPINE:1",
-      "C1": "DEADGEHOG_SPINE:1",
-      "C2": "DEADGEHOG_SPINE:1",
-      "C3": "DEADGEHOG_SPINE:1"
+      "A1": "CADUCOUS_STEM_BUNCH:1",
+      "A2": "METAPHORIC_EGG:2",
+      "A3": "AGARICUS_CAP_BUNCH:1",
+      "B1": "METAPHORIC_EGG:2",
+      "B2": "PROTOCHICKEN:1",
+      "B3": "METAPHORIC_EGG:2",
+      "C1": "WILTED_BERBERIS_BUNCH:1",
+      "C2": "METAPHORIC_EGG:2",
+      "C3": "WILTED_BERBERIS_BUNCH:1"
     },
-    "base_rarity": "UNCOMMON"
+    "wiki": "https://wiki.hypixel.net/Chicken_N_Egg_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_CITIZEN": {
+    "name": "SkyBlock Citizen Timecharm",
+    "wiki": "https://wiki.hypixel.net/SkyBlock_Citizen_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_LAZY_LIVING": {
+    "name": "Living Timecharm",
+    "recipe": {
+      "A1": "LIVING_METAL:20",
+      "A2": "LIVING_METAL:20",
+      "A3": "LIVING_METAL:20",
+      "B1": "LIVING_METAL:20",
+      "B2": "FROSTY_CRUX:20",
+      "B3": "LIVING_METAL:20",
+      "C1": "LIVING_METAL:20",
+      "C2": "LIVING_METAL:20",
+      "C3": "LIVING_METAL:20"
+    },
+    "wiki": "https://wiki.hypixel.net/Living_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_MIRRORED": {
+    "name": "mrahcemiT esrevrorriM",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_SLIME": {
+    "name": "Globulate Timecharm",
+    "wiki": "https://wiki.hypixel.net/Globulate_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_VAMPIRIC": {
+    "name": "Vampiric Timecharm",
+    "recipe": {
+      "A1": "BLOODBADGE:2",
+      "A2": "WILTED_BERBERIS_BUNCH:1",
+      "A3": "BLOODBADGE:2",
+      "B1": "BLOODBADGE:2",
+      "B2": "WILTED_BERBERIS_BUNCH:1",
+      "B3": "BLOODBADGE:2",
+      "C1": "BLOODBADGE:2",
+      "C2": "WILTED_BERBERIS_BUNCH:1",
+      "C3": "BLOODBADGE:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampiric_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RIFT_TROPHY_WYLDLY_SUPREME": {
+    "name": "Supreme Timecharm",
+    "recipe": {
+      "A1": "BOTTLED_ODONATA:1",
+      "A2": "LIL_PAD:16",
+      "A3": "BOTTLED_ODONATA:1",
+      "B1": "DEADGEHOG_SPINE:12",
+      "B2": "LEECH_SUPREME_FRAGMENT:4",
+      "B3": "DEADGEHOG_SPINE:12",
+      "C1": "BOTTLED_ODONATA:1",
+      "C2": "LIL_PAD:16",
+      "C3": "BOTTLED_ODONATA:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Supreme_Timecharm",
+    "base_rarity": "SPECIAL"
+  },
+  "RING_OF_BROKEN_LOVE": {
+    "name": "Ring of Broken Love",
+    "wiki": "https://wiki.hypixel.net/Ring_Of_Broken_Love",
+    "base_rarity": "LEGENDARY"
   },
   "RING_POTION_AFFINITY": {
     "name": "Potion Affinity Ring",
@@ -37963,6 +39299,11 @@
     "wiki": "https://wiki.hypixel.net/Scoville_Belt",
     "base_rarity": "RARE"
   },
+  "SCRIBE_CRUX": {
+    "name": "Scribe Crux",
+    "wiki": "https://wiki.hypixel.net/Scribe_Crux",
+    "base_rarity": "UNCOMMON"
+  },
   "SCULPTORS_AXE": {
     "name": "Sculptor\u0027s Axe",
     "recipe": {
@@ -38114,6 +39455,11 @@
     "name": "Seeds",
     "wiki": "https://wiki.hypixel.net/Seeds",
     "base_rarity": "COMMON"
+  },
+  "SELF_RECURSIVE_PICKAXE": {
+    "name": "Self-Recursive Pickaxe",
+    "wiki": "https://wiki.hypixel.net/Self-Recursive_Pickaxe",
+    "base_rarity": "RARE"
   },
   "SERRATED_CLAWS": {
     "name": "Serrated Claws",
@@ -38889,6 +40235,16 @@
   "SILKRIDER_SAFETY_BELT": {
     "name": "Silkrider Safety Belt",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silkrider_Safety_Belt",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "BOTTLED_ODONATA:8"
+      ]
+    }
+  },
+  "SILKWIRE_STICK": {
+    "name": "Silkwire Stick",
+    "wiki": "https://wiki.hypixel.net/Silkwire_Stick",
     "base_rarity": "RARE"
   },
   "SILKY_LICHEN": {
@@ -39012,6 +40368,11 @@
     "texture": "da91dab8391af5fda54acd2c0b18fbd819b865e1a8f1d623813fa761e924540",
     "wiki": "https://wiki.hypixel.net/Silverfish_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "SILVERTWIST_KARAMBIT": {
+    "name": "Silver-Twist Karambit",
+    "wiki": "https://wiki.hypixel.net/Silver-Twist_Karambit",
+    "base_rarity": "EPIC"
   },
   "SILVER_FANG": {
     "name": "Silver Fang",
@@ -39575,6 +40936,23 @@
     "wiki": "https://wiki.hypixel.net/Dark_Oak_Chair",
     "base_rarity": "COMMON"
   },
+  "SKYBLOCK_ENIGMA_SOUL": {
+    "name": "Enigma Soul (Rift)",
+    "wiki": "https://wiki.hypixel.net/Enigma_Souls",
+    "base_rarity": "SPECIAL",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:4000",
+        "DEADGEHOG_SPINE:8"
+      ],
+      "count": 1
+    }
+  },
+  "SKYBLOCK_FLY": {
+    "name": "Fly (Rift)",
+    "wiki": "https://wiki.hypixel.net/Kat_(Rift)",
+    "base_rarity": "SPECIAL"
+  },
   "SKYBLOCK_GOLD_MEDAL": {
     "name": "Gold Medal",
     "wiki": "https://wiki.hypixel.net/Gold_Medal",
@@ -39583,6 +40961,17 @@
   "SKYBLOCK_MENU": {
     "name": "SkyBlock Menu (Click)",
     "wiki": "https://wiki.hypixel.net/Skyblock_Menu"
+  },
+  "SKYBLOCK_MOTE": {
+    "name": "Mote",
+    "wiki": "https://wiki.hypixel.net/Motes",
+    "base_rarity": "SPECIAL",
+    "npc_buy": {
+      "cost": [
+        "LIL_PAD:1"
+      ],
+      "count": 10
+    }
   },
   "SKYBLOCK_NORTH_STAR": {
     "name": "North Star",
@@ -39594,9 +40983,19 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt",
     "base_rarity": "SPECIAL"
   },
+  "SKYBLOCK_SILVERFISH": {
+    "name": "Silverfish (Rift)",
+    "wiki": "https://wiki.hypixel.net/Kat_(Rift)",
+    "base_rarity": "SPECIAL"
+  },
   "SKYBLOCK_SILVER_MEDAL": {
     "name": "Silver Medal",
     "wiki": "https://wiki.hypixel.net/Silver_Medal",
+    "base_rarity": "SPECIAL"
+  },
+  "SKYBLOCK_SPIDER": {
+    "name": "Spider (Rift)",
+    "wiki": "https://wiki.hypixel.net/Kat_(Rift)",
     "base_rarity": "SPECIAL"
   },
   "SKYBLOCK_TABLE": {
@@ -40405,6 +41804,22 @@
     },
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "SNAKE_IN_A_BOOT": {
+    "name": "Snake-in-a-Boot",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "METAL_HEART:5",
+      "B2": "",
+      "B3": "METAL_HEART:5",
+      "C1": "METAL_HEART:5",
+      "C2": "",
+      "C3": "EXCEEDINGLY_COMFY_SNEAKERS:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Snake-in-a-Boot",
+    "base_rarity": "EPIC"
   },
   "SNAKE_RUNE;1": {
     "name": "◆ Snake Rune I",
@@ -41408,6 +42823,11 @@
     "wiki": "https://wiki.hypixel.net/Spider_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "SPIDER;5": {
+    "name": "Mythic Spider",
+    "texture": "cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1",
+    "base_rarity": "MYTHIC"
+  },
   "SPIDERS_DEN_TOP_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Spider\u0027s Den Top of Nest",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Spider\u0027s_Den_Top_Of_Nest",
@@ -41851,6 +43271,11 @@
     "name": "Spirit Wing",
     "wiki": "https://wiki.hypixel.net/Spirit_Wing",
     "base_rarity": "EPIC"
+  },
+  "SPLATTER_CRUX": {
+    "name": "Splatter Crux",
+    "wiki": "https://wiki.hypixel.net/Splatter_Crux",
+    "base_rarity": "UNCOMMON"
   },
   "SPONGE": {
     "name": "Sponge",
@@ -43535,6 +44960,22 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Water",
     "base_rarity": "COMMON"
   },
+  "STEAK_STAKE": {
+    "name": "Steak Stake",
+    "recipe": {
+      "A1": "COVEN_SEAL:3",
+      "A2": "WILTED_BERBERIS_BUNCH:1",
+      "A3": "COVEN_SEAL:3",
+      "B1": "COVEN_SEAL:3",
+      "B2": "WILTED_BERBERIS_BUNCH:1",
+      "B3": "COVEN_SEAL:3",
+      "C1": "COVEN_SEAL:3",
+      "C2": "WILTED_BERBERIS_BUNCH:1",
+      "C3": "COVEN_SEAL:3"
+    },
+    "wiki": "https://wiki.hypixel.net/Steak_Stake",
+    "base_rarity": "RARE"
+  },
   "STEAMING_HOT_FLOUNDER_BRONZE": {
     "name": "Steaming-Hot Flounder BRONZE",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
@@ -44895,6 +46336,11 @@
     "scrollable": true,
     "base_rarity": "EPIC"
   },
+  "TACTICIAN_MURDER_WEAPON": {
+    "name": "Tactician\u0027s Murder Weapon",
+    "wiki": "https://wiki.hypixel.net/Tactician%27s_Murder_Weapon",
+    "base_rarity": "RARE"
+  },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
     "wiki": "https://wiki.hypixel.net/Tactician\u0027s_Sword",
@@ -45082,6 +46528,12 @@
     "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8",
     "wiki": "https://wiki.hypixel.net/Tarantula_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "TARANTULA;5": {
+    "name": "Mythic Tarantula",
+    "texture": "8300986ed0a04ea79904f6ae53f49ed3a0ff5b1df62bba622ecbd3777f156df8",
+    "wiki": "https://wiki.hypixel.net/Tarantula_Pet",
+    "base_rarity": "MYTHIC"
   },
   "TARANTULA_BLACK_WIDOW": {
     "name": "Black Widow Skin",
@@ -46340,6 +47792,25 @@
     "wiki": "https://wiki.hypixel.net/Transmission_Tuner",
     "base_rarity": "EPIC"
   },
+  "TRANSYLVANIAN;4": {
+    "name": "Transylvanian IV",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "PAPER:8",
+      "B3": "PAPER:8",
+      "C1": "",
+      "C2": "PAPER:8",
+      "C3": "HEMOGLASS:8"
+    },
+    "base_rarity": "COMMON"
+  },
+  "TRANSYLVANIAN;5": {
+    "name": "Transylvanian V",
+    "base_rarity": "UNCOMMON"
+  },
   "TRAPPED_CHEST": {
     "name": "Trapped Chest",
     "recipe": {
@@ -47460,6 +48931,182 @@
     "wiki": "https://wiki.hypixel.net/Valkyrie",
     "base_rarity": "LEGENDARY"
   },
+  "VAMPIRE_GENERATOR_1": {
+    "name": "Vampire Minion I",
+    "recipe": {
+      "A1": "HEMOVIBE:10",
+      "A2": "HEMOVIBE:10",
+      "A3": "HEMOVIBE:10",
+      "B1": "HEMOVIBE:10",
+      "B2": "BAT_PERSON_HELMET:1",
+      "B3": "HEMOVIBE:10",
+      "C1": "HEMOVIBE:10",
+      "C2": "HEMOVIBE:10",
+      "C3": "HEMOVIBE:10"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_10": {
+    "name": "Vampire Minion X",
+    "recipe": {
+      "A1": "HEMOGLASS:32",
+      "A2": "HEMOGLASS:32",
+      "A3": "HEMOGLASS:32",
+      "B1": "HEMOGLASS:32",
+      "B2": "VAMPIRE_GENERATOR_9:1",
+      "B3": "HEMOGLASS:32",
+      "C1": "HEMOGLASS:32",
+      "C2": "HEMOGLASS:32",
+      "C3": "HEMOGLASS:32"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_11": {
+    "name": "Vampire Minion XI",
+    "recipe": {
+      "A1": "HEMOGLASS:64",
+      "A2": "HEMOGLASS:64",
+      "A3": "HEMOGLASS:64",
+      "B1": "HEMOGLASS:64",
+      "B2": "VAMPIRE_GENERATOR_10:1",
+      "B3": "HEMOGLASS:64",
+      "C1": "HEMOGLASS:64",
+      "C2": "HEMOGLASS:64",
+      "C3": "HEMOGLASS:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_2": {
+    "name": "Vampire Minion II",
+    "recipe": {
+      "A1": "HEMOVIBE:20",
+      "A2": "HEMOVIBE:20",
+      "A3": "HEMOVIBE:20",
+      "B1": "HEMOVIBE:20",
+      "B2": "VAMPIRE_GENERATOR_1:1",
+      "B3": "HEMOVIBE:20",
+      "C1": "HEMOVIBE:20",
+      "C2": "HEMOVIBE:20",
+      "C3": "HEMOVIBE:20"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_3": {
+    "name": "Vampire Minion III",
+    "recipe": {
+      "A1": "HEMOVIBE:40",
+      "A2": "HEMOVIBE:40",
+      "A3": "HEMOVIBE:40",
+      "B1": "HEMOVIBE:40",
+      "B2": "VAMPIRE_GENERATOR_2:1",
+      "B3": "HEMOVIBE:40",
+      "C1": "HEMOVIBE:40",
+      "C2": "HEMOVIBE:40",
+      "C3": "HEMOVIBE:40"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_4": {
+    "name": "Vampire Minion IV",
+    "recipe": {
+      "A1": "HEMOVIBE:64",
+      "A2": "HEMOVIBE:64",
+      "A3": "HEMOVIBE:64",
+      "B1": "HEMOVIBE:64",
+      "B2": "VAMPIRE_GENERATOR_3:1",
+      "B3": "HEMOVIBE:64",
+      "C1": "HEMOVIBE:64",
+      "C2": "HEMOVIBE:64",
+      "C3": "HEMOVIBE:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_5": {
+    "name": "Vampire Minion V",
+    "recipe": {
+      "A1": "HEMOGLASS:1",
+      "A2": "HEMOGLASS:1",
+      "A3": "HEMOGLASS:1",
+      "B1": "HEMOGLASS:1",
+      "B2": "VAMPIRE_GENERATOR_4:1",
+      "B3": "HEMOGLASS:1",
+      "C1": "HEMOGLASS:1",
+      "C2": "HEMOGLASS:1",
+      "C3": "HEMOGLASS:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_6": {
+    "name": "Vampire Minion VI",
+    "recipe": {
+      "A1": "HEMOGLASS:2",
+      "A2": "HEMOGLASS:2",
+      "A3": "HEMOGLASS:2",
+      "B1": "HEMOGLASS:2",
+      "B2": "VAMPIRE_GENERATOR_5:1",
+      "B3": "HEMOGLASS:2",
+      "C1": "HEMOGLASS:2",
+      "C2": "HEMOGLASS:2",
+      "C3": "HEMOGLASS:2"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_7": {
+    "name": "Vampire Minion VII",
+    "recipe": {
+      "A1": "HEMOGLASS:4",
+      "A2": "HEMOGLASS:4",
+      "A3": "HEMOGLASS:4",
+      "B1": "HEMOGLASS:4",
+      "B2": "VAMPIRE_GENERATOR_6:1",
+      "B3": "HEMOGLASS:4",
+      "C1": "HEMOGLASS:4",
+      "C2": "HEMOGLASS:4",
+      "C3": "HEMOGLASS:4"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_8": {
+    "name": "Vampire Minion VIII",
+    "recipe": {
+      "A1": "HEMOGLASS:8",
+      "A2": "HEMOGLASS:8",
+      "A3": "HEMOGLASS:8",
+      "B1": "HEMOGLASS:8",
+      "B2": "VAMPIRE_GENERATOR_7:1",
+      "B3": "HEMOGLASS:8",
+      "C1": "HEMOGLASS:8",
+      "C2": "HEMOGLASS:8",
+      "C3": "HEMOGLASS:8"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
+  "VAMPIRE_GENERATOR_9": {
+    "name": "Vampire Minion IX",
+    "recipe": {
+      "A1": "HEMOGLASS:16",
+      "A2": "HEMOGLASS:16",
+      "A3": "HEMOGLASS:16",
+      "B1": "HEMOGLASS:16",
+      "B2": "VAMPIRE_GENERATOR_8:1",
+      "B3": "HEMOGLASS:16",
+      "C1": "HEMOGLASS:16",
+      "C2": "HEMOGLASS:16",
+      "C3": "HEMOGLASS:16"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+    "base_rarity": "RARE"
+  },
   "VAMPIRE_MASK": {
     "name": "Vampire Mask",
     "wiki": "https://wiki.hypixel.net/Vampire_Mask",
@@ -47480,6 +49127,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Vampire_Witch_Mask",
     "base_rarity": "EPIC"
+  },
+  "VAMPIRIC_MELON": {
+    "name": "Vampiric Melon",
+    "wiki": "https://wiki.hypixel.net/Vampiric_Melon",
+    "base_rarity": "UNCOMMON"
   },
   "VAMPIRISM;1": {
     "name": "Vampirism I",
@@ -47656,10 +49308,27 @@
     "wiki": "https://wiki.hypixel.net/Venom\u0027s_Touch",
     "base_rarity": "EPIC"
   },
+  "VERMIN_BELT": {
+    "name": "Vermin Belt",
+    "wiki": "https://wiki.hypixel.net/Vermin_Belt",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "LEECH_BELT:1",
+        "SKYBLOCK_FLY:15"
+      ],
+      "count": 1
+    }
+  },
   "VERY_OFFICIAL_YELLOW_ROCK": {
     "name": "Very Official Yellow Rock of Love!",
     "wiki": "https://wiki.hypixel.net/Very_Official_Yellow_Rock_Of_Love!",
     "base_rarity": "LEGENDARY"
+  },
+  "VERY_SCIENTIFIC_PAPER": {
+    "name": "Very Scientific Paper",
+    "wiki": "https://wiki.hypixel.net/Very_Scientific_Paper",
+    "base_rarity": "RARE"
   },
   "VICIOUS;3": {
     "name": "Vicious III",
@@ -47967,6 +49636,11 @@
     "wiki": "https://wiki.hypixel.net/Volta",
     "base_rarity": "RARE"
   },
+  "VOLT_CRUX": {
+    "name": "Volt Crux",
+    "wiki": "https://wiki.hypixel.net/Volt_Crux",
+    "base_rarity": "UNCOMMON"
+  },
   "VOODOO_DOLL": {
     "name": "Voodoo Doll",
     "recipe": {
@@ -47983,6 +49657,23 @@
     "wiki": "https://wiki.hypixel.net/Voodoo_Doll",
     "scrollable": true,
     "base_rarity": "RARE"
+  },
+  "VOODOO_DOLL_WILTED": {
+    "name": "Jinxed Voodoo Doll",
+    "recipe": {
+      "A1": "WILTED_BERBERIS_BUNCH:16",
+      "A2": "ENCHANTED_PUFFERFISH:3",
+      "A3": "WILTED_BERBERIS_BUNCH:16",
+      "B1": "WILTED_BERBERIS_BUNCH:16",
+      "B2": "VOIDLING_GENERATOR_2:1",
+      "B3": "ENCHANTED_GHAST_TEAR:13",
+      "C1": "ZOMBIE_HEART:1",
+      "C2": "WILTED_BERBERIS_BUNCH:16",
+      "C3": "VOODOO_DOLL:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Jinxed_Voodoo_Doll",
+    "scrollable": true,
+    "base_rarity": "EPIC"
   },
   "VORPAL_KATANA": {
     "name": "Vorpal Katana",
@@ -48126,6 +49817,11 @@
     "skins": [
       "TRUE_WARDEN"
     ]
+  },
+  "WARDING_TRINKET": {
+    "name": "Warding Trinket",
+    "wiki": "https://wiki.hypixel.net/Warding_Trinket",
+    "base_rarity": "EPIC"
   },
   "WARNING_FLARE": {
     "name": "Warning Flare",
@@ -48708,6 +50404,27 @@
     "wiki": "https://wiki.hypixel.net/Wilson%27s_Engineering_Plans",
     "base_rarity": "LEGENDARY"
   },
+  "WILTED_BERBERIS": {
+    "name": "Wilted Berberis",
+    "wiki": "https://wiki.hypixel.net/Wilted_Berberis",
+    "base_rarity": "COMMON"
+  },
+  "WILTED_BERBERIS_BUNCH": {
+    "name": "Wilted Berberis Bunch",
+    "recipe": {
+      "A1": "",
+      "A2": "WILTED_BERBERIS:4",
+      "A3": "",
+      "B1": "WILTED_BERBERIS:4",
+      "B2": "WILTED_BERBERIS:4",
+      "B3": "WILTED_BERBERIS:4",
+      "C1": "",
+      "C2": "WILTED_BERBERIS:4",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Wilted_Berberis_Bunch",
+    "base_rarity": "UNCOMMON"
+  },
   "WINDMILL_BARN_SKIN": {
     "name": "Windmill Barn Skin",
     "wiki": "https://wiki.hypixel.net/Windmill_Barn_Skin",
@@ -49055,6 +50772,12 @@
     "name": "Wither Soul",
     "wiki": "https://wiki.hypixel.net/Wither_Soul",
     "base_rarity": "UNCOMMON"
+  },
+  "WIZARD_BREADCRUMBS": {
+    "name": "Wizard\u0027s Breadcrumbs",
+    "wiki": "https://wiki.hypixel.net/Wizard%27s_Breadcrumbs",
+    "scrollable": true,
+    "base_rarity": "RARE"
   },
   "WIZARD_PORTAL_MEMENTO": {
     "name": "Piece of Wizard Portal",
@@ -49881,7 +51604,58 @@
   },
   "WYLD_BOOTS": {
     "name": "Wyld Boots",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:50.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "WYLD_CHESTPLATE": {
+    "name": "Wyld Chain Top",
+    "wiki": "https://wiki.hypixel.net/Wyld_Chain_Top",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:2000"
+      ],
+      "count": 1
+    }
+  },
+  "WYLD_HELMET": {
+    "name": "Wyld Helmet on a Helmet",
+    "wiki": "https://wiki.hypixel.net/Wyld_Helmet_On_A_Helmet",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:1000"
+      ],
+      "count": 1
+    }
+  },
+  "WYLD_LEGGINGS": {
+    "name": "Wyld Leggings",
+    "wiki": "https://wiki.hypixel.net/Wyld_Leggings",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:1000.0:1"
+      ],
+      "count": 1
+    }
+  },
+  "WYLD_SWORD": {
+    "name": "Wyld Sword",
+    "wiki": "https://wiki.hypixel.net/Wyld_Sword",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:333.0:1",
+        "SHAME_CRUX:3.0:1"
+      ],
+      "count": 1
+    }
   },
   "X": {
     "name": "X",
@@ -50613,6 +52387,17 @@
       "cost": [
         "SKYBLOCK_COIN:500"
       ]
+    }
+  },
+  "ZOOP_THE_FISH": {
+    "name": "Zoop the Fish",
+    "wiki": "https://wiki.hypixel.net/Zoop_The_Fish",
+    "base_rarity": "SPECIAL",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:99999"
+      ],
+      "count": 1
     }
   }
 }
