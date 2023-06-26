@@ -954,11 +954,33 @@
   },
   "ANTI_BITE_SCARF": {
     "name": "Anti-Bite Scarf",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "COVEN_SEAL:8",
+      "B2": "",
+      "B3": "COVEN_SEAL:8",
+      "C1": "COVEN_SEAL:8",
+      "C2": "DETRANSFIGURED_MASK:1",
+      "C3": "COVEN_SEAL:8"
+    },
     "wiki": "https://wiki.hypixel.net/Anti-Bite_Scarf",
     "base_rarity": "LEGENDARY"
   },
   "ANTI_BITE_SCARF_2": {
     "name": "Anti-Bite Scarf",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "",
+      "B2": "SCARF_STUDIES:1",
+      "B3": "",
+      "C1": "BLOODBADGE:1",
+      "C2": "ANTI_BITE_SCARF:1",
+      "C3": "BLOODBADGE:1"
+    },
     "wiki": "https://wiki.hypixel.net/Anti-Bite_Scarf",
     "base_rarity": "MYTHIC"
   },
@@ -2453,6 +2475,11 @@
     "wiki": "https://wiki.hypixel.net/Bedrock",
     "base_rarity": "LEGENDARY"
   },
+  "BEDWARS_WOOL": {
+    "name": "Tree-like Wool",
+    "wiki": "https://wiki.hypixel.net/Tree-like_Wool",
+    "base_rarity": "COMMON"
+  },
   "BEE;0": {
     "name": "Common Bee",
     "texture": "7e941987e825a24ea7baafab9819344b6c247c75c54a691987cd296bc163c263",
@@ -2670,6 +2697,11 @@
   "BIG_BRAIN;5": {
     "name": "Big Brain V",
     "base_rarity": "UNCOMMON"
+  },
+  "BIG_BRAIN_TALISMAN": {
+    "name": "Big Brain Talisman",
+    "wiki": "https://wiki.hypixel.net/Big_Brain_Talisman",
+    "base_rarity": "COMMON"
   },
   "BIG_XTREE": {
     "name": "Tall Holiday Tree",
@@ -3649,15 +3681,15 @@
   "BLOOD_DONOR_ARTIFACT": {
     "name": "Blood Donor Artifact",
     "recipe": {
-      "A1": "HEMOBOMB:64",
-      "A2": "HEMOBOMB:64",
-      "A3": "HEMOBOMB:64",
-      "B1": "HEMOBOMB:64",
+      "A1": "HEMOBOMB:16",
+      "A2": "HEMOBOMB:16",
+      "A3": "HEMOBOMB:16",
+      "B1": "HEMOBOMB:16",
       "B2": "BLOOD_DONOR_RING:1",
-      "B3": "HEMOBOMB:64",
-      "C1": "HEMOBOMB:64",
-      "C2": "HEMOBOMB:64",
-      "C3": "HEMOBOMB:64"
+      "B3": "HEMOBOMB:16",
+      "C1": "HEMOBOMB:16",
+      "C2": "HEMOBOMB:16",
+      "C3": "HEMOBOMB:16"
     },
     "wiki": "https://wiki.hypixel.net/Blood_Donor_Artifact",
     "base_rarity": "RARE"
@@ -4185,6 +4217,7 @@
   },
   "BRONZE_TROPHY_FISHING_SACK": {
     "name": "Bronze Trophy Fishing Sack",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bronze_Trophy_Fishing_Sack",
     "base_rarity": "UNCOMMON"
   },
   "BROWN_MUSHROOM": {
@@ -6078,6 +6111,7 @@
   },
   "CHARCOAL": {
     "name": "Charcoal",
+    "wiki": "https://wiki.hypixel.net/Charcoal",
     "base_rarity": "COMMON"
   },
   "CHARM;1": {
@@ -11467,6 +11501,12 @@
       "count": 64
     }
   },
+  "EMMETT_POINTER": {
+    "name": "Emmett Pointer",
+    "wiki": "https://wiki.hypixel.net/Emmett_Pointer",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
+  },
   "EMPTY_CHUMCAP_BUCKET": {
     "name": "Empty Chumcap Bucket",
     "recipe": {
@@ -11480,6 +11520,7 @@
       "C2": "AGARICUS_CHUM_CAP:1",
       "C3": "AGARICUS_CHUM_CAP:1"
     },
+    "wiki": "https://wiki.hypixel.net/Empty_Chumcap_Bucket",
     "base_rarity": "UNCOMMON"
   },
   "EMPTY_CHUM_BUCKET": {
@@ -11687,12 +11728,18 @@
   },
   "ENCHANTED_BOOK_BUNDLE_QUANTUM": {
     "name": "Enchanted Book Bundle",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_BOOK_BUNDLE_REFLECTION": {
     "name": "Enchanted Book Bundle",
     "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
     "base_rarity": "UNCOMMON"
+  },
+  "ENCHANTED_BOOK_BUNDLE_THE_ONE": {
+    "name": "Enchanted Book Bundle",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
+    "base_rarity": "LEGENDARY"
   },
   "ENCHANTED_BOOK_BUNDLE_VICIOUS": {
     "name": "Enchanted Book Bundle",
@@ -12619,6 +12666,17 @@
   },
   "ENCHANTED_LUSH_BERBERIS": {
     "name": "Enchanted Lush Berberis",
+    "recipe": {
+      "A1": "",
+      "A2": "LUSH_BERBERIS:32",
+      "A3": "",
+      "B1": "LUSH_BERBERIS:32",
+      "B2": "LUSH_BERBERIS:32",
+      "B3": "LUSH_BERBERIS:32",
+      "C1": "",
+      "C2": "LUSH_BERBERIS:32",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Enchanted_Lush_Berberis",
     "base_rarity": "RARE"
   },
@@ -14721,7 +14779,8 @@
       "B3": "",
       "C1": "",
       "C2": "SCRIBE_CRUX:1",
-      "C3": ""
+      "C3": "",
+      "count": 64
     },
     "wiki": "https://wiki.hypixel.net/Exportable_Carrots",
     "base_rarity": "UNCOMMON"
@@ -14803,6 +14862,7 @@
   },
   "FAKE_NEUROSCIENCE_DEGREE": {
     "name": "Fake Neuroscience Degree",
+    "wiki": "https://wiki.hypixel.net/Fake_Neuroscience_Degree",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -16769,6 +16829,11 @@
     "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Flawless_Topaz_Gemstone",
     "base_rarity": "EPIC"
   },
+  "FLEX_HELMET": {
+    "name": "Flex Helmet",
+    "wiki": "https://wiki.hypixel.net/Flex_Helmet",
+    "base_rarity": "LEGENDARY"
+  },
   "FLINT": {
     "name": "Flint",
     "wiki": "https://wiki.hypixel.net/Flint",
@@ -17309,6 +17374,22 @@
     "wiki": "https://wiki.hypixel.net/Fourth_Master_Star",
     "base_rarity": "EPIC"
   },
+  "FOUR_EYED_FISH": {
+    "name": "Four-Eyed Fish",
+    "recipe": {
+      "A1": "ENCHANTED_SPIDER_EYE:64",
+      "A2": "ENCHANTED_SPIDER_EYE:64",
+      "A3": "ENCHANTED_SPIDER_EYE:64",
+      "B1": "PET_ITEM_LUCKY_CLOVER:1",
+      "B2": "PRE_DIGESTION_FISH:1",
+      "B3": "REINFORCED_SCALES:1",
+      "C1": "ENCHANTED_SPIDER_EYE:64",
+      "C2": "ENCHANTED_SPIDER_EYE:64",
+      "C3": "ENCHANTED_SPIDER_EYE:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Four-Eyed_Fish",
+    "base_rarity": "EPIC"
+  },
   "FRACTURED_MITHRIL_PICKAXE": {
     "name": "Fractured Mithril Pickaxe",
     "wiki": "https://wiki.hypixel.net/Fractured_Mithril_Pickaxe",
@@ -17623,6 +17704,22 @@
     "name": "Furnace+",
     "wiki": "https://wiki.hypixel.net/Furnace%2B",
     "base_rarity": "RARE"
+  },
+  "FUTURE_CALORIES": {
+    "name": "Future Calories Talisman",
+    "recipe": {
+      "A1": "ENCHANTED_RAW_FISH:64",
+      "A2": "MAGMA_FISH_SILVER:24",
+      "A3": "ENCHANTED_RAW_FISH:64",
+      "B1": "ENCHANTED_RAW_FISH:64",
+      "B2": "PRE_DIGESTION_FISH:1",
+      "B3": "ENCHANTED_RAW_FISH:64",
+      "C1": "ENCHANTED_RAW_FISH:64",
+      "C2": "MAGMA_FISH_SILVER:24",
+      "C3": "ENCHANTED_RAW_FISH:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Future_Calories_Talisman",
+    "base_rarity": "COMMON"
   },
   "GABAGOEY_MIXIN": {
     "name": "Gabagoey Mixin",
@@ -21173,6 +21270,17 @@
   },
   "HEMOGLASS": {
     "name": "Hemoglass",
+    "recipe": {
+      "A1": "",
+      "A2": "HEMOVIBE:32",
+      "A3": "",
+      "B1": "HEMOVIBE:32",
+      "B2": "HEMOVIBE:32",
+      "B3": "HEMOVIBE:32",
+      "C1": "",
+      "C2": "HEMOVIBE:32",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Hemoglass",
     "base_rarity": "RARE"
   },
@@ -21209,6 +21317,7 @@
   },
   "HOCUS_POCUS_CIPHER": {
     "name": "Hocus-Pocus Cipher",
+    "wiki": "https://wiki.hypixel.net/Hocus-Pocus_Cipher",
     "base_rarity": "EPIC"
   },
   "HOE_OF_GREATER_TILLING": {
@@ -21356,6 +21465,23 @@
     "name": "Holy Dragon Fragment",
     "wiki": "https://wiki.hypixel.net/Holy_Dragon_Fragment",
     "base_rarity": "EPIC"
+  },
+  "HOLY_ICE": {
+    "name": "Holy Ice",
+    "recipe": {
+      "A1": "COVEN_SEAL:4",
+      "A2": "FROZEN_WATER:20",
+      "A3": "COVEN_SEAL:4",
+      "B1": "FROZEN_WATER:20",
+      "B2": "FROZEN_WATER:20",
+      "B3": "FROZEN_WATER:20",
+      "C1": "COVEN_SEAL:4",
+      "C2": "FROZEN_WATER:20",
+      "C3": "COVEN_SEAL:4"
+    },
+    "wiki": "https://wiki.hypixel.net/Holy_Ice",
+    "scrollable": true,
+    "base_rarity": "RARE"
   },
   "HOLY_SHIMMER": {
     "name": "Shimmer Skin",
@@ -25603,6 +25729,11 @@
       "count": 1
     }
   },
+  "LARVA_SILK": {
+    "name": "Larva Silk",
+    "wiki": "https://wiki.hypixel.net/Larva_Silk",
+    "base_rarity": "UNCOMMON"
+  },
   "LAST_BREATH": {
     "name": "Last Breath",
     "wiki": "https://wiki.hypixel.net/Last_Breath",
@@ -26254,6 +26385,22 @@
       ]
     }
   },
+  "LIVELY_SEPULTURE_CHESTPLATE": {
+    "name": "Lively Sepulture Chestplate",
+    "recipe": {
+      "A1": "METAL_HEART:32",
+      "A2": "",
+      "A3": "METAL_HEART:32",
+      "B1": "WILTED_BERBERIS_BUNCH:6",
+      "B2": "ORANGE_CHESTPLATE:1",
+      "B3": "WILTED_BERBERIS_BUNCH:6",
+      "C1": "WILTED_BERBERIS_BUNCH:6",
+      "C2": "BLOODBADGE:12",
+      "C3": "WILTED_BERBERIS_BUNCH:6"
+    },
+    "wiki": "https://wiki.hypixel.net/Lively_Sepulture_Chestplate",
+    "base_rarity": "LEGENDARY"
+  },
   "LIVID_DAGGER": {
     "name": "Livid Dagger",
     "wiki": "https://wiki.hypixel.net/Livid_Dagger",
@@ -26607,6 +26754,23 @@
   "LURE;6": {
     "name": "Lure VI",
     "base_rarity": "RARE"
+  },
+  "LUSCIOUS_HEALING_MELON": {
+    "name": "Luscious Healing Melon",
+    "recipe": {
+      "A1": "",
+      "A2": "BLOODBADGE:1",
+      "A3": "",
+      "B1": "",
+      "B2": "JUICY_HEALING_MELON:1",
+      "B3": "",
+      "C1": "",
+      "C2": "BLOODBADGE:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Luscious_Healing_Melon",
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
   },
   "LUSH_ARTIFACT": {
     "name": "Lush Artifact",
@@ -28740,6 +28904,11 @@
     },
     "base_rarity": "COMMON"
   },
+  "MIRRORED_SLIME_BALL": {
+    "name": "llabemilS",
+    "wiki": "https://wiki.hypixel.net/llabemilS",
+    "base_rarity": "COMMON"
+  },
   "MIRRORED_STICK": {
     "name": "kcitS",
     "recipe": {
@@ -28757,6 +28926,10 @@
   },
   "MIRRORED_STRING": {
     "name": "gnirtS",
+    "base_rarity": "COMMON"
+  },
+  "MIRRORED_WOOD": {
+    "name": "knalP dooW kaO",
     "base_rarity": "COMMON"
   },
   "MITE_GEL": {
@@ -30579,15 +30752,15 @@
   "NOT_DEADGEHOG_MASK": {
     "name": "Not-Dead-Gehog Mask",
     "recipe": {
-      "A1": "VOLT_CRUX:8",
-      "A2": "WYLD_LEGGINGS:1",
-      "A3": "VOLT_CRUX:8",
-      "B1": "METAPHORIC_EGG:8",
-      "B2": "",
-      "B3": "METAPHORIC_EGG:8",
-      "C1": "METAPHORIC_EGG:8",
+      "A1": "DEADGEHOG_SPINE:2",
+      "A2": "DEADGEHOG_SPINE:2",
+      "A3": "DEADGEHOG_SPINE:2",
+      "B1": "DEADGEHOG_SPINE:2",
+      "B2": "WYLD_HELMET:1",
+      "B3": "DEADGEHOG_SPINE:2",
+      "C1": "",
       "C2": "",
-      "C3": "METAPHORIC_EGG:8"
+      "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Not-Dead-Gehog_Mask",
     "base_rarity": "UNCOMMON"
@@ -33945,6 +34118,7 @@
   },
   "PINWHEEL_HOUSE_BARN_SKIN": {
     "name": "Pinwheel House Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Pinwheel_House_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "PISCARY;1": {
@@ -34676,6 +34850,11 @@
     "name": "Presumed Gallon of Red Paint",
     "wiki": "https://wiki.hypixel.net/Presumed_Gallon_Of_Red_Paint",
     "base_rarity": "RARE"
+  },
+  "PRE_DIGESTION_FISH": {
+    "name": "Pre-Digestion Fish",
+    "wiki": "https://wiki.hypixel.net/Pre-Digestion_Fish",
+    "base_rarity": "EPIC"
   },
   "PRICELESS_THE_FISH": {
     "name": "Priceless the Fish",
@@ -39459,6 +39638,17 @@
   },
   "SELF_RECURSIVE_PICKAXE": {
     "name": "Self-Recursive Pickaxe",
+    "recipe": {
+      "A1": "NULLIFIED_METAL:2",
+      "A2": "NULLIFIED_METAL:2",
+      "A3": "NULLIFIED_METAL:2",
+      "B1": "",
+      "B2": "WILTED_BERBERIS:24",
+      "B3": "",
+      "C1": "",
+      "C2": "TACTICIAN_MURDER_WEAPON:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Self-Recursive_Pickaxe",
     "base_rarity": "RARE"
   },
@@ -40372,6 +40562,17 @@
   },
   "SILVERTWIST_KARAMBIT": {
     "name": "Silver-Twist Karambit",
+    "recipe": {
+      "A1": "",
+      "A2": "SILVER_FANG:64",
+      "A3": "",
+      "B1": "",
+      "B2": "SILVER_LACED_KARAMBIT:1",
+      "B3": "",
+      "C1": "",
+      "C2": "BLOODBADGE:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Silver-Twist_Karambit",
     "base_rarity": "EPIC"
   },
@@ -40411,8 +40612,25 @@
     "wiki": "https://wiki.hypixel.net/Silver_Hunter_Leggings",
     "base_rarity": "RARE"
   },
+  "SILVER_LACED_KARAMBIT": {
+    "name": "Silver-Laced Karambit",
+    "recipe": {
+      "A1": "",
+      "A2": "SILVER_FANG:12",
+      "A3": "",
+      "B1": "",
+      "B2": "SELF_RECURSIVE_PICKAXE:1",
+      "B3": "",
+      "C1": "",
+      "C2": "COVEN_SEAL:12",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Silver-Laced_Karambit",
+    "base_rarity": "EPIC"
+  },
   "SILVER_TROPHY_FISHING_SACK": {
     "name": "Silver Trophy Fishing Sack",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silver_Trophy_Fishing_Sack",
     "base_rarity": "RARE"
   },
   "SIL_EX": {
@@ -42431,6 +42649,18 @@
       "C3": "SOUL_STRING:64"
     },
     "wiki": "https://wiki.hypixel.net/Souls_Rebound",
+    "base_rarity": "EPIC"
+  },
+  "SOULTWIST_RUNE;1": {
+    "name": "◆ Soultwist Rune I",
+    "base_rarity": "EPIC"
+  },
+  "SOULTWIST_RUNE;2": {
+    "name": "◆ Soultwist Rune II",
+    "base_rarity": "EPIC"
+  },
+  "SOULTWIST_RUNE;3": {
+    "name": "◆ Soultwist Rune III",
     "base_rarity": "EPIC"
   },
   "SOUL_ESOWARD": {
@@ -46925,6 +47155,11 @@
     "wiki": "https://wiki.hypixel.net/Tessellated_Ender_Pearl",
     "base_rarity": "LEGENDARY"
   },
+  "TEST_BUCKET_PLEASE_IGNORE": {
+    "name": "Test Bucket Please Ignore",
+    "wiki": "https://wiki.hypixel.net/Test_Bucket_Please_Ignore",
+    "base_rarity": "UNCOMMON"
+  },
   "THEORETICAL_HOE": {
     "name": "Mathematical Hoe Blueprint",
     "wiki": "https://wiki.hypixel.net/Mathematical_Hoe_Blueprint",
@@ -48025,6 +48260,11 @@
     "wiki": "https://wiki.hypixel.net/Tuning_Fork",
     "base_rarity": "RARE"
   },
+  "TURBOMAX_VACUUM": {
+    "name": "Turbomax Vacuum Cleaner",
+    "wiki": "https://wiki.hypixel.net/Turbomax_Vacuum_Cleaner",
+    "base_rarity": "RARE"
+  },
   "TURBO_CACTUS;1": {
     "name": "Turbo-Cacti I",
     "base_rarity": "COMMON"
@@ -48652,6 +48892,16 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
     "base_rarity": "UNCOMMON"
   },
+  "ULTIMATE_THE_ONE;4": {
+    "name": "The One IV",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
+    "base_rarity": "COMMON"
+  },
+  "ULTIMATE_THE_ONE;5": {
+    "name": "The One V",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
+    "base_rarity": "UNCOMMON"
+  },
   "ULTIMATE_WISDOM;1": {
     "name": "Wisdom I",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
@@ -48736,6 +48986,11 @@
         "SKYBLOCK_COIN:100"
       ]
     }
+  },
+  "UNFANGED_VAMPIRE_PART": {
+    "name": "Unfanged Vampire Part",
+    "wiki": "https://wiki.hypixel.net/Unfanged_Vampire_Part",
+    "base_rarity": "LEGENDARY"
   },
   "UNSTABLE_BABY": {
     "name": "Baby Skin",
@@ -48930,6 +49185,22 @@
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
     },
     "wiki": "https://wiki.hypixel.net/Valkyrie",
+    "base_rarity": "LEGENDARY"
+  },
+  "VAMPIRE_DENTIST_RELIC": {
+    "name": "Vampire Dentist Relic",
+    "recipe": {
+      "A1": "BLOODBADGE:1",
+      "A2": "BLOODBADGE:1",
+      "A3": "BLOODBADGE:1",
+      "B1": "BLOODBADGE:1",
+      "B2": "UNFANGED_VAMPIRE_PART:1",
+      "B3": "BLOODBADGE:1",
+      "C1": "BLOODBADGE:1",
+      "C2": "BLOODBADGE:1",
+      "C3": "BLOODBADGE:1"
+    },
+    "wiki": "https://wiki.hypixel.net/Vampire_Dentist_Relic",
     "base_rarity": "LEGENDARY"
   },
   "VAMPIRE_GENERATOR_1": {
@@ -49795,6 +50066,11 @@
     "scrollable": true,
     "base_rarity": "EPIC"
   },
+  "WAND_OF_WARDING": {
+    "name": "Warding Diamathame",
+    "wiki": "https://wiki.hypixel.net/Warding_Diamathame",
+    "base_rarity": "RARE"
+  },
   "WARDEN_HEART": {
     "name": "Warden Heart",
     "wiki": "https://wiki.hypixel.net/Warden_Heart",
@@ -50019,6 +50295,23 @@
     "name": "Legendary Ring of Love",
     "wiki": "https://wiki.hypixel.net/Legendary_Ring_Of_Love",
     "base_rarity": "LEGENDARY"
+  },
+  "WEIRDER_TUBA": {
+    "name": "Weirder Tuba",
+    "recipe": {
+      "A1": "METAL_HEART:4",
+      "A2": "",
+      "A3": "METAL_HEART:4",
+      "B1": "METAL_HEART:4",
+      "B2": "WEIRD_TUBA:1",
+      "B3": "METAL_HEART:4",
+      "C1": "",
+      "C2": "BLOODBADGE:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Weirder_Tuba",
+    "scrollable": true,
+    "base_rarity": "EPIC"
   },
   "WEIRD_TUBA": {
     "name": "Weird Tuba",
@@ -50784,6 +51077,10 @@
     "name": "Piece of Wizard Portal",
     "wiki": "https://wiki.hypixel.net/Piece_Of_Wizard_Portal",
     "base_rarity": "SPECIAL"
+  },
+  "WIZARD_TOWER_PORTAL": {
+    "name": "Portal to The Wizard Tower",
+    "base_rarity": "COMMON"
   },
   "WIZARD_WAND": {
     "name": "Wizard Wand",
