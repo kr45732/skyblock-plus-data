@@ -31903,8 +31903,53 @@
     "wiki": "https://wiki.hypixel.net/Crab_Hat_Of_Celebration",
     "base_rarity": "SPECIAL"
   },
-  "PARTY_HAT_SLOTH": {
+  "PARTY_HAT_SLOTH_CHEEKY": {
+    "name": "Cheeky Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_COOL": {
+    "name": "Cool Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_CUTE": {
+    "name": "Cute Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_DERP": {
+    "name": "Derp Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_FLUSHED": {
+    "name": "Flushed Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_GRUMPY": {
+    "name": "Grumpy Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_HAPPY": {
+    "name": "Happy Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_REGULAR": {
+    "name": "Regular Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_SHOCK": {
     "name": "Shock Sloth Hat of Celebration",
+    "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
+    "base_rarity": "SPECIAL"
+  },
+  "PARTY_HAT_SLOTH_TEARS": {
+    "name": "Tears Sloth Hat of Celebration",
     "wiki": "https://wiki.hypixel.net/Sloth_Hat_Of_Celebration",
     "base_rarity": "SPECIAL"
   },
