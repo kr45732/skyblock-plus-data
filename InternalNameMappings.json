@@ -3712,6 +3712,17 @@
   },
   "BLOOD_DONOR_TALISMAN": {
     "name": "Blood Donor Talisman",
+    "recipe": {
+      "A1": "HEMOVIBE:12",
+      "A2": "HEMOVIBE:12",
+      "A3": "HEMOVIBE:12",
+      "B1": "HEMOVIBE:12",
+      "B2": "HEMOVIBE:12",
+      "B3": "HEMOVIBE:12",
+      "C1": "HEMOVIBE:12",
+      "C2": "HEMOVIBE:12",
+      "C3": "HEMOVIBE:12"
+    },
     "wiki": "https://wiki.hypixel.net/Blood_Donor_Talisman",
     "base_rarity": "COMMON"
   },
@@ -11734,7 +11745,13 @@
   "ENCHANTED_BOOK_BUNDLE_REFLECTION": {
     "name": "Enchanted Book Bundle",
     "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SHADOW_CRUX:16",
+        "SKYBLOCK_MOTE:5000"
+      ]
+    }
   },
   "ENCHANTED_BOOK_BUNDLE_THE_ONE": {
     "name": "Enchanted Book Bundle",
@@ -14531,7 +14548,13 @@
   "ETALPTSEHC_NORI": {
     "name": "etalptsehC norI",
     "wiki": "https://wiki.hypixel.net/etalptsehC_NorI",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "WYLD_CHESTPLATE:1",
+        "SHADOW_CRUX:12"
+      ]
+    }
   },
   "ETERNAL_FLAME_RING": {
     "name": "Eternal Flame Ring",
@@ -14885,6 +14908,10 @@
     "name": "Doubloon of the Family",
     "wiki": "https://wiki.hypixel.net/Doubloon_Of_The_Family",
     "base_rarity": "RARE"
+  },
+  "FANCY_BEACH_CHAIR": {
+    "name": "Fancy Beach Chair",
+    "base_rarity": "EPIC"
   },
   "FANCY_FLOWER_POT": {
     "name": "Flower Pot",
@@ -16198,6 +16225,10 @@
     "name": "First Strike V",
     "base_rarity": "UNCOMMON"
   },
+  "FISHERMAN_COOLER": {
+    "name": "Fisherman\u0027s Cooler",
+    "base_rarity": "EPIC"
+  },
   "FISHING_CRYSTAL": {
     "name": "Fishing Crystal",
     "wiki": "https://wiki.hypixel.net/Fishing_Crystal"
@@ -16551,6 +16582,10 @@
       "C3": "ENCHANTED_HARD_STONE:20"
     },
     "wiki": "https://wiki.hypixel.net/Flamebreaker_Leggings",
+    "base_rarity": "EPIC"
+  },
+  "FLAMINGO": {
+    "name": "Flamingo Float",
     "base_rarity": "EPIC"
   },
   "FLAMING_CHESTPLATE": {
@@ -17623,6 +17658,17 @@
   },
   "FROZEN_WATER_PUNGI": {
     "name": "Frozen Water Pungi",
+    "recipe": {
+      "A1": "FROZEN_WATER:16",
+      "A2": "FROZEN_WATER:16",
+      "A3": "FROZEN_WATER:16",
+      "B1": "FROZEN_WATER:16",
+      "B2": "NULLIFIED_METAL:8",
+      "B3": "FROZEN_WATER:16",
+      "C1": "FROZEN_WATER:16",
+      "C2": "FROZEN_WATER:16",
+      "C3": "FROZEN_WATER:16"
+    },
     "wiki": "https://wiki.hypixel.net/Frozen_Water_Pungi",
     "base_rarity": "EPIC"
   },
@@ -27816,6 +27862,10 @@
     "wiki": "https://wiki.hypixel.net/Maxor_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "MCGRUBBER_BURGER": {
+    "name": "McGrubber\u0027s Burger",
+    "base_rarity": "EPIC"
+  },
   "MEDIUM_AGRONOMY_SACK": {
     "name": "Medium Agronomy Sack",
     "recipe": {
@@ -33367,7 +33417,8 @@
   },
   "PET_SKIN_ELEPHANT_BLUE": {
     "name": "Blue Elephant Skin",
-    "wiki": "https://wiki.hypixel.net/Blue_Elephant_Skin"
+    "wiki": "https://wiki.hypixel.net/Blue_Elephant_Skin",
+    "base_rarity": "RARE"
   },
   "PET_SKIN_ELEPHANT_GREEN": {
     "name": "Green Elephant Skin",
@@ -38393,7 +38444,14 @@
   "RIFT_TROPHY_CITIZEN": {
     "name": "SkyBlock Citizen Timecharm",
     "wiki": "https://wiki.hypixel.net/SkyBlock_Citizen_Timecharm",
-    "base_rarity": "SPECIAL"
+    "base_rarity": "SPECIAL",
+    "npc_buy": {
+      "cost": [
+        "BARRY_PEN:1.0",
+        "SCRIBE_CRUX:16.0"
+      ],
+      "count": 1
+    }
   },
   "RIFT_TROPHY_LAZY_LIVING": {
     "name": "Living Timecharm",
@@ -38413,10 +38471,27 @@
   },
   "RIFT_TROPHY_MIRRORED": {
     "name": "mrahcemiT esrevrorriM",
-    "base_rarity": "SPECIAL"
+    "base_rarity": "SPECIAL",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_MOTE:10000",
+        "SHADOW_CRUX:10"
+      ]
+    }
   },
   "RIFT_TROPHY_SLIME": {
     "name": "Globulate Timecharm",
+    "recipe": {
+      "A1": "BACTE_FRAGMENT:1",
+      "A2": "BACTE_FRAGMENT:1",
+      "A3": "BACTE_FRAGMENT:1",
+      "B1": "BACTE_FRAGMENT:1",
+      "B2": "SHAME_CRUX:20",
+      "B3": "BACTE_FRAGMENT:1",
+      "C1": "BACTE_FRAGMENT:1",
+      "C2": "BACTE_FRAGMENT:1",
+      "C3": "BACTE_FRAGMENT:1"
+    },
     "wiki": "https://wiki.hypixel.net/Globulate_Timecharm",
     "base_rarity": "SPECIAL"
   },
@@ -46615,7 +46690,13 @@
   "TACTICIAN_MURDER_WEAPON": {
     "name": "Tactician\u0027s Murder Weapon",
     "wiki": "https://wiki.hypixel.net/Tactician%27s_Murder_Weapon",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "LEECH_SWORD:1",
+        "SKYBLOCK_MOTE:500"
+      ]
+    }
   },
   "TACTICIAN_SWORD": {
     "name": "Tactician\u0027s Sword",
@@ -47810,6 +47891,10 @@
     "name": "Tiki Torch",
     "wiki": "https://wiki.hypixel.net/Tiki_Torch",
     "base_rarity": "COMMON"
+  },
+  "TINY_DANCER": {
+    "name": "Tiny Dancer",
+    "base_rarity": "UNCOMMON"
   },
   "TINY_HAMMER": {
     "name": "remmaH yniT",
