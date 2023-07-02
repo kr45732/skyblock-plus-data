@@ -9427,6 +9427,11 @@
     "wiki": "https://wiki.hypixel.net/Deep_Sea_Orb",
     "base_rarity": "EPIC"
   },
+  "DEFECTIVE_MONITOR": {
+    "name": "Defective Monitor",
+    "wiki": "https://wiki.hypixel.net/Defective_Monitor",
+    "base_rarity": "EPIC"
+  },
   "DEFUSE_KIT": {
     "name": "Defuse Kit",
     "wiki": "https://wiki.hypixel.net/Defuse_Kit",
@@ -17435,6 +17440,16 @@
       ]
     }
   },
+  "FRACTURED_MONTEZUMA_SOUL;2": {
+    "name": "Rare Montezuma",
+    "wiki": "https://wiki.hypixel.net/Montezuma_Pet",
+    "base_rarity": "RARE"
+  },
+  "FRACTURED_MONTEZUMA_SOUL;3": {
+    "name": "Epic Montezuma",
+    "wiki": "https://wiki.hypixel.net/Montezuma_Pet",
+    "base_rarity": "EPIC"
+  },
   "FRAIL;1": {
     "name": "Frail I",
     "base_rarity": "COMMON"
@@ -20154,6 +20169,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Great_White_Tooth_Meal",
     "base_rarity": "LEGENDARY"
+  },
+  "GREENHOUSE": {
+    "name": "Greenhouse Planter",
+    "base_rarity": "EPIC"
   },
   "GREEN_BANDANA": {
     "name": "Green Bandana",
