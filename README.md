@@ -97,6 +97,22 @@ Information about all items in the game (credit to [NotEnoughUpdates-REPO](https
 }
 ```
 
+## MuseumCategories.json
+List of items for each museum category and mappings for armor sets (API) to displayed item (in-game). 
+```yaml
+{
+  "category": [
+    String,
+    ...
+  ],
+  ...
+  "armor_to_id": {
+    "ARMOR_SET": "ITEM_ID",
+    ...
+  }
+}
+```
+
 ## PriceOverrides.json
 Manual and automatic price overrides for networth calculations.
 ```yaml
