@@ -3994,10 +3994,6 @@
     "name": "Spirit Bow",
     "wiki": "https://wiki.hypixel.net/Spirit_Bow"
   },
-  "BOTTLED_INSPIRATION": {
-    "name": "Bottled Inspiration",
-    "base_rarity": "RARE"
-  },
   "BOTTLED_ODONATA": {
     "name": "Bottled Odonata",
     "wiki": "https://wiki.hypixel.net/Bottled_Odonata",
@@ -17795,12 +17791,12 @@
   "GAME_ANNIHILATOR": {
     "name": "Game Annihilator",
     "wiki": "https://wiki.hypixel.net/Game_Annihilator",
-    "base_rarity": "SPECIAL"
+    "base_rarity": "VERY_SPECIAL"
   },
   "GAME_BREAKER": {
     "name": "Game Breaker",
     "wiki": "https://wiki.hypixel.net/Game_Breaker",
-    "base_rarity": "SPECIAL"
+    "base_rarity": "VERY_SPECIAL"
   },
   "GARDEN_SCYTHE": {
     "name": "Garden Scythe",
@@ -23466,21 +23462,6 @@
     "scrollable": true,
     "base_rarity": "EPIC"
   },
-  "INSPIRED_CHESTPLATE": {
-    "name": "Inspired Chestplate",
-    "recipe": {
-      "A1": "",
-      "A2": "DEADGEHOG_SPINE:32",
-      "A3": "",
-      "B1": "DEADGEHOG_SPINE:32",
-      "B2": "IRON_CHESTPLATE:1",
-      "B3": "DEADGEHOG_SPINE:32",
-      "C1": "SHAME_CRUX:32",
-      "C2": "BOTTLED_INSPIRATION:1",
-      "C3": "SHADOW_CRUX:32"
-    },
-    "base_rarity": "EPIC"
-  },
   "INTIMIDATION_ARTIFACT": {
     "name": "Intimidation Artifact",
     "wiki": "https://wiki.hypixel.net/Intimidation_Artifact",
@@ -26315,6 +26296,10 @@
         "SKYBLOCK_COIN:2"
       ]
     }
+  },
+  "LIFEGUARD_CHAIR": {
+    "name": "Lifeguard Chair",
+    "base_rarity": "EPIC"
   },
   "LIFE_PRESERVER": {
     "name": "Life Preserver",
@@ -32030,7 +32015,13 @@
   "PELT_BELT": {
     "name": "Pelt Belt",
     "wiki": "https://wiki.hypixel.net/Pelt_Belt",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_PELT:250"
+      ],
+      "count": 1
+    }
   },
   "PENGUIN_BACKPACK": {
     "name": "Penguin Backpack Skin",
@@ -46747,7 +46738,13 @@
     "name": "Talbot\u0027s Theodolite",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Talbot%27s_Theodolite",
     "scrollable": true,
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_PELT:80"
+      ],
+      "count": 1
+    }
   },
   "TALISMAN_ENRICHMENT_ATTACK_SPEED": {
     "name": "Attack Speed Enrichment",
@@ -48214,7 +48211,13 @@
   "TRAPPER_CREST": {
     "name": "Trapper Crest",
     "wiki": "https://wiki.hypixel.net/Trapper_Crest",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_PELT:340"
+      ],
+      "count": 1
+    }
   },
   "TRAPPER_DEN_PORTAL": {
     "name": "Portal to the Trapper\u0027s Den",
@@ -48224,7 +48227,13 @@
   "TRAPPER_DEN_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Trapper\u0027s Den",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Trapper%27s_Den",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_PELT:100"
+      ],
+      "count": 1
+    }
   },
   "TRAP_DOOR": {
     "name": "Wooden Trapdoor",
@@ -49139,6 +49148,10 @@
   "UNFANGED_VAMPIRE_PART": {
     "name": "Unfanged Vampire Part",
     "wiki": "https://wiki.hypixel.net/Unfanged_Vampire_Part",
+    "base_rarity": "LEGENDARY"
+  },
+  "UNIQUE_RUNE": {
+    "name": "◆ Spellbound Rune III",
     "base_rarity": "LEGENDARY"
   },
   "UNSTABLE_BABY": {
