@@ -1162,7 +1162,6 @@
       "HEARTMAW_DAGGER"
     ],
     "HARDENED_DIAMOND": [
-      "FLAME_BREAKER",
       "MINERAL"
     ],
     "HEAT": [
@@ -1231,7 +1230,8 @@
     "TITANIUM_DRILL_1": [
       "TITANIUM_DRILL_2",
       "TITANIUM_DRILL_3",
-      "TITANIUM_DRILL_4"
+      "TITANIUM_DRILL_4",
+      "DIVAN_DRILL"
     ],
     "MAGMA_ROD": [
       "INFERNO_ROD",
@@ -1264,6 +1264,20 @@
     "PUMPKIN_DICER": [
       "PUMPKIN_DICER_2",
       "PUMPKIN_DICER_3"
+    ],
+    "VOIDWALKER_KATANA": [
+      "VOIDEDGE_KATANA",
+      "VORPAL_KATANA",
+      "ATOMSPLIT_KATANA"
+    ],
+    "SHAMAN_SWORD": [
+      "POOCH_SWORD"
+    ],
+    "GROWTH": [
+      "MASTIFF"
+    ],
+    "SPOOKY": [
+      "BAT_PERSON"
     ]
   }
 }
