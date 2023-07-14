@@ -3964,6 +3964,10 @@
     },
     "base_rarity": "COMMON"
   },
+  "BOOK_OF_PROGRESSION": {
+    "name": "Book of Progression",
+    "base_rarity": "LEGENDARY"
+  },
   "BOOK_OF_STATS": {
     "name": "Book of Stats",
     "wiki": "https://wiki.hypixel.net/Book_Of_Stats",
@@ -9468,9 +9472,9 @@
       "B1": "MOLTEN_POWDER:32",
       "B2": "MOLTEN_POWDER:32",
       "B3": "MOLTEN_POWDER:32",
-      "C1": "ENCHANTED_RABBIT_HIDE:32",
-      "C2": "ENCHANTED_RABBIT_HIDE:32",
-      "C3": "ENCHANTED_RABBIT_HIDE:32"
+      "C1": "ENCHANTED_RABBIT_HIDE:64",
+      "C2": "ENCHANTED_RABBIT_HIDE:64",
+      "C3": "ENCHANTED_RABBIT_HIDE:64"
     },
     "wiki": "https://wiki.hypixel.net/Demonslayer_Gauntlet",
     "base_rarity": "EPIC"
@@ -10219,13 +10223,13 @@
     "base_rarity": "LEGENDARY"
   },
   "DIVAN_BOOTS": {
-    "name": "Boots Of Divan",
+    "name": "Boots of Divan",
     "wiki": "https://wiki.hypixel.net/Boots_Of_Divan",
     "forge": 82800,
     "base_rarity": "LEGENDARY"
   },
   "DIVAN_CHESTPLATE": {
-    "name": "Chestplate Of Divan",
+    "name": "Chestplate of Divan",
     "wiki": "https://wiki.hypixel.net/Chestplate_Of_Divan",
     "forge": 82800,
     "base_rarity": "LEGENDARY"
@@ -10242,13 +10246,13 @@
     "base_rarity": "EPIC"
   },
   "DIVAN_HELMET": {
-    "name": "Helmet Of Divan",
+    "name": "Helmet of Divan",
     "wiki": "https://wiki.hypixel.net/Helmet_Of_Divan",
     "forge": 82800,
     "base_rarity": "LEGENDARY"
   },
   "DIVAN_LEGGINGS": {
-    "name": "Leggings Of Divan",
+    "name": "Leggings of Divan",
     "wiki": "https://wiki.hypixel.net/Leggings_Of_Divan",
     "forge": 82800,
     "base_rarity": "LEGENDARY"
