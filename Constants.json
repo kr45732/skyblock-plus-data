@@ -389,7 +389,7 @@
       "health": 13.45,
       "defense": 14.4
     },
-    "addept": {
+    "adept": {
       "health": 16.8,
       "defense": 9.6,
       "intelligence": 3.6
@@ -435,13 +435,28 @@
       "defense": 10.8,
       "walk_speed": 1.2
     },
-    "lucky": {
-      "health": 1.6980906861589284,
-      "defense": 0.612917626165859,
-      "strength": 2.4283405456887315,
-      "critical_chance": 2.196616405489589,
-      "critical_damage": 2.4283405456887315
+    "bubba": {
+      "health": 5.1,
+      "defense": -9.6,
+      "strength": 6,
+      "critical_chance": 0.9,
+      "critical_damage": 10.8,
+      "attack_speed": 1.8,
+      "true_defense": 1.2
     },
+    "crumbly": {
+      "health": 10.1,
+      "intelligence": 5.4,
+      "true_defense": 0.6,
+      "vitality": 2.4,
+      "mending": 1.8
+    },
+    "sanguisuge": {
+      "health": 5.1,
+      "strength": 12,
+      "critical_damage": 4.8,
+      "vitality": 1.2
+    }
     "warrior": {
       "health": 1.6980906861589284,
       "defense": 0.612917626165859,
