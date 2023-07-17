@@ -27533,7 +27533,8 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
-      "GOLDEN_APPLE_FLUX"
+      "GOLDEN_APPLE_FLUX",
+      "PIRATE_BOMB_FLUX"
     ]
   },
   "MANA_RAY_BRONZE": {
@@ -31726,7 +31727,8 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
-      "GOLDEN_APPLE_FLUX"
+      "GOLDEN_APPLE_FLUX",
+      "PIRATE_BOMB_FLUX"
     ]
   },
   "OVERGROWN_GRASS": {
@@ -33574,6 +33576,11 @@
     "wiki": "https://wiki.hypixel.net/Snow_Tiger_Ocelot_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_PARROT_BUCCANEER": {
+    "name": "Buccaneer Parrot Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_PARROT_GOLD_MACAW": {
     "name": "Gold Macaw Parrot Skin",
     "wiki": "https://wiki.hypixel.net/Gold_Macaw_Parrot_Skin",
@@ -34231,6 +34238,11 @@
     "wiki": "https://wiki.hypixel.net/Pinwheel_House_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
+  "PIRATE_BOMB_FLUX": {
+    "name": "Pirate Bomb Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
   "PISCARY;1": {
     "name": "Piscary I",
     "base_rarity": "COMMON"
@@ -34318,7 +34330,8 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
-      "GOLDEN_APPLE_FLUX"
+      "GOLDEN_APPLE_FLUX",
+      "PIRATE_BOMB_FLUX"
     ]
   },
   "PLASMA_BUCKET": {
@@ -36565,7 +36578,8 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
-      "GOLDEN_APPLE_FLUX"
+      "GOLDEN_APPLE_FLUX",
+      "PIRATE_BOMB_FLUX"
     ]
   },
   "RADIOACTIVE_VIAL": {
@@ -46615,7 +46629,7 @@
       "A2": "Y:64",
       "A3": "Y:64",
       "B1": "Y:64",
-      "B2": "SYNTHESIZER_V1",
+      "B2": "SYNTHESIZER_V1:1",
       "B3": "Y:64",
       "C1": "Y:64",
       "C2": "Y:64",
@@ -46631,7 +46645,7 @@
       "A2": "Z:64",
       "A3": "Z:64",
       "B1": "Z:64",
-      "B2": "SYNTHESIZER_V2",
+      "B2": "SYNTHESIZER_V2:1",
       "B3": "Z:64",
       "C1": "Z:64",
       "C2": "Z:64",
