@@ -138,25 +138,17 @@
   "SKILLS_LEVEL_50_XP": 55172425,
   "SKILLS_LEVEL_60_XP": 111672425,
   "SLAYER_NAMES": [
-    "sven",
-    "tara",
-    "rev",
+    "wolf",
+    "spider",
+    "zombie",
     "enderman",
     "blaze",
     "vampire"
   ],
-  "SLAYER_NAMES_MAP": {
-    "sven": "wolf",
-    "rev": "zombie",
-    "tara": "spider",
-    "enderman": "enderman",
-    "blaze": "blaze",
-    "vampire": "vampire"
-  },
   "SLAYER_EMOJI_MAP": {
-    "sven": "<:sven_packmaster:800002277648891914>",
-    "rev": "<:revenant_horror:800002290987302943> ",
-    "tara": "<:tarantula_broodfather:800002277262884874>",
+    "wolf": "<:sven_packmaster:800002277648891914>",
+    "zombie": "<:revenant_horror:800002290987302943> ",
+    "spider": "<:tarantula_broodfather:800002277262884874>",
     "enderman": "<:voidgloom_seraph:849280131281059881>",
     "blaze": "<:inferno_demonlord:966456370331267072>",
     "vampire": "<:riftstalker_bloodfiend:1121562032408379452>"
