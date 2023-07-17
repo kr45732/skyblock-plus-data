@@ -30,14 +30,14 @@
   "DUNGEON_CLASS_NAMES": [
     "healer",
     "mage",
-    "berserker",
+    "berserk",
     "archer",
     "tank"
   ],
   "DUNGEON_EMOJI_MAP": {
     "healer": "<:healer:867508034914091058>",
     "mage": "<:blaze_rod:964895235824033892>",
-    "berserker": "<:iron_sword:964897209369899078>",
+    "berserk": "<:iron_sword:964897209369899078>",
     "archer": "<:bow:964895277821607956>",
     "tank": "<:leather_chestplate:964897419202551808>",
     "catacombs_0": "<:entrance:867511391438503946>",
