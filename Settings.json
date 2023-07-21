@@ -2,5 +2,6 @@
   "mojangApiNum": 1,
   "ahApiUrl": "https://auctions.skyblock-plus.ml/",
   "allowMojangApi": true,
-  "neuBranch": "prerelease"
+  "neuBranch": "prerelease",
+  "hasteUrl": "https://hste.vercel.app/api/"
 }
