@@ -796,7 +796,11 @@
       "ARACHNE_HELMET",
       "ARACHNE_CHESTPLATE",
       "ARACHNE_LEGGINGS",
-      "ARACHNE_BOOTS"
+      "ARACHNE_BOOTS",
+      "ARACHNE_NECKLACE",
+      "ARACHNE_CLOAK",
+      "ARACHNE_BELT",
+      "ARACHNE_GLOVES"
     ],
     "ZOMBIE_LORD": [
       "ZOMBIE_LORD_HELMET",
@@ -988,7 +992,8 @@
       "MAGMA_LORD_HELMET",
       "MAGMA_LORD_CHESTPLATE",
       "MAGMA_LORD_LEGGINGS",
-      "MAGMA_LORD_BOOTS"
+      "MAGMA_LORD_BOOTS",
+      "MAGMA_LORD_GAUNTLET"
     ],
     "NUTCRACKER": [
       "NUTCRACKER_HELMET",
@@ -1210,7 +1215,11 @@
       "END_HELMET",
       "END_CHESTPLATE",
       "END_LEGGINGS",
-      "END_BOOTS"
+      "END_BOOTS",
+      "ENDER_NECKLACE",
+      "ENDER_CLOAK",
+      "ENDER_BELT",
+      "ENDER_GAUNTLET"
     ],
     "RABBIT": [
       "RABBIT_HELMET",
@@ -1384,7 +1393,8 @@
       "THUNDER_HELMET",
       "THUNDER_CHESTPLATE",
       "THUNDER_LEGGINGS",
-      "THUNDER_BOOTS"
+      "THUNDER_BOOTS",
+      "THUNDERBOLT_NECKLACE"
     ]
   }
 }
