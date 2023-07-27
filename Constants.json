@@ -113,14 +113,14 @@
     150000
   ],
   "RARITY_TO_NUMBER_MAP": {
-    "VERY_SPECIAL": ";7",
-    "SPECIAL": ";6",
-    "MYTHIC": ";5",
-    "LEGENDARY": ";4",
-    "EPIC": ";3",
-    "RARE": ";2",
-    "UNCOMMON": ";1",
-    "COMMON": ";0"
+    "VERY_SPECIAL": 7,
+    "SPECIAL": 6,
+    "MYTHIC": 5,
+    "LEGENDARY": 4,
+    "EPIC": 3,
+    "RARE": 2,
+    "UNCOMMON": 1,
+    "COMMON": 0
   },
   "SKILLS_EMOJI_MAP": {
     "taming": "<:taming:800462115365716018>",
