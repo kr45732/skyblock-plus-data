@@ -1285,6 +1285,9 @@
     ],
     "SPOOKY": [
       "BAT_PERSON"
+    ],
+    "VOODOO_DOLL": [
+      "VOODOO_DOLL_WILTED"
     ]
   }
 }
