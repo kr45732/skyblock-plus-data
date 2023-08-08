@@ -78,6 +78,10 @@
     "wiki": "https://wiki.hypixel.net/Abicase",
     "base_rarity": "RARE"
   },
+  "ABINGOPHONE": {
+    "name": "AⒷiphone",
+    "base_rarity": "SPECIAL"
+  },
   "ABIPHONE_XIII_PRO": {
     "name": "Abiphone XIII Pro",
     "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro",
@@ -2708,6 +2712,11 @@
     "wiki": "https://wiki.hypixel.net/Furniture",
     "base_rarity": "COMMON"
   },
+  "BINGHOE": {
+    "name": "Binghoe",
+    "wiki": "https://wiki.hypixel.net/Binghoe",
+    "base_rarity": "EPIC"
+  },
   "BINGO;0": {
     "name": "Common Bingo",
     "texture": "d4cd9c707c7092d4759fe2b2b6a713215b6e39919ec4e7afb1ae2b6f8576674c",
@@ -2746,6 +2755,11 @@
     "name": "Bingo Artifact",
     "wiki": "https://wiki.hypixel.net/Bingo_Artifact",
     "base_rarity": "RARE"
+  },
+  "BINGO_BLASTER": {
+    "name": "Bingo Blaster",
+    "scrollable": true,
+    "base_rarity": "EPIC"
   },
   "BINGO_CARD": {
     "name": "Bingo Card",
@@ -10519,6 +10533,11 @@
     "name": "Dragon Egg",
     "wiki": "https://wiki.hypixel.net/Dragon_Egg",
     "base_rarity": "COMMON"
+  },
+  "DRAGON_EGG_BACKPACK": {
+    "name": "Dragon Egg Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
   },
   "DRAGON_HORN": {
     "name": "Dragon Horn",
@@ -20340,7 +20359,7 @@
     "base_rarity": "COMMON"
   },
   "GRIZZLY_BAIT": {
-    "name": "Grizzly Bait",
+    "name": "Grizzly Salmon",
     "wiki": "https://wiki.hypixel.net/Grizzly_Bait",
     "base_rarity": "RARE"
   },
@@ -21330,6 +21349,17 @@
   },
   "HEMOBOMB": {
     "name": "Hemobomb",
+    "recipe": {
+      "A1": "",
+      "A2": "HEMOGLASS:3",
+      "A3": "",
+      "B1": "HEMOGLASS:3",
+      "B2": "HEMOGLASS:3",
+      "B3": "HEMOGLASS:3",
+      "C1": "",
+      "C2": "HEMOGLASS:3",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Hemobomb",
     "base_rarity": "EPIC"
   },
@@ -28563,6 +28593,10 @@
     "wiki": "https://wiki.hypixel.net/Metaphoric_Egg",
     "base_rarity": "RARE"
   },
+  "METAPHYSICAL_SERUM": {
+    "name": "Metaphysical Serum",
+    "base_rarity": "EPIC"
+  },
   "METEOR_SHARD": {
     "name": "Meteor Shard",
     "recipe": {
@@ -28777,6 +28811,11 @@
         "SKYBLOCK_COIN:2500"
       ]
     }
+  },
+  "MINIATURE_NUKE": {
+    "name": "Miniature Nuke",
+    "scrollable": true,
+    "base_rarity": "SPECIAL"
   },
   "MINIATURIZED_TUBULATOR": {
     "name": "Miniaturized Tubulator",
@@ -33041,6 +33080,11 @@
       ]
     }
   },
+  "PET_ITEM_BINGO_BOOSTER": {
+    "name": "Bingo Booster",
+    "wiki": "https://wiki.hypixel.net/Bingo_Booster",
+    "base_rarity": "EPIC"
+  },
   "PET_ITEM_BUBBLEGUM": {
     "name": "Bubblegum",
     "wiki": "https://wiki.hypixel.net/Bubblegum",
@@ -33490,6 +33534,16 @@
     "name": "Radiant Endermite Skin",
     "wiki": "https://wiki.hypixel.net/Radiant_Endermite_Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_ENDER_DRAGON_BABY": {
+    "name": "Baby Ender Dragon Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_ENDER_DRAGON_BABY_BLUE": {
+    "name": "Baby Blue Ender Dragon Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
     "name": "Undead Ender Dragon Skin",
@@ -47234,6 +47288,11 @@
     "name": "Teleport Pad",
     "wiki": "https://wiki.hypixel.net/Teleport_Pad",
     "base_rarity": "UNCOMMON"
+  },
+  "TENTACLE_DYE": {
+    "name": "Tentacle Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes",
+    "base_rarity": "EPIC"
   },
   "TENTACLE_MEAT": {
     "name": "Tentacle Meat",
