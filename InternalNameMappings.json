@@ -1416,6 +1416,7 @@
       "C2": "LEECH_SUPREME_FRAGMENT:8",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Leech",
     "scrollable": true,
     "base_rarity": "RARE"
   },
@@ -1432,6 +1433,7 @@
       "C2": "",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Leech",
     "scrollable": true,
     "base_rarity": "RARE"
   },
@@ -2544,6 +2546,7 @@
   },
   "BEE_HIVE": {
     "name": "Bee Hive",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Hive",
     "base_rarity": "EPIC"
   },
   "BEE_PERSONALITY": {
@@ -2758,6 +2761,7 @@
   },
   "BINGO_BLASTER": {
     "name": "Bingo Blaster",
+    "wiki": "https://wiki.hypixel.net/Bingo_Blaster",
     "scrollable": true,
     "base_rarity": "EPIC"
   },
@@ -3980,6 +3984,7 @@
   },
   "BOOK_OF_PROGRESSION": {
     "name": "Book of Progression",
+    "wiki": "https://wiki.hypixel.net/Book_Of_Progression",
     "base_rarity": "LEGENDARY"
   },
   "BOOK_OF_STATS": {
@@ -9321,6 +9326,7 @@
   },
   "DEADGEHOG_SPINE": {
     "name": "Deadgehog Spine",
+    "wiki": "https://wiki.hypixel.net/Deadgehog_Spine",
     "base_rarity": "UNCOMMON"
   },
   "DEAD_BUSH": {
@@ -16942,6 +16948,7 @@
   },
   "FLORAL_WHEELBARROW": {
     "name": "Floral Wheelbarrow",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Floral_Wheelbarrow",
     "base_rarity": "EPIC"
   },
   "FLORID_ZOMBIE_SWORD": {
@@ -20536,10 +20543,12 @@
       "C2": "",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Gunther%27s_Sneakers",
     "base_rarity": "RARE"
   },
   "GUNTHESIZER_LICHEN": {
     "name": "Gunthesizer Lichen",
+    "wiki": "https://wiki.hypixel.net/Gunthesizer_Lichen",
     "base_rarity": "RARE"
   },
   "GUSHER_BRONZE": {
@@ -25821,6 +25830,7 @@
   },
   "LATTICE_BENCH": {
     "name": "Lattice Bench",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lattice_Bench",
     "base_rarity": "EPIC"
   },
   "LAUNCH_PAD": {
@@ -26189,6 +26199,7 @@
       "C2": "WYLD_SWORD:1",
       "C3": "DEADGEHOG_SPINE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Leech_Sword",
     "base_rarity": "RARE"
   },
   "LEGENDARY_KUUDRA_CHUNK": {
@@ -26407,6 +26418,7 @@
   },
   "LIL_PAD": {
     "name": "Lil\u0027 Pad",
+    "wiki": "https://wiki.hypixel.net/Lil%27_Pad",
     "base_rarity": "UNCOMMON"
   },
   "LION;0": {
@@ -27903,6 +27915,7 @@
   },
   "MCGRUBBER_BURGER": {
     "name": "McGrubber\u0027s Burger",
+    "wiki": "https://wiki.hypixel.net/McGrubber%27s_Burger",
     "base_rarity": "EPIC"
   },
   "MEDIUM_AGRONOMY_SACK": {
@@ -28595,6 +28608,7 @@
   },
   "METAPHYSICAL_SERUM": {
     "name": "Metaphysical Serum",
+    "wiki": "https://wiki.hypixel.net/Metaphysical_Serum",
     "base_rarity": "EPIC"
   },
   "METEOR_SHARD": {
@@ -28970,6 +28984,7 @@
       "C2": "MIRRORED_STICK:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/woB",
     "base_rarity": "COMMON"
   },
   "MIRRORED_FISHING_ROD": {
@@ -29000,6 +29015,7 @@
       "C2": "",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/daeL",
     "base_rarity": "COMMON"
   },
   "MIRRORED_SLIME_BALL": {
@@ -29020,10 +29036,12 @@
       "C2": "WOOD:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/kcitS",
     "base_rarity": "COMMON"
   },
   "MIRRORED_STRING": {
     "name": "gnirtS",
+    "wiki": "https://wiki.hypixel.net/gnirtS",
     "base_rarity": "COMMON"
   },
   "MIRRORED_WOOD": {
@@ -29745,6 +29763,10 @@
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Museum",
     "base_rarity": "EPIC"
   },
+  "MUSHROOM_BARN_SKIN": {
+    "name": "Mushroom Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "MUSHROOM_BIOME_STICK": {
     "name": "Mushroom Biome Stick",
     "recipe": {
@@ -30356,6 +30378,7 @@
       "C2": "",
       "C3": "MIRRORED_STICK:1"
     },
+    "wiki": "https://wiki.hypixel.net/Nearly_Coherent_DoR_GnihsiF",
     "base_rarity": "UNCOMMON"
   },
   "NEARLY_WHOLE_CARROT": {
@@ -39917,6 +39940,7 @@
   },
   "SHADOW_CRUX": {
     "name": "Shadow Crux",
+    "wiki": "https://wiki.hypixel.net/Shadow_Crux",
     "base_rarity": "UNCOMMON"
   },
   "SHADOW_FURY": {
@@ -39964,6 +39988,7 @@
   },
   "SHAME_CRUX": {
     "name": "Shy Crux",
+    "wiki": "https://wiki.hypixel.net/Shy_Crux",
     "base_rarity": "UNCOMMON"
   },
   "SHARD_OF_THE_SHREDDED": {
@@ -47987,6 +48012,7 @@
   },
   "TINY_DANCER": {
     "name": "Tiny Dancer",
+    "wiki": "https://wiki.hypixel.net/Tiny_Dancer",
     "base_rarity": "UNCOMMON"
   },
   "TINY_HAMMER": {
@@ -48002,6 +48028,7 @@
       "C2": "MIRRORED_FISHING_ROD:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/remmaH_YniT",
     "base_rarity": "UNCOMMON"
   },
   "TITANIC_EXP_BOTTLE": {
@@ -50638,6 +50665,11 @@
     "wiki": "https://wiki.hypixel.net/Werewolf_Skin",
     "base_rarity": "RARE"
   },
+  "WET_NAPKIN": {
+    "name": "Wet Napkin",
+    "wiki": "https://wiki.hypixel.net/Wet_Napkin",
+    "base_rarity": "SPECIAL"
+  },
   "WET_PUMPKIN": {
     "name": "Wet Pumpkin",
     "wiki": "https://wiki.hypixel.net/Wet_Pumpkin",
@@ -52141,6 +52173,7 @@
   },
   "WYLD_BOOTS": {
     "name": "Wyld Boots",
+    "wiki": "https://wiki.hypixel.net/Wyld_Boots",
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
