@@ -15496,6 +15496,11 @@
     "wiki": "https://wiki.hypixel.net/Fermento_Artifact",
     "base_rarity": "RARE"
   },
+  "FERMENTO_BLOOM": {
+    "name": "Bloom Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "MYTHIC"
+  },
   "FERMENTO_BOOTS": {
     "name": "Fermento Boots",
     "recipe": {
@@ -15543,6 +15548,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Fermento_Helmet",
     "base_rarity": "LEGENDARY"
+  },
+  "FERMENTO_LEAF": {
+    "name": "Leaf Skin",
+    "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
   },
   "FERMENTO_LEGGINGS": {
     "name": "Fermento Leggings",
@@ -25885,7 +25895,7 @@
     "base_rarity": "RARE"
   },
   "LAVA_HORSE_SILVER": {
-    "name": "Lava Horse SILVER",
+    "name": "Lavahorse SILVER",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
     "base_rarity": "RARE"
   },
