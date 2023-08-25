@@ -2559,6 +2559,12 @@
     "wiki": "https://wiki.hypixel.net/Beheaded_Horror",
     "base_rarity": "EPIC"
   },
+  "BEJEWELED_COLLAR": {
+    "name": "Bejeweled Collar",
+    "wiki": "https://wiki.hypixel.net/Bejeweled_Collar",
+    "forge": 7200,
+    "base_rarity": "RARE"
+  },
   "BEJEWELED_HANDLE": {
     "name": "Bejeweled Handle",
     "wiki": "https://wiki.hypixel.net/Bejeweled_Handle",
@@ -6066,22 +6072,42 @@
   "CHAINMAIL_BOOTS": {
     "name": "Chainmail Boots",
     "wiki": "https://wiki.hypixel.net/Chainmail_Boots",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:9"
+      ]
+    }
   },
   "CHAINMAIL_CHESTPLATE": {
     "name": "Chainmail Chestplate",
     "wiki": "https://wiki.hypixel.net/Chainmail_Chestplate",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:16"
+      ]
+    }
   },
   "CHAINMAIL_HELMET": {
     "name": "Chainmail Helmet",
     "wiki": "https://wiki.hypixel.net/Chainmail_Helmet",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10"
+      ]
+    }
   },
   "CHAINMAIL_LEGGINGS": {
     "name": "Chainmail Leggings",
     "wiki": "https://wiki.hypixel.net/Chainmail_Leggings",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:14"
+      ]
+    }
   },
   "CHALLENGE_ROD": {
     "name": "Challenging Rod",
@@ -13483,13 +13509,13 @@
     "name": "Enchanted String",
     "recipe": {
       "A1": "",
-      "A2": "",
+      "A2": "STRING:32",
       "A3": "",
-      "B1": "STRING:64",
-      "B2": "STRING:64",
-      "B3": "STRING:64",
+      "B1": "STRING:32",
+      "B2": "STRING:32",
+      "B3": "STRING:32",
       "C1": "",
-      "C2": "",
+      "C2": "STRING:32",
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_String",
@@ -19149,7 +19175,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Golden_Axe",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10"
+      ]
+    }
   },
   "GOLD_BARDING": {
     "name": "Gold Horse Armor",
@@ -19656,7 +19687,12 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Golden_Shovel",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10"
+      ]
+    }
   },
   "GOLD_SWORD": {
     "name": "Golden Sword",
@@ -24042,7 +24078,7 @@
     "base_rarity": "COMMON"
   },
   "ITEM_SPIRIT_BOW": {
-    "name": "Spirit Bow",
+    "name": "Spirit Shortbow",
     "wiki": "https://wiki.hypixel.net/Spirit_Bow",
     "base_rarity": "LEGENDARY"
   },
@@ -25471,6 +25507,23 @@
     "name": "Lapis Lazuli Ore",
     "wiki": "https://wiki.hypixel.net/Lapis_Lazuli_Ore",
     "base_rarity": "COMMON"
+  },
+  "LAPIS_PICKAXE": {
+    "name": "Lapis Pickaxe",
+    "recipe": {
+      "A1": "INK_SACK-4:64",
+      "A2": "INK_SACK-4:64",
+      "A3": "INK_SACK-4:64",
+      "B1": "INK_SACK-4:64",
+      "B2": "IRON_PICKAXE:1",
+      "B3": "INK_SACK-4:64",
+      "C1": "INK_SACK-4:64",
+      "C2": "INK_SACK-4:64",
+      "C3": "INK_SACK-4:64"
+    },
+    "wiki": "https://wiki.hypixel.net/Lapis_Pickaxe",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
   },
   "LARGE_AGRONOMY_SACK": {
     "name": "Large Agronomy Sack",
@@ -26942,8 +26995,9 @@
     "base_rarity": "RARE"
   },
   "MACHINE_GUN_BOW": {
-    "name": "Machine Gun Bow",
+    "name": "Machine Gun Shortbow",
     "wiki": "https://wiki.hypixel.net/Machine_Gun_Bow",
+    "scrollable": true,
     "base_rarity": "RARE"
   },
   "MAGICAL_LAVA_BUCKET": {
@@ -29775,6 +29829,7 @@
   },
   "MUSHROOM_BARN_SKIN": {
     "name": "Mushroom Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Mushroom_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "MUSHROOM_BIOME_STICK": {
@@ -33318,7 +33373,7 @@
   "PET_ITEM_QUICK_CLAW": {
     "name": "Quick Claw",
     "wiki": "https://wiki.hypixel.net/Quick_Claw",
-    "base_rarity": "RARE"
+    "base_rarity": "EPIC"
   },
   "PET_ITEM_SADDLE": {
     "name": "Saddle",
@@ -35285,6 +35340,17 @@
   },
   "PROMISING_PICKAXE": {
     "name": "Promising Pickaxe",
+    "recipe": {
+      "A1": "IRON_BLOCK:1",
+      "A2": "IRON_BLOCK:1",
+      "A3": "IRON_BLOCK:1",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Promising_Pickaxe",
     "base_rarity": "UNCOMMON",
     "npc_buy": {
@@ -35295,6 +35361,17 @@
   },
   "PROMISING_SPADE": {
     "name": "Promising Shovel",
+    "recipe": {
+      "A1": "",
+      "A2": "IRON_BLOCK:1",
+      "A3": "",
+      "B1": "",
+      "B2": "STICK:1",
+      "B3": "",
+      "C1": "",
+      "C2": "STICK:1",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Promising_Shovel",
     "base_rarity": "UNCOMMON"
   },
@@ -37830,7 +37907,7 @@
     "base_rarity": "LEGENDARY"
   },
   "REFINED_TITANIUM_PICKAXE": {
-    "name": "Refined Titanium Pickaxe",
+    "name": "Polished Titanium Pickaxe",
     "wiki": "https://wiki.hypixel.net/Refined_Titanium_Pickaxe",
     "base_rarity": "RARE",
     "npc_buy": {
@@ -39449,6 +39526,11 @@
     "name": "Satin Trousers",
     "wiki": "https://wiki.hypixel.net/Satin_Trousers",
     "base_rarity": "RARE"
+  },
+  "SAULS_RECOMMENDATION": {
+    "name": "Saul\u0027s Recommendation",
+    "wiki": "https://wiki.hypixel.net/Saul%27s_Recommendation",
+    "base_rarity": "LEGENDARY"
   },
   "SAVANA_BIOME_STICK": {
     "name": "Savanna Biome Stick",
@@ -51361,6 +51443,7 @@
   },
   "WIZARD_TOWER_PORTAL": {
     "name": "Portal to The Wizard Tower",
+    "wiki": "https://wiki.hypixel.net/Portal_To_The_Wizard_Tower",
     "base_rarity": "COMMON"
   },
   "WIZARD_WAND": {
