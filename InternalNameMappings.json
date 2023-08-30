@@ -36958,6 +36958,10 @@
     "wiki": "https://wiki.hypixel.net/Razor-sharp_Shark_Tooth_Necklace",
     "base_rarity": "LEGENDARY"
   },
+  "REAPER_BLUE_ONI_MASK": {
+    "name": "Blue Oni Reaper Mask Skin",
+    "base_rarity": "EPIC"
+  },
   "REAPER_BOOTS": {
     "name": "Reaper Boots",
     "recipe": {
@@ -37030,6 +37034,10 @@
       "REAPER_SPIRIT"
     ]
   },
+  "REAPER_ONI_MASK": {
+    "name": "Oni Reaper Mask Skin",
+    "base_rarity": "MYTHIC"
+  },
   "REAPER_ORB": {
     "name": "Reaper Orb",
     "recipe": {
@@ -37050,6 +37058,10 @@
     "name": "Reaper Pepper",
     "wiki": "https://wiki.hypixel.net/Reaper_Pepper",
     "base_rarity": "LEGENDARY"
+  },
+  "REAPER_RED_ONI_MASK": {
+    "name": "Red Oni Reaper Mask Skin",
+    "base_rarity": "EPIC"
   },
   "REAPER_SCYTHE": {
     "name": "Reaper Scythe",
