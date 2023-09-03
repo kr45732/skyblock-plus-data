@@ -19896,6 +19896,10 @@
       ]
     }
   },
+  "GRAND_FREEZING_RUNE;3": {
+    "name": "◆ Grand Freezing Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "GRAND_SEARING_RUNE;3": {
     "name": "◆ Grand Searing Rune III",
     "base_rarity": "LEGENDARY"
@@ -43295,6 +43299,10 @@
     "wiki": "https://wiki.hypixel.net/Maxor\u0027s_Leggings",
     "base_rarity": "LEGENDARY"
   },
+  "SPELLBOUND_RUNE;3": {
+    "name": "◆ Spellbound Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "SPELL_POWDER": {
     "name": "Spell Powder",
     "wiki": "https://wiki.hypixel.net/Spell_Powder",
@@ -49356,10 +49364,6 @@
   "UNFANGED_VAMPIRE_PART": {
     "name": "Unfanged Vampire Part",
     "wiki": "https://wiki.hypixel.net/Unfanged_Vampire_Part",
-    "base_rarity": "LEGENDARY"
-  },
-  "UNIQUE_RUNE": {
-    "name": "◆ Spellbound Rune III",
     "base_rarity": "LEGENDARY"
   },
   "UNSTABLE_BABY": {
