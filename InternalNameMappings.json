@@ -1403,6 +1403,12 @@
     "scrollable": true,
     "base_rarity": "COMMON"
   },
+  "ASPECT_OF_THE_JERRY_SIGNATURE": {
+    "name": "Aspect of the Jerry, Signature Edition",
+    "wiki": "https://wiki.hypixel.net/Aspect_Of_The_Jerry,_Signature_Edition",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
+  },
   "ASPECT_OF_THE_LEECH_1": {
     "name": "Aspect of the Leech",
     "recipe": {
@@ -4986,6 +4992,11 @@
     },
     "base_rarity": "COMMON"
   },
+  "CAKE_COUNTER": {
+    "name": "Cake Counter",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture",
+    "base_rarity": "EPIC"
+  },
   "CAKE_SOUL": {
     "name": "Cake Soul",
     "wiki": "https://wiki.hypixel.net/Cake_Soul",
@@ -6068,6 +6079,16 @@
         "SKYBLOCK_COIN:5000"
       ]
     }
+  },
+  "CENTURY_TALISMAN": {
+    "name": "Talisman of the Century",
+    "wiki": "https://wiki.hypixel.net/Talisman_Of_The_Century",
+    "base_rarity": "COMMON"
+  },
+  "CENTURY_THE_FISH": {
+    "name": "Century the Fish",
+    "wiki": "https://wiki.hypixel.net/Century_The_Fish",
+    "base_rarity": "SPECIAL"
   },
   "CHAINMAIL_BOOTS": {
     "name": "Chainmail Boots",
@@ -10908,9 +10929,19 @@
     "wiki": "https://wiki.hypixel.net/Pure_Black_Dye",
     "base_rarity": "EPIC"
   },
+  "DYE_PURE_BLUE": {
+    "name": "Pure Blue Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes",
+    "base_rarity": "EPIC"
+  },
   "DYE_PURE_WHITE": {
     "name": "Pure White Dye",
     "wiki": "https://wiki.hypixel.net/Pure_White_Dye",
+    "base_rarity": "EPIC"
+  },
+  "DYE_PURE_YELLOW": {
+    "name": "Pure Yellow Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
   "DYE_WILD_STRAWBERRY": {
@@ -11794,6 +11825,11 @@
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_BOOK_BUNDLE_QUANTUM": {
+    "name": "Enchanted Book Bundle",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
+    "base_rarity": "UNCOMMON"
+  },
+  "ENCHANTED_BOOK_BUNDLE_RAINBOW": {
     "name": "Enchanted Book Bundle",
     "wiki": "https://wiki.hypixel.net/Enchanted_Book_Bundle",
     "base_rarity": "UNCOMMON"
@@ -14511,37 +14547,47 @@
   },
   "EPOCH_CAKE_AQUA": {
     "name": "Barry Century Cake",
-    "wiki": "https://wiki.hypixel.net/Barry_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_BLACK": {
     "name": "Century Cake of the Next Dungeon Floor",
-    "wiki": "https://wiki.hypixel.net/Century_Cake_Of_The_Next_Dungeon_Floor",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_BLUE": {
     "name": "Sea Emperor Century Cake",
-    "wiki": "https://wiki.hypixel.net/Sea_Emperor_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_BROWN": {
     "name": "Chocolate Century Cake",
-    "wiki": "https://wiki.hypixel.net/Chocolate_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_CYAN": {
     "name": "Century Cake of Hype",
-    "wiki": "https://wiki.hypixel.net/Century_Cake_Of_Hype",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
+    "base_rarity": "UNCOMMON"
+  },
+  "EPOCH_CAKE_DARK_GREEN": {
+    "name": "Undead ༕ Century Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
+    "base_rarity": "UNCOMMON"
+  },
+  "EPOCH_CAKE_GRAY": {
+    "name": "Not-a-lie Century Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_GREEN": {
     "name": "Pet Rock Century Cake",
-    "wiki": "https://wiki.hypixel.net/Pet_Rock_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_ORANGE": {
     "name": "Latest Update Century Cake",
-    "wiki": "https://wiki.hypixel.net/Latest_Update_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_PINK": {
@@ -14551,7 +14597,7 @@
   },
   "EPOCH_CAKE_PURPLE": {
     "name": "Streamer\u0027s Century Cake",
-    "wiki": "https://wiki.hypixel.net/Streamer\u0027s_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "EPIC"
   },
   "EPOCH_CAKE_RED": {
@@ -14561,7 +14607,7 @@
   },
   "EPOCH_CAKE_WHITE": {
     "name": "Cloudy Century Cake",
-    "wiki": "https://wiki.hypixel.net/Cloudy_Century_Cake",
+    "wiki": "https://wiki.hypixel.net/Century_Cake",
     "base_rarity": "UNCOMMON"
   },
   "EPOCH_CAKE_YELLOW": {
@@ -17749,6 +17795,11 @@
     "wiki": "https://wiki.hypixel.net/Frozen_Water_Pungi",
     "base_rarity": "EPIC"
   },
+  "FRUIT_BOWL": {
+    "name": "Fruit Bowl",
+    "wiki": "https://wiki.hypixel.net/Fruit_Bowl",
+    "base_rarity": "RARE"
+  },
   "FTX_3070": {
     "name": "FTX 3070",
     "wiki": "https://wiki.hypixel.net/FTX_3070",
@@ -17775,6 +17826,11 @@
     "wiki": "https://wiki.hypixel.net/Fuel_Tank",
     "forge": 36000,
     "base_rarity": "RARE"
+  },
+  "FULL_CENTURY_CAKE_PACK": {
+    "name": "Complete Century Cake Bundle",
+    "wiki": "https://wiki.hypixel.net/Complete_Century_Cake_Bundle",
+    "base_rarity": "MYTHIC"
   },
   "FULL_CHUM_BUCKET": {
     "name": "Full Chum Bucket",
@@ -19019,6 +19075,10 @@
     "name": "God Potion",
     "wiki": "https://wiki.hypixel.net/God_Potion",
     "base_rarity": "SPECIAL"
+  },
+  "GOLDEN_ANCIENT_EGG_FLUX": {
+    "name": "Golden Turtle Egg Power Orb Skin",
+    "base_rarity": "MYTHIC"
   },
   "GOLDEN_APPLE:1": {
     "name": "Enchanted Golden Apple",
@@ -25526,7 +25586,6 @@
       "C3": "INK_SACK-4:64"
     },
     "wiki": "https://wiki.hypixel.net/Lapis_Pickaxe",
-    "scrollable": true,
     "base_rarity": "UNCOMMON"
   },
   "LARGE_AGRONOMY_SACK": {
@@ -27643,6 +27702,7 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
+      "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
       "PIRATE_BOMB_FLUX"
     ]
@@ -30497,6 +30557,11 @@
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
+  "NECRONS_LADDER": {
+    "name": "Necron\u0027s Ladder",
+    "wiki": "https://wiki.hypixel.net/Necron%27s_Ladder",
+    "base_rarity": "RARE"
+  },
   "NECRON_BLADE": {
     "name": "Necron\u0027s Blade (Unrefined)",
     "recipe": {
@@ -31858,6 +31923,7 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
+      "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
       "PIRATE_BOMB_FLUX"
     ]
@@ -33942,6 +34008,14 @@
     "wiki": "https://wiki.hypixel.net/Twilight_Tiger_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_TURTLE_ANCIENT": {
+    "name": "Ancient Turtle Skin",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_TURTLE_ANCIENT_GOLDEN": {
+    "name": "Golden Ancient Turtle Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_WHALE_COSMIC": {
     "name": "Cosmic Blue Whale Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
@@ -34476,6 +34550,7 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
+      "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
       "PIRATE_BOMB_FLUX"
     ]
@@ -36746,6 +36821,7 @@
     "skins": [
       "GLISTENING_MELON_FLUX",
       "GLOWING_GRAPE_FLUX",
+      "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
       "PIRATE_BOMB_FLUX"
     ]
@@ -36879,6 +36955,11 @@
     },
     "wiki": "https://wiki.hypixel.net/Rancher\u0027s_Boots",
     "base_rarity": "EPIC"
+  },
+  "RANDOM_CENTURY_CAKE_PACK": {
+    "name": "Random Century Cake Bundle",
+    "wiki": "https://wiki.hypixel.net/Random_Century_Cake_Bundle",
+    "base_rarity": "LEGENDARY"
   },
   "RARE_DIAMOND": {
     "name": "Rare Diamond",
@@ -49329,6 +49410,11 @@
   "UNCOMMON_KUUDRA_CHUNK": {
     "name": "Kuudra Chunk",
     "wiki": "https://wiki.hypixel.net/Kuudra_Chunk",
+    "base_rarity": "UNCOMMON"
+  },
+  "UNCOMMON_PARTY_HAT": {
+    "name": "Uncommon Party Hat",
+    "wiki": "https://wiki.hypixel.net/Uncommon_Party_Hat",
     "base_rarity": "UNCOMMON"
   },
   "UNDEAD_BOW": {
