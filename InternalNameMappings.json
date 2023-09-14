@@ -82,13 +82,40 @@
     "name": "AⒷiphone",
     "base_rarity": "SPECIAL"
   },
+  "ABIPHONE_FLIP_DRAGON": {
+    "name": "Abiphone Flip: Dragon",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:98500000"
+      ]
+    }
+  },
+  "ABIPHONE_FLIP_NUCLEUS": {
+    "name": "Abiphone Flip: Nucleus",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:98500000"
+      ]
+    }
+  },
+  "ABIPHONE_FLIP_VOLCANO": {
+    "name": "Abiphone Flip: Volcano",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:98500000"
+      ]
+    }
+  },
   "ABIPHONE_XIII_PRO": {
     "name": "Abiphone XIII Pro",
     "wiki": "https://wiki.hypixel.net/Abiphone_XIII_Pro",
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:25000000"
+        "SKYBLOCK_COIN:19700000"
       ]
     }
   },
@@ -98,7 +125,7 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:50000000"
+        "SKYBLOCK_COIN:39400000"
       ]
     }
   },
@@ -108,7 +135,7 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:10000000"
+        "SKYBLOCK_COIN:7880000"
       ]
     }
   },
@@ -118,7 +145,7 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:15000000"
+        "SKYBLOCK_COIN:11820000"
       ]
     }
   },
@@ -128,7 +155,7 @@
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:100000000"
+        "SKYBLOCK_COIN:73875000"
       ]
     }
   },
@@ -138,7 +165,7 @@
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:100000000"
+        "SKYBLOCK_COIN:73875000"
       ]
     }
   },
@@ -148,7 +175,7 @@
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:100000000"
+        "SKYBLOCK_COIN:73875000"
       ]
     }
   },
@@ -158,7 +185,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:4925000"
       ]
     }
   },
@@ -168,7 +195,7 @@
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:7000000"
+        "SKYBLOCK_COIN:6895000"
       ]
     }
   },
@@ -178,7 +205,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:1000000"
+        "SKYBLOCK_COIN:985000"
       ]
     }
   },
@@ -188,7 +215,7 @@
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:2000000"
+        "SKYBLOCK_COIN:1970000"
       ]
     }
   },
@@ -478,6 +505,10 @@
       "C3": "IRON_INGOT:1"
     },
     "base_rarity": "COMMON"
+  },
+  "ADAPTIVE_BELT": {
+    "name": "Adaptive Belt",
+    "base_rarity": "EPIC"
   },
   "ADAPTIVE_BOOTS": {
     "name": "Adaptive Boots",
@@ -1682,6 +1713,10 @@
     "texture": "c469ba2047122e0a2de3c7437ad3dd5d31f1ac2d27abde9f8841e1d92a8c5b75",
     "wiki": "https://wiki.hypixel.net/Bal_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "BALLOON_SNAKE": {
+    "name": "Balloon Snake",
+    "base_rarity": "RARE"
   },
   "BAMBOO_BARN_SKIN": {
     "name": "Bamboo Barn Skin",
@@ -3916,6 +3951,15 @@
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
+  "BONE_NECKLACE": {
+    "name": "Bone Necklace",
+    "base_rarity": "EPIC"
+  },
+  "BONE_REAVER": {
+    "name": "Bone Reaver",
+    "scrollable": true,
+    "base_rarity": "EPIC"
+  },
   "BONZO_FRAGMENT": {
     "name": "Bonzo Fragment",
     "wiki": "https://wiki.hypixel.net/Bonzo_Fragment",
@@ -3925,6 +3969,10 @@
     "name": "Bonzo\u0027s Mask",
     "wiki": "https://wiki.hypixel.net/Bonzo\u0027s_Mask",
     "base_rarity": "RARE"
+  },
+  "BONZO_MASK_JESTER": {
+    "name": "Jester Bonzo\u0027s Mask Skin",
+    "base_rarity": "MYTHIC"
   },
   "BONZO_STAFF": {
     "name": "Bonzo\u0027s Staff",
@@ -4074,6 +4122,22 @@
     "name": "Bouncy Leggings",
     "wiki": "https://wiki.hypixel.net/Bouncy_Leggings",
     "base_rarity": "RARE"
+  },
+  "BOUQUET_OF_LIES": {
+    "name": "Bouquet of Lies",
+    "recipe": {
+      "A1": "",
+      "A2": "FEL_ROSE:3",
+      "A3": "",
+      "B1": "FEL_ROSE:3",
+      "B2": "FLOWER_OF_TRUTH:1",
+      "B3": "FEL_ROSE:3",
+      "C1": "",
+      "C2": "FEL_ROSE:3",
+      "C3": ""
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
   },
   "BOW": {
     "name": "Bow",
@@ -6079,6 +6143,26 @@
         "SKYBLOCK_COIN:5000"
       ]
     }
+  },
+  "CENTURY_MEMENTO_BLUE": {
+    "name": "Cake Slice of the Century",
+    "base_rarity": "SPECIAL"
+  },
+  "CENTURY_MEMENTO_GREEN": {
+    "name": "Cake Slice of the Century",
+    "base_rarity": "SPECIAL"
+  },
+  "CENTURY_MEMENTO_PINK": {
+    "name": "Cake Slice of the Century",
+    "base_rarity": "SPECIAL"
+  },
+  "CENTURY_MEMENTO_RED": {
+    "name": "Cake Slice of the Century",
+    "base_rarity": "SPECIAL"
+  },
+  "CENTURY_MEMENTO_YELLOW": {
+    "name": "Cake Slice of the Century",
+    "base_rarity": "SPECIAL"
   },
   "CENTURY_TALISMAN": {
     "name": "Talisman of the Century",
@@ -9392,7 +9476,7 @@
     "base_rarity": "RARE"
   },
   "DEAD_CAT_FOOD": {
-    "name": "Dead Cat Food",
+    "name": "Tasty Cat Food",
     "wiki": "https://wiki.hypixel.net/Dead_Cat_Food",
     "base_rarity": "RARE"
   },
@@ -15464,10 +15548,45 @@
     "wiki": "https://wiki.hypixel.net/Feather_Talisman",
     "base_rarity": "COMMON"
   },
+  "FELTHORN_REAPER": {
+    "name": "Felthorn Reaper",
+    "recipe": {
+      "A1": "",
+      "A2": "FEL_ROSE:1",
+      "A3": "FEL_ROSE:1",
+      "B1": "FEL_ROSE:1",
+      "B2": "FEL_SKULL:1",
+      "B3": "FEL_ROSE:1",
+      "C1": "BONE_REAVER:1",
+      "C2": "FEL_ROSE:1",
+      "C3": ""
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
+  },
   "FEL_PEARL": {
     "name": "Fel Pearl",
     "wiki": "https://wiki.hypixel.net/Fel_Pearl",
     "base_rarity": "RARE"
+  },
+  "FEL_ROSE": {
+    "name": "Fel Rose",
+    "recipe": {
+      "A1": "",
+      "A2": "FEL_PEARL:4",
+      "A3": "",
+      "B1": "FEL_PEARL:4",
+      "B2": "GOLEM_POPPY:3",
+      "B3": "FEL_PEARL:4",
+      "C1": "",
+      "C2": "FEL_PEARL:4",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
+  "FEL_SKULL": {
+    "name": "Fel Skull",
+    "base_rarity": "LEGENDARY"
   },
   "FEL_SWORD": {
     "name": "Fel Sword",
@@ -18341,10 +18460,10 @@
     "wiki": "https://wiki.hypixel.net/Ghoul_Buster",
     "base_rarity": "EPIC"
   },
-  "GIANTS_EYE": {
+  "GIANTS_EYE_SWORD": {
     "name": "Giant\u0027s Eye Sword",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Giant\u0027s_Eye_Sword",
-    "base_rarity": "EPIC"
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
   },
   "GIANTS_SWORD": {
     "name": "Giant\u0027s Sword",
@@ -23370,7 +23489,12 @@
   "INFINI_TORCH": {
     "name": "InfiniTorch™",
     "wiki": "https://wiki.hypixel.net/InfiniTorch™",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000"
+      ]
+    }
   },
   "INFLATABLE_JERRY": {
     "name": "Inflatable Jerry",
@@ -25331,7 +25455,12 @@
   "LANTERN": {
     "name": "Lantern",
     "wiki": "https://wiki.hypixel.net/Lantern",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10000"
+      ]
+    }
   },
   "LAPIS_ARMOR_BOOTS": {
     "name": "Lapis Armor Boots",
@@ -29890,6 +30019,17 @@
     },
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Museum",
     "base_rarity": "EPIC"
+  },
+  "MUSHED_GLOWY_TONIC": {
+    "name": "Mushed Glowy Tonic I Potion",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:8",
+        "GLOWING_MUSHROOM:10"
+      ],
+      "count": 1
+    }
   },
   "MUSHROOM_BARN_SKIN": {
     "name": "Mushroom Barn Skin",
@@ -40097,6 +40237,10 @@
     "wiki": "https://wiki.hypixel.net/Shadow_Assassin_Chestplate",
     "base_rarity": "EPIC"
   },
+  "SHADOW_ASSASSIN_CLOAK": {
+    "name": "Shadow Assassin Cloak",
+    "base_rarity": "EPIC"
+  },
   "SHADOW_ASSASSIN_CRIMSON": {
     "name": "Crimson Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Fire_Sale",
@@ -43079,6 +43223,10 @@
     "name": "◆ Soultwist Rune III",
     "base_rarity": "EPIC"
   },
+  "SOULWEAVER_GLOVES": {
+    "name": "Soulweaver Gloves",
+    "base_rarity": "EPIC"
+  },
   "SOUL_ESOWARD": {
     "name": "Soul Esoward",
     "recipe": {
@@ -45349,6 +45497,21 @@
       ]
     }
   },
+  "STARRED_ADAPTIVE_BELT": {
+    "name": "⚚ Adaptive Belt",
+    "recipe": {
+      "A1": "SCARF_FRAGMENT:1",
+      "A2": "SCARF_FRAGMENT:1",
+      "A3": "SCARF_FRAGMENT:1",
+      "B1": "SCARF_FRAGMENT:1",
+      "B2": "ADAPTIVE_BELT:1",
+      "B3": "SCARF_FRAGMENT:1",
+      "C1": "SCARF_FRAGMENT:1",
+      "C2": "SCARF_FRAGMENT:1",
+      "C3": "SCARF_FRAGMENT:1"
+    },
+    "base_rarity": "EPIC"
+  },
   "STARRED_ADAPTIVE_BOOTS": {
     "name": "⚚ Adaptive Boots",
     "recipe": {
@@ -45413,6 +45576,38 @@
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Adaptive_Leggings",
     "base_rarity": "EPIC"
   },
+  "STARRED_BAT_WAND": {
+    "name": "⚚ Spirit Sceptre",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "BAT_WAND:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
+  },
+  "STARRED_BONE_BOOMERANG": {
+    "name": "⚚ Bonemerang",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "BONE_BOOMERANG:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
+  },
   "STARRED_BONZO_MASK": {
     "name": "⚚ Bonzo\u0027s Mask",
     "recipe": {
@@ -45445,6 +45640,37 @@
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Bonzo\u0027s_Staff",
     "scrollable": true,
     "base_rarity": "RARE"
+  },
+  "STARRED_FELTHORN_REAPER": {
+    "name": "⚚ Felthorn Reaper",
+    "recipe": {
+      "A1": "GIANT_FRAGMENT_BIGFOOT:1",
+      "A2": "GIANT_FRAGMENT_BIGFOOT:1",
+      "A3": "GIANT_FRAGMENT_BIGFOOT:1",
+      "B1": "GIANT_FRAGMENT_BIGFOOT:1",
+      "B2": "FELTHORN_REAPER:1",
+      "B3": "GIANT_FRAGMENT_BIGFOOT:1",
+      "C1": "GIANT_FRAGMENT_BIGFOOT:1",
+      "C2": "GIANT_FRAGMENT_BIGFOOT:1",
+      "C3": "GIANT_FRAGMENT_BIGFOOT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
+  },
+  "STARRED_ITEM_SPIRIT_BOW": {
+    "name": "⚚ Spirit Shortbow",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "ITEM_SPIRIT_BOW:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "base_rarity": "LEGENDARY"
   },
   "STARRED_LAST_BREATH": {
     "name": "⚚ Last Breath",
@@ -45492,6 +45718,21 @@
       "C3": "LIVID_FRAGMENT:1"
     },
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Shadow_Assassin_Chestplate",
+    "base_rarity": "LEGENDARY"
+  },
+  "STARRED_SHADOW_ASSASSIN_CLOAK": {
+    "name": "⚚ Shadow Assassin Cloak",
+    "recipe": {
+      "A1": "LIVID_FRAGMENT:1",
+      "A2": "LIVID_FRAGMENT:1",
+      "A3": "LIVID_FRAGMENT:1",
+      "B1": "LIVID_FRAGMENT:1",
+      "B2": "SHADOW_ASSASSIN_CLOAK:1",
+      "B3": "LIVID_FRAGMENT:1",
+      "C1": "LIVID_FRAGMENT:1",
+      "C2": "LIVID_FRAGMENT:1",
+      "C3": "LIVID_FRAGMENT:1"
+    },
     "base_rarity": "LEGENDARY"
   },
   "STARRED_SHADOW_ASSASSIN_HELMET": {
@@ -45559,6 +45800,21 @@
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Spider_Queen\u0027s_Stinger",
     "base_rarity": "EPIC"
   },
+  "STARRED_SPIRIT_MASK": {
+    "name": "⚚ Spirit Mask",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "SPIRIT_MASK:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "base_rarity": "LEGENDARY"
+  },
   "STARRED_STONE_BLADE": {
     "name": "⚚ Adaptive Blade",
     "recipe": {
@@ -45574,6 +45830,21 @@
     },
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Adaptive_Blade",
     "base_rarity": "EPIC"
+  },
+  "STARRED_THORNS_BOOTS": {
+    "name": "⚚ Spirit Boots",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "THORNS_BOOTS:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "base_rarity": "LEGENDARY"
   },
   "STARRED_VENOMS_TOUCH": {
     "name": "⚚ Venom\u0027s Touch",
@@ -47925,6 +48196,10 @@
     "name": "Spirit Boots",
     "wiki": "https://wiki.hypixel.net/Spirit_Boots",
     "base_rarity": "EPIC"
+  },
+  "THORN_FRAGMENT": {
+    "name": "Thorn Fragment",
+    "base_rarity": "RARE"
   },
   "THUNDERBOLT;1": {
     "name": "Thunderbolt I",
