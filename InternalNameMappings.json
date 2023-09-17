@@ -84,6 +84,7 @@
   },
   "ABIPHONE_FLIP_DRAGON": {
     "name": "Abiphone Flip: Dragon",
+    "wiki": "https://wiki.hypixel.net/Abiphone_Flip:_Dragon",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -93,6 +94,7 @@
   },
   "ABIPHONE_FLIP_NUCLEUS": {
     "name": "Abiphone Flip: Nucleus",
+    "wiki": "https://wiki.hypixel.net/Abiphone_Flip:_Nucleus",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -102,6 +104,7 @@
   },
   "ABIPHONE_FLIP_VOLCANO": {
     "name": "Abiphone Flip: Volcano",
+    "wiki": "https://wiki.hypixel.net/Abiphone_Flip:_Volcano",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -508,6 +511,7 @@
   },
   "ADAPTIVE_BELT": {
     "name": "Adaptive Belt",
+    "wiki": "https://wiki.hypixel.net/Adaptive_Belt",
     "base_rarity": "EPIC"
   },
   "ADAPTIVE_BOOTS": {
@@ -1716,6 +1720,7 @@
   },
   "BALLOON_SNAKE": {
     "name": "Balloon Snake",
+    "wiki": "https://wiki.hypixel.net/Balloon_Snake",
     "base_rarity": "RARE"
   },
   "BAMBOO_BARN_SKIN": {
@@ -3953,10 +3958,34 @@
   },
   "BONE_NECKLACE": {
     "name": "Bone Necklace",
+    "recipe": {
+      "A1": "SOUL_STRING:32",
+      "A2": "SOUL_STRING:32",
+      "A3": "SOUL_STRING:32",
+      "B1": "SPIRIT_BONE:1",
+      "B2": "",
+      "B3": "SPIRIT_BONE:1",
+      "C1": "",
+      "C2": "SPIRIT_WING:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Bone_Necklace",
     "base_rarity": "EPIC"
   },
   "BONE_REAVER": {
     "name": "Bone Reaver",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_BONE_BLOCK:20",
+      "A3": "",
+      "B1": "",
+      "B2": "SPIRIT_BONE:5",
+      "B3": "",
+      "C1": "",
+      "C2": "SPIRIT_SWORD:1",
+      "C3": ""
+    },
+    "wiki": "https://wiki.hypixel.net/Bone_Reaver",
     "scrollable": true,
     "base_rarity": "EPIC"
   },
@@ -3972,6 +4001,7 @@
   },
   "BONZO_MASK_JESTER": {
     "name": "Jester Bonzo\u0027s Mask Skin",
+    "wiki": "https://wiki.hypixel.net/Jester_Bonzo%27s_Mask_Skin",
     "base_rarity": "MYTHIC"
   },
   "BONZO_STAFF": {
@@ -4136,6 +4166,7 @@
       "C2": "FEL_ROSE:3",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Bouquet_Of_Lies",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -6146,22 +6177,27 @@
   },
   "CENTURY_MEMENTO_BLUE": {
     "name": "Cake Slice of the Century",
+    "wiki": "https://wiki.hypixel.net/Cake_Slice_Of_The_Century",
     "base_rarity": "SPECIAL"
   },
   "CENTURY_MEMENTO_GREEN": {
     "name": "Cake Slice of the Century",
+    "wiki": "https://wiki.hypixel.net/Cake_Slice_Of_The_Century",
     "base_rarity": "SPECIAL"
   },
   "CENTURY_MEMENTO_PINK": {
     "name": "Cake Slice of the Century",
+    "wiki": "https://wiki.hypixel.net/Cake_Slice_Of_The_Century",
     "base_rarity": "SPECIAL"
   },
   "CENTURY_MEMENTO_RED": {
     "name": "Cake Slice of the Century",
+    "wiki": "https://wiki.hypixel.net/Cake_Slice_Of_The_Century",
     "base_rarity": "SPECIAL"
   },
   "CENTURY_MEMENTO_YELLOW": {
     "name": "Cake Slice of the Century",
+    "wiki": "https://wiki.hypixel.net/Cake_Slice_Of_The_Century",
     "base_rarity": "SPECIAL"
   },
   "CENTURY_TALISMAN": {
@@ -15561,6 +15597,7 @@
       "C2": "FEL_ROSE:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Felthorn_Reaper",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -15582,10 +15619,12 @@
       "C2": "FEL_PEARL:4",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Fel_Rose",
     "base_rarity": "EPIC"
   },
   "FEL_SKULL": {
     "name": "Fel Skull",
+    "wiki": "https://wiki.hypixel.net/Fel_Skull",
     "base_rarity": "LEGENDARY"
   },
   "FEL_SWORD": {
@@ -18462,6 +18501,7 @@
   },
   "GIANTS_EYE_SWORD": {
     "name": "Giant\u0027s Eye Sword",
+    "wiki": "https://wiki.hypixel.net/Giant%27s_Eye_Sword",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -19197,6 +19237,7 @@
   },
   "GOLDEN_ANCIENT_EGG_FLUX": {
     "name": "Golden Turtle Egg Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Golden_Turtle_Egg_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
   "GOLDEN_APPLE:1": {
@@ -28868,6 +28909,10 @@
     "wiki": "https://wiki.hypixel.net/Metaphysical_Serum",
     "base_rarity": "EPIC"
   },
+  "METEOR_MAGMA_LORD": {
+    "name": "Meteor Magma Lord Helmet Skin",
+    "base_rarity": "MYTHIC"
+  },
   "METEOR_SHARD": {
     "name": "Meteor Shard",
     "recipe": {
@@ -34150,10 +34195,12 @@
   },
   "PET_SKIN_TURTLE_ANCIENT": {
     "name": "Ancient Turtle Skin",
+    "wiki": "https://wiki.hypixel.net/Ancient_Turtle_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_TURTLE_ANCIENT_GOLDEN": {
     "name": "Golden Ancient Turtle Skin",
+    "wiki": "https://wiki.hypixel.net/Golden_Ancient_Turtle_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_WHALE_COSMIC": {
@@ -37185,6 +37232,7 @@
   },
   "REAPER_BLUE_ONI_MASK": {
     "name": "Blue Oni Reaper Mask Skin",
+    "wiki": "https://wiki.hypixel.net/Blue_Oni_Reaper_Mask_Skin",
     "base_rarity": "EPIC"
   },
   "REAPER_BOOTS": {
@@ -37261,6 +37309,7 @@
   },
   "REAPER_ONI_MASK": {
     "name": "Oni Reaper Mask Skin",
+    "wiki": "https://wiki.hypixel.net/Oni_Reaper_Mask_Skin",
     "base_rarity": "MYTHIC"
   },
   "REAPER_ORB": {
@@ -37286,6 +37335,7 @@
   },
   "REAPER_RED_ONI_MASK": {
     "name": "Red Oni Reaper Mask Skin",
+    "wiki": "https://wiki.hypixel.net/Red_Oni_Reaper_Mask_Skin",
     "base_rarity": "EPIC"
   },
   "REAPER_SCYTHE": {
@@ -40239,6 +40289,7 @@
   },
   "SHADOW_ASSASSIN_CLOAK": {
     "name": "Shadow Assassin Cloak",
+    "wiki": "https://wiki.hypixel.net/Shadow_Assassin_Cloak",
     "base_rarity": "EPIC"
   },
   "SHADOW_ASSASSIN_CRIMSON": {
@@ -43225,6 +43276,7 @@
   },
   "SOULWEAVER_GLOVES": {
     "name": "Soulweaver Gloves",
+    "wiki": "https://wiki.hypixel.net/Soulweaver_Gloves",
     "base_rarity": "EPIC"
   },
   "SOUL_ESOWARD": {
@@ -45510,6 +45562,7 @@
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Adaptive_Belt",
     "base_rarity": "EPIC"
   },
   "STARRED_ADAPTIVE_BOOTS": {
@@ -45589,6 +45642,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Spirit_Sceptre",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -45605,6 +45659,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Bonemerang",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -45654,6 +45709,7 @@
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Felthorn_Reaper",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -45670,6 +45726,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Spirit_Shortbow",
     "base_rarity": "LEGENDARY"
   },
   "STARRED_LAST_BREATH": {
@@ -45733,6 +45790,7 @@
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Shadow_Assassin_Cloak",
     "base_rarity": "LEGENDARY"
   },
   "STARRED_SHADOW_ASSASSIN_HELMET": {
@@ -45813,6 +45871,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Spirit_Mask",
     "base_rarity": "LEGENDARY"
   },
   "STARRED_STONE_BLADE": {
@@ -45844,6 +45903,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Spirit_Boots",
     "base_rarity": "LEGENDARY"
   },
   "STARRED_VENOMS_TOUCH": {
@@ -46859,19 +46919,19 @@
     "base_rarity": "COMMON"
   },
   "SUNDER;2": {
-    "name": "Sunder 2",
+    "name": "Sunder II",
     "base_rarity": "COMMON"
   },
   "SUNDER;3": {
-    "name": "Sunder 3",
+    "name": "Sunder III",
     "base_rarity": "COMMON"
   },
   "SUNDER;4": {
-    "name": "Sunder 4",
+    "name": "Sunder IV",
     "base_rarity": "COMMON"
   },
   "SUNDER;5": {
-    "name": "Sunder 5",
+    "name": "Sunder V",
     "base_rarity": "UNCOMMON"
   },
   "SUN_PERSONALITY": {
@@ -47812,7 +47872,6 @@
       "C3": "TARANTULA_SILK:64"
     },
     "wiki": "https://wiki.hypixel.net/Terminator",
-    "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
   "TERROR_BOOTS": {
@@ -48199,6 +48258,7 @@
   },
   "THORN_FRAGMENT": {
     "name": "Thorn Fragment",
+    "wiki": "https://wiki.hypixel.net/Thorn_Fragment",
     "base_rarity": "RARE"
   },
   "THUNDERBOLT;1": {
