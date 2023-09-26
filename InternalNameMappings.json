@@ -18136,6 +18136,10 @@
     "wiki": "https://wiki.hypixel.net/Gemstone",
     "base_rarity": "RARE"
   },
+  "GEMSTONE_DIVAN": {
+    "name": "Gemstone Divan Helmet Skin",
+    "base_rarity": "MYTHIC"
+  },
   "GEMSTONE_DRILL_1": {
     "name": "Ruby Drill TX-15",
     "wiki": "https://wiki.hypixel.net/Ruby_Drill_TX-15",
@@ -37095,6 +37099,10 @@
     "name": "Rainbow II",
     "base_rarity": "COMMON"
   },
+  "RAINBOW;3": {
+    "name": "Rainbow III",
+    "base_rarity": "COMMON"
+  },
   "RAINBOW_RUNE;1": {
     "name": "◆ Rainbow Rune I",
     "base_rarity": "LEGENDARY"
@@ -40242,17 +40250,6 @@
   },
   "SELF_RECURSIVE_PICKAXE": {
     "name": "Self-Recursive Pickaxe",
-    "recipe": {
-      "A1": "NULLIFIED_METAL:2",
-      "A2": "NULLIFIED_METAL:2",
-      "A3": "NULLIFIED_METAL:2",
-      "B1": "",
-      "B2": "WILTED_BERBERIS:24",
-      "B3": "",
-      "C1": "",
-      "C2": "TACTICIAN_MURDER_WEAPON:1",
-      "C3": ""
-    },
     "wiki": "https://wiki.hypixel.net/Self-Recursive_Pickaxe",
     "base_rarity": "RARE"
   },
