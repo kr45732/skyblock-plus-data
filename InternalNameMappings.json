@@ -764,17 +764,6 @@
   },
   "AMALGAMATED_CRIMSONITE_NEW": {
     "name": "Amalgamated Crimsonite",
-    "recipe": {
-      "A1": "",
-      "A2": "ENCHANTED_GLOWSTONE_DUST:32",
-      "A3": "ENCHANTED_MYCELIUM:8",
-      "B1": "ENCHANTED_MAGMA_CREAM:32",
-      "B2": "",
-      "B3": "ENCHANTED_BLAZE_POWDER:32",
-      "C1": "ENCHANTED_RED_SAND:8",
-      "C2": "ENCHANTED_NETHER_STALK:32",
-      "C3": ""
-    },
     "wiki": "https://wiki.hypixel.net/Amalgamated_Crimsonite",
     "base_rarity": "RARE"
   },
@@ -2271,6 +2260,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Bat_Person_Helmet",
     "base_rarity": "LEGENDARY"
+  },
+  "BAT_PERSON_HERO": {
+    "name": "Hero Skin",
+    "base_rarity": "EPIC"
   },
   "BAT_PERSON_LEGGINGS": {
     "name": "Bat Person Leggings",
@@ -4335,27 +4328,57 @@
   "BRONZE_HUNTER_BOOTS": {
     "name": "Bronze Hunter Boots",
     "wiki": "https://wiki.hypixel.net/Bronze_Hunter_Boots",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
   },
   "BRONZE_HUNTER_CHESTPLATE": {
     "name": "Bronze Hunter Chestplate",
     "wiki": "https://wiki.hypixel.net/Bronze_Hunter_Chestplate",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
   },
   "BRONZE_HUNTER_HELMET": {
     "name": "Bronze Hunter Helmet",
     "wiki": "https://wiki.hypixel.net/Bronze_Hunter_Helmet",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
   },
   "BRONZE_HUNTER_LEGGINGS": {
     "name": "Bronze Hunter Leggings",
     "wiki": "https://wiki.hypixel.net/Bronze_Hunter_Leggings",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
   },
   "BRONZE_TROPHY_FISHING_SACK": {
     "name": "Bronze Trophy Fishing Sack",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bronze_Trophy_Fishing_Sack",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "BROWN_MUSHROOM": {
     "name": "Brown Mushroom",
@@ -5317,6 +5340,11 @@
   },
   "CAPSAICIN_EYEDROPS": {
     "name": "Capsaicin Eyedrops",
+    "wiki": "https://wiki.hypixel.net/Capsaicin_Eyedrops",
+    "base_rarity": "RARE"
+  },
+  "CAPSAICIN_EYEDROPS_NO_CHARGES": {
+    "name": "Capsaicin Eyedrops",
     "recipe": {
       "A1": "CHILI_PEPPER:1",
       "A2": "ENCHANTED_CARROT:64",
@@ -5326,9 +5354,9 @@
       "B3": "ENCHANTED_CARROT:64",
       "C1": "CHILI_PEPPER:1",
       "C2": "ENCHANTED_CARROT:64",
-      "C3": "CHILI_PEPPER:1"
+      "C3": "CHILI_PEPPER:1",
+      "count": 3
     },
-    "wiki": "https://wiki.hypixel.net/Capsaicin_Eyedrops",
     "base_rarity": "RARE"
   },
   "CARPENTRY_BENCH": {
@@ -10122,22 +10150,46 @@
   "DIAMOND_HUNTER_BOOTS": {
     "name": "Diamond Hunter Boots",
     "wiki": "https://wiki.hypixel.net/Diamond_Hunter_Boots",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2500000.0"
+      ],
+      "count": 1
+    }
   },
   "DIAMOND_HUNTER_CHESTPLATE": {
     "name": "Diamond Hunter Chestplate",
     "wiki": "https://wiki.hypixel.net/Diamond_Hunter_Chestplate",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2500000.0"
+      ],
+      "count": 1
+    }
   },
   "DIAMOND_HUNTER_HELMET": {
     "name": "Diamond Hunter Helmet",
     "wiki": "https://wiki.hypixel.net/Diamond_Hunter_Helmet",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2500000.0"
+      ],
+      "count": 1
+    }
   },
   "DIAMOND_HUNTER_LEGGINGS": {
     "name": "Diamond Hunter Leggings",
     "wiki": "https://wiki.hypixel.net/Diamond_Hunter_Leggings",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2500000.0"
+      ],
+      "count": 1
+    }
   },
   "DIAMOND_LEGGINGS": {
     "name": "Diamond Leggings",
@@ -10603,6 +10655,10 @@
   },
   "DOUBLE_PLANT:2": {
     "name": "Double Tallgrass",
+    "base_rarity": "COMMON"
+  },
+  "DOUBLE_PLANT:3": {
+    "name": "Large Fern",
     "base_rarity": "COMMON"
   },
   "DOUBLE_PLANT:4": {
@@ -16045,6 +16101,10 @@
     "wiki": "https://wiki.hypixel.net/Final_Destination_Chestplate",
     "base_rarity": "LEGENDARY"
   },
+  "FINAL_DESTINATION_ENDER_KNIGHT": {
+    "name": "Ender Knight Skin",
+    "base_rarity": "MYTHIC"
+  },
   "FINAL_DESTINATION_HELMET": {
     "name": "Final Destination Helmet",
     "recipe": {
@@ -19746,22 +19806,46 @@
   "GOLD_HUNTER_BOOTS": {
     "name": "Gold Hunter Boots",
     "wiki": "https://wiki.hypixel.net/Gold_Hunter_Boots",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "GOLD_HUNTER_CHESTPLATE": {
     "name": "Gold Hunter Chestplate",
     "wiki": "https://wiki.hypixel.net/Gold_Hunter_Chestplate",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "GOLD_HUNTER_HELMET": {
     "name": "Gold Hunter Helmet",
     "wiki": "https://wiki.hypixel.net/Gold_Hunter_Helmet",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "GOLD_HUNTER_LEGGINGS": {
     "name": "Gold Hunter Leggings",
     "wiki": "https://wiki.hypixel.net/Gold_Hunter_Leggings",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "GOLD_INGOT": {
     "name": "Gold Ingot",
@@ -22389,17 +22473,16 @@
   "HYPERGOLIC_GABAGOOL": {
     "name": "Hypergolic Gabagool",
     "recipe": {
-      "A1": "HEAVY_GABAGOOL:3",
+      "A1": "",
       "A2": "HEAVY_GABAGOOL:3",
-      "A3": "HEAVY_GABAGOOL:3",
+      "A3": "",
       "B1": "HEAVY_GABAGOOL:3",
       "B2": "SULPHURIC_COAL:1",
       "B3": "HEAVY_GABAGOOL:3",
-      "C1": "HEAVY_GABAGOOL:3",
+      "C1": "",
       "C2": "HEAVY_GABAGOOL:3",
-      "C3": "HEAVY_GABAGOOL:3"
+      "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Hypergolic_Gabagool",
     "base_rarity": "LEGENDARY"
   },
   "HYPERGOLIC_IONIZED_CERAMICS": {
@@ -28958,6 +29041,10 @@
     "wiki": "https://wiki.hypixel.net/Millenia-Old_Blaze_Ashes",
     "base_rarity": "RARE"
   },
+  "MIMIC_CHEST": {
+    "name": "Mimic Chest",
+    "base_rarity": "EPIC"
+  },
   "MIMIC_FRAGMENT": {
     "name": "Mimic Fragment",
     "wiki": "https://wiki.hypixel.net/Mimic_Fragment",
@@ -31894,22 +31981,46 @@
   "ODGERS_BRONZE_TOOTH": {
     "name": "Odger\u0027s Bronze Tooth",
     "wiki": "https://wiki.hypixel.net/Odger%27s_Bronze_Tooth",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:100000.0"
+      ],
+      "count": 1
+    }
   },
   "ODGERS_DIAMOND_TOOTH": {
     "name": "Odger\u0027s Diamond Tooth",
     "wiki": "https://wiki.hypixel.net/Odger%27s_Diamond_Tooth",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2500000.0"
+      ],
+      "count": 1
+    }
   },
   "ODGERS_GOLD_TOOTH": {
     "name": "Odger\u0027s Gold Tooth",
     "wiki": "https://wiki.hypixel.net/Odger%27s_Gold_Toothh",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000.0"
+      ],
+      "count": 1
+    }
   },
   "ODGERS_SILVER_TOOTH": {
     "name": "Odger\u0027s Silver Tooth",
     "wiki": "https://wiki.hypixel.net/Odger%27s_Silver_Tooth",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "count": 1
+    }
   },
   "OIL_BARREL": {
     "name": "Oil Barrel",
@@ -33889,6 +34000,10 @@
     "wiki": "https://wiki.hypixel.net/Xenon_Enderman_Skin",
     "base_rarity": "LEGENDARY"
   },
+  "PET_SKIN_ENDERMITE_DYNAMITE": {
+    "name": "Dynamite Endermite Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_ENDERMITE_RADIANT": {
     "name": "Radiant Endermite Skin",
     "wiki": "https://wiki.hypixel.net/Radiant_Endermite_Skin",
@@ -34665,6 +34780,10 @@
     "name": "Pirate Bomb Power Orb Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "MYTHIC"
+  },
+  "PIRATE_CUTOUT": {
+    "name": "Pirate Cutout",
+    "base_rarity": "EPIC"
   },
   "PISCARY;1": {
     "name": "Piscary I",
@@ -35926,6 +36045,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Pumpkin_Boots",
     "base_rarity": "COMMON"
+  },
+  "PUMPKIN_CANDY_HANDOUT": {
+    "name": "Pumpkin Candy Handout",
+    "base_rarity": "EPIC"
   },
   "PUMPKIN_CHESTPLATE": {
     "name": "Pumpkin Chestplate",
@@ -37250,6 +37373,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Razor-sharp_Shark_Tooth_Necklace",
     "base_rarity": "LEGENDARY"
+  },
+  "REANIMATED_PAINTING": {
+    "name": "Reanimated Painting",
+    "base_rarity": "EPIC"
   },
   "REAPER_BLUE_ONI_MASK": {
     "name": "Blue Oni Reaper Mask Skin",
@@ -41221,17 +41348,35 @@
   "SILVER_HUNTER_CHESTPLATE": {
     "name": "Silver Hunter Chestplate",
     "wiki": "https://wiki.hypixel.net/Silver_Hunter_Chestplate",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "count": 1
+    }
   },
   "SILVER_HUNTER_HELMET": {
     "name": "Silver Hunter Helmet",
     "wiki": "https://wiki.hypixel.net/Silver_Hunter_Helmet",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "count": 1
+    }
   },
   "SILVER_HUNTER_LEGGINGS": {
     "name": "Silver Hunter Leggings",
     "wiki": "https://wiki.hypixel.net/Silver_Hunter_Leggings",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:500000.0"
+      ],
+      "count": 1
+    }
   },
   "SILVER_LACED_KARAMBIT": {
     "name": "Silver-Laced Karambit",
@@ -41252,7 +41397,13 @@
   "SILVER_TROPHY_FISHING_SACK": {
     "name": "Silver Trophy Fishing Sack",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Silver_Trophy_Fishing_Sack",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5000000.0"
+      ],
+      "count": 1
+    }
   },
   "SIL_EX": {
     "name": "Silex",
@@ -41392,6 +41543,10 @@
     "texture": "fca445749251bdd898fb83f667844e38a1dff79a1529f79a42447a0599310ea4",
     "wiki": "https://wiki.hypixel.net/Skeleton_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "SKELETON_CHAIR": {
+    "name": "Skeleton Chair",
+    "base_rarity": "EPIC"
   },
   "SKELETON_FISH_BRONZE": {
     "name": "Skeleton Fish BRONZE",
@@ -45935,7 +46090,13 @@
   "STARTER_LAVA_ROD": {
     "name": "Starter Lava Rod",
     "wiki": "https://wiki.hypixel.net/Starter_Lava_Rod",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10000.0"
+      ],
+      "count": 1
+    }
   },
   "STAR_DECORATIONS": {
     "name": "Star Decorations",
@@ -49883,15 +50044,15 @@
   "UPGRADE_STONE_FROST": {
     "name": "Wisp Upgrade Stone",
     "recipe": {
-      "A1": "MOLTEN_POWDER:4",
-      "A2": "INFERNO_VERTEX:1",
-      "A3": "MOLTEN_POWDER:4",
+      "A1": "MOLTEN_POWDER:2",
+      "A2": "ENCHANTED_PACKED_ICE:1",
+      "A3": "MOLTEN_POWDER:2",
       "B1": "INFERNO_VERTEX:1",
-      "B2": "KELVIN_INVERTER:1",
-      "B3": "INFERNO_VERTEX:1",
-      "C1": "MOLTEN_POWDER:4",
-      "C2": "INFERNO_VERTEX:1",
-      "C3": "MOLTEN_POWDER:4"
+      "B2": "ENCHANTED_PACKED_ICE:1",
+      "B3": "KELVIN_INVERTER:1",
+      "C1": "MOLTEN_POWDER:2",
+      "C2": "ENCHANTED_PACKED_ICE:1",
+      "C3": "MOLTEN_POWDER:2"
     },
     "wiki": "https://wiki.hypixel.net/Wisp_Upgrade_Stone",
     "base_rarity": "RARE"
@@ -49899,15 +50060,15 @@
   "UPGRADE_STONE_GLACIAL": {
     "name": "Wisp Upgrade Stone",
     "recipe": {
-      "A1": "INFERNO_VERTEX:4",
-      "A2": "MOLTEN_POWDER:16",
-      "A3": "INFERNO_VERTEX:4",
-      "B1": "MOLTEN_POWDER:16",
-      "B2": "KELVIN_INVERTER:12",
-      "B3": "MOLTEN_POWDER:16",
-      "C1": "INFERNO_VERTEX:4",
-      "C2": "MOLTEN_POWDER:16",
-      "C3": "INFERNO_VERTEX:4"
+      "A1": "INFERNO_VERTEX:2",
+      "A2": "ENCHANTED_PACKED_ICE:6",
+      "A3": "INFERNO_VERTEX:2",
+      "B1": "MOLTEN_POWDER:24",
+      "B2": "KELVIN_INVERTER:6",
+      "B3": "MOLTEN_POWDER:24",
+      "C1": "INFERNO_VERTEX:2",
+      "C2": "ENCHANTED_PACKED_ICE:6",
+      "C3": "INFERNO_VERTEX:2"
     },
     "wiki": "https://wiki.hypixel.net/Wisp_Upgrade_Stone",
     "base_rarity": "EPIC"
@@ -49917,12 +50078,12 @@
     "recipe": {
       "A1": "MOLTEN_POWDER:64",
       "A2": "INFERNO_APEX:1",
-      "A3": "MOLTEN_POWDER:64",
-      "B1": "INFERNO_VERTEX:12",
+      "A3": "BLUETOOTH_RING:1",
+      "B1": "INFERNO_VERTEX:8",
       "B2": "SUBZERO_INVERTER:1",
-      "B3": "INFERNO_VERTEX:12",
-      "C1": "MOLTEN_POWDER:64",
-      "C2": "INFERNO_APEX:1",
+      "B3": "INFERNO_VERTEX:8",
+      "C1": "BLUETOOTH_RING:1",
+      "C2": "ENCHANTED_PACKED_ICE:64",
       "C3": "MOLTEN_POWDER:64"
     },
     "wiki": "https://wiki.hypixel.net/Wisp_Upgrade_Stone",
@@ -50396,6 +50557,21 @@
       ],
       "count": 1
     }
+  },
+  "VERY_CRUDE_GABAGOOL": {
+    "name": "Very Crude Gabagool",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL:24",
+      "A2": "CRUDE_GABAGOOL:24",
+      "A3": "CRUDE_GABAGOOL:24",
+      "B1": "CRUDE_GABAGOOL:24",
+      "B2": "",
+      "B3": "CRUDE_GABAGOOL:24",
+      "C1": "CRUDE_GABAGOOL:24",
+      "C2": "CRUDE_GABAGOOL:24",
+      "C3": "CRUDE_GABAGOOL:24"
+    },
+    "base_rarity": "RARE"
   },
   "VERY_OFFICIAL_YELLOW_ROCK": {
     "name": "Very Official Yellow Rock of Love!",
