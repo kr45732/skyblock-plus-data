@@ -1117,6 +1117,11 @@
     "wiki": "https://wiki.hypixel.net/Arachne%27s_Necklace",
     "base_rarity": "RARE"
   },
+  "ARACHNE_SANCTUARY_PORTAL": {
+    "name": "Portal to Arachne\u0027s Sanctuary",
+    "wiki": "https://wiki.hypixel.net/Portals",
+    "base_rarity": "COMMON"
+  },
   "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
     "name": "Travel Scroll to Arachne\u0027s Sanctuary",
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Arachne%27s_Sanctuary",
