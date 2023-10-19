@@ -5347,13 +5347,13 @@
     "name": "Capsaicin Eyedrops",
     "recipe": {
       "A1": "CHILI_PEPPER:1",
-      "A2": "ENCHANTED_CARROT:64",
+      "A2": "EXPORTABLE_CARROTS:64",
       "A3": "CHILI_PEPPER:1",
       "B1": "ENCHANTED_CARROT:64",
       "B2": "WATER_HYDRA_HEAD:1",
       "B3": "ENCHANTED_CARROT:64",
       "C1": "CHILI_PEPPER:1",
-      "C2": "ENCHANTED_CARROT:64",
+      "C2": "EXPORTABLE_CARROTS:64",
       "C3": "CHILI_PEPPER:1",
       "count": 3
     },
@@ -18025,17 +18025,6 @@
   },
   "FUEL_GABAGOOL": {
     "name": "Fuel Gabagool",
-    "recipe": {
-      "A1": "CRUDE_GABAGOOL:3",
-      "A2": "CRUDE_GABAGOOL:3",
-      "A3": "CRUDE_GABAGOOL:3",
-      "B1": "CRUDE_GABAGOOL:3",
-      "B2": "SULPHURIC_COAL:1",
-      "B3": "CRUDE_GABAGOOL:3",
-      "C1": "CRUDE_GABAGOOL:3",
-      "C2": "CRUDE_GABAGOOL:3",
-      "C3": "CRUDE_GABAGOOL:3"
-    },
     "wiki": "https://wiki.hypixel.net/Fuel_Gabagool",
     "base_rarity": "RARE"
   },
@@ -18121,7 +18110,12 @@
   "GABAGOEY_MIXIN": {
     "name": "Gabagoey Mixin",
     "wiki": "https://wiki.hypixel.net/Gabagoey_Mixin",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:150000"
+      ]
+    }
   },
   "GABAGOOL_THE_FISH": {
     "name": "Gabagool the Fish",
@@ -34354,6 +34348,10 @@
     "wiki": "https://wiki.hypixel.net/Dark_Wolf_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_WOLF_HUSKY": {
+    "name": "Husky Wolf Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_YETI_GROWN_UP": {
     "name": "Grown-up Baby Yeti Skin",
     "wiki": "https://wiki.hypixel.net/Grown-up_Baby_Yeti_Skin",
@@ -42267,6 +42265,18 @@
     "wiki": "https://wiki.hypixel.net/Slime_Hat",
     "base_rarity": "COMMON"
   },
+  "SLIMY_RUNE;1": {
+    "name": "◆ Slimy Rune I",
+    "base_rarity": "COMMON"
+  },
+  "SLIMY_RUNE;2": {
+    "name": "◆ Slimy Rune II",
+    "base_rarity": "COMMON"
+  },
+  "SLIMY_RUNE;3": {
+    "name": "◆ Slimy Rune III",
+    "base_rarity": "COMMON"
+  },
   "SLOWNESS": {
     "name": "Slowness Potion",
     "base_rarity": "COMMON"
@@ -47028,7 +47038,8 @@
       "B3": "ENCHANTED_COAL:4",
       "C1": "",
       "C2": "ENCHANTED_COAL:4",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "wiki": "https://wiki.hypixel.net/Sulphuric_Coal",
     "base_rarity": "RARE"
