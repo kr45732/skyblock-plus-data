@@ -47964,6 +47964,10 @@
     "wiki": "https://wiki.hypixel.net/Tarantula_Leggings",
     "base_rarity": "EPIC"
   },
+  "TARANTULA_REDBACK": {
+    "name": "Redback Skin",
+    "base_rarity": "MYTHIC"
+  },
   "TARANTULA_SILK": {
     "name": "Tarantula Silk",
     "recipe": {
