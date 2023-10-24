@@ -3170,6 +3170,10 @@
       ]
     }
   },
+  "BLACK_WOOLEN_YARN": {
+    "name": "Black Woolen Yarn",
+    "base_rarity": "RARE"
+  },
   "BLADE_OF_THE_VOLCANO": {
     "name": "Blade of the Volcano",
     "wiki": "https://wiki.hypixel.net/Blade_Of_The_Volcano",
@@ -9201,6 +9205,10 @@
     "wiki": "https://wiki.hypixel.net/Dark_Bait",
     "base_rarity": "COMMON"
   },
+  "DARK_CANDY": {
+    "name": "Dark Candy",
+    "base_rarity": "RARE"
+  },
   "DARK_CLAYMORE": {
     "name": "Dark Claymore",
     "wiki": "https://wiki.hypixel.net/Dark_Claymore",
@@ -11191,6 +11199,10 @@
     "name": "Editor\u0027s Pencil",
     "wiki": "https://wiki.hypixel.net/Editor%27s_Pencil",
     "base_rarity": "VERY_SPECIAL"
+  },
+  "EERIE;0": {
+    "name": "Common Eerie",
+    "base_rarity": "COMMON"
   },
   "EFFICIENCY;1": {
     "name": "Efficiency I",
@@ -14721,6 +14733,10 @@
     "wiki": "https://wiki.hypixel.net/Entropy_Suppressor",
     "base_rarity": "RARE"
   },
+  "EPHEMERAL_GRATITUDE": {
+    "name": "Ephemeral Gratitude",
+    "base_rarity": "UNCOMMON"
+  },
   "EPIC_KUUDRA_CHUNK": {
     "name": "Hardened Kuudra Chunk",
     "wiki": "https://wiki.hypixel.net/Hardened_Kuudra_Chunk",
@@ -15031,6 +15047,10 @@
   "EXPERTISE;1": {
     "name": "Expertise I",
     "base_rarity": "COMMON"
+  },
+  "EXPIRED_PUMPKIN": {
+    "name": "Expired Pumpkin",
+    "base_rarity": "UNCOMMON"
   },
   "EXPLOSIVE_ARROW": {
     "name": "Explosive Arrow",
@@ -23611,7 +23631,7 @@
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
     "wiki": "https://wiki.hypixel.net/Infinityboom_TNT",
-    "base_rarity": "RARE"
+    "base_rarity": "EPIC"
   },
   "INFINI_TORCH": {
     "name": "InfiniTorch™",
@@ -23876,6 +23896,21 @@
         "PURPLE_CANDY:64"
       ]
     }
+  },
+  "INTIMIDATION_RELIC": {
+    "name": "Intimidation Relic",
+    "recipe": {
+      "A1": "SCARE_FRAGMENT:1",
+      "A2": "SCARE_FRAGMENT:1",
+      "A3": "SCARE_FRAGMENT:1",
+      "B1": "SCARE_FRAGMENT:1",
+      "B2": "INTIMIDATION_ARTIFACT:1",
+      "B3": "SCARE_FRAGMENT:1",
+      "C1": "SCARE_FRAGMENT:1",
+      "C2": "SCARE_FRAGMENT:1",
+      "C3": "SCARE_FRAGMENT:1"
+    },
+    "base_rarity": "EPIC"
   },
   "INTIMIDATION_RING": {
     "name": "Intimidation Ring",
@@ -29773,6 +29808,11 @@
     "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "MITHRIL_GOLEM;5": {
+    "name": "Mythic Mithril Golem",
+    "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
+    "base_rarity": "MYTHIC"
+  },
   "MITHRIL_GOURMAND": {
     "name": "Tasty Mithril",
     "wiki": "https://wiki.hypixel.net/Tasty_Mithril",
@@ -31207,6 +31247,10 @@
     "wiki": "https://wiki.hypixel.net/New_Year_Cake_Bag",
     "base_rarity": "UNCOMMON"
   },
+  "NIGHTMARE_NULLIFIER": {
+    "name": "Nightmare Nullifier",
+    "base_rarity": "UNCOMMON"
+  },
   "NIGHT_CRYSTAL": {
     "name": "Night Crystal",
     "recipe": {
@@ -32535,6 +32579,16 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
   },
+  "PERFECTLY_CUT_DIAMOND": {
+    "name": "Perfectly Cut Diamond",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_DIAMOND:1000",
+        "REFINED_DIAMOND:2"
+      ]
+    }
+  },
   "PERFECTLY_CUT_FUEL_TANK": {
     "name": "Perfectly-Cut Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Perfectly-Cut_Fuel_Tank",
@@ -32615,6 +32669,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Perfect_Boots_-_Tier",
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_BOOTS_13": {
+    "name": "Perfect Boots - Tier XIII",
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_BOOTS_2": {
@@ -32807,6 +32865,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Perfect_Chestplate_-_Tier",
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_CHESTPLATE_13": {
+    "name": "Perfect Chestplate - Tier XIII",
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_CHESTPLATE_2": {
@@ -33004,6 +33066,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Perfect_Helmet_-_Tier",
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_HELMET_13": {
+    "name": "Perfect Helmet - Tier XIII",
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_HELMET_2": {
@@ -33208,6 +33274,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Perfect_Leggings_-_Tier",
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_LEGGINGS_13": {
+    "name": "Perfect Leggings - Tier XIII",
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_LEGGINGS_2": {
@@ -33738,6 +33808,10 @@
         "SKYBLOCK_COIN:500000"
       ]
     }
+  },
+  "PET_ITEM_PURE_MITHRIL_GEM": {
+    "name": "Pure Mithril Gem",
+    "base_rarity": "LEGENDARY"
   },
   "PET_ITEM_QUICK_CLAW": {
     "name": "Quick Claw",
@@ -40028,6 +40102,10 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
   },
+  "SCARE_FRAGMENT": {
+    "name": "Scare Fragment",
+    "base_rarity": "RARE"
+  },
   "SCARF_FRAGMENT": {
     "name": "Scarf Fragment",
     "wiki": "https://wiki.hypixel.net/Scarf_Fragment",
@@ -40411,6 +40489,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Serrated_Claws",
     "base_rarity": "RARE"
+  },
+  "SEWER_FISH": {
+    "name": "Sewer Fish",
+    "base_rarity": "UNCOMMON"
   },
   "SHADOW_ASSASSIN_ADMIRAL": {
     "name": "Admiral Skin",
