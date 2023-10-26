@@ -33950,6 +33950,14 @@
     "wiki": "https://wiki.hypixel.net/Inferno_Bal_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_BAT_BONE": {
+    "name": "Bone Bat Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BAT_CANDY": {
+    "name": "Candy Bat Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_BAT_VAMPIRE": {
     "name": "Vampire Bat Skin",
     "wiki": "https://wiki.hypixel.net/Vampire_Bat_Skin",
