@@ -3558,7 +3558,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 2
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blaze_Powder",
     "base_rarity": "COMMON",
@@ -11203,6 +11204,22 @@
   "EERIE;0": {
     "name": "Common Eerie",
     "base_rarity": "COMMON"
+  },
+  "EERIE;2": {
+    "name": "Rare Eerie",
+    "base_rarity": "RARE"
+  },
+  "EERIE;4": {
+    "name": "Legendary Eerie",
+    "base_rarity": "LEGENDARY"
+  },
+  "EERIE_TOY": {
+    "name": "Eerie Toy",
+    "base_rarity": "EPIC"
+  },
+  "EERIE_TREAT": {
+    "name": "Eerie Treat",
+    "base_rarity": "RARE"
   },
   "EFFICIENCY;1": {
     "name": "Efficiency I",
