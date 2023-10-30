@@ -717,6 +717,10 @@
     "scrollable": true,
     "base_rarity": "RARE"
   },
+  "ALCHEMIST_RECIPE": {
+    "name": "Alchemist Recipe",
+    "base_rarity": "EPIC"
+  },
   "ALCHEMY_XP_BOOST": {
     "name": "Alchemy XP Boost I Potion",
     "base_rarity": "COMMON"
@@ -4105,6 +4109,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Boots_Of_The_Pack",
     "base_rarity": "EPIC"
+  },
+  "BOO_STONE": {
+    "name": "Boo Stone",
+    "base_rarity": "RARE"
   },
   "BOSS_SPIRIT_BOW": {
     "name": "Spirit Bow",
@@ -20503,6 +20511,10 @@
     "wiki": "https://wiki.hypixel.net/Great_Carrot_Candy",
     "base_rarity": "RARE"
   },
+  "GREAT_SPOOK;1": {
+    "name": "Great Spook I",
+    "base_rarity": "COMMON"
+  },
   "GREAT_SPOOK_ARTIFACT": {
     "name": "Great Spook Artifact",
     "wiki": "https://wiki.hypixel.net/Great_Spook_Artifact",
@@ -20546,6 +20558,14 @@
   "GREAT_SPOOK_NECKLACE": {
     "name": "Great Spook Necklace",
     "wiki": "https://wiki.hypixel.net/Great_Spook_Necklace",
+    "base_rarity": "EPIC"
+  },
+  "GREAT_SPOOK_POTION": {
+    "name": "Great Spook Potion",
+    "base_rarity": "COMMON"
+  },
+  "GREAT_SPOOK_REFORGING_MANUAL": {
+    "name": "Great Spook Reforging Manual",
     "base_rarity": "EPIC"
   },
   "GREAT_SPOOK_RING": {
@@ -23910,7 +23930,7 @@
     "npc_buy": {
       "cost": [
         "INTIMIDATION_RING:1",
-        "PURPLE_CANDY:64"
+        "PURPLE_CANDY:100"
       ]
     }
   },
@@ -40184,6 +40204,10 @@
       ]
     }
   },
+  "SCARY_GRIMOIRE": {
+    "name": "Scary Grimoire",
+    "base_rarity": "EPIC"
+  },
   "SCATHA;2": {
     "name": "Rare Scatha",
     "texture": "df03ad96092f3f789902436709cdf69de6b727c121b3c2daef9ffa1ccaed186c",
@@ -41567,6 +41591,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Sinseeker_Scythe",
     "scrollable": true,
+    "base_rarity": "EPIC"
+  },
+  "SIRIUS_BOOK": {
+    "name": "Shadows indicate riddles, illuminating unseen stars",
     "base_rarity": "EPIC"
   },
   "SKELETON;0": {
@@ -48495,6 +48523,10 @@
     "name": "Shredder",
     "wiki": "https://wiki.hypixel.net/Shredder",
     "base_rarity": "LEGENDARY"
+  },
+  "THE_SOUP_PAINTING": {
+    "name": "The Soup",
+    "base_rarity": "UNCOMMON"
   },
   "THIN_GLASS": {
     "name": "Glass Pane",
