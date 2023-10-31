@@ -11211,14 +11211,17 @@
   },
   "EERIE;0": {
     "name": "Common Eerie",
+    "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
     "base_rarity": "COMMON"
   },
   "EERIE;2": {
     "name": "Rare Eerie",
+    "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
     "base_rarity": "RARE"
   },
   "EERIE;4": {
     "name": "Legendary Eerie",
+    "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
     "base_rarity": "LEGENDARY"
   },
   "EERIE_TOY": {
