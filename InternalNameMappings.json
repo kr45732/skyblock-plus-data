@@ -3159,6 +3159,12 @@
       ]
     }
   },
+  "BLACK_CAT;5": {
+    "name": "Mythic Black Cat",
+    "texture": "e4b45cbaa19fe3d68c856cd3846c03b5f59de81a480eec921ab4fa3cd81317",
+    "wiki": "https://wiki.hypixel.net/Black_Cat_Pet",
+    "base_rarity": "MYTHIC"
+  },
   "BLACK_CAT_PLUSH": {
     "name": "Black Cat Plush",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Furniture",
@@ -42164,6 +42170,10 @@
     "wiki": "https://wiki.hypixel.net/Sleeping_Eye",
     "base_rarity": "EPIC"
   },
+  "SLEEPY_HOLLOW": {
+    "name": "Sleepy Hollow",
+    "base_rarity": "EPIC"
+  },
   "SLIME_BALL": {
     "name": "Slimeball",
     "recipe": {
@@ -44600,6 +44610,10 @@
   "SPOOKY_SHARD": {
     "name": "Spooky Shard",
     "wiki": "https://wiki.hypixel.net/Spooky_Shard",
+    "base_rarity": "EPIC"
+  },
+  "SPOOKY_TREE": {
+    "name": "Great Spook Tree",
     "base_rarity": "EPIC"
   },
   "SPOOKY_WATER_ORB": {
