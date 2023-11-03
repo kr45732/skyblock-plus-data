@@ -35658,6 +35658,10 @@
     "wiki": "https://wiki.hypixel.net/Priceless_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "PRIMAL_FEAR_RUNE;3": {
+    "name": "◆ Primal Fear Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "PRISMAPUMP": {
     "name": "Prismapump",
     "wiki": "https://wiki.hypixel.net/Prismapump",
