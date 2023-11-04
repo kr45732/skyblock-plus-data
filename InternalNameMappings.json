@@ -80,6 +80,7 @@
   },
   "ABINGOPHONE": {
     "name": "AⒷiphone",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/AⒷiphone",
     "base_rarity": "SPECIAL"
   },
   "ABIPHONE_FLIP_DRAGON": {
@@ -719,6 +720,7 @@
   },
   "ALCHEMIST_RECIPE": {
     "name": "Alchemist Recipe",
+    "wiki": "https://wiki.hypixel.net/Alchemist_Recipe",
     "base_rarity": "EPIC"
   },
   "ALCHEMY_XP_BOOST": {
@@ -2272,6 +2274,7 @@
   },
   "BAT_PERSON_HERO": {
     "name": "Hero Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hero_Skin",
     "base_rarity": "EPIC"
   },
   "BAT_PERSON_LEGGINGS": {
@@ -3182,6 +3185,7 @@
   },
   "BLACK_WOOLEN_YARN": {
     "name": "Black Woolen Yarn",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Black_Woolen_Yarn",
     "base_rarity": "RARE"
   },
   "BLADE_OF_THE_VOLCANO": {
@@ -4118,6 +4122,7 @@
   },
   "BOO_STONE": {
     "name": "Boo Stone",
+    "wiki": "https://wiki.hypixel.net/Boo_Stone",
     "base_rarity": "RARE"
   },
   "BOSS_SPIRIT_BOW": {
@@ -9222,6 +9227,7 @@
   },
   "DARK_CANDY": {
     "name": "Dark Candy",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dark_Candy",
     "base_rarity": "RARE"
   },
   "DARK_CLAYMORE": {
@@ -11218,24 +11224,29 @@
   "EERIE;0": {
     "name": "Common Eerie",
     "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
+    "wiki": "https://wiki.hypixel.net/Eerie_Pet",
     "base_rarity": "COMMON"
   },
   "EERIE;2": {
     "name": "Rare Eerie",
     "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
+    "wiki": "https://wiki.hypixel.net/Eerie_Pet",
     "base_rarity": "RARE"
   },
   "EERIE;4": {
     "name": "Legendary Eerie",
     "texture": "c3af70c6ff76ba48f24ee8a2063a5b50bbfabf409f4795248a292f8289f47c98",
+    "wiki": "https://wiki.hypixel.net/Eerie_Pet",
     "base_rarity": "LEGENDARY"
   },
   "EERIE_TOY": {
     "name": "Eerie Toy",
+    "wiki": "https://wiki.hypixel.net/Eerie_Toy",
     "base_rarity": "EPIC"
   },
   "EERIE_TREAT": {
     "name": "Eerie Treat",
+    "wiki": "https://wiki.hypixel.net/Eerie_Treat",
     "base_rarity": "RARE"
   },
   "EFFICIENCY;1": {
@@ -14769,6 +14780,7 @@
   },
   "EPHEMERAL_GRATITUDE": {
     "name": "Ephemeral Gratitude",
+    "wiki": "https://wiki.hypixel.net/Ephemeral_Gratitude",
     "base_rarity": "UNCOMMON"
   },
   "EPIC_KUUDRA_CHUNK": {
@@ -15084,6 +15096,7 @@
   },
   "EXPIRED_PUMPKIN": {
     "name": "Expired Pumpkin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Expired_Pumpkin",
     "base_rarity": "UNCOMMON"
   },
   "EXPLOSIVE_ARROW": {
@@ -15248,6 +15261,7 @@
   },
   "FANCY_BEACH_CHAIR": {
     "name": "Fancy Beach Chair",
+    "wiki": "https://wiki.hypixel.net/Fancy_Beach_Chair",
     "base_rarity": "EPIC"
   },
   "FANCY_FLOWER_POT": {
@@ -16162,6 +16176,7 @@
   },
   "FINAL_DESTINATION_ENDER_KNIGHT": {
     "name": "Ender Knight Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ender_Knight_Skin",
     "base_rarity": "MYTHIC"
   },
   "FINAL_DESTINATION_HELMET": {
@@ -16616,6 +16631,7 @@
   },
   "FISHERMAN_COOLER": {
     "name": "Fisherman\u0027s Cooler",
+    "wiki": "https://wiki.hypixel.net/Fisherman%27s_Cooler",
     "base_rarity": "EPIC"
   },
   "FISHING_CRYSTAL": {
@@ -16975,6 +16991,7 @@
   },
   "FLAMINGO": {
     "name": "Flamingo Float",
+    "wiki": "https://wiki.hypixel.net/Flamingo_Float",
     "base_rarity": "EPIC"
   },
   "FLAMING_CHESTPLATE": {
@@ -18251,6 +18268,7 @@
   },
   "GEMSTONE_DIVAN": {
     "name": "Gemstone Divan Helmet Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Divan_Helmet_Skin",
     "base_rarity": "MYTHIC"
   },
   "GEMSTONE_DRILL_1": {
@@ -20571,10 +20589,12 @@
   },
   "GREAT_SPOOK_POTION": {
     "name": "Great Spook Potion",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Potion",
     "base_rarity": "COMMON"
   },
   "GREAT_SPOOK_REFORGING_MANUAL": {
     "name": "Great Spook Reforging Manual",
+    "wiki": "https://wiki.hypixel.net/Great_Spook_Reforging_Manual",
     "base_rarity": "EPIC"
   },
   "GREAT_SPOOK_RING": {
@@ -20621,6 +20641,7 @@
   },
   "GREENHOUSE": {
     "name": "Greenhouse Planter",
+    "wiki": "https://wiki.hypixel.net/Greenhouse_Planter",
     "base_rarity": "EPIC"
   },
   "GREEN_BANDANA": {
@@ -22548,6 +22569,7 @@
       "C2": "HEAVY_GABAGOOL:3",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Hypergolic_Gabagool",
     "base_rarity": "LEGENDARY"
   },
   "HYPERGOLIC_IONIZED_CERAMICS": {
@@ -23956,6 +23978,7 @@
       "C2": "SCARE_FRAGMENT:1",
       "C3": "SCARE_FRAGMENT:1"
     },
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Intimidation_Relic",
     "base_rarity": "EPIC"
   },
   "INTIMIDATION_RING": {
@@ -26807,6 +26830,7 @@
   },
   "LIFEGUARD_CHAIR": {
     "name": "Lifeguard Chair",
+    "wiki": "https://wiki.hypixel.net/Lifeguard_Chair",
     "base_rarity": "EPIC"
   },
   "LIFE_PRESERVER": {
@@ -29078,6 +29102,7 @@
   },
   "METEOR_MAGMA_LORD": {
     "name": "Meteor Magma Lord Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Meteor_Magma_Lord_Helmet_Skin",
     "base_rarity": "MYTHIC"
   },
   "METEOR_SHARD": {
@@ -29857,6 +29882,7 @@
   "MITHRIL_GOLEM;5": {
     "name": "Mythic Mithril Golem",
     "texture": "c1b2dfe8ed5dffc5b1687bc1c249c39de2d8a6c3d90305c95f6d1a1a330a0b1",
+    "wiki": "https://wiki.hypixel.net/Mithril_Golem_Pet",
     "base_rarity": "MYTHIC"
   },
   "MITHRIL_GOURMAND": {
@@ -31295,6 +31321,7 @@
   },
   "NIGHTMARE_NULLIFIER": {
     "name": "Nightmare Nullifier",
+    "wiki": "https://wiki.hypixel.net/Nightmare_Nullifier",
     "base_rarity": "UNCOMMON"
   },
   "NIGHT_CRYSTAL": {
@@ -32627,6 +32654,7 @@
   },
   "PERFECTLY_CUT_DIAMOND": {
     "name": "Perfectly Cut Diamond",
+    "wiki": "https://wiki.hypixel.net/Perfectly_Cut_Diamond",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -33857,6 +33885,7 @@
   },
   "PET_ITEM_PURE_MITHRIL_GEM": {
     "name": "Pure Mithril Gem",
+    "wiki": "https://wiki.hypixel.net/Pure_Mithril_Gem",
     "base_rarity": "LEGENDARY"
   },
   "PET_ITEM_QUICK_CLAW": {
@@ -33964,14 +33993,17 @@
   },
   "PET_SKIN_BABY_YETI_DARK_SASQUATCH": {
     "name": "Dark Sasquatch Baby Yeti Skin",
+    "wiki": "https://wiki.hypixel.net/Dark_Sasquatch_Baby_Yeti_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BABY_YETI_LIGHT_SASQUATCH": {
     "name": "Light Sasquatch Baby Yeti Skin",
+    "wiki": "https://wiki.hypixel.net/Light_Sasquatch_Baby_Yeti_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BABY_YETI_MIDNIGHT": {
     "name": "Midnight Baby Yeti Skin",
+    "wiki": "https://wiki.hypixel.net/Midnight_Baby_Yeti_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_BAL_INFERNO": {
@@ -34129,6 +34161,7 @@
   },
   "PET_SKIN_ENDERMITE_DYNAMITE": {
     "name": "Dynamite Endermite Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dynamite_Endermite_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ENDERMITE_RADIANT": {
@@ -34483,6 +34516,7 @@
   },
   "PET_SKIN_WOLF_HUSKY": {
     "name": "Husky Wolf Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Husky_Wolf_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_YETI_GROWN_UP": {
@@ -40162,6 +40196,7 @@
   },
   "SCARE_FRAGMENT": {
     "name": "Scare Fragment",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Scare_Fragment",
     "base_rarity": "RARE"
   },
   "SCARF_FRAGMENT": {
@@ -40219,6 +40254,7 @@
   },
   "SCARY_GRIMOIRE": {
     "name": "Scary Grimoire",
+    "wiki": "https://wiki.hypixel.net/Scary_Grimoire",
     "base_rarity": "EPIC"
   },
   "SCATHA;2": {
@@ -40554,6 +40590,7 @@
   },
   "SEWER_FISH": {
     "name": "Sewer Fish",
+    "wiki": "https://wiki.hypixel.net/Sewer_Fish",
     "base_rarity": "UNCOMMON"
   },
   "SHADOW_ASSASSIN_ADMIRAL": {
@@ -41608,6 +41645,7 @@
   },
   "SIRIUS_BOOK": {
     "name": "Shadows indicate riddles, illuminating unseen stars",
+    "wiki": "https://wiki.hypixel.net/Shadows_Indicate_Riddles,_Illuminating_Unseen_Stars",
     "base_rarity": "EPIC"
   },
   "SKELETON;0": {
@@ -42176,6 +42214,7 @@
   },
   "SLEEPY_HOLLOW": {
     "name": "Sleepy Hollow",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sleepy_Hollow",
     "base_rarity": "EPIC"
   },
   "SLIME_BALL": {
@@ -44618,6 +44657,7 @@
   },
   "SPOOKY_TREE": {
     "name": "Great Spook Tree",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Great_Spook_Tree",
     "base_rarity": "EPIC"
   },
   "SPOOKY_WATER_ORB": {
@@ -48547,6 +48587,7 @@
   },
   "THE_SOUP_PAINTING": {
     "name": "The Soup",
+    "wiki": "https://wiki.hypixel.net/The_Soup",
     "base_rarity": "UNCOMMON"
   },
   "THIN_GLASS": {
@@ -50751,6 +50792,7 @@
       "C2": "CRUDE_GABAGOOL:24",
       "C3": "CRUDE_GABAGOOL:24"
     },
+    "wiki": "https://wiki.hypixel.net/Very_Crude_Gabagool",
     "base_rarity": "RARE"
   },
   "VERY_OFFICIAL_YELLOW_ROCK": {
