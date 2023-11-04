@@ -1288,6 +1288,28 @@
     ],
     "VOODOO_DOLL": [
       "VOODOO_DOLL_WILTED"
+    ],
+    "MONSTER_HUNTER": [
+      "MONSTER_RAIDER"
+    ],
+    "WITHER": [
+      "TANK_WITHER",
+      "WISE_WITHER",
+      "SPEED_WITHER",
+      "POWER_WITHER"
+    ],
+    "WEIRD_TUBA": [
+      "WEIRDER_TUBA"
+    ],
+    "FLOWER_OF_TRUTH": [
+      "BOUQUET_OF_LIES"
+    ],
+    "SPIRIT_SWORD": [
+      "BONE_REAVER",
+      "FELTHORN_REAPER"
+    ],
+    "PERFECT_TIER_12": [
+      "PERFECT_TIER_13"
     ]
   },
   "MUSEUM_ARMOR_TO_SET": {
@@ -1697,6 +1719,12 @@
       "PERFECT_CHESTPLATE_12",
       "PERFECT_LEGGINGS_12",
       "PERFECT_BOOTS_12"
+    ],
+    "PERFECT_TIER_13": [
+      "PERFECT_HELMET_13",
+      "PERFECT_CHESTPLATE_13",
+      "PERFECT_LEGGINGS_13",
+      "PERFECT_BOOTS_13"
     ],
     "MERCENARY": [
       "MERCENARY_HELMET",
