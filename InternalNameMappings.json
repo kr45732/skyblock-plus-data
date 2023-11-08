@@ -35679,6 +35679,17 @@
   },
   "PRESUMED_GALLON_OF_RED_PAINT": {
     "name": "Presumed Gallon of Red Paint",
+    "recipe": {
+      "A1": "ENCHANTED_COBBLESTONE:16",
+      "A2": "HEMOGLASS:16",
+      "A3": "ENCHANTED_COBBLESTONE:16",
+      "B1": "ENCHANTED_DARK_OAK_LOG:16",
+      "B2": "HEMOGLASS:16",
+      "B3": "ENCHANTED_DARK_OAK_LOG:16",
+      "C1": "ENCHANTED_DARK_OAK_LOG:16",
+      "C2": "ENCHANTED_DARK_OAK_LOG:16",
+      "C3": "ENCHANTED_DARK_OAK_LOG:16"
+    },
     "wiki": "https://wiki.hypixel.net/Presumed_Gallon_Of_Red_Paint",
     "base_rarity": "RARE"
   },
