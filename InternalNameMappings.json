@@ -5055,6 +5055,10 @@
     "wiki": "https://wiki.hypixel.net/Cactus_Leggings",
     "base_rarity": "COMMON"
   },
+  "CADUCEUS_MENDING_CROWN": {
+    "name": "Caduceus Mender Skin",
+    "base_rarity": "MYTHIC"
+  },
   "CADUCOUS_EXTRACT": {
     "name": "Caducous Extract",
     "recipe": {
