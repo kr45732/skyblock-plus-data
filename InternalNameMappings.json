@@ -965,6 +965,38 @@
     "wiki": "https://wiki.hypixel.net/Angler_Leggings",
     "base_rarity": "COMMON"
   },
+  "ANITA_ARTIFACT": {
+    "name": "Anita\u0027s Artifact",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GOLD_MEDAL:2",
+        "JACOBS_TICKET:100",
+        "ANITA_RING:1"
+      ]
+    }
+  },
+  "ANITA_RING": {
+    "name": "Anita\u0027s Ring",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_SILVER_MEDAL:2",
+        "JACOBS_TICKET:64",
+        "ANITA_TALISMAN:1"
+      ]
+    }
+  },
+  "ANITA_TALISMAN": {
+    "name": "Anita\u0027s Talisman",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_BRONZE_MEDAL:2",
+        "JACOBS_TICKET:32"
+      ]
+    }
+  },
   "ANNIHILATION_CLOAK": {
     "name": "Annihilation Cloak",
     "recipe": {
@@ -1532,6 +1564,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Astraea",
     "base_rarity": "LEGENDARY"
+  },
+  "ATMOSPHERIC_FILTER": {
+    "name": "Atmospheric Filter",
+    "base_rarity": "RARE"
   },
   "ATOMINIZER": {
     "name": "Atominizer",
@@ -2425,6 +2461,10 @@
     "name": "Beacon V",
     "wiki": "https://wiki.hypixel.net/Beacon",
     "forge": 180000,
+    "base_rarity": "EPIC"
+  },
+  "BEADY_EYES": {
+    "name": "Beady Eyes",
     "base_rarity": "EPIC"
   },
   "BEASTMASTER_CREST_COMMON": {
@@ -4073,6 +4113,10 @@
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bookshelf",
     "base_rarity": "COMMON"
+  },
+  "BOOKWORM_BOOK": {
+    "name": "Bookworm\u0027s Favorite Book",
+    "base_rarity": "RARE"
   },
   "BOOK_AND_QUILL": {
     "name": "Book and Quill",
@@ -6446,7 +6490,7 @@
   "CHEESE_FUEL": {
     "name": "Tasty Cheese",
     "wiki": "https://wiki.hypixel.net/Tasty_Cheese",
-    "base_rarity": "RARE"
+    "base_rarity": "UNCOMMON"
   },
   "CHEETAH_TALISMAN": {
     "name": "Cheetah Talisman",
@@ -6824,6 +6868,10 @@
     "wiki": "https://wiki.hypixel.net/Chill_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "CHIRPING_STEREO": {
+    "name": "Chirping Stereo",
+    "base_rarity": "LEGENDARY"
+  },
   "CHOCOLATE_CHIP": {
     "name": "Fang-tastic Chocolate Chip",
     "wiki": "https://wiki.hypixel.net/Fang-tastic_Chocolate_Chip",
@@ -7118,6 +7166,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Cleaver",
     "base_rarity": "UNCOMMON"
+  },
+  "CLIPPED_WINGS": {
+    "name": "Clipped Wings",
+    "base_rarity": "EPIC"
   },
   "CLOUDS_RUNE;1": {
     "name": "◆ Clouds Rune I",
@@ -10935,6 +10987,10 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Dull_Shark_Tooth_Necklace",
+    "base_rarity": "UNCOMMON"
+  },
+  "DUNG": {
+    "name": "Dung",
     "base_rarity": "UNCOMMON"
   },
   "DUNGEON_CHEST_KEY": {
@@ -18138,7 +18194,7 @@
     "name": "Fungi Cutter",
     "wiki": "https://wiki.hypixel.net/Fungi_Cutter",
     "scrollable": true,
-    "base_rarity": "RARE",
+    "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_GOLD_MEDAL:1",
@@ -18211,6 +18267,21 @@
     "name": "Game Breaker",
     "wiki": "https://wiki.hypixel.net/Game_Breaker",
     "base_rarity": "VERY_SPECIAL"
+  },
+  "GARDEN_SACK": {
+    "name": "Garden Sack",
+    "recipe": {
+      "A1": "BOX_OF_SEEDS:1",
+      "A2": "FERMENTO:1",
+      "A3": "BOX_OF_SEEDS:1",
+      "B1": "FERMENTO:1",
+      "B2": "ENCHANTED_LEATHER:1",
+      "B3": "FERMENTO:1",
+      "C1": "BOX_OF_SEEDS:1",
+      "C2": "FERMENTO:1",
+      "C3": "BOX_OF_SEEDS:1"
+    },
+    "base_rarity": "EPIC"
   },
   "GARDEN_SCYTHE": {
     "name": "Garden Scythe",
@@ -22056,6 +22127,10 @@
     "wiki": "https://wiki.hypixel.net/Honed_Shark_Tooth_Necklace",
     "base_rarity": "RARE"
   },
+  "HONEY_JAR": {
+    "name": "Honey Jar",
+    "base_rarity": "UNCOMMON"
+  },
   "HOPE_OF_THE_RESISTANCE": {
     "name": "Staff of the Rising Sun",
     "wiki": "https://wiki.hypixel.net/Staff_Of_The_Rising_Sun",
@@ -23714,6 +23789,14 @@
         "SKYBLOCK_COIN:100000"
       ]
     }
+  },
+  "INFINI_VACUUM": {
+    "name": "InfiniVacuum™",
+    "base_rarity": "EPIC"
+  },
+  "INFINI_VACUUM_HOOVERIUS": {
+    "name": "InfiniVacuum™ Hooverius",
+    "base_rarity": "LEGENDARY"
   },
   "INFLATABLE_JERRY": {
     "name": "Inflatable Jerry",
@@ -27230,6 +27313,10 @@
     "name": "Luck VII",
     "base_rarity": "EPIC"
   },
+  "LUCKY_BARN_SKIN": {
+    "name": "Lucky Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "LUCKY_DICE": {
     "name": "Lucky Dice",
     "wiki": "https://wiki.hypixel.net/Lucky_Dice",
@@ -28651,6 +28738,10 @@
       ],
       "count": 10
     }
+  },
+  "MELON_BARN_SKIN": {
+    "name": "Melon Barn Skin",
+    "base_rarity": "LEGENDARY"
   },
   "MELON_BLOCK": {
     "name": "Melon Block",
@@ -33654,6 +33745,26 @@
     "wiki": "https://wiki.hypixel.net/Personal_Deletor_7000",
     "base_rarity": "LEGENDARY"
   },
+  "PESTHUNTER_ARTIFACT": {
+    "name": "Pesthunter Artifact",
+    "base_rarity": "EPIC"
+  },
+  "PESTHUNTER_BADGE": {
+    "name": "Pesthunter Badge",
+    "base_rarity": "UNCOMMON"
+  },
+  "PESTHUNTER_RING": {
+    "name": "Pesthunter Ring",
+    "base_rarity": "RARE"
+  },
+  "PEST_REPELLENT": {
+    "name": "Pest Repellent",
+    "base_rarity": "UNCOMMON"
+  },
+  "PEST_REPELLENT_MAX": {
+    "name": "Pest Repellent MAX",
+    "base_rarity": "RARE"
+  },
   "PETRIFIED_STARFALL": {
     "name": "Petrified Starfall",
     "wiki": "https://wiki.hypixel.net/Petrified_Starfall",
@@ -35017,6 +35128,10 @@
     "name": "Placeable Fairy Soul",
     "wiki": "https://wiki.hypixel.net/Placeable_Fairy_Soul",
     "base_rarity": "EPIC"
+  },
+  "PLANT_MATTER": {
+    "name": "Plant Matter",
+    "base_rarity": "UNCOMMON"
   },
   "PLASMA": {
     "name": "Plasma",
@@ -42207,6 +42322,18 @@
     "wiki": "https://wiki.hypixel.net/SkyMart_Brochure",
     "base_rarity": "RARE"
   },
+  "SKYMART_HYPER_VACUUM": {
+    "name": "SkyMart Hyper Vacuum",
+    "base_rarity": "RARE"
+  },
+  "SKYMART_TURBO_VACUUM": {
+    "name": "SkyMart Turbo Vacuum",
+    "base_rarity": "UNCOMMON"
+  },
+  "SKYMART_VACUUM": {
+    "name": "SkyMart Vacuum",
+    "base_rarity": "COMMON"
+  },
   "SLAYER_ENERGY_DRINK": {
     "name": "Slayer Energy Drink",
     "wiki": "https://wiki.hypixel.net/Brews",
@@ -42496,6 +42623,14 @@
     "name": "Sludge Juice",
     "wiki": "https://wiki.hypixel.net/Sludge_Juice",
     "base_rarity": "UNCOMMON"
+  },
+  "SLUG;3": {
+    "name": "Epic Slug",
+    "base_rarity": "EPIC"
+  },
+  "SLUG;4": {
+    "name": "Legendary Slug",
+    "base_rarity": "LEGENDARY"
   },
   "SLUGFISH_BRONZE": {
     "name": "Slugfish BRONZE",
@@ -44705,6 +44840,11 @@
         "SKYBLOCK_COIN:95000"
       ]
     }
+  },
+  "SPRAYONATOR": {
+    "name": "Sprayonator",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
   },
   "SPRAY_CAN": {
     "name": "Spray Can",
@@ -47331,6 +47471,10 @@
   "SUNDER;5": {
     "name": "Sunder V",
     "base_rarity": "UNCOMMON"
+  },
+  "SUNDER;6": {
+    "name": "Sunder VI",
+    "base_rarity": "RARE"
   },
   "SUN_PERSONALITY": {
     "name": "Sun Minion Skin",
@@ -50856,6 +51000,46 @@
     "name": "Vines",
     "base_rarity": "COMMON"
   },
+  "VINYL_BEETLE": {
+    "name": "Not Just a Pest Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_BUZZIN_BEATS": {
+    "name": "Buzzin\u0027 Beats Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_CICADA_SYMPHONY": {
+    "name": "Cicada Symphony Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_CRICKET_CHOIR": {
+    "name": "Cricket Choir Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_DYNAMITES": {
+    "name": "DynaMITES Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_EARTHWORM_ENSEMBLE": {
+    "name": "Earthworm Ensemble Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_PRETTY_FLY": {
+    "name": "Pretty Fly Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_RODENT_REVOLUTION": {
+    "name": "Rodent Revolution Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_SLOW_AND_GROOVY": {
+    "name": "Slow and Groovy Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
+  "VINYL_WINGS_OF_HARMONY": {
+    "name": "Wings of Harmony Vinyl",
+    "base_rarity": "UNCOMMON"
+  },
   "VITAMIN_DEATH": {
     "name": "Vitamin Death",
     "wiki": "https://wiki.hypixel.net/Vitamin_Death",
@@ -53119,6 +53303,10 @@
     "name": "Wreath",
     "wiki": "https://wiki.hypixel.net/Wreath",
     "base_rarity": "RARE"
+  },
+  "WRIGGLING_LARVA": {
+    "name": "Wriggling Larva",
+    "base_rarity": "EPIC"
   },
   "WRITTEN_BOOK": {
     "name": "Written Book",
