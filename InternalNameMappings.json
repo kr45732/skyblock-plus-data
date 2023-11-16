@@ -42626,10 +42626,12 @@
   },
   "SLUG;3": {
     "name": "Epic Slug",
+    "texture": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba",
     "base_rarity": "EPIC"
   },
   "SLUG;4": {
     "name": "Legendary Slug",
+    "texture": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba",
     "base_rarity": "LEGENDARY"
   },
   "SLUGFISH_BRONZE": {
