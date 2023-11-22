@@ -771,6 +771,18 @@
   "AMALGAMATED_CRIMSONITE_NEW": {
     "name": "Amalgamated Crimsonite",
     "wiki": "https://wiki.hypixel.net/Amalgamated_Crimsonite",
+    "recipe": {
+      "A1": "",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:32",
+      "A3": "ENCHANTED_MYCELIUM:8",
+      "B1": "ENCHANTED_MAGMA_CREAM:32",
+      "B2": "",
+      "B3": "ENCHANTED_BLAZE_POWDER:32",
+      "C1": "ENCHANTED_RED_SAND:8",
+      "C2": "ENCHANTED_NETHER_STALK:32",
+      "C3": "",
+      "count": 2
+    },
     "base_rarity": "RARE"
   },
   "AMBER_CRYSTAL": {
@@ -18162,6 +18174,17 @@
   "FUEL_GABAGOOL": {
     "name": "Fuel Gabagool",
     "wiki": "https://wiki.hypixel.net/Fuel_Gabagool",
+    "recipe": {
+      "A1": "CRUDE_GABAGOOL:3",
+      "A2": "CRUDE_GABAGOOL:3",
+      "A3": "CRUDE_GABAGOOL:3",
+      "B1": "CRUDE_GABAGOOL:3",
+      "B2": "SULPHURIC_COAL:1",
+      "B3": "CRUDE_GABAGOOL:3",
+      "C1": "CRUDE_GABAGOOL:3",
+      "C2": "CRUDE_GABAGOOL:3",
+      "C3": "CRUDE_GABAGOOL:3"
+    },
     "base_rarity": "RARE"
   },
   "FUEL_TANK": {
@@ -40760,6 +40783,17 @@
   "SELF_RECURSIVE_PICKAXE": {
     "name": "Self-Recursive Pickaxe",
     "wiki": "https://wiki.hypixel.net/Self-Recursive_Pickaxe",
+    "recipe": {
+      "A1": "NULLIFIED_METAL:2",
+      "A2": "NULLIFIED_METAL:2",
+      "A3": "NULLIFIED_METAL:2",
+      "B1": "",
+      "B2": "WILTED_BERBERIS:24",
+      "B3": "",
+      "C1": "",
+      "C2": "TACTICIAN_MURDER_WEAPON",
+      "C3": ""
+    },
     "base_rarity": "RARE"
   },
   "SERRATED_CLAWS": {
