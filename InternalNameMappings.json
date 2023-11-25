@@ -34217,6 +34217,10 @@
     "wiki": "https://wiki.hypixel.net/Baby_Chick_Chicken_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_CHICKEN_RUBBER": {
+    "name": "Rubber Chicken Chicken Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_CHICKEN_TURKEY": {
     "name": "Turkey Chicken Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
@@ -34302,6 +34306,14 @@
     "wiki": "https://wiki.hypixel.net/Spooky_Enderman_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_ENDERMAN_BLUE_MOON": {
+    "name": "Blue Moon Enderman Skin",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_ENDERMAN_NEBULA": {
+    "name": "Nebula Enderman Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_ENDERMAN_NEON": {
     "name": "Neon Enderman Skin",
     "wiki": "https://wiki.hypixel.net/Neon_Enderman_Skin",
@@ -34311,6 +34323,10 @@
     "name": "Void Conqueror Enderman Skin",
     "wiki": "https://wiki.hypixel.net/Void_Conqueror_Enderman_Skin",
     "base_rarity": "EPIC"
+  },
+  "PET_SKIN_ENDERMAN_SUN": {
+    "name": "Sun Enderman Skin",
+    "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMAN_XENON": {
     "name": "Xenon Enderman Skin",
