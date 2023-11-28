@@ -11397,6 +11397,10 @@
     "wiki": "https://wiki.hypixel.net/Egg_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "EINARY_RED_HOODIE": {
+    "name": "Einary\u0027s Red Hoodie",
+    "base_rarity": "RARE"
+  },
   "ELECTRON_TRANSMITTER": {
     "name": "Electron Transmitter",
     "wiki": "https://wiki.hypixel.net/Electron_Transmitter",
@@ -15084,6 +15088,10 @@
     "name": "Execute VI",
     "base_rarity": "RARE"
   },
+  "EXPENSIVE_TOY": {
+    "name": "Expensive Toy",
+    "base_rarity": "SPECIAL"
+  },
   "EXPERIENCE;1": {
     "name": "Experience I",
     "base_rarity": "COMMON"
@@ -18029,6 +18037,10 @@
     "wiki": "https://wiki.hypixel.net/Wisp_Pet",
     "base_rarity": "RARE"
   },
+  "FROZEN_BAIT": {
+    "name": "Frozen Bait",
+    "base_rarity": "RARE"
+  },
   "FROZEN_BAUBLE": {
     "name": "Frozen Bauble",
     "wiki": "https://wiki.hypixel.net/Frozen_Bauble",
@@ -18827,6 +18839,10 @@
     "name": "Gift Compass",
     "wiki": "https://wiki.hypixel.net/Gift_Compass",
     "base_rarity": "UNCOMMON"
+  },
+  "GIFT_OF_LEARNING": {
+    "name": "Gift of Learning",
+    "base_rarity": "RARE"
   },
   "GIFT_THE_FISH": {
     "name": "Gift the Fish",
@@ -27612,6 +27628,17 @@
     "name": "◆ Magical Rune III",
     "base_rarity": "RARE"
   },
+  "MAGIC_TOP_HAT": {
+    "name": "Magic Top Hat",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:500",
+        "VOLCANIC_ROCK:10"
+      ],
+      "count": 1
+    }
+  },
   "MAGMAG": {
     "name": "Magmag",
     "wiki": "https://wiki.hypixel.net/Magmag",
@@ -31426,6 +31453,10 @@
         "JACOBS_TICKET:30"
       ]
     }
+  },
+  "NEW_BOTTLE_OF_JYRRE": {
+    "name": "Bottle of Jyrre",
+    "base_rarity": "RARE"
   },
   "NEW_YEAR_CAKE": {
     "name": "New Year Cake (Year 59)",
@@ -38709,6 +38740,10 @@
         "SKYBLOCK_COIN:1000000"
       ]
     }
+  },
+  "REFINED_BOTTLE_OF_JYRRE": {
+    "name": "Refined Bottle of Jyrre",
+    "base_rarity": "LEGENDARY"
   },
   "REFINED_DIAMOND": {
     "name": "Refined Diamond",
@@ -46356,6 +46391,38 @@
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
+  "STARRED_GLACIAL_SCYTHE": {
+    "name": "⚚ Glacial Scythe",
+    "recipe": {
+      "A1": "WINTER_FRAGMENT:1",
+      "A2": "WINTER_FRAGMENT:1",
+      "A3": "WINTER_FRAGMENT:1",
+      "B1": "WINTER_FRAGMENT:1",
+      "B2": "GLACIAL_SCYTHE:1",
+      "B3": "WINTER_FRAGMENT:1",
+      "C1": "WINTER_FRAGMENT:1",
+      "C2": "WINTER_FRAGMENT:1",
+      "C3": "WINTER_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "EPIC"
+  },
+  "STARRED_ICE_SPRAY_WAND": {
+    "name": "⚚ Ice Spray Wand",
+    "recipe": {
+      "A1": "WINTER_FRAGMENT:1",
+      "A2": "WINTER_FRAGMENT:1",
+      "A3": "WINTER_FRAGMENT:1",
+      "B1": "WINTER_FRAGMENT:1",
+      "B2": "ICE_SPRAY_WAND:1",
+      "B3": "WINTER_FRAGMENT:1",
+      "C1": "WINTER_FRAGMENT:1",
+      "C2": "WINTER_FRAGMENT:1",
+      "C3": "WINTER_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "RARE"
+  },
   "STARRED_ITEM_SPIRIT_BOW": {
     "name": "⚚ Spirit Shortbow",
     "recipe": {
@@ -46564,6 +46631,22 @@
     },
     "wiki": "https://wiki.hypixel.net/Venom%27s_Touch",
     "base_rarity": "EPIC"
+  },
+  "STARRED_YETI_SWORD": {
+    "name": "⚚ Yeti Sword",
+    "recipe": {
+      "A1": "WINTER_FRAGMENT:1",
+      "A2": "WINTER_FRAGMENT:1",
+      "A3": "WINTER_FRAGMENT:1",
+      "B1": "WINTER_FRAGMENT:1",
+      "B2": "YETI_SWORD:1",
+      "B3": "WINTER_FRAGMENT:1",
+      "C1": "WINTER_FRAGMENT:1",
+      "C2": "WINTER_FRAGMENT:1",
+      "C3": "WINTER_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
   },
   "STARTER_LAVA_ROD": {
     "name": "Starter Lava Rod",
@@ -50250,6 +50333,33 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
     "base_rarity": "COMMON"
   },
+  "ULTIMATE_REFRIGERATE;1": {
+    "name": "Refrigerate I",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10",
+        "VOLCANIC_ROCK:1"
+      ],
+      "count": 1
+    }
+  },
+  "ULTIMATE_REFRIGERATE;2": {
+    "name": "Refrigerate II",
+    "base_rarity": "COMMON"
+  },
+  "ULTIMATE_REFRIGERATE;3": {
+    "name": "Refrigerate III",
+    "base_rarity": "COMMON"
+  },
+  "ULTIMATE_REFRIGERATE;4": {
+    "name": "Refrigerate IV",
+    "base_rarity": "COMMON"
+  },
+  "ULTIMATE_REFRIGERATE;5": {
+    "name": "Refrigerate V",
+    "base_rarity": "UNCOMMON"
+  },
   "ULTIMATE_REITERATE;1": {
     "name": "Duplex I",
     "base_rarity": "COMMON"
@@ -51392,6 +51502,10 @@
     "wiki": "https://wiki.hypixel.net/Void_Sword",
     "base_rarity": "EPIC"
   },
+  "VOLCANIC_ROCK": {
+    "name": "Volcanic Rock",
+    "base_rarity": "EPIC"
+  },
   "VOLCANIC_STONEFISH_BRONZE": {
     "name": "Volcanic Stonefish BRONZE",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
@@ -52252,6 +52366,17 @@
     "name": "Winter Disc",
     "wiki": "https://wiki.hypixel.net/Winter_Disc",
     "base_rarity": "RARE"
+  },
+  "WINTER_FRAGMENT": {
+    "name": "Winter Fragment",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_NORTH_STAR:10",
+        "VOLCANIC_ROCK:1"
+      ],
+      "count": 1
+    }
   },
   "WINTER_ISLAND": {
     "name": "Winter Island",
