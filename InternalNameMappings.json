@@ -2479,6 +2479,26 @@
     "name": "Beady Eyes",
     "base_rarity": "EPIC"
   },
+  "BEAR_BED": {
+    "name": "Bear Bed",
+    "base_rarity": "EPIC"
+  },
+  "BEAR_BENCH": {
+    "name": "Bear Bench",
+    "base_rarity": "EPIC"
+  },
+  "BEAR_BOOKSHELF": {
+    "name": "Bear Bookshelf",
+    "base_rarity": "EPIC"
+  },
+  "BEAR_CHAIR": {
+    "name": "Bear Chair",
+    "base_rarity": "EPIC"
+  },
+  "BEAR_SIDE_TABLE": {
+    "name": "Bear Side Table",
+    "base_rarity": "EPIC"
+  },
   "BEASTMASTER_CREST_COMMON": {
     "name": "Beastmaster Crest",
     "recipe": {
@@ -18835,19 +18855,43 @@
     "wiki": "https://wiki.hypixel.net/Giant_Tooth",
     "base_rarity": "EPIC"
   },
+  "GIFT_BLACK_BACKPACK": {
+    "name": "Black Gift Backpack Skin",
+    "base_rarity": "EPIC"
+  },
+  "GIFT_BLUE_BACKPACK": {
+    "name": "Blue Gift Backpack Skin",
+    "base_rarity": "EPIC"
+  },
   "GIFT_COMPASS": {
     "name": "Gift Compass",
     "wiki": "https://wiki.hypixel.net/Gift_Compass",
     "base_rarity": "UNCOMMON"
   },
+  "GIFT_GOLD_BACKPACK": {
+    "name": "Gold Gift Backpack Skin",
+    "base_rarity": "EPIC"
+  },
+  "GIFT_GREEN_BACKPACK": {
+    "name": "Green Gift Backpack Skin",
+    "base_rarity": "EPIC"
+  },
   "GIFT_OF_LEARNING": {
     "name": "Gift of Learning",
     "base_rarity": "RARE"
+  },
+  "GIFT_PURPLE_BACKPACK": {
+    "name": "Purple Gift Backpack Skin",
+    "base_rarity": "EPIC"
   },
   "GIFT_THE_FISH": {
     "name": "Gift the Fish",
     "wiki": "https://wiki.hypixel.net/Gift_The_Fish",
     "base_rarity": "SPECIAL"
+  },
+  "GIFT_WHITE_BACKPACK": {
+    "name": "White Gift Backpack Skin",
+    "base_rarity": "EPIC"
   },
   "GILLSPLASH_BELT": {
     "name": "Gillsplash Belt",
@@ -31530,6 +31574,10 @@
     "wiki": "https://wiki.hypixel.net/Nope_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "NORTH_STAR_BACKPACK": {
+    "name": "North Star Backpack Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "NOTE_BLOCK": {
     "name": "Note Block",
     "recipe": {
@@ -34697,6 +34745,26 @@
   "PET_SKIN_SILVERFISH_FOSSILIZED": {
     "name": "Fossilized Silverfish Skin",
     "wiki": "https://wiki.hypixel.net/Fossilized_Silverfish_Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SLUG_AZURE_SEA_SLUG": {
+    "name": "Azure Sea Slug Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SLUG_LEAF_SHEEP_SEA_SLUG": {
+    "name": "Leaf Sheep Sea Slug Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SLUG_VIOLET_SEA_SLUG": {
+    "name": "Violet Sea Slug Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SNAIL_RAINBOW": {
+    "name": "Rainbow Snail Skin",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_SNOWBALL_SPIRIT": {
+    "name": "Snowball Spirit Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SNOWMAN_ICE_GOLEM": {
@@ -43404,6 +43472,11 @@
     "texture": "11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208",
     "wiki": "https://wiki.hypixel.net/Snowman_Pet",
     "base_rarity": "LEGENDARY"
+  },
+  "SNOWMAN;5": {
+    "name": "Mythic Snowman",
+    "texture": "903485cb1cd882fdd7faaf1359ffc3bd4d5341c81c17e95527204e554dad8188",
+    "base_rarity": "MYTHIC"
   },
   "SNOWMAN_PERSONALITY": {
     "name": "Snowman Minion Skin",
