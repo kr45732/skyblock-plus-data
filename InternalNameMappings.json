@@ -2899,6 +2899,10 @@
     "wiki": "https://wiki.hypixel.net/Bingo_Card",
     "base_rarity": "SPECIAL"
   },
+  "BINGO_COMBAT_TALISMAN": {
+    "name": "Bingo Combat Talisman",
+    "base_rarity": "COMMON"
+  },
   "BINGO_DISPLAY": {
     "name": "Bingo Display",
     "wiki": "https://wiki.hypixel.net/Bingo_Display",
@@ -40888,6 +40892,10 @@
     "name": "Second Master Star",
     "wiki": "https://wiki.hypixel.net/Second_Master_Star",
     "base_rarity": "EPIC"
+  },
+  "SECRET_BINGO_MEMENTO": {
+    "name": "Bingo\u0027s Secrets",
+    "base_rarity": "SPECIAL"
   },
   "SECRET_DUNGEON_REDSTONE_KEY": {
     "name": "Redstone Key",
