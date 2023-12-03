@@ -979,6 +979,7 @@
   },
   "ANITA_ARTIFACT": {
     "name": "Anita\u0027s Artifact",
+    "wiki": "https://wiki.hypixel.net/Anita%27s_Artifact",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -990,6 +991,7 @@
   },
   "ANITA_RING": {
     "name": "Anita\u0027s Ring",
+    "wiki": "https://wiki.hypixel.net/Anita%27s_Ring",
     "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
@@ -1001,6 +1003,7 @@
   },
   "ANITA_TALISMAN": {
     "name": "Anita\u0027s Talisman",
+    "wiki": "https://wiki.hypixel.net/Anita%27s_Talisman",
     "base_rarity": "COMMON",
     "npc_buy": {
       "cost": [
@@ -1579,6 +1582,7 @@
   },
   "ATMOSPHERIC_FILTER": {
     "name": "Atmospheric Filter",
+    "wiki": "https://wiki.hypixel.net/Atmospheric_Filter",
     "base_rarity": "RARE"
   },
   "ATOMINIZER": {
@@ -2477,6 +2481,7 @@
   },
   "BEADY_EYES": {
     "name": "Beady Eyes",
+    "wiki": "https://wiki.hypixel.net/Beady_Eyes",
     "base_rarity": "EPIC"
   },
   "BEAR_BED": {
@@ -2875,7 +2880,8 @@
     "wiki": "https://wiki.hypixel.net/Bingo_Pet"
   },
   "BINGOLIBUR": {
-    "name": "Odd Bingolibur",
+    "name": "Bingolibur",
+    "wiki": "https://wiki.hypixel.net/Bingolibur",
     "base_rarity": "RARE"
   },
   "BINGONIMBUS_2000": {
@@ -2901,6 +2907,7 @@
   },
   "BINGO_COMBAT_TALISMAN": {
     "name": "Bingo Combat Talisman",
+    "wiki": "https://wiki.hypixel.net/Bingo_Combat_Talisman",
     "base_rarity": "COMMON"
   },
   "BINGO_DISPLAY": {
@@ -4152,6 +4159,7 @@
   },
   "BOOKWORM_BOOK": {
     "name": "Bookworm\u0027s Favorite Book",
+    "wiki": "https://wiki.hypixel.net/Bookworm%27s_Favorite_Book",
     "base_rarity": "RARE"
   },
   "BOOK_AND_QUILL": {
@@ -5137,6 +5145,7 @@
   },
   "CADUCEUS_MENDING_CROWN": {
     "name": "Caduceus Mender Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Caduceus_Mender_Skin",
     "base_rarity": "MYTHIC"
   },
   "CADUCOUS_EXTRACT": {
@@ -6906,6 +6915,7 @@
   },
   "CHIRPING_STEREO": {
     "name": "Chirping Stereo",
+    "wiki": "https://wiki.hypixel.net/Chirping_Stereo",
     "base_rarity": "LEGENDARY"
   },
   "CHOCOLATE_CHIP": {
@@ -7205,6 +7215,7 @@
   },
   "CLIPPED_WINGS": {
     "name": "Clipped Wings",
+    "wiki": "https://wiki.hypixel.net/Clipped_Wings",
     "base_rarity": "EPIC"
   },
   "CLOUDS_RUNE;1": {
@@ -10785,6 +10796,7 @@
   },
   "DOUBLE_PLANT:3": {
     "name": "Large Fern",
+    "wiki": "https://wiki.hypixel.net/Large_Fern",
     "base_rarity": "COMMON"
   },
   "DOUBLE_PLANT:4": {
@@ -11027,6 +11039,7 @@
   },
   "DUNG": {
     "name": "Dung",
+    "wiki": "https://wiki.hypixel.net/Dung",
     "base_rarity": "UNCOMMON"
   },
   "DUNGEON_CHEST_KEY": {
@@ -11423,6 +11436,7 @@
   },
   "EINARY_RED_HOODIE": {
     "name": "Einary\u0027s Red Hoodie",
+    "wiki": "https://wiki.hypixel.net/Einary%27s_Red_Hoodie",
     "base_rarity": "RARE"
   },
   "ELECTRON_TRANSMITTER": {
@@ -15114,6 +15128,7 @@
   },
   "EXPENSIVE_TOY": {
     "name": "Expensive Toy",
+    "wiki": "https://wiki.hypixel.net/Expensive_Toy",
     "base_rarity": "SPECIAL"
   },
   "EXPERIENCE;1": {
@@ -18063,6 +18078,7 @@
   },
   "FROZEN_BAIT": {
     "name": "Frozen Bait",
+    "wiki": "https://wiki.hypixel.net/Frozen_Bait",
     "base_rarity": "RARE"
   },
   "FROZEN_BAUBLE": {
@@ -18340,6 +18356,7 @@
       "C2": "FERMENTO:1",
       "C3": "BOX_OF_SEEDS:1"
     },
+    "wiki": "https://wiki.hypixel.net/Garden_Sack",
     "base_rarity": "EPIC"
   },
   "GARDEN_SCYTHE": {
@@ -18882,6 +18899,7 @@
   },
   "GIFT_OF_LEARNING": {
     "name": "Gift of Learning",
+    "wiki": "https://wiki.hypixel.net/Gift_Of_Learning",
     "base_rarity": "RARE"
   },
   "GIFT_PURPLE_BACKPACK": {
@@ -22216,6 +22234,7 @@
   },
   "HONEY_JAR": {
     "name": "Honey Jar",
+    "wiki": "https://wiki.hypixel.net/Honey_Jar",
     "base_rarity": "UNCOMMON"
   },
   "HOPE_OF_THE_RESISTANCE": {
@@ -23879,10 +23898,12 @@
   },
   "INFINI_VACUUM": {
     "name": "InfiniVacuum™",
+    "wiki": "https://wiki.hypixel.net/InfiniVacuum™",
     "base_rarity": "EPIC"
   },
   "INFINI_VACUUM_HOOVERIUS": {
     "name": "InfiniVacuum™ Hooverius",
+    "wiki": "https://wiki.hypixel.net/InfiniVacuum™_Hooverius",
     "base_rarity": "LEGENDARY"
   },
   "INFLATABLE_JERRY": {
@@ -27402,6 +27423,7 @@
   },
   "LUCKY_BARN_SKIN": {
     "name": "Lucky Barn Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lucky_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "LUCKY_DICE": {
@@ -27678,6 +27700,7 @@
   },
   "MAGIC_TOP_HAT": {
     "name": "Magic Top Hat",
+    "wiki": "https://wiki.hypixel.net/Magic_Top_Hat",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -28839,6 +28862,7 @@
   },
   "MELON_BARN_SKIN": {
     "name": "Melon Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Melon_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "MELON_BLOCK": {
@@ -33873,22 +33897,27 @@
   },
   "PESTHUNTER_ARTIFACT": {
     "name": "Pesthunter Artifact",
+    "wiki": "https://wiki.hypixel.net/Pesthunter_Artifact",
     "base_rarity": "EPIC"
   },
   "PESTHUNTER_BADGE": {
     "name": "Pesthunter Badge",
+    "wiki": "https://wiki.hypixel.net/Pesthunter_Badge",
     "base_rarity": "UNCOMMON"
   },
   "PESTHUNTER_RING": {
     "name": "Pesthunter Ring",
+    "wiki": "https://wiki.hypixel.net/Pesthunter_Ring",
     "base_rarity": "RARE"
   },
   "PEST_REPELLENT": {
     "name": "Pest Repellent",
+    "wiki": "https://wiki.hypixel.net/Pest_Repellent",
     "base_rarity": "UNCOMMON"
   },
   "PEST_REPELLENT_MAX": {
     "name": "Pest Repellent MAX",
+    "wiki": "https://wiki.hypixel.net/Pest_Repellent_MAX",
     "base_rarity": "RARE"
   },
   "PETRIFIED_STARFALL": {
@@ -34254,10 +34283,12 @@
   },
   "PET_SKIN_BAT_BONE": {
     "name": "Bone Bat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bone_Bat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BAT_CANDY": {
     "name": "Candy Bat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Candy_Bat_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_BAT_VAMPIRE": {
@@ -34302,6 +34333,7 @@
   },
   "PET_SKIN_CHICKEN_RUBBER": {
     "name": "Rubber Chicken Chicken Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rubber_Chicken_Chicken_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_CHICKEN_TURKEY": {
@@ -34391,10 +34423,12 @@
   },
   "PET_SKIN_ENDERMAN_BLUE_MOON": {
     "name": "Blue Moon Enderman Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Moon_Enderman_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMAN_NEBULA": {
     "name": "Nebula Enderman Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nebula_Enderman_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMAN_NEON": {
@@ -34409,6 +34443,7 @@
   },
   "PET_SKIN_ENDERMAN_SUN": {
     "name": "Sun Enderman Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Sun_Enderman_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMAN_XENON": {
@@ -34558,6 +34593,7 @@
   },
   "PET_SKIN_RAT_GYM_RAT": {
     "name": "Gym Rat Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gym_Rat_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_HIDE_AND_SQUEAK": {
@@ -34567,38 +34603,47 @@
   },
   "PET_SKIN_RAT_JUNK_RAT": {
     "name": "Junk Rat Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Junk_Rat_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_KARATE": {
     "name": "KaRate Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/KaRate_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_MR_CLAWS": {
     "name": "Mr Claws Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Mr_Claws_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_NINJA": {
     "name": "Ninja Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ninja_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_PIRATE": {
     "name": "PiRate Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/PiRate_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_RAT:STRONAUT": {
     "name": "Rat-stronaut Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rat-stronaut_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_SECRAT_SERVICE": {
     "name": "SecRat Service Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/SecRat_Service_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_SECURATY_GUARD": {
     "name": "SecuRaty Guard Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/SecuRaty_Guard_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_SQUEAKHEART": {
     "name": "Squeakheart Rat Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Squeakheart_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_REINDEER_AURORA": {
@@ -34753,22 +34798,27 @@
   },
   "PET_SKIN_SLUG_AZURE_SEA_SLUG": {
     "name": "Azure Sea Slug Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Azure_Sea_Slug_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SLUG_LEAF_SHEEP_SEA_SLUG": {
     "name": "Leaf Sheep Sea Slug Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Leaf_Sheep_Sea_Slug_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SLUG_VIOLET_SEA_SLUG": {
     "name": "Violet Sea Slug Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Violet_Sea_Slug_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SNAIL_RAINBOW": {
     "name": "Rainbow Snail Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rainbow_Snail_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_SNOWBALL_SPIRIT": {
     "name": "Snowball Spirit Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Snowball_Spirit_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SNOWMAN_ICE_GOLEM": {
@@ -35333,6 +35383,7 @@
   },
   "PLANT_MATTER": {
     "name": "Plant Matter",
+    "wiki": "https://wiki.hypixel.net/Plant_Matter",
     "base_rarity": "UNCOMMON"
   },
   "PLASMA": {
@@ -42545,14 +42596,17 @@
   },
   "SKYMART_HYPER_VACUUM": {
     "name": "SkyMart Hyper Vacuum",
+    "wiki": "https://wiki.hypixel.net/SkyMart_Hyper_Vacuum",
     "base_rarity": "RARE"
   },
   "SKYMART_TURBO_VACUUM": {
     "name": "SkyMart Turbo Vacuum",
+    "wiki": "https://wiki.hypixel.net/SkyMart_Turbo_Vacuum",
     "base_rarity": "UNCOMMON"
   },
   "SKYMART_VACUUM": {
     "name": "SkyMart Vacuum",
+    "wiki": "https://wiki.hypixel.net/SkyMart_Vacuum",
     "base_rarity": "COMMON"
   },
   "SLAYER_ENERGY_DRINK": {
@@ -42848,11 +42902,13 @@
   "SLUG;3": {
     "name": "Epic Slug",
     "texture": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba",
+    "wiki": "https://wiki.hypixel.net/Slug_Pet",
     "base_rarity": "EPIC"
   },
   "SLUG;4": {
     "name": "Legendary Slug",
     "texture": "7a79d0fd677b54530961117ef84adc206e2cc5045c1344d61d776bf8ac2fe1ba",
+    "wiki": "https://wiki.hypixel.net/Slug_Pet",
     "base_rarity": "LEGENDARY"
   },
   "SLUGFISH_BRONZE": {
@@ -43484,6 +43540,7 @@
   "SNOWMAN;5": {
     "name": "Mythic Snowman",
     "texture": "903485cb1cd882fdd7faaf1359ffc3bd4d5341c81c17e95527204e554dad8188",
+    "wiki": "https://wiki.hypixel.net/Snowman_Pet",
     "base_rarity": "MYTHIC"
   },
   "SNOWMAN_PERSONALITY": {
@@ -45071,6 +45128,7 @@
   },
   "SPRAYONATOR": {
     "name": "Sprayonator",
+    "wiki": "https://wiki.hypixel.net/Sprayonator",
     "scrollable": true,
     "base_rarity": "UNCOMMON"
   },
@@ -46485,6 +46543,7 @@
       "C2": "WINTER_FRAGMENT:1",
       "C3": "WINTER_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/Glacial_Scythe",
     "scrollable": true,
     "base_rarity": "EPIC"
   },
@@ -46501,6 +46560,7 @@
       "C2": "WINTER_FRAGMENT:1",
       "C3": "WINTER_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/Ice_Spray_Wand",
     "scrollable": true,
     "base_rarity": "RARE"
   },
@@ -46726,6 +46786,7 @@
       "C2": "WINTER_FRAGMENT:1",
       "C3": "WINTER_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/Yeti_Sword",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
   },
@@ -48597,6 +48658,7 @@
   },
   "TARANTULA_REDBACK": {
     "name": "Redback Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Redback_Skin",
     "base_rarity": "MYTHIC"
   },
   "TARANTULA_SILK": {
@@ -51305,42 +51367,52 @@
   },
   "VINYL_BEETLE": {
     "name": "Not Just a Pest Vinyl",
+    "wiki": "https://wiki.hypixel.net/Not_Just_A_Pest_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_BUZZIN_BEATS": {
     "name": "Buzzin\u0027 Beats Vinyl",
+    "wiki": "https://wiki.hypixel.net/Buzzin%27_Beats_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_CICADA_SYMPHONY": {
     "name": "Cicada Symphony Vinyl",
+    "wiki": "https://wiki.hypixel.net/Cicada_Symphony_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_CRICKET_CHOIR": {
     "name": "Cricket Choir Vinyl",
+    "wiki": "https://wiki.hypixel.net/Cricket_Choir_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_DYNAMITES": {
     "name": "DynaMITES Vinyl",
+    "wiki": "https://wiki.hypixel.net/DynaMITES_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_EARTHWORM_ENSEMBLE": {
     "name": "Earthworm Ensemble Vinyl",
+    "wiki": "https://wiki.hypixel.net/Earthworm_Ensemble_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_PRETTY_FLY": {
     "name": "Pretty Fly Vinyl",
+    "wiki": "https://wiki.hypixel.net/Pretty_Fly_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_RODENT_REVOLUTION": {
     "name": "Rodent Revolution Vinyl",
+    "wiki": "https://wiki.hypixel.net/Rodent_Revolution_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_SLOW_AND_GROOVY": {
     "name": "Slow and Groovy Vinyl",
+    "wiki": "https://wiki.hypixel.net/Slow_And_Groovy_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VINYL_WINGS_OF_HARMONY": {
     "name": "Wings of Harmony Vinyl",
+    "wiki": "https://wiki.hypixel.net/Wings_Of_Harmony_Vinyl",
     "base_rarity": "UNCOMMON"
   },
   "VITAMIN_DEATH": {
@@ -51585,6 +51657,7 @@
   },
   "VOLCANIC_ROCK": {
     "name": "Volcanic Rock",
+    "wiki": "https://wiki.hypixel.net/Volcanic_Rock",
     "base_rarity": "EPIC"
   },
   "VOLCANIC_STONEFISH_BRONZE": {
@@ -52450,6 +52523,7 @@
   },
   "WINTER_FRAGMENT": {
     "name": "Winter Fragment",
+    "wiki": "https://wiki.hypixel.net/Winter_Fragment",
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
@@ -53624,6 +53698,7 @@
   },
   "WRIGGLING_LARVA": {
     "name": "Wriggling Larva",
+    "wiki": "https://wiki.hypixel.net/Wriggling_Larva",
     "base_rarity": "EPIC"
   },
   "WRITTEN_BOOK": {
