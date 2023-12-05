@@ -40944,6 +40944,11 @@
     "wiki": "https://wiki.hypixel.net/Second_Master_Star",
     "base_rarity": "EPIC"
   },
+  "SECRET_BINGO_CARD": {
+    "name": "Secret Bingo Card",
+    "wiki": "https://wiki.hypixel.net/Bingo_Card",
+    "base_rarity": "SPECIAL"
+  },
   "SECRET_BINGO_MEMENTO": {
     "name": "Bingo\u0027s Secrets",
     "base_rarity": "SPECIAL"
