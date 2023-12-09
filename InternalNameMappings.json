@@ -5145,8 +5145,7 @@
   },
   "CADUCEUS_MENDING_CROWN": {
     "name": "Caduceus Mender Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Caduceus_Mender_Skin",
-    "base_rarity": "MYTHIC"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Caduceus_Mender_Skin"
   },
   "CADUCOUS_EXTRACT": {
     "name": "Caducous Extract",
@@ -10357,7 +10356,7 @@
   "DIAMOND_ORE": {
     "name": "Diamond Ore",
     "wiki": "https://wiki.hypixel.net/Diamond_Ore",
-    "base_rarity": "COMMON"
+    "base_rarity": "UNCOMMON"
   },
   "DIAMOND_PICKAXE": {
     "name": "Diamond Pickaxe",
@@ -11922,7 +11921,7 @@
   "EMERALD_ORE": {
     "name": "Emerald Ore",
     "wiki": "https://wiki.hypixel.net/Emerald_Ore",
-    "base_rarity": "COMMON"
+    "base_rarity": "UNCOMMON"
   },
   "EMERALD_RING": {
     "name": "Emerald Ring",
@@ -18419,8 +18418,7 @@
   },
   "GEMSTONE_DIVAN": {
     "name": "Gemstone Divan Helmet Skin",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Divan_Helmet_Skin",
-    "base_rarity": "MYTHIC"
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gemstone_Divan_Helmet_Skin"
   },
   "GEMSTONE_DRILL_1": {
     "name": "Ruby Drill TX-15",
@@ -19615,6 +19613,10 @@
         "SKYBLOCK_COIN:30"
       ]
     }
+  },
+  "GOLDEN_COLLAR": {
+    "name": "Golden Collar",
+    "base_rarity": "SPECIAL"
   },
   "GOLDEN_DANTE_STATUE": {
     "name": "Golden Dante Statue",
@@ -26125,7 +26127,7 @@
   "LAPIS_ORE": {
     "name": "Lapis Lazuli Ore",
     "wiki": "https://wiki.hypixel.net/Lapis_Lazuli_Ore",
-    "base_rarity": "COMMON"
+    "base_rarity": "UNCOMMON"
   },
   "LAPIS_PICKAXE": {
     "name": "Lapis Pickaxe",
@@ -34476,6 +34478,9 @@
     "wiki": "https://wiki.hypixel.net/Undead_Ender_Dragon_Skin",
     "base_rarity": "LEGENDARY"
   },
+  "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
+    "name": "Four Seasons Griffin Skin"
+  },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
     "wiki": "https://wiki.hypixel.net/Anubis_Golden_Dragon_Skin",
@@ -38421,7 +38426,7 @@
   "REDSTONE_ORE": {
     "name": "Redstone Ore",
     "wiki": "https://wiki.hypixel.net/Redstone_Ore",
-    "base_rarity": "COMMON"
+    "base_rarity": "UNCOMMON"
   },
   "REDSTONE_RUNE;1": {
     "name": "◆ Redstone Rune I",
