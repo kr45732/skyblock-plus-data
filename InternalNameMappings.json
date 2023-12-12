@@ -1733,6 +1733,10 @@
     "wiki": "https://wiki.hypixel.net/Bag_Of_Cash",
     "base_rarity": "RARE"
   },
+  "BAG_OF_COAL_BACKPACK": {
+    "name": "Bag of Coal Backpack Skin",
+    "base_rarity": "EPIC"
+  },
   "BAG_OF_GOLD": {
     "name": "Bag of Gold",
     "wiki": "https://wiki.hypixel.net/Bag_Of_Gold",
@@ -6921,6 +6925,10 @@
     "name": "Fang-tastic Chocolate Chip",
     "wiki": "https://wiki.hypixel.net/Fang-tastic_Chocolate_Chip",
     "base_rarity": "LEGENDARY"
+  },
+  "CHRISTMAS_STOCKING_BACKPACK": {
+    "name": "Christmas Stocking Backpack Skin",
+    "base_rarity": "EPIC"
   },
   "CHRISTMAS_TREE": {
     "name": "Christmas Tree",
@@ -12421,7 +12429,7 @@
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_COCOA": {
-    "name": "Enchanted Cocoa Bean",
+    "name": "Enchanted Cocoa Beans",
     "recipe": {
       "A1": "",
       "A2": "INK_SACK-3:32",
@@ -12433,7 +12441,7 @@
       "C2": "INK_SACK-3:32",
       "C3": ""
     },
-    "wiki": "https://wiki.hypixel.net/Enchanted_Cocoa_Bean",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Cocoa_Beans",
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_COMPOST": {
@@ -18143,6 +18151,10 @@
       "FROZEN_BLAZE_ICICLE"
     ]
   },
+  "FROZEN_BLAZE_ICEBERG": {
+    "name": "Iceberg Skin",
+    "base_rarity": "EPIC"
+  },
   "FROZEN_BLAZE_ICICLE": {
     "name": "Icicle Skin",
     "wiki": "https://wiki.hypixel.net/Icicle_Skin",
@@ -22879,6 +22891,21 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
   },
+  "ICE_CUBE": {
+    "name": "Ice Cube",
+    "recipe": {
+      "A1": "ENCHANTED_ICE:1",
+      "A2": "ENCHANTED_ICE:1",
+      "A3": "ENCHANTED_ICE:1",
+      "B1": "ENCHANTED_ICE:1",
+      "B2": "PACKED_ICE:1",
+      "B3": "ENCHANTED_ICE:1",
+      "C1": "ENCHANTED_ICE:1",
+      "C2": "ENCHANTED_ICE:1",
+      "C3": "ENCHANTED_ICE:1"
+    },
+    "base_rarity": "RARE"
+  },
   "ICE_DINNER_TABLE": {
     "name": "Ice Dinner Table",
     "wiki": "https://wiki.hypixel.net/Furniture",
@@ -23109,6 +23136,10 @@
   "ICE_RUNE;3": {
     "name": "◆ Ice Rune III",
     "base_rarity": "RARE"
+  },
+  "ICE_SKATES_RUNE;3": {
+    "name": "◆ Ice Skates Rune III",
+    "base_rarity": "LEGENDARY"
   },
   "ICE_SOFA": {
     "name": "Ice Sofa",
@@ -28279,7 +28310,8 @@
       "GLOWING_GRAPE_FLUX",
       "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
-      "PIRATE_BOMB_FLUX"
+      "PIRATE_BOMB_FLUX",
+      "POLAR_LIGHTS_FLUX"
     ]
   },
   "MANA_RAY_BRONZE": {
@@ -30497,6 +30529,17 @@
       "count": 1
     }
   },
+  "MUSHED_MUSHROOM_MIXIN": {
+    "name": "Glowing Mush Mixin",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:64",
+        "GLOWING_MUSHROOM:80"
+      ],
+      "count": 1
+    }
+  },
   "MUSHROOM_BARN_SKIN": {
     "name": "Mushroom Barn Skin",
     "wiki": "https://wiki.hypixel.net/Mushroom_Barn_Skin",
@@ -32568,7 +32611,8 @@
       "GLOWING_GRAPE_FLUX",
       "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
-      "PIRATE_BOMB_FLUX"
+      "PIRATE_BOMB_FLUX",
+      "POLAR_LIGHTS_FLUX"
     ]
   },
   "OVERGROWN_GRASS": {
@@ -32595,6 +32639,10 @@
   "OVERLOAD;5": {
     "name": "Overload V",
     "base_rarity": "UNCOMMON"
+  },
+  "OWL;4": {
+    "name": "Legendary Owl",
+    "base_rarity": "LEGENDARY"
   },
   "OXFORD_SHOES": {
     "name": "Oxford Shoes",
@@ -34511,6 +34559,10 @@
     "wiki": "https://wiki.hypixel.net/Luminescent_Jellyfish_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_JERRY_FROZEN": {
+    "name": "Frozen Jerry Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_JERRY_GREEN_ELF": {
     "name": "Green Elf Jerry Skin",
     "wiki": "https://wiki.hypixel.net/Green_Elf_Jerry_Skin",
@@ -34829,6 +34881,10 @@
   "PET_SKIN_SNOWMAN_ICE_GOLEM": {
     "name": "Ice Golem Snowman Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SNOW_OWL": {
+    "name": "Snow Owl Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SQUID_GLOW": {
@@ -35416,7 +35472,8 @@
       "GLOWING_GRAPE_FLUX",
       "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
-      "PIRATE_BOMB_FLUX"
+      "PIRATE_BOMB_FLUX",
+      "POLAR_LIGHTS_FLUX"
     ]
   },
   "PLASMA_BUCKET": {
@@ -35510,6 +35567,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Polarvoid_Book",
     "base_rarity": "RARE"
+  },
+  "POLAR_LIGHTS_FLUX": {
+    "name": "Polar Lights Power Orb Skin",
+    "base_rarity": "MYTHIC"
   },
   "POLISHED_PEBBLE": {
     "name": "Polished Pebble",
@@ -37706,7 +37767,8 @@
       "GLOWING_GRAPE_FLUX",
       "GOLDEN_ANCIENT_EGG_FLUX",
       "GOLDEN_APPLE_FLUX",
-      "PIRATE_BOMB_FLUX"
+      "PIRATE_BOMB_FLUX",
+      "POLAR_LIGHTS_FLUX"
     ]
   },
   "RADIOACTIVE_VIAL": {
@@ -40962,6 +41024,11 @@
     "name": "Redstone Key",
     "wiki": "https://wiki.hypixel.net/Redstone_Key",
     "base_rarity": "RARE"
+  },
+  "SECRET_TRACKER": {
+    "name": "Secret Tracker 3000",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
   },
   "SEEDS": {
     "name": "Seeds",
@@ -49664,6 +49731,10 @@
     "wiki": "https://wiki.hypixel.net/Totem_Of_Corruption",
     "base_rarity": "UNCOMMON"
   },
+  "TOWN_HALL_BARN_SKIN": {
+    "name": "Town Hall Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "TOXIC_ARROW_POISON": {
     "name": "Toxic Arrow Poison",
     "wiki": "https://wiki.hypixel.net/Toxic_Arrow_Poison",
@@ -52543,6 +52614,10 @@
       "count": 1
     }
   },
+  "WINTER_HOMESTEAD_BARN_SKIN": {
+    "name": "Winter Homestead Barn Skin",
+    "base_rarity": "RARE"
+  },
   "WINTER_ISLAND": {
     "name": "Winter Island",
     "wiki": "https://wiki.hypixel.net/Winter_Island"
@@ -53680,6 +53755,22 @@
       "C3": ""
     },
     "base_rarity": "COMMON"
+  },
+  "WORM_BAIT": {
+    "name": "Worm Bait",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "WORM_MEMBRANE:1",
+      "B2": "CLAY_BALL:1",
+      "B3": "",
+      "C1": "",
+      "C2": "",
+      "C3": "",
+      "count": 16
+    },
+    "base_rarity": "UNCOMMON"
   },
   "WORM_MEMBRANE": {
     "name": "Worm Membrane",
