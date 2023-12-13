@@ -542,12 +542,24 @@
   "ADVANCED_GARDENING_AXE": {
     "name": "Advanced Gardening Axe",
     "wiki": "https://wiki.hypixel.net/Advanced_Gardening_Axe",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:25"
+      ],
+      "count": 1
+    }
   },
   "ADVANCED_GARDENING_HOE": {
     "name": "Advanced Gardening Hoe",
     "wiki": "https://wiki.hypixel.net/Advanced_Gardening_Hoe",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:25"
+      ],
+      "count": 1
+    }
   },
   "ADVENT_CALENDAR_DISPLAY": {
     "name": "Advent Calendar Display",
@@ -1687,7 +1699,13 @@
   "AUTUMN_HUT_BARN_SKIN": {
     "name": "Autumn Hut Barn Skin",
     "wiki": "https://wiki.hypixel.net/Autumn_Hut_Barn_Skin",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:2000"
+      ],
+      "count": 1
+    }
   },
   "AXE_OF_THE_SHREDDED": {
     "name": "Axe of the Shredded",
@@ -1782,7 +1800,13 @@
   "BAMBOO_BARN_SKIN": {
     "name": "Bamboo Barn Skin",
     "wiki": "https://wiki.hypixel.net/Bamboo_Barn_Skin",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:7500"
+      ],
+      "count": 1
+    }
   },
   "BANDAGED_MITHRIL_PICKAXE": {
     "name": "Bandaged Mithril Pickaxe",
@@ -2123,12 +2147,24 @@
   "BASIC_GARDENING_AXE": {
     "name": "Basic Gardening Axe",
     "wiki": "https://wiki.hypixel.net/Basic_Gardening_Axe",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:5"
+      ],
+      "count": 1
+    }
   },
   "BASIC_GARDENING_HOE": {
     "name": "Basic Gardening Hoe",
     "wiki": "https://wiki.hypixel.net/Basic_Gardening_Hoe",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:5"
+      ],
+      "count": 1
+    }
   },
   "BASKETBALL_PERSONALITY": {
     "name": "Basketball Minion Skin",
@@ -2946,7 +2982,8 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:20000"
-      ]
+      ],
+      "count": 1
     }
   },
   "BIRCH_DOOR_ITEM": {
@@ -4551,7 +4588,13 @@
     "name": "Builder\u0027s Ruler",
     "wiki": "https://wiki.hypixel.net/Builder%27s_Ruler",
     "scrollable": true,
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:20"
+      ],
+      "count": 1
+    }
   },
   "BUILDERS_WAND": {
     "name": "Builder\u0027s Wand",
@@ -6023,7 +6066,13 @@
   "CASTLE_BARN_SKIN": {
     "name": "Castle Barn Skin",
     "wiki": "https://wiki.hypixel.net/Castle_Barn_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:15000"
+      ],
+      "count": 1
+    }
   },
   "CATACOMBS_EXPERT_RING": {
     "name": "Catacombs Expert Ring",
@@ -8465,7 +8514,13 @@
   "COZY_COTTAGE_BARN_SKIN": {
     "name": "Cozy Cottage Barn Skin",
     "wiki": "https://wiki.hypixel.net/Cozy_Cottage_Barn_Skin",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:250"
+      ],
+      "count": 1
+    }
   },
   "CRAB": {
     "name": "Crab",
@@ -9137,7 +9192,13 @@
   "CUBE_BARN_SKIN": {
     "name": "Cube Barn Skin",
     "wiki": "https://wiki.hypixel.net/Cube_Barn_Skin",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:250"
+      ],
+      "count": 1
+    }
   },
   "CUBISM;1": {
     "name": "Cubism I",
@@ -9735,7 +9796,13 @@
   },
   "DEDICATION;1": {
     "name": "Dedication I",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:250"
+      ],
+      "count": 1
+    }
   },
   "DEDICATION;2": {
     "name": "Dedication II",
@@ -18373,7 +18440,13 @@
   "GARDEN_SCYTHE": {
     "name": "Garden Scythe",
     "wiki": "https://wiki.hypixel.net/Garden_Scythe",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:20"
+      ],
+      "count": 1
+    }
   },
   "GARLAND": {
     "name": "Garland",
@@ -20877,7 +20950,13 @@
   },
   "GREEN_THUMB;1": {
     "name": "Green Thumb I",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:1500"
+      ],
+      "count": 1
+    }
   },
   "GREEN_THUMB;2": {
     "name": "Green Thumb II",
@@ -22055,7 +22134,13 @@
   "HIVE_BARN_SKIN": {
     "name": "Hive Barn Skin",
     "wiki": "https://wiki.hypixel.net/Hive_Barn_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:10000"
+      ],
+      "count": 1
+    }
   },
   "HOCUS_POCUS_CIPHER": {
     "name": "Hocus-Pocus Cipher",
@@ -23932,12 +24017,27 @@
   "INFINI_VACUUM": {
     "name": "InfiniVacuum™",
     "wiki": "https://wiki.hypixel.net/InfiniVacuum™",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:1000",
+        "SKYMART_HYPER_VACUUM:1"
+      ],
+      "count": 1
+    }
   },
   "INFINI_VACUUM_HOOVERIUS": {
     "name": "InfiniVacuum™ Hooverius",
     "wiki": "https://wiki.hypixel.net/InfiniVacuum™_Hooverius",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:2500",
+        "INFINI_VACUUM:1",
+        "CHIRPING_STEREO:1"
+      ],
+      "count": 1
+    }
   },
   "INFLATABLE_JERRY": {
     "name": "Inflatable Jerry",
@@ -26509,7 +26609,13 @@
   "LARGE_WALNUT": {
     "name": "Large Walnut",
     "wiki": "https://wiki.hypixel.net/Large_Walnut",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:150"
+      ],
+      "count": 1
+    }
   },
   "LARGE_WINTER_SACK": {
     "name": "Winter Sack",
@@ -27398,22 +27504,46 @@
   "LOTUS_BELT": {
     "name": "Lotus Belt",
     "wiki": "https://wiki.hypixel.net/Lotus_Belt",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:100"
+      ],
+      "count": 1
+    }
   },
   "LOTUS_BRACELET": {
     "name": "Lotus Bracelet",
     "wiki": "https://wiki.hypixel.net/Lotus_Bracelet",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:50"
+      ],
+      "count": 1
+    }
   },
   "LOTUS_CLOAK": {
     "name": "Lotus Cloak",
     "wiki": "https://wiki.hypixel.net/Lotus_Cloak",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:500"
+      ],
+      "count": 1
+    }
   },
   "LOTUS_NECKLACE": {
     "name": "Lotus Necklace",
     "wiki": "https://wiki.hypixel.net/Lotus_Necklace",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:200"
+      ],
+      "count": 1
+    }
   },
   "LUCK;1": {
     "name": "Luck I",
@@ -27457,7 +27587,13 @@
   "LUCKY_BARN_SKIN": {
     "name": "Lucky Barn Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Lucky_Barn_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:950"
+      ],
+      "count": 1
+    }
   },
   "LUCKY_DICE": {
     "name": "Lucky Dice",
@@ -28897,7 +29033,13 @@
   "MELON_BARN_SKIN": {
     "name": "Melon Barn Skin",
     "wiki": "https://wiki.hypixel.net/Melon_Barn_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:950"
+      ],
+      "count": 1
+    }
   },
   "MELON_BLOCK": {
     "name": "Melon Block",
@@ -32642,7 +32784,13 @@
   },
   "OWL;4": {
     "name": "Legendary Owl",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2000000"
+      ],
+      "count": 1
+    }
   },
   "OXFORD_SHOES": {
     "name": "Oxford Shoes",
@@ -33963,12 +34111,24 @@
   "PEST_REPELLENT": {
     "name": "Pest Repellent",
     "wiki": "https://wiki.hypixel.net/Pest_Repellent",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:15"
+      ],
+      "count": 1
+    }
   },
   "PEST_REPELLENT_MAX": {
     "name": "Pest Repellent MAX",
     "wiki": "https://wiki.hypixel.net/Pest_Repellent_MAX",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:40"
+      ],
+      "count": 1
+    }
   },
   "PETRIFIED_STARFALL": {
     "name": "Petrified Starfall",
@@ -40266,7 +40426,13 @@
   "SAM_SCYTHE": {
     "name": "Sam\u0027s Scythe",
     "wiki": "https://wiki.hypixel.net/Sam\u0027s_Scythe",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:2000"
+      ],
+      "count": 1
+    }
   },
   "SAND:1": {
     "name": "Red Sand",
@@ -42599,6 +42765,11 @@
     "wiki": "https://wiki.hypixel.net/Dark_Oak_Chair",
     "base_rarity": "COMMON"
   },
+  "SKYBLOCK_COPPER": {
+    "name": "Copper",
+    "wiki": "https://wiki.hypixel.net/Copper",
+    "base_rarity": "SPECIAL"
+  },
   "SKYBLOCK_ENIGMA_SOUL": {
     "name": "Enigma Soul (Rift)",
     "wiki": "https://wiki.hypixel.net/Enigma_Souls",
@@ -42614,6 +42785,11 @@
   "SKYBLOCK_FLY": {
     "name": "Fly (Rift)",
     "wiki": "https://wiki.hypixel.net/Kat_(Rift)",
+    "base_rarity": "SPECIAL"
+  },
+  "SKYBLOCK_GEM": {
+    "name": "Gem",
+    "wiki": "https://wiki.hypixel.net/SkyBlock_Gems",
     "base_rarity": "SPECIAL"
   },
   "SKYBLOCK_GOLD_MEDAL": {
@@ -42669,22 +42845,48 @@
   "SKYMART_BROCHURE": {
     "name": "SkyMart Brochure",
     "wiki": "https://wiki.hypixel.net/SkyMart_Brochure",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:100"
+      ],
+      "count": 1
+    }
   },
   "SKYMART_HYPER_VACUUM": {
     "name": "SkyMart Hyper Vacuum",
     "wiki": "https://wiki.hypixel.net/SkyMart_Hyper_Vacuum",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:500",
+        "SKYMART_TURBO_VACUUM:1"
+      ],
+      "count": 1
+    }
   },
   "SKYMART_TURBO_VACUUM": {
     "name": "SkyMart Turbo Vacuum",
     "wiki": "https://wiki.hypixel.net/SkyMart_Turbo_Vacuum",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:200",
+        "SKYMART_VACUUM:1"
+      ],
+      "count": 1
+    }
   },
   "SKYMART_VACUUM": {
     "name": "SkyMart Vacuum",
     "wiki": "https://wiki.hypixel.net/SkyMart_Vacuum",
-    "base_rarity": "COMMON"
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:100"
+      ],
+      "count": 1
+    }
   },
   "SLAYER_ENERGY_DRINK": {
     "name": "Slayer Energy Drink",
@@ -45207,7 +45409,13 @@
     "name": "Sprayonator",
     "wiki": "https://wiki.hypixel.net/Sprayonator",
     "scrollable": true,
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:25"
+      ],
+      "count": 1
+    }
   },
   "SPRAY_CAN": {
     "name": "Spray Can",
@@ -47888,7 +48096,13 @@
   },
   "SUNDER;6": {
     "name": "Sunder VI",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:10"
+      ],
+      "count": 1
+    }
   },
   "SUN_PERSONALITY": {
     "name": "Sun Minion Skin",
@@ -48772,7 +48986,13 @@
   "TAVERN_BARN_SKIN": {
     "name": "Tavern Barn Skin",
     "wiki": "https://wiki.hypixel.net/Tavern_Barn_Skin",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:250"
+      ],
+      "count": 1
+    }
   },
   "TELEKINESIS;1": {
     "name": "Telekinesis I",
@@ -52590,7 +52810,13 @@
   "WINDMILL_BARN_SKIN": {
     "name": "Windmill Barn Skin",
     "wiki": "https://wiki.hypixel.net/Windmill_Barn_Skin",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_GEM:250"
+      ],
+      "count": 1
+    }
   },
   "WIND_CHIMES": {
     "name": "Wind Chimes",
@@ -53907,7 +54133,13 @@
   "YELLOW_BANDANA": {
     "name": "Yellow Bandana",
     "wiki": "https://wiki.hypixel.net/Yellow_Bandana",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COPPER:300"
+      ],
+      "count": 1
+    }
   },
   "YELLOW_FLOWER": {
     "name": "Dandelion",
