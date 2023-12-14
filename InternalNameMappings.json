@@ -2118,6 +2118,10 @@
     },
     "base_rarity": "COMMON"
   },
+  "BARK_TUNES_RUNE;3": {
+    "name": "◆ Bark Tunes Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "BARRIER": {
     "name": "Barrier",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Barrier",
@@ -23997,12 +24001,24 @@
     "name": "Infinileap",
     "wiki": "https://wiki.hypixel.net/Infinileap",
     "scrollable": true,
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_WITHER:25000"
+      ],
+      "count": 1
+    }
   },
   "INFINITE_SUPERBOOM_TNT": {
     "name": "Infinityboom TNT",
     "wiki": "https://wiki.hypixel.net/Infinityboom_TNT",
-    "base_rarity": "EPIC"
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_UNDEAD:50000"
+      ],
+      "count": 1
+    }
   },
   "INFINI_TORCH": {
     "name": "InfiniTorch™",
@@ -29402,6 +29418,10 @@
       ]
     }
   },
+  "MEOW_MUSIC_RUNE;3": {
+    "name": "◆ Meow Music Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "MERCENARY_AXE": {
     "name": "Mercenary Axe",
     "wiki": "https://wiki.hypixel.net/Mercenary_Axe",
@@ -34536,6 +34556,10 @@
     "wiki": "https://wiki.hypixel.net/Frozen_Blaze_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_CAT_SPACE_KITTY": {
+    "name": "Space Kitty Black Cat Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_CHICKEN_BABY_CHICK": {
     "name": "Baby Chick Chicken Skin",
     "wiki": "https://wiki.hypixel.net/Baby_Chick_Chicken_Skin",
@@ -35100,6 +35124,10 @@
   "PET_SKIN_WOLF": {
     "name": "Dark Wolf Skin",
     "wiki": "https://wiki.hypixel.net/Dark_Wolf_Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_WOLF_DOGE": {
+    "name": "Doge Wolf Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_WOLF_HUSKY": {
@@ -41194,7 +41222,13 @@
   "SECRET_TRACKER": {
     "name": "Secret Tracker 3000",
     "scrollable": true,
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "ESSENCE_WITHER:100"
+      ],
+      "count": 1
+    }
   },
   "SEEDS": {
     "name": "Seeds",
