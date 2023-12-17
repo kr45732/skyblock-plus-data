@@ -32804,6 +32804,7 @@
   },
   "OWL;4": {
     "name": "Legendary Owl",
+    "texture": "da3216da54e7368fb40b721239ad95e07ef4f97d93f1c42ff319bab9a53882af",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
