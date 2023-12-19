@@ -270,7 +270,8 @@
       "B3": "",
       "C1": "WOOD-4:1",
       "C2": "WOOD-4:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -285,7 +286,8 @@
       "B3": "WOOD-4:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -491,7 +493,8 @@
       "B3": "",
       "C1": "WOOD-4:1",
       "C2": "WOOD-4:1",
-      "C3": "WOOD-4:1"
+      "C3": "WOOD-4:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -506,7 +509,8 @@
       "B3": "IRON_INGOT:1",
       "C1": "IRON_INGOT:1",
       "C2": "STICK:1",
-      "C3": "IRON_INGOT:1"
+      "C3": "IRON_INGOT:1",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -1753,6 +1757,7 @@
   },
   "BAG_OF_COAL_BACKPACK": {
     "name": "Bag of Coal Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Bag_Of_Coal_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "BAG_OF_GOLD": {
@@ -3001,7 +3006,8 @@
       "B3": "",
       "C1": "WOOD-2:1",
       "C2": "WOOD-2:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -3016,7 +3022,8 @@
       "B3": "WOOD-2:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -3238,7 +3245,8 @@
       "B3": "",
       "C1": "WOOD-2:1",
       "C2": "WOOD-2:1",
-      "C3": "WOOD-2:1"
+      "C3": "WOOD-2:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -4357,7 +4365,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bowl",
     "base_rarity": "COMMON"
@@ -4462,7 +4471,8 @@
       "B3": "",
       "C1": "BRICK:1",
       "C2": "BRICK:1",
-      "C3": "BRICK:1"
+      "C3": "BRICK:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -5558,7 +5568,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5573,7 +5584,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5588,7 +5600,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5603,7 +5616,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5618,7 +5632,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5633,7 +5648,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5648,7 +5664,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5663,7 +5680,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5678,7 +5696,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5693,7 +5712,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5708,7 +5728,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5723,7 +5744,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5738,7 +5760,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5753,7 +5776,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5768,7 +5792,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -5783,7 +5808,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -6981,6 +7007,7 @@
   },
   "CHRISTMAS_STOCKING_BACKPACK": {
     "name": "Christmas Stocking Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Christmas_Stocking_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "CHRISTMAS_TREE": {
@@ -7337,7 +7364,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Coal",
     "base_rarity": "COMMON",
@@ -7766,7 +7794,8 @@
       "B3": "",
       "C1": "COBBLESTONE:1",
       "C2": "COBBLESTONE:1",
-      "C3": "COBBLESTONE:1"
+      "C3": "COBBLESTONE:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -7781,7 +7810,8 @@
       "B3": "MOSSY_COBBLESTONE:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -7796,7 +7826,8 @@
       "B3": "COBBLESTONE:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -8209,7 +8240,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -9431,7 +9463,8 @@
       "B3": "",
       "C1": "WOOD-5:1",
       "C2": "WOOD-5:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -9446,7 +9479,8 @@
       "B3": "WOOD-5:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -9652,7 +9686,8 @@
       "B3": "",
       "C1": "WOOD-5:1",
       "C2": "WOOD-5:1",
-      "C3": "WOOD-5:1"
+      "C3": "WOOD-5:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -10010,7 +10045,8 @@
       "B3": "IRON_INGOT:1",
       "C1": "IRON_INGOT:1",
       "C2": "REDSTONE:1",
-      "C3": "IRON_INGOT:1"
+      "C3": "IRON_INGOT:1",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -10053,7 +10089,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Diamond",
     "base_rarity": "COMMON"
@@ -10593,7 +10630,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -11703,7 +11741,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Emerald",
     "base_rarity": "COMMON"
@@ -12855,13 +12894,13 @@
     "name": "Enchanted Glowstone",
     "recipe": {
       "A1": "",
-      "A2": "",
+      "A2": "ENCHANTED_GLOWSTONE_DUST:32",
       "A3": "",
-      "B1": "ENCHANTED_GLOWSTONE_DUST:48",
-      "B2": "ENCHANTED_GLOWSTONE_DUST:48",
-      "B3": "",
-      "C1": "ENCHANTED_GLOWSTONE_DUST:48",
-      "C2": "ENCHANTED_GLOWSTONE_DUST:48",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:32",
+      "B2": "ENCHANTED_GLOWSTONE_DUST:32",
+      "B3": "ENCHANTED_GLOWSTONE_DUST:32",
+      "C1": "",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:32",
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Glowstone",
@@ -15996,7 +16035,8 @@
       "B3": "WOOD:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -16595,7 +16635,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -18224,6 +18265,7 @@
   },
   "FROZEN_BLAZE_ICEBERG": {
     "name": "Iceberg Skin",
+    "wiki": "https://wiki.hypixel.net/Iceberg_Skin",
     "base_rarity": "EPIC"
   },
   "FROZEN_BLAZE_ICICLE": {
@@ -18965,10 +19007,12 @@
   },
   "GIFT_BLACK_BACKPACK": {
     "name": "Black Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Black_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GIFT_BLUE_BACKPACK": {
     "name": "Blue Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GIFT_COMPASS": {
@@ -18978,10 +19022,12 @@
   },
   "GIFT_GOLD_BACKPACK": {
     "name": "Gold Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gold_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GIFT_GREEN_BACKPACK": {
     "name": "Green Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Green_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GIFT_OF_LEARNING": {
@@ -18991,6 +19037,7 @@
   },
   "GIFT_PURPLE_BACKPACK": {
     "name": "Purple Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Purple_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GIFT_THE_FISH": {
@@ -19000,6 +19047,7 @@
   },
   "GIFT_WHITE_BACKPACK": {
     "name": "White Gift Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/White_Gift_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "GILLSPLASH_BELT": {
@@ -19705,6 +19753,7 @@
   },
   "GOLDEN_COLLAR": {
     "name": "Golden Collar",
+    "wiki": "https://wiki.hypixel.net/Golden_Collar",
     "base_rarity": "SPECIAL"
   },
   "GOLDEN_DANTE_STATUE": {
@@ -20200,7 +20249,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Gold_Ingot",
     "base_rarity": "COMMON",
@@ -22993,6 +23043,7 @@
       "C2": "ENCHANTED_ICE:1",
       "C3": "ENCHANTED_ICE:1"
     },
+    "wiki": "https://wiki.hypixel.net/Ice_Cube",
     "base_rarity": "RARE"
   },
   "ICE_DINNER_TABLE": {
@@ -24191,7 +24242,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Lapis_Lazuli",
     "base_rarity": "COMMON"
@@ -24445,7 +24497,8 @@
       "B3": "",
       "C1": "IRON_INGOT:1",
       "C2": "IRON_INGOT:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -24460,7 +24513,8 @@
       "B3": "IRON_INGOT:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -24700,7 +24754,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Iron_Ingot",
     "base_rarity": "COMMON",
@@ -25260,7 +25315,8 @@
       "B3": "",
       "C1": "WOOD-3:1",
       "C2": "WOOD-3:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -25275,7 +25331,8 @@
       "B3": "WOOD-3:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -25506,7 +25563,8 @@
       "B3": "",
       "C1": "WOOD-3:1",
       "C2": "WOOD-3:1",
-      "C3": "WOOD-3:1"
+      "C3": "WOOD-3:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -25838,7 +25896,8 @@
       "B3": "STICK:1",
       "C1": "STICK:1",
       "C2": "",
-      "C3": "STICK:1"
+      "C3": "STICK:1",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -30693,6 +30752,7 @@
   },
   "MUSHED_MUSHROOM_MIXIN": {
     "name": "Glowing Mush Mixin",
+    "wiki": "https://wiki.hypixel.net/Glowing_Mush_Mixin",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -31471,7 +31531,8 @@
       "B3": "",
       "C1": "NETHER_BRICK:1",
       "C2": "NETHER_BRICK:1",
-      "C3": "NETHER_BRICK:1"
+      "C3": "NETHER_BRICK:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -31486,7 +31547,8 @@
       "B3": "NETHER_BRICK:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -31745,7 +31807,13 @@
   "NEW_YEAR_CAKE_BAG": {
     "name": "New Year Cake Bag",
     "wiki": "https://wiki.hypixel.net/New_Year_Cake_Bag",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:250000.0"
+      ],
+      "count": 1
+    }
   },
   "NIGHTMARE_NULLIFIER": {
     "name": "Nightmare Nullifier",
@@ -31811,6 +31879,7 @@
   },
   "NORTH_STAR_BACKPACK": {
     "name": "North Star Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/North_Star_Backpack_Skin",
     "base_rarity": "LEGENDARY"
   },
   "NOTE_BLOCK": {
@@ -32805,6 +32874,7 @@
   "OWL;4": {
     "name": "Legendary Owl",
     "texture": "da3216da54e7368fb40b721239ad95e07ef4f97d93f1c42ff319bab9a53882af",
+    "wiki": "https://wiki.hypixel.net/Owl_Pet",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -32869,7 +32939,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -34712,7 +34783,8 @@
     "base_rarity": "LEGENDARY"
   },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
-    "name": "Four Seasons Griffin Skin"
+    "name": "Four Seasons Griffin Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Four_Seasons_Griffin_Skin"
   },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
@@ -34746,6 +34818,7 @@
   },
   "PET_SKIN_JERRY_FROZEN": {
     "name": "Frozen Jerry Skin",
+    "wiki": "https://wiki.hypixel.net/Frozen_Jerry_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JERRY_GREEN_ELF": {
@@ -35070,6 +35143,7 @@
   },
   "PET_SKIN_SNOW_OWL": {
     "name": "Snow Owl Skin",
+    "wiki": "https://wiki.hypixel.net/Snow_Owl_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SQUID_GLOW": {
@@ -35759,6 +35833,7 @@
   },
   "POLAR_LIGHTS_FLUX": {
     "name": "Polar Lights Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Polar_Lights_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
   "POLISHED_PEBBLE": {
@@ -36142,7 +36217,8 @@
       "B3": "GOLD_INGOT:1",
       "C1": "GOLD_INGOT:1",
       "C2": "REDSTONE:1",
-      "C3": "GOLD_INGOT:1"
+      "C3": "GOLD_INGOT:1",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -37193,7 +37269,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -37312,7 +37389,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 2
     },
     "base_rarity": "COMMON"
   },
@@ -37535,7 +37613,8 @@
       "B3": "",
       "C1": "QUARTZ_BLOCK:1",
       "C2": "QUARTZ_BLOCK:1",
-      "C3": "QUARTZ_BLOCK:1"
+      "C3": "QUARTZ_BLOCK:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -38019,7 +38098,8 @@
       "B3": "IRON_INGOT:1",
       "C1": "IRON_INGOT:1",
       "C2": "",
-      "C3": "IRON_INGOT:1"
+      "C3": "IRON_INGOT:1",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -38420,7 +38500,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 9
     },
     "wiki": "https://wiki.hypixel.net/Redstone",
     "base_rarity": "COMMON",
@@ -38857,7 +38938,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -38887,7 +38969,8 @@
       "B3": "",
       "C1": "RED_SANDSTONE:1",
       "C2": "RED_SANDSTONE:1",
-      "C3": "RED_SANDSTONE:1"
+      "C3": "RED_SANDSTONE:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -40509,7 +40592,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -40539,7 +40623,8 @@
       "B3": "",
       "C1": "SANDSTONE:1",
       "C2": "SANDSTONE:1",
-      "C3": "SANDSTONE:1"
+      "C3": "SANDSTONE:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -41213,6 +41298,7 @@
   },
   "SECRET_BINGO_MEMENTO": {
     "name": "Bingo\u0027s Secrets",
+    "wiki": "https://wiki.hypixel.net/Bingo%27s_Secrets",
     "base_rarity": "SPECIAL"
   },
   "SECRET_DUNGEON_REDSTONE_KEY": {
@@ -41222,6 +41308,7 @@
   },
   "SECRET_TRACKER": {
     "name": "Secret Tracker 3000",
+    "wiki": "https://wiki.hypixel.net/Secret_Tracker_3000",
     "scrollable": true,
     "base_rarity": "UNCOMMON",
     "npc_buy": {
@@ -41993,7 +42080,8 @@
       "B3": "WOOD:1",
       "C1": "",
       "C2": "STICK:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -43650,7 +43738,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -43665,7 +43754,8 @@
       "B3": "",
       "C1": "SMOOTH_BRICK:1",
       "C2": "SMOOTH_BRICK:1",
-      "C3": "SMOOTH_BRICK:1"
+      "C3": "SMOOTH_BRICK:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -45484,7 +45574,8 @@
       "B3": "",
       "C1": "WOOD-1:1",
       "C2": "WOOD-1:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -45499,7 +45590,8 @@
       "B3": "WOOD-1:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -45705,7 +45797,8 @@
       "B3": "",
       "C1": "WOOD-1:1",
       "C2": "WOOD-1:1",
-      "C3": "WOOD-1:1"
+      "C3": "WOOD-1:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -45917,7 +46010,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -45932,7 +46026,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -45947,7 +46042,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -45962,7 +46058,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -45977,7 +46074,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -45992,7 +46090,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46007,7 +46106,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46022,7 +46122,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46037,7 +46138,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46052,7 +46154,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46067,7 +46170,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46082,7 +46186,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46097,7 +46202,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46112,7 +46218,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46127,7 +46234,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46142,7 +46250,8 @@
       "B3": "HARD_CLAY:1",
       "C1": "HARD_CLAY:1",
       "C2": "HARD_CLAY:1",
-      "C3": "HARD_CLAY:1"
+      "C3": "HARD_CLAY:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46157,7 +46266,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46172,7 +46282,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46187,7 +46298,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46202,7 +46314,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46217,7 +46330,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46232,7 +46346,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46247,7 +46362,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46262,7 +46378,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46277,7 +46394,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46292,7 +46410,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46307,7 +46426,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46322,7 +46442,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46337,7 +46458,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46352,7 +46474,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46367,7 +46490,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46382,7 +46506,8 @@
       "B3": "GLASS:1",
       "C1": "GLASS:1",
       "C2": "GLASS:1",
-      "C3": "GLASS:1"
+      "C3": "GLASS:1",
+      "count": 8
     },
     "base_rarity": "COMMON"
   },
@@ -46397,7 +46522,8 @@
       "B3": "STAINED_GLASS-1:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46412,7 +46538,8 @@
       "B3": "STAINED_GLASS-10:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46427,7 +46554,8 @@
       "B3": "STAINED_GLASS-11:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46442,7 +46570,8 @@
       "B3": "STAINED_GLASS-12:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46457,7 +46586,8 @@
       "B3": "STAINED_GLASS-13:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46472,7 +46602,8 @@
       "B3": "STAINED_GLASS-14:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46487,7 +46618,8 @@
       "B3": "STAINED_GLASS-15:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46502,7 +46634,8 @@
       "B3": "STAINED_GLASS-2:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46517,7 +46650,8 @@
       "B3": "STAINED_GLASS-3:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46532,7 +46666,8 @@
       "B3": "STAINED_GLASS-4:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46547,7 +46682,8 @@
       "B3": "STAINED_GLASS-5:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46562,7 +46698,8 @@
       "B3": "STAINED_GLASS-6:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46577,7 +46714,8 @@
       "B3": "STAINED_GLASS-7:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46592,7 +46730,8 @@
       "B3": "STAINED_GLASS-8:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46607,7 +46746,8 @@
       "B3": "STAINED_GLASS-9:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -46622,7 +46762,8 @@
       "B3": "STAINED_GLASS:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 16
     },
     "base_rarity": "COMMON"
   },
@@ -47193,7 +47334,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47208,7 +47350,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47223,7 +47366,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47238,7 +47382,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47253,7 +47398,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47268,7 +47414,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47283,7 +47430,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -47303,7 +47451,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -47348,7 +47497,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -47363,7 +47513,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 12
     },
     "base_rarity": "COMMON"
   },
@@ -47378,7 +47529,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -47393,7 +47545,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 2
     },
     "base_rarity": "COMMON"
   },
@@ -47408,7 +47561,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -47548,7 +47702,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -49988,6 +50143,7 @@
   },
   "TOWN_HALL_BARN_SKIN": {
     "name": "Town Hall Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Town_Hall_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "TOXIC_ARROW_POISON": {
@@ -50103,7 +50259,8 @@
       "B3": "WOOD:1",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 2
     },
     "base_rarity": "COMMON"
   },
@@ -50223,7 +50380,8 @@
       "B3": "",
       "C1": "WOOD:1",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 2
     },
     "base_rarity": "COMMON",
     "npc_buy": {
@@ -52872,11 +53030,12 @@
         "SKYBLOCK_NORTH_STAR:10",
         "VOLCANIC_ROCK:1"
       ],
-      "count": 1
+      "count": 2
     }
   },
   "WINTER_HOMESTEAD_BARN_SKIN": {
     "name": "Winter Homestead Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Winter_Homestead_Barn_Skin",
     "base_rarity": "RARE"
   },
   "WINTER_ISLAND": {
@@ -53371,7 +53530,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53386,7 +53546,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53401,7 +53562,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53416,7 +53578,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53431,7 +53594,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53446,7 +53610,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53517,7 +53682,8 @@
       "B3": "",
       "C1": "WOOD:1",
       "C2": "WOOD:1",
-      "C3": ""
+      "C3": "",
+      "count": 3
     },
     "base_rarity": "COMMON"
   },
@@ -53631,7 +53797,8 @@
       "B3": "",
       "C1": "WOOD:1",
       "C2": "WOOD:1",
-      "C3": "WOOD:1"
+      "C3": "WOOD:1",
+      "count": 4
     },
     "base_rarity": "COMMON"
   },
@@ -53646,7 +53813,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -53661,7 +53829,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -53676,7 +53845,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -53691,7 +53861,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -53706,7 +53877,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -53721,7 +53893,8 @@
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": 6
     },
     "base_rarity": "COMMON"
   },
@@ -54031,6 +54204,7 @@
       "C3": "",
       "count": 16
     },
+    "wiki": "https://wiki.hypixel.net/Worm_Bait",
     "base_rarity": "UNCOMMON"
   },
   "WORM_MEMBRANE": {
