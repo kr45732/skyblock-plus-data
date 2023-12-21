@@ -15395,7 +15395,7 @@
     "base_rarity": "UNCOMMON"
   },
   "EXP_BOTTLE": {
-    "name": "Bottle o\u0027 Enchanting",
+    "name": "Experience Bottle",
     "recipe": {
       "A1": "",
       "A2": "INK_SACK-4:1",
@@ -35215,6 +35215,18 @@
     "wiki": "https://wiki.hypixel.net/Grown-up_Baby_Yeti_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_ZOMBIE_BIG_BRAIN": {
+    "name": "Big Brain Zombie Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_ZOMBIE_BRAIN_FREEZE": {
+    "name": "Brain Freeze Zombie Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_ZOMBIE_SENTINEL": {
+    "name": "Sentinel Zombie Skin",
+    "base_rarity": "EPIC"
+  },
   "PHANTOM_ROD": {
     "name": "Phantom Rod",
     "wiki": "https://wiki.hypixel.net/Phantom_Rod",
@@ -41338,6 +41350,9 @@
       "C3": ""
     },
     "base_rarity": "RARE"
+  },
+  "SENTINEL_WARDEN": {
+    "name": "Sentinel Warden Skin"
   },
   "SERRATED_CLAWS": {
     "name": "Serrated Claws",
