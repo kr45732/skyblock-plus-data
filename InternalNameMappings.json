@@ -32878,7 +32878,7 @@
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:2000000"
+        "SKYBLOCK_COIN:2200000"
       ],
       "count": 1
     }
@@ -36920,7 +36920,8 @@
       "B3": "GREEN_CANDY:1",
       "C1": "GREEN_CANDY:1",
       "C2": "GREEN_CANDY:1",
-      "C3": "GREEN_CANDY:1"
+      "C3": "GREEN_CANDY:1",
+      "count": 32
     },
     "wiki": "https://wiki.hypixel.net/Blast_O\u0027_Lantern",
     "base_rarity": "RARE"
