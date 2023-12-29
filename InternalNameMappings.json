@@ -4276,7 +4276,7 @@
     "base_rarity": "RARE"
   },
   "BOTTLE_OF_JYRRE": {
-    "name": "Water Bottle",
+    "name": "Lost Bottle of Jyrre",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bottle_of_Jyrre",
     "base_rarity": "COMMON",
     "npc_buy": {
@@ -27905,6 +27905,10 @@
     "wiki": "https://wiki.hypixel.net/Magical_Water_Bucket",
     "base_rarity": "COMMON"
   },
+  "MAGIC_CUBE_FLUX": {
+    "name": "Magic Cube Power Orb Skin",
+    "base_rarity": "MYTHIC"
+  },
   "MAGIC_FIND": {
     "name": "Magic Find I Potion",
     "base_rarity": "COMMON",
@@ -34578,6 +34582,10 @@
     "wiki": "https://wiki.hypixel.net/Midnight_Baby_Yeti_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_BABY_YETI_PLUSHIE": {
+    "name": "Plushie Baby Yeti Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_BAL_INFERNO": {
     "name": "Inferno Bal Skin",
     "wiki": "https://wiki.hypixel.net/Inferno_Bal_Skin",
@@ -34966,6 +34974,10 @@
     "wiki": "https://wiki.hypixel.net/Pet_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_REINDEER_PLUSHIE": {
+    "name": "Plushie Reindeer Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_ROCK_BLINKING": {
     "name": "Blinking Rock Skin",
     "wiki": "https://wiki.hypixel.net/Blinking_Rock_Skin",
@@ -35139,6 +35151,10 @@
   "PET_SKIN_SNOWMAN_ICE_GOLEM": {
     "name": "Ice Golem Snowman Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SNOWMAN_PLUSHIE": {
+    "name": "Plushie Snowman Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SNOW_OWL": {
