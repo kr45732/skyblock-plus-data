@@ -9804,7 +9804,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:5000000",
+        "SUPER_UNDEAD_BOW:1"
       ]
     }
   },
@@ -18932,7 +18933,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:5000000",
+        "HYPER_CLEAVER:1"
       ]
     }
   },
@@ -22959,7 +22961,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:800000"
+        "SKYBLOCK_COIN:800000",
+        "SUPER_CLEAVER:1"
       ]
     }
   },
@@ -29457,7 +29460,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:5000000",
+        "MENDER_FEDORA:1"
       ]
     }
   },
@@ -29467,7 +29471,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:800000"
+        "SKYBLOCK_COIN:800000",
+        "MENDER_HELMET:1"
       ]
     }
   },
@@ -29557,7 +29562,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:800000"
+        "SKYBLOCK_COIN:800000",
+        "STONE_CHESTPLATE:1"
       ]
     }
   },
@@ -41459,7 +41465,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:800000"
+        "SKYBLOCK_COIN:800000",
+        "DARK_GOGGLES:1"
       ]
     }
   },
@@ -47351,7 +47358,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:5000000",
+        "METAL_CHESTPLATE:1"
       ]
     }
   },
@@ -48529,7 +48537,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:800000"
+        "SKYBLOCK_COIN:800000",
+        "UNDEAD_BOW:1"
       ]
     }
   },
@@ -53318,7 +53327,8 @@
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:5000000"
+        "SKYBLOCK_COIN:5000000",
+        "SHADOW_GOGGLES:1"
       ]
     }
   },
