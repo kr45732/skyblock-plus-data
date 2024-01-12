@@ -34701,10 +34701,26 @@
     "wiki": "https://wiki.hypixel.net/Pastel_Ender_Dragon_Skin",
     "base_rarity": "LEGENDARY"
   },
+  "PET_SKIN_ELEPHANT_BLACK_PLUSHIE": {
+    "name": "Black Plushie Elephant Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_ELEPHANT_BLUE": {
     "name": "Blue Elephant Skin",
     "wiki": "https://wiki.hypixel.net/Blue_Elephant_Skin",
     "base_rarity": "RARE"
+  },
+  "PET_SKIN_ELEPHANT_BLUE_PLUSHIE": {
+    "name": "Blue Plushie Elephant Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_ELEPHANT_COSMIC": {
+    "name": "Cosmic Elephant Skin",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_ELEPHANT_GRAY_PLUSHIE": {
+    "name": "Gray Plushie Elephant Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_GREEN": {
     "name": "Green Elephant Skin",
@@ -34725,6 +34741,10 @@
     "name": "Pink Elephant Skin",
     "wiki": "https://wiki.hypixel.net/Pink_Elephant_Skin",
     "base_rarity": "RARE"
+  },
+  "PET_SKIN_ELEPHANT_PINK_PLUSHIE": {
+    "name": "Pink Plushie Elephant Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_PURPLE": {
     "name": "Purple Elephant Skin",
