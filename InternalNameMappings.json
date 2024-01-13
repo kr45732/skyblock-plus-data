@@ -34820,6 +34820,10 @@
     "name": "Four Seasons Griffin Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Four_Seasons_Griffin_Skin"
   },
+  "PET_SKIN_GIRAFFE_SAFARI": {
+    "name": "Safari Giraffe Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
     "wiki": "https://wiki.hypixel.net/Anubis_Golden_Dragon_Skin",
@@ -34880,6 +34884,10 @@
     "wiki": "https://wiki.hypixel.net/Baby_Megalodon_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_MONKEY_ASTRONAUT": {
+    "name": "Astronaut Monkey Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_MONKEY_GOLDEN": {
     "name": "Golden Monkey Skin",
     "wiki": "https://wiki.hypixel.net/Golden_Monkey_Skin",
@@ -34895,9 +34903,17 @@
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_MONKEY_SEE_HEAR_SPEAK": {
+    "name": "See, Hear, Speak Monkey Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
     "name": "Moocelium Mooshroom Cow Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_OCELOT_JUNGLE": {
+    "name": "Jungle Ocelot Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_OCELOT_SNOW_TIGER": {
