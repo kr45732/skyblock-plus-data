@@ -7069,6 +7069,21 @@
     "wiki": "https://wiki.hypixel.net/Clay",
     "base_rarity": "COMMON"
   },
+  "CLAY_BRACELET": {
+    "name": "Clay Bracelet",
+    "recipe": {
+      "A1": "CLAY:10",
+      "A2": "ENCHANTED_CLAY_BALL:2",
+      "A3": "CLAY:10",
+      "B1": "CLAY:10",
+      "B2": "",
+      "B3": "CLAY:10",
+      "C1": "CLAY:10",
+      "C2": "ENCHANTED_CLAY_BALL:2",
+      "C3": "CLAY:10"
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "CLAY_BRICK": {
     "name": "Brick",
     "base_rarity": "COMMON"
@@ -7321,6 +7336,21 @@
     "name": "Clover Helmet",
     "wiki": "https://wiki.hypixel.net/Clover_Helmet",
     "base_rarity": "LEGENDARY"
+  },
+  "CLOWNFISH_CLOAK": {
+    "name": "Clownfish Cloak",
+    "recipe": {
+      "A1": "ENCHANTED_CLOWNFISH:1",
+      "A2": "ENCHANTED_CLOWNFISH:1",
+      "A3": "ENCHANTED_CLOWNFISH:1",
+      "B1": "RAW_FISH-2:32",
+      "B2": "",
+      "B3": "RAW_FISH-2:32",
+      "C1": "RAW_FISH-2:32",
+      "C2": "",
+      "C3": "RAW_FISH-2:32"
+    },
+    "base_rarity": "UNCOMMON"
   },
   "CLOWNFISH_HAT": {
     "name": "Clownfish Hat",
@@ -15490,6 +15520,11 @@
     "name": "Fallen Star Helmet",
     "wiki": "https://wiki.hypixel.net/Fallen_Star_Helmet",
     "base_rarity": "RARE"
+  },
+  "FALLEN_STAR_TRACKER": {
+    "name": "Fallen Star Lozenge",
+    "scrollable": true,
+    "base_rarity": "EPIC"
   },
   "FAMILY_DOUBLOON": {
     "name": "Doubloon of the Family",
@@ -25606,6 +25641,10 @@
     "name": "Karate Fish SILVER",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
     "base_rarity": "EPIC"
+  },
+  "KAT_BOUQUET": {
+    "name": "Kat Bouquet",
+    "base_rarity": "SPECIAL"
   },
   "KAT_FLOWER": {
     "name": "Kat Flower",
@@ -36575,6 +36614,21 @@
     "wiki": "https://wiki.hypixel.net/Prismarine_Crystals",
     "base_rarity": "COMMON"
   },
+  "PRISMARINE_NECKLACE": {
+    "name": "Prismarine Necklace",
+    "recipe": {
+      "A1": "ENCHANTED_PRISMARINE_SHARD:1",
+      "A2": "",
+      "A3": "ENCHANTED_PRISMARINE_SHARD:1",
+      "B1": "ENCHANTED_PRISMARINE_SHARD:1",
+      "B2": "",
+      "B3": "ENCHANTED_PRISMARINE_SHARD:1",
+      "C1": "",
+      "C2": "ENCHANTED_PRISMARINE_CRYSTALS:1",
+      "C3": ""
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "PRISMARINE_ROD": {
     "name": "Prismarine Rod",
     "recipe": {
@@ -45417,6 +45471,21 @@
     "name": "Sponge",
     "wiki": "https://wiki.hypixel.net/Sponge",
     "base_rarity": "COMMON"
+  },
+  "SPONGE_BELT": {
+    "name": "Sponge Belt",
+    "recipe": {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "SPONGE:16",
+      "B2": "",
+      "B3": "SPONGE:16",
+      "C1": "SPONGE:16",
+      "C2": "ENCHANTED_SPONGE:6",
+      "C3": "SPONGE:16"
+    },
+    "base_rarity": "UNCOMMON"
   },
   "SPONGE_BOOTS": {
     "name": "Spongy Shoes",
