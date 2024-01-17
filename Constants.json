@@ -1988,6 +1988,12 @@
       "THUNDER_LEGGINGS",
       "THUNDER_BOOTS",
       "THUNDERBOLT_NECKLACE"
+    ],
+    "FISHERMAN": [
+      "PRISMARINE_NECKLACE",
+      "CLOWNFISH_CLOAK",
+      "SPONGE_BELT",
+      "CLAY_BRACELET"
     ]
   },
   "V2_STATS_MAP": {
