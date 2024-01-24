@@ -34923,6 +34923,18 @@
     "wiki": "https://wiki.hypixel.net/Baby_Megalodon_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_MITHRIL_GOLEM_CHERRY_BLOSSOM": {
+    "name": "Cherry Blossom Mithril Golem Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_MITHRIL_GOLEM_COPPER": {
+    "name": "Copper Mithril Golem Skin",
+    "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_MITHRIL_GOLEM_CRYSTAL": {
+    "name": "Crystal Mithril Golem Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_MONKEY_ASTRONAUT": {
     "name": "Astronaut Monkey Skin",
     "base_rarity": "EPIC"
