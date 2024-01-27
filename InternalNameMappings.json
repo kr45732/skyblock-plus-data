@@ -11410,6 +11410,10 @@
     "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
+  "DYE_WARDEN": {
+    "name": "Warden Dye",
+    "base_rarity": "MYTHIC"
+  },
   "DYE_WILD_STRAWBERRY": {
     "name": "Wild Strawberry Dye",
     "wiki": "https://wiki.hypixel.net/Wild_Strawberry_Dye",
