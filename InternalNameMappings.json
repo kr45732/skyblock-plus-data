@@ -1149,7 +1149,14 @@
   "ARACHNE_CRYSTAL": {
     "name": "Arachne Crystal",
     "wiki": "https://wiki.hypixel.net/Arachne_Crystal",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "ARACHNE_FRAGMENT:3",
+        "ENCHANTED_SPIDER_EYE:8",
+        "ENCHANTED_STRING:30"
+      ]
+    }
   },
   "ARACHNE_FANG": {
     "name": "Arachne\u0027s Fang",
@@ -54785,7 +54792,12 @@
   "ZOMBIE_BRAIN_MIXIN": {
     "name": "Zombie Brain Mixin",
     "wiki": "https://wiki.hypixel.net/Zombie_Brain_Mixin",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:150000"
+      ]
+    }
   },
   "ZOMBIE_CHESTPLATE": {
     "name": "Zombie Chestplate",
