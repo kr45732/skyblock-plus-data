@@ -19688,6 +19688,26 @@
     "wiki": "https://wiki.hypixel.net/Goblin_Helmet",
     "base_rarity": "RARE"
   },
+  "GOBLIN_HELMET_BABY": {
+    "name": "Baby Skin",
+    "base_rarity": "EPIC"
+  },
+  "GOBLIN_HELMET_DIAMOND": {
+    "name": "Diamond Skin",
+    "base_rarity": "EPIC"
+  },
+  "GOBLIN_HELMET_GENIE": {
+    "name": "Genie Skin",
+    "base_rarity": "EPIC"
+  },
+  "GOBLIN_HELMET_GOLDEN": {
+    "name": "Golden Skin",
+    "base_rarity": "EPIC"
+  },
+  "GOBLIN_HELMET_THIEF": {
+    "name": "Thief Skin",
+    "base_rarity": "EPIC"
+  },
   "GOBLIN_LEGGINGS": {
     "name": "Goblin Leggings",
     "wiki": "https://wiki.hypixel.net/Goblin_Leggings",
@@ -19777,6 +19797,10 @@
     "name": "Golden Ball",
     "wiki": "https://wiki.hypixel.net/Golden_Ball",
     "base_rarity": "EPIC"
+  },
+  "GOLDEN_CARPET_RUNE;3": {
+    "name": "◆ Golden Carpet Rune III",
+    "base_rarity": "LEGENDARY"
   },
   "GOLDEN_CARROT": {
     "name": "Golden Carrot",
