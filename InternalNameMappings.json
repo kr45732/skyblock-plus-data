@@ -711,17 +711,6 @@
   },
   "AIMING;4": {
     "name": "Dragon Tracer IV",
-    "recipe": {
-      "A1": "ARROW:8",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "COMPASS:1"
-    },
     "base_rarity": "COMMON"
   },
   "AIMING;5": {
@@ -908,17 +897,6 @@
   },
   "ANGLER;4": {
     "name": "Angler IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "INK_SACK:32"
-    },
     "base_rarity": "COMMON"
   },
   "ANGLER;5": {
@@ -1113,17 +1091,6 @@
   },
   "AQUA_AFFINITY;1": {
     "name": "Aqua Affinity I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "PRISMARINE_CRYSTALS:1"
-    },
     "base_rarity": "COMMON"
   },
   "ARACHNE_BELT": {
@@ -1850,17 +1817,6 @@
   },
   "BANE_OF_ARTHROPODS;4": {
     "name": "Bane of Arthropods IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "SPIDER_EYE:8"
-    },
     "base_rarity": "COMMON"
   },
   "BANE_OF_ARTHROPODS;5": {
@@ -3350,17 +3306,6 @@
   },
   "BLAST_PROTECTION;4": {
     "name": "Blast Protection IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "SULPHUR:8"
-    },
     "base_rarity": "COMMON"
   },
   "BLAST_PROTECTION;5": {
@@ -3813,17 +3758,6 @@
   },
   "BLESSING;4": {
     "name": "Blessing IV",
-    "recipe": {
-      "A1": "GOLD_BLOCK:64",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_PUFFERFISH:8"
-    },
     "base_rarity": "COMMON"
   },
   "BLESSING;5": {
@@ -6079,17 +6013,6 @@
   },
   "CASTER;4": {
     "name": "Caster IV",
-    "recipe": {
-      "A1": "WATER_LILY:8",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "WHALE_BAIT:8"
-    },
     "base_rarity": "COMMON"
   },
   "CASTER;5": {
@@ -7285,17 +7208,6 @@
   },
   "CLEAVE;4": {
     "name": "Cleave IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RAW_FISH-3:40"
-    },
     "base_rarity": "COMMON"
   },
   "CLEAVE;5": {
@@ -8857,17 +8769,6 @@
   },
   "CRITICAL;4": {
     "name": "Critical IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_DIAMOND:8"
-    },
     "base_rarity": "COMMON"
   },
   "CRITICAL;5": {
@@ -9287,17 +9188,6 @@
   },
   "CUBISM;4": {
     "name": "Cubism IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "PUMPKIN:32"
-    },
     "base_rarity": "COMMON"
   },
   "CUBISM;5": {
@@ -9854,7 +9744,12 @@
   "DECENT_BOW": {
     "name": "Decent Bow",
     "wiki": "https://wiki.hypixel.net/Decent_Bow",
-    "base_rarity": "UNCOMMON"
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:500"
+      ]
+    }
   },
   "DECENT_COFFEE": {
     "name": "Decent Coffee",
@@ -9988,17 +9883,6 @@
   },
   "DEPTH_STRIDER;2": {
     "name": "Depth Strider II",
-    "recipe": {
-      "A1": "RAW_FISH-1:2",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "WATER_LILY:2"
-    },
     "base_rarity": "COMMON"
   },
   "DEPTH_STRIDER;3": {
@@ -11535,17 +11419,6 @@
   },
   "EFFICIENCY;4": {
     "name": "Efficiency IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "REDSTONE:8"
-    },
     "base_rarity": "COMMON"
   },
   "EFFICIENCY;5": {
@@ -14699,17 +14572,6 @@
   },
   "ENDER_SLAYER;4": {
     "name": "Ender Slayer IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_ENDER_PEARL:8"
-    },
     "base_rarity": "COMMON"
   },
   "ENDER_SLAYER;5": {
@@ -15264,17 +15126,6 @@
   },
   "EXECUTE;4": {
     "name": "Execute IV",
-    "recipe": {
-      "A1": "FLINT:40",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "DIAMOND:40"
-    },
     "base_rarity": "COMMON"
   },
   "EXECUTE;5": {
@@ -15296,17 +15147,6 @@
   },
   "EXPERIENCE;2": {
     "name": "Experience II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "INK_SACK-4:2"
-    },
     "base_rarity": "COMMON"
   },
   "EXPERIENCE;3": {
@@ -15931,17 +15771,6 @@
   },
   "FEATHER_FALLING;4": {
     "name": "Feather Falling IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "FEATHER:40"
-    },
     "base_rarity": "COMMON"
   },
   "FEATHER_FALLING;5": {
@@ -16730,17 +16559,6 @@
   },
   "FIRE_ASPECT;1": {
     "name": "Fire Aspect I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "BLAZE_ROD:4"
-    },
     "base_rarity": "COMMON"
   },
   "FIRE_ASPECT;2": {
@@ -16804,17 +16622,6 @@
   },
   "FIRE_PROTECTION;4": {
     "name": "Fire Protection IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "MAGMA_CREAM:8"
-    },
     "base_rarity": "COMMON"
   },
   "FIRE_PROTECTION;5": {
@@ -16893,17 +16700,6 @@
   },
   "FIRST_STRIKE;3": {
     "name": "First Strike III",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:4",
-      "B3": "PAPER:4",
-      "C1": "",
-      "C2": "PAPER:4",
-      "C3": "ENCHANTED_FLINT:4"
-    },
     "base_rarity": "COMMON"
   },
   "FIRST_STRIKE;4": {
@@ -17168,17 +16964,6 @@
   },
   "FLAME;1": {
     "name": "Flame I",
-    "recipe": {
-      "A1": "BLAZE_ROD:2",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "BOW:1"
-    },
     "base_rarity": "COMMON"
   },
   "FLAME;2": {
@@ -18070,17 +17855,6 @@
   },
   "FORTUNE;2": {
     "name": "Fortune II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "ENCHANTED_GOLD:2"
-    },
     "base_rarity": "COMMON"
   },
   "FORTUNE;3": {
@@ -18151,17 +17925,6 @@
   },
   "FRAIL;4": {
     "name": "Frail IV",
-    "recipe": {
-      "A1": "WATER_LILY:40",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RAW_FISH-3:64"
-    },
     "base_rarity": "COMMON"
   },
   "FRAIL;5": {
@@ -18219,17 +17982,6 @@
   },
   "FROST_WALKER;1": {
     "name": "Frost Walker I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "ICE:1"
-    },
     "base_rarity": "COMMON"
   },
   "FROST_WALKER;2": {
@@ -19023,17 +18775,6 @@
   },
   "GIANT_KILLER;4": {
     "name": "Giant Killer IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "GHAST_TEAR:8"
-    },
     "base_rarity": "COMMON"
   },
   "GIANT_KILLER;5": {
@@ -19750,8 +19491,7 @@
   },
   "GOD_POTION_2": {
     "name": "God Potion",
-    "wiki": "https://wiki.hypixel.net/God_Potion",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/God_Potion"
   },
   "GOLDEN_ANCIENT_EGG_FLUX": {
     "name": "Golden Turtle Egg Power Orb Skin",
@@ -21227,17 +20967,6 @@
   },
   "GROWTH;4": {
     "name": "Growth IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_DARK_OAK_LOG:8"
-    },
     "base_rarity": "COMMON"
   },
   "GROWTH;5": {
@@ -21843,17 +21572,6 @@
   },
   "HARVESTING;5": {
     "name": "Harvesting V",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:16",
-      "B3": "PAPER:16",
-      "C1": "",
-      "C2": "PAPER:16",
-      "C3": "WHEAT:16"
-    },
     "base_rarity": "UNCOMMON"
   },
   "HARVESTING;6": {
@@ -23435,17 +23153,6 @@
   },
   "IMPALING;2": {
     "name": "Impaling II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "PRISMARINE_SHARD:20"
-    },
     "base_rarity": "COMMON"
   },
   "IMPALING;3": {
@@ -24088,17 +23795,6 @@
   },
   "INFINITE_QUIVER;4": {
     "name": "Infinite Quiver IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "BOW:1"
-    },
     "base_rarity": "COMMON"
   },
   "INFINITE_QUIVER;5": {
@@ -25724,17 +25420,6 @@
   },
   "KNOCKBACK;1": {
     "name": "Knockback I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "SLIME_BALL:3"
-    },
     "base_rarity": "COMMON"
   },
   "KNOCKBACK;2": {
@@ -27273,17 +26958,6 @@
   },
   "LETHALITY;4": {
     "name": "Lethality IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "OBSIDIAN:24"
-    },
     "base_rarity": "COMMON"
   },
   "LETHALITY;5": {
@@ -27628,17 +27302,6 @@
   },
   "LOOTING;2": {
     "name": "Looting II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "GOLD_BLOCK:4"
-    },
     "base_rarity": "COMMON"
   },
   "LOOTING;3": {
@@ -27776,17 +27439,6 @@
   },
   "LUCK_OF_THE_SEA;4": {
     "name": "Luck of the Sea IV",
-    "recipe": {
-      "A1": "WATER_BUCKET:1",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RABBIT_FOOT:16"
-    },
     "base_rarity": "COMMON"
   },
   "LUCK_OF_THE_SEA;5": {
@@ -27838,17 +27490,6 @@
   },
   "LURE;4": {
     "name": "Lure IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RAW_FISH:8"
-    },
     "base_rarity": "COMMON"
   },
   "LURE;5": {
@@ -28536,17 +28177,6 @@
   },
   "MAGNET;4": {
     "name": "Magnet IV",
-    "recipe": {
-      "A1": "QUARTZ:8",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RAW_FISH-2:8"
-    },
     "base_rarity": "COMMON"
   },
   "MAGNET;5": {
@@ -34898,6 +34528,9 @@
     "name": "Safari Giraffe Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_GOLDEN_DRAGON_ANCIENT": {
+    "name": "Ancient Golden Dragon Skin"
+  },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
     "wiki": "https://wiki.hypixel.net/Anubis_Golden_Dragon_Skin",
@@ -35400,17 +35033,6 @@
   },
   "PIERCING;1": {
     "name": "Piercing I",
-    "recipe": {
-      "A1": "CACTUS:10",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "ARROW:1"
-    },
     "base_rarity": "COMMON"
   },
   "PIG;0": {
@@ -36747,17 +36369,6 @@
   },
   "PROJECTILE_PROTECTION;4": {
     "name": "Projectile Protection IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ARROW:8"
-    },
     "base_rarity": "COMMON"
   },
   "PROJECTILE_PROTECTION;5": {
@@ -36893,17 +36504,6 @@
   },
   "PROTECTION;4": {
     "name": "Protection IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "IRON_INGOT:8"
-    },
     "base_rarity": "COMMON"
   },
   "PROTECTION;5": {
@@ -37448,17 +37048,6 @@
   },
   "PUNCH;1": {
     "name": "Punch I",
-    "recipe": {
-      "A1": "SLIME_BALL:1",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "ARROW:1"
-    },
     "base_rarity": "COMMON"
   },
   "PUNCH;2": {
@@ -38277,17 +37866,6 @@
   },
   "RAINBOW;1": {
     "name": "Rainbow I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "WOOL:5"
-    },
     "base_rarity": "COMMON"
   },
   "RAINBOW;2": {
@@ -39679,17 +39257,6 @@
   },
   "RESPIRATION;2": {
     "name": "Respiration II",
-    "recipe": {
-      "A1": "RAW_FISH:2",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "WATER_BUCKET:1"
-    },
     "base_rarity": "COMMON"
   },
   "RESPIRATION;3": {
@@ -41192,17 +40759,6 @@
   },
   "SCAVENGER;2": {
     "name": "Scavenger II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "GOLD_SWORD:1"
-    },
     "base_rarity": "COMMON"
   },
   "SCAVENGER;3": {
@@ -41769,17 +41325,6 @@
   },
   "SHARPNESS;4": {
     "name": "Sharpness IV",
-    "recipe": {
-      "A1": "FLINT:8",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "IRON_SWORD:1"
-    },
     "base_rarity": "COMMON"
   },
   "SHARPNESS;5": {
@@ -42338,17 +41883,6 @@
   },
   "SILK_TOUCH;1": {
     "name": "Silk Touch I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "ENCHANTED_STRING:1"
-    },
     "base_rarity": "COMMON"
   },
   "SILVERFISH;0": {
@@ -43759,17 +43293,6 @@
   },
   "SMELTING_TOUCH;1": {
     "name": "Smelting Touch I",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:1",
-      "B3": "PAPER:1",
-      "C1": "",
-      "C2": "PAPER:1",
-      "C3": "COAL_BLOCK:5"
-    },
     "base_rarity": "COMMON"
   },
   "SMITE;1": {
@@ -43791,17 +43314,6 @@
   },
   "SMITE;4": {
     "name": "Smite IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ROTTEN_FLESH:8"
-    },
     "base_rarity": "COMMON"
   },
   "SMITE;5": {
@@ -44049,17 +43561,6 @@
   },
   "SNIPE;2": {
     "name": "Snipe II",
-    "recipe": {
-      "A1": "ARROW:2",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "FEATHER:2"
-    },
     "base_rarity": "COMMON"
   },
   "SNIPE;3": {
@@ -45423,17 +44924,6 @@
   },
   "SPIKED_HOOK;4": {
     "name": "Spiked Hook IV",
-    "recipe": {
-      "A1": "FLINT:40",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "RAW_FISH-3:64"
-    },
     "base_rarity": "COMMON"
   },
   "SPIKED_HOOK;5": {
@@ -47131,6 +46621,21 @@
     "wiki": "https://wiki.hypixel.net/⚚_Bonemerang",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
+  },
+  "STARRED_BONE_NECKLACE": {
+    "name": "⚚ Bone Necklace",
+    "recipe": {
+      "A1": "THORN_FRAGMENT:1",
+      "A2": "THORN_FRAGMENT:1",
+      "A3": "THORN_FRAGMENT:1",
+      "B1": "THORN_FRAGMENT:1",
+      "B2": "BONE_NECKLACE:1",
+      "B3": "THORN_FRAGMENT:1",
+      "C1": "THORN_FRAGMENT:1",
+      "C2": "THORN_FRAGMENT:1",
+      "C3": "THORN_FRAGMENT:1"
+    },
+    "base_rarity": "EPIC"
   },
   "STARRED_BONZO_MASK": {
     "name": "⚚ Bonzo\u0027s Mask",
@@ -49803,17 +49308,6 @@
   },
   "THORNS;2": {
     "name": "Thorns II",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:2",
-      "B3": "PAPER:2",
-      "C1": "",
-      "C2": "PAPER:2",
-      "C3": "ENCHANTED_CACTUS_GREEN:2"
-    },
     "base_rarity": "COMMON"
   },
   "THORNS;3": {
@@ -49884,17 +49378,6 @@
   },
   "THUNDERLORD;4": {
     "name": "Thunderlord IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_GUNPOWDER:8"
-    },
     "base_rarity": "COMMON"
   },
   "THUNDERLORD;5": {
@@ -51817,17 +51300,6 @@
   },
   "VAMPIRISM;4": {
     "name": "Vampirism IV",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "PAPER:8",
-      "B3": "PAPER:8",
-      "C1": "",
-      "C2": "PAPER:8",
-      "C3": "ENCHANTED_GHAST_TEAR:8"
-    },
     "base_rarity": "COMMON"
   },
   "VAMPIRISM;5": {
