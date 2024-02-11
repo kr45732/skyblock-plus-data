@@ -1,0 +1,396 @@
+{
+    "old": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Old Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Old Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Old Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Old Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Old Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "protector": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Protector Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Protector Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Protector Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Protector Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Protector Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "strong": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Strong Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Strong Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Strong Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Strong Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Strong Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "superior": {
+        "Dragon Horn": {
+            "unique": true,
+            "quality": 452,
+            "drop_chance": "30%"
+        },
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Superior Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Superior Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Superior Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Superior Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Superior Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "unstable": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Unstable Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Unstable Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Unstable Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Unstable Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Travel Scroll To Dragon's Nest": {
+            "unique": true,
+            "quality": 250,
+            "drop_chance": "35%",
+            "eye": true
+        },
+        "Unstable Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "wise": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Wise Dragon Chestplate": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Wise Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Wise Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Wise Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Wise Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    },
+    "young": {
+        "Dragon Claw": {
+            "unique": true,
+            "quality": 451,
+            "drop_chance": "2%",
+            "eye": true
+        },
+        "Epic Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".05%",
+            "eye": true
+        },
+        "Legendary Ender Dragon": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": ".01%",
+            "eye": true
+        },
+        "Aspect Of The Dragons": {
+            "unique": true,
+            "quality": 450,
+            "drop_chance": "3%",
+            "eye": true
+        },
+        "Dragon Armor": {
+            "unique": true,
+            "quality": 410,
+            "drop_chance": "30%"
+        },
+        "Young Dragon Leggings": {
+            "unique": true,
+            "quality": 360,
+            "drop_chance": "30%"
+        },
+        "Dragon Scale": {
+            "unique": true,
+            "quality": 300,
+            "drop_chance": "30%"
+        },
+        "Young Dragon Helmet": {
+            "unique": true,
+            "quality": 295,
+            "drop_chance": "30%"
+        },
+        "Young Dragon Boots": {
+            "unique": true,
+            "quality": 290,
+            "drop_chance": "30%"
+        },
+        "Young Dragon Fragment": {
+            "quality": 22,
+            "drop_chance": "100%"
+        },
+        "Ender Pearl": {
+            "quality": 15,
+            "drop_chance": "100%"
+        }
+    }
+}
