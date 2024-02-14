@@ -34355,6 +34355,10 @@
     "wiki": "https://wiki.hypixel.net/Baby_Chick_Chicken_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_CHICKEN_LUNAR_ROOSTER": {
+    "name": "Lunar Rooster Chicken Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_CHICKEN_RUBBER": {
     "name": "Rubber Chicken Chicken Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rubber_Chicken_Chicken_Skin",
@@ -34363,6 +34367,10 @@
   "PET_SKIN_CHICKEN_TURKEY": {
     "name": "Turkey Chicken Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_DOLPHIN_LUNAR_HORSE": {
+    "name": "Lunar Sea Horse Dolphin Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_DOLPHIN_SNUBFIN": {
@@ -34515,6 +34523,10 @@
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_ENDER_DRAGON_LUNAR": {
+    "name": "Lunar Ender Dragon Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
     "name": "Undead Ender Dragon Skin",
     "wiki": "https://wiki.hypixel.net/Undead_Ender_Dragon_Skin",
@@ -34556,6 +34568,10 @@
     "wiki": "https://wiki.hypixel.net/Beagle_Hound_Skin",
     "base_rarity": "RARE"
   },
+  "PET_SKIN_HOUND_LUNAR": {
+    "name": "Lunar Dog Hound Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_JELLYFISH_LUMINESCENT": {
     "name": "Luminescent Jellyfish Skin",
     "wiki": "https://wiki.hypixel.net/Luminescent_Jellyfish_Skin",
@@ -34585,6 +34601,10 @@
     "name": "Loyalty Kuudra Skin",
     "wiki": "https://wiki.hypixel.net/Loyalty_Kuudra_Skin",
     "base_rarity": "LEGENDARY"
+  },
+  "PET_SKIN_LION_HEART": {
+    "name": "Heart Lion Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_MEGALODON_BABY": {
     "name": "Baby Megalodon Skin",
@@ -34622,9 +34642,17 @@
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_MONKEY_LUNAR": {
+    "name": "Lunar Monkey Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_MONKEY_SEE_HEAR_SPEAK": {
     "name": "See, Hear, Speak Monkey Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_MOOSHROOM_COW_LUNAR_OX": {
+    "name": "Lunar Ox Mooshroom Cow Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
     "name": "Moocelium Mooshroom Cow Skin",
@@ -34655,6 +34683,10 @@
     "wiki": "https://wiki.hypixel.net/Ice_Phoenix_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_PIGMAN_LUNAR_PIG": {
+    "name": "Lunar Pig Pigman Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_RABBIT": {
     "name": "Pretty Rabbit Skin",
     "wiki": "https://wiki.hypixel.net/Pretty_Rabbit_Skin",
@@ -34669,6 +34701,10 @@
     "name": "Lunar Rabbit Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_RABBIT_LUNAR_BABY": {
+    "name": "Lunar Baby Rabbit Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_RABBIT_ROSE": {
     "name": "Rose Rabbit Skin",
@@ -34693,6 +34729,10 @@
   "PET_SKIN_RAT_KARATE": {
     "name": "KaRate Rat Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/KaRate_Rat_Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_RAT_LUNAR": {
+    "name": "Lunar Rat Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_MR_CLAWS": {
@@ -34809,14 +34849,26 @@
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_SCATHA_LUNAR_SNAKE": {
+    "name": "Lunar Snake Scatha Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_SHEEP_BLACK": {
     "name": "Black Sheep Skin",
     "wiki": "https://wiki.hypixel.net/Black_Sheep_Skin",
     "base_rarity": "UNCOMMON"
   },
+  "PET_SKIN_SHEEP_BLACK_CHROMATIC_CRUSH": {
+    "name": "Chromatic Crush Sheep Skin",
+    "base_rarity": "MYTHIC"
+  },
   "PET_SKIN_SHEEP_BLACK_WOOLY": {
     "name": "Black Wooly Sheep Skin",
     "wiki": "https://wiki.hypixel.net/Black_Wooly_Sheep_Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SHEEP_BLUE_CRUSH": {
+    "name": "Blue Crush Sheep Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_CHROMA_WOOLY": {
@@ -34833,6 +34885,10 @@
     "name": "Light Green Sheep Skin",
     "wiki": "https://wiki.hypixel.net/Light_Green_Sheep_Skin",
     "base_rarity": "UNCOMMON"
+  },
+  "PET_SKIN_SHEEP_LUNAR_GOAT": {
+    "name": "Lunar Goat Sheep Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_NEON_BLUE": {
     "name": "Neon Blue Sheep Skin",
@@ -34859,10 +34915,18 @@
     "wiki": "https://wiki.hypixel.net/Pink_Sheep_Skin",
     "base_rarity": "UNCOMMON"
   },
+  "PET_SKIN_SHEEP_PINK_CRUSH": {
+    "name": "Pink Crush Sheep Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_SHEEP_PURPLE": {
     "name": "Purple Sheep Skin",
     "wiki": "https://wiki.hypixel.net/Purple_Sheep_Skin",
     "base_rarity": "UNCOMMON"
+  },
+  "PET_SKIN_SHEEP_PURPLE_CRUSHED": {
+    "name": "Purple Crushed Sheep Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_WHITE": {
     "name": "White Sheep Skin",
@@ -34932,6 +34996,10 @@
     "name": "Golden Tiger Skin",
     "wiki": "https://wiki.hypixel.net/Golden_Tiger_Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_TIGER_LUNAR": {
+    "name": "Lunar Tiger Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_TIGER_NEON": {
     "name": "Neon Tiger Skin",
@@ -43332,6 +43400,10 @@
         "SKYBLOCK_COIN:25000000"
       ]
     }
+  },
+  "SMITTEN_RUNE;3": {
+    "name": "◆ Smitten Rune III",
+    "base_rarity": "LEGENDARY"
   },
   "SMOKEY_RUNE;1": {
     "name": "◆ Smokey Rune I",
