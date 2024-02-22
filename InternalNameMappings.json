@@ -8044,8 +8044,7 @@
   },
   "COLOSSAL_EXP_BOTTLE_UPGRADE": {
     "name": "Colossal Experience Bottle Upgrade",
-    "wiki": "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade"
   },
   "COMBAT_XP_BOOST": {
     "name": "Combat XP Boost I Potion",
@@ -21798,8 +21797,7 @@
   },
   "HEAT_CORE": {
     "name": "Heat Core",
-    "wiki": "https://wiki.hypixel.net/Heat_Core",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Heat_Core"
   },
   "HEAT_HELMET": {
     "name": "Heat Helmet",
@@ -22749,8 +22747,7 @@
   },
   "HYPER_CATALYST_UPGRADE": {
     "name": "Hyper Catalyst Upgrade",
-    "wiki": "https://wiki.hypixel.net/Hyper_Catalyst_Upgrade",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Hyper_Catalyst_Upgrade"
   },
   "HYPER_CLEAVER": {
     "name": "Hyper Cleaver",
@@ -25032,8 +25029,7 @@
   },
   "JUMBO_BACKPACK_UPGRADE": {
     "name": "Jumbo Backpack Upgrade",
-    "wiki": "https://wiki.hypixel.net/Jumbo_Backpack_Upgrade",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Jumbo_Backpack_Upgrade"
   },
   "JUMP_BOOST": {
     "name": "Jump Boost Potion",
@@ -29637,8 +29633,7 @@
   },
   "MINION_STORAGE_EXPANDER": {
     "name": "Minion Storage X-pender",
-    "wiki": "https://wiki.hypixel.net/Minion_Storage_X-pender",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Minion_Storage_X-pender"
   },
   "MINI_SANDCASTLE": {
     "name": "Mini Sandcastle",
@@ -34328,10 +34323,50 @@
     "wiki": "https://wiki.hypixel.net/Vampire_Bat_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_BEE_BEEDAZZLED": {
+    "name": "BeeDazzled Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_BEELOVED": {
+    "name": "BeeLoved Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_GREAT_GATSBEE": {
+    "name": "Great Gats Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_HIVE": {
+    "name": "Hive Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_HONEY": {
+    "name": "Honey Bee Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_BEE_RGBEE": {
     "name": "RGBee Bee Skin",
     "wiki": "https://wiki.hypixel.net/RGBee_Bee_Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_BEE_RUGBEE": {
+    "name": "RugBee Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_SPELLING_BEE": {
+    "name": "Spelling Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_USB": {
+    "name": "USBee Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_WANNA_BEE": {
+    "name": "Wanna Bee Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BEE_WASABEE": {
+    "name": "WasaBee Bee Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_ZOMBEE": {
     "name": "ZomBee Bee Skin",
@@ -41212,12 +41247,7 @@
   "SHADOW_ASSASSIN_HELMET": {
     "name": "Shadow Assassin Helmet",
     "wiki": "https://wiki.hypixel.net/Shadow_Assassin_Helmet",
-    "base_rarity": "EPIC",
-    "skins": [
-      "SHADOW_ASSASSIN_ADMIRAL",
-      "SHADOW_ASSASSIN_CRIMSON",
-      "SHADOW_ASSASSIN_MAUVE"
-    ]
+    "base_rarity": "EPIC"
   },
   "SHADOW_ASSASSIN_LEGGINGS": {
     "name": "Shadow Assassin Leggings",
@@ -50505,8 +50535,7 @@
   },
   "ULTIMATE_CARROT_CANDY_UPGRADE": {
     "name": "Ultimate Carrot Candy Upgrade",
-    "wiki": "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade",
-    "base_rarity": "SPECIAL"
+    "wiki": "https://wiki.hypixel.net/Ultimate_Carrot_Candy_Upgrade"
   },
   "ULTIMATE_CHIMERA;1": {
     "name": "Chimera I",
