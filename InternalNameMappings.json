@@ -7012,6 +7012,7 @@
       "C2": "ENCHANTED_CLAY_BALL:2",
       "C3": "CLAY:10"
     },
+    "wiki": "https://wiki.hypixel.net/Clay_Bracelet",
     "base_rarity": "UNCOMMON"
   },
   "CLAY_BRICK": {
@@ -7269,6 +7270,7 @@
       "C2": "",
       "C3": "RAW_FISH-2:32"
     },
+    "wiki": "https://wiki.hypixel.net/Clownfish_Cloak",
     "base_rarity": "UNCOMMON"
   },
   "CLOWNFISH_HAT": {
@@ -11303,6 +11305,7 @@
   },
   "DYE_WARDEN": {
     "name": "Warden Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Warden_Dye",
     "base_rarity": "MYTHIC"
   },
   "DYE_WILD_STRAWBERRY": {
@@ -15374,6 +15377,7 @@
   },
   "FALLEN_STAR_TRACKER": {
     "name": "Fallen Star Lozenge",
+    "wiki": "https://wiki.hypixel.net/Fallen_Star_Lozenge",
     "scrollable": true,
     "base_rarity": "EPIC"
   },
@@ -19431,22 +19435,27 @@
   },
   "GOBLIN_HELMET_BABY": {
     "name": "Baby Skin",
+    "wiki": "https://wiki.hypixel.net/Baby_Skin",
     "base_rarity": "EPIC"
   },
   "GOBLIN_HELMET_DIAMOND": {
     "name": "Diamond Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Diamond_Skin",
     "base_rarity": "EPIC"
   },
   "GOBLIN_HELMET_GENIE": {
     "name": "Genie Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Genie_Skin",
     "base_rarity": "EPIC"
   },
   "GOBLIN_HELMET_GOLDEN": {
     "name": "Golden Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Golden_Skin",
     "base_rarity": "EPIC"
   },
   "GOBLIN_HELMET_THIEF": {
     "name": "Thief Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Thief_Skin",
     "base_rarity": "EPIC"
   },
   "GOBLIN_LEGGINGS": {
@@ -25375,6 +25384,7 @@
   },
   "KAT_BOUQUET": {
     "name": "Kat Bouquet",
+    "wiki": "https://wiki.hypixel.net/Kat_Bouquet",
     "base_rarity": "SPECIAL"
   },
   "KAT_FLOWER": {
@@ -27625,6 +27635,7 @@
   },
   "MAGIC_CUBE_FLUX": {
     "name": "Magic Cube Power Orb Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magic_Cube_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
   "MAGIC_FIND": {
@@ -34294,6 +34305,7 @@
   },
   "PET_SKIN_BABY_YETI_PLUSHIE": {
     "name": "Plushie Baby Yeti Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Plushie_Baby_Yeti_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BAL_INFERNO": {
@@ -34348,6 +34360,7 @@
   },
   "PET_SKIN_CAT_SPACE_KITTY": {
     "name": "Space Kitty Black Cat Skin",
+    "wiki": "https://wiki.hypixel.net/Space_Kitty_Black_Cat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_CHICKEN_BABY_CHICK": {
@@ -34415,6 +34428,7 @@
   },
   "PET_SKIN_ELEPHANT_BLACK_PLUSHIE": {
     "name": "Black Plushie Elephant Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Black_Plushie_Elephant_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_BLUE": {
@@ -34424,14 +34438,17 @@
   },
   "PET_SKIN_ELEPHANT_BLUE_PLUSHIE": {
     "name": "Blue Plushie Elephant Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Blue_Plushie_Elephant_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_COSMIC": {
     "name": "Cosmic Elephant Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cosmic_Elephant_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ELEPHANT_GRAY_PLUSHIE": {
     "name": "Gray Plushie Elephant Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Gray_Plushie_Elephant_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_GREEN": {
@@ -34456,6 +34473,7 @@
   },
   "PET_SKIN_ELEPHANT_PINK_PLUSHIE": {
     "name": "Pink Plushie Elephant Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pink_Plushie_Elephant_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ELEPHANT_PURPLE": {
@@ -34538,10 +34556,12 @@
   },
   "PET_SKIN_GIRAFFE_SAFARI": {
     "name": "Safari Giraffe Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Safari_Giraffe_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_GOLDEN_DRAGON_ANCIENT": {
-    "name": "Ancient Golden Dragon Skin"
+    "name": "Ancient Golden Dragon Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ancient_Golden_Dragon_Skin"
   },
   "PET_SKIN_GOLDEN_DRAGON_ANUBIS": {
     "name": "Anubis Golden Dragon Skin",
@@ -34613,18 +34633,22 @@
   },
   "PET_SKIN_MITHRIL_GOLEM_CHERRY_BLOSSOM": {
     "name": "Cherry Blossom Mithril Golem Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cherry_Blossom_Mithril_Golem_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MITHRIL_GOLEM_COPPER": {
     "name": "Copper Mithril Golem Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Copper_Mithril_Golem_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_MITHRIL_GOLEM_CRYSTAL": {
     "name": "Crystal Mithril Golem Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Crystal_Mithril_Golem_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MONKEY_ASTRONAUT": {
     "name": "Astronaut Monkey Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Astronaut_Monkey_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MONKEY_GOLDEN": {
@@ -34648,6 +34672,7 @@
   },
   "PET_SKIN_MONKEY_SEE_HEAR_SPEAK": {
     "name": "See, Hear, Speak Monkey Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/See,_Hear,_Speak_Monkey_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_MOOSHROOM_COW_LUNAR_OX": {
