@@ -14794,6 +14794,10 @@
     "wiki": "https://wiki.hypixel.net/Endstone_Rose",
     "base_rarity": "RARE"
   },
+  "END_BARN_SKIN": {
+    "name": "The End Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "END_BIOME_STICK": {
     "name": "End Biome Stick",
     "recipe": {
