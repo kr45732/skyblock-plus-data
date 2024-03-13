@@ -1195,6 +1195,10 @@
     "scrollable": true,
     "base_rarity": "EPIC"
   },
+  "ARCHITECT_FIRST_DRAFT": {
+    "name": "Architect\u0027s First Draft",
+    "base_rarity": "EPIC"
+  },
   "ARMADILLO;0": {
     "name": "Common Armadillo",
     "texture": "c1eb6df4736ae24dd12a3d00f91e6e3aa7ade6bbefb0978afef2f0f92461018f",
@@ -18446,6 +18450,10 @@
     "wiki": "https://wiki.hypixel.net/Staff_Of_The_Rising_Sun",
     "scrollable": true,
     "base_rarity": "LEGENDARY"
+  },
+  "GENERAL_MEDALLION": {
+    "name": "General\u0027s Medallion",
+    "base_rarity": "RARE"
   },
   "GHAST_CLOAK": {
     "name": "Ghast Cloak",
@@ -35807,6 +35815,16 @@
     "name": "Raw Porkchop",
     "wiki": "https://wiki.hypixel.net/Raw_Porkchop",
     "base_rarity": "COMMON"
+  },
+  "PORTABLE_WASHER": {
+    "name": "Portable Washer",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:20000"
+      ],
+      "count": 1
+    }
   },
   "PORTALIZER": {
     "name": "Portalizer",
@@ -54301,15 +54319,15 @@
   "ZOMBIE;0": {
     "name": "Common Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:64",
-      "A2": "ENCHANTED_ROTTEN_FLESH:64",
-      "A3": "ENCHANTED_ROTTEN_FLESH:64",
-      "B1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:16",
+      "A2": "ENCHANTED_ROTTEN_FLESH:16",
+      "A3": "ENCHANTED_ROTTEN_FLESH:16",
+      "B1": "ENCHANTED_ROTTEN_FLESH:16",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:64",
-      "C1": "ENCHANTED_ROTTEN_FLESH:64",
-      "C2": "ENCHANTED_ROTTEN_FLESH:64",
-      "C3": "ENCHANTED_ROTTEN_FLESH:64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:16",
+      "C1": "ENCHANTED_ROTTEN_FLESH:16",
+      "C2": "ENCHANTED_ROTTEN_FLESH:16",
+      "C3": "ENCHANTED_ROTTEN_FLESH:16"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://wiki.hypixel.net/Zombie_Pet",
@@ -54318,15 +54336,15 @@
   "ZOMBIE;1": {
     "name": "Uncommon Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:64",
-      "A2": "ENCHANTED_ROTTEN_FLESH:64",
-      "A3": "ENCHANTED_ROTTEN_FLESH:64",
-      "B1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:16",
+      "A2": "ENCHANTED_ROTTEN_FLESH:16",
+      "A3": "ENCHANTED_ROTTEN_FLESH:16",
+      "B1": "ENCHANTED_ROTTEN_FLESH:16",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:64",
-      "C1": "ENCHANTED_ROTTEN_FLESH:64",
-      "C2": "ENCHANTED_ROTTEN_FLESH:64",
-      "C3": "ENCHANTED_ROTTEN_FLESH:64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:16",
+      "C1": "ENCHANTED_ROTTEN_FLESH:16",
+      "C2": "ENCHANTED_ROTTEN_FLESH:16",
+      "C3": "ENCHANTED_ROTTEN_FLESH:16"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://wiki.hypixel.net/Zombie_Pet",
@@ -54335,15 +54353,15 @@
   "ZOMBIE;2": {
     "name": "Rare Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:64",
-      "A2": "ENCHANTED_ROTTEN_FLESH:64",
-      "A3": "ENCHANTED_ROTTEN_FLESH:64",
-      "B1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:16",
+      "A2": "ENCHANTED_ROTTEN_FLESH:16",
+      "A3": "ENCHANTED_ROTTEN_FLESH:16",
+      "B1": "ENCHANTED_ROTTEN_FLESH:16",
       "B2": "ENCHANTED_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:64",
-      "C1": "ENCHANTED_ROTTEN_FLESH:64",
-      "C2": "ENCHANTED_ROTTEN_FLESH:64",
-      "C3": "ENCHANTED_ROTTEN_FLESH:64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:16",
+      "C1": "ENCHANTED_ROTTEN_FLESH:16",
+      "C2": "ENCHANTED_ROTTEN_FLESH:16",
+      "C3": "ENCHANTED_ROTTEN_FLESH:16"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://wiki.hypixel.net/Zombie_Pet",
@@ -54352,15 +54370,15 @@
   "ZOMBIE;3": {
     "name": "Epic Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:64",
-      "A2": "ENCHANTED_ROTTEN_FLESH:64",
-      "A3": "ENCHANTED_ROTTEN_FLESH:64",
-      "B1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:16",
+      "A2": "ENCHANTED_ROTTEN_FLESH:16",
+      "A3": "ENCHANTED_ROTTEN_FLESH:16",
+      "B1": "ENCHANTED_ROTTEN_FLESH:16",
       "B2": "SUPER_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:64",
-      "C1": "ENCHANTED_ROTTEN_FLESH:64",
-      "C2": "ENCHANTED_ROTTEN_FLESH:64",
-      "C3": "ENCHANTED_ROTTEN_FLESH:64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:16",
+      "C1": "ENCHANTED_ROTTEN_FLESH:16",
+      "C2": "ENCHANTED_ROTTEN_FLESH:16",
+      "C3": "ENCHANTED_ROTTEN_FLESH:16"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://wiki.hypixel.net/Zombie_Pet",
@@ -54369,15 +54387,15 @@
   "ZOMBIE;4": {
     "name": "Legendary Zombie",
     "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:64",
-      "A2": "ENCHANTED_ROTTEN_FLESH:64",
-      "A3": "ENCHANTED_ROTTEN_FLESH:64",
-      "B1": "ENCHANTED_ROTTEN_FLESH:64",
+      "A1": "ENCHANTED_ROTTEN_FLESH:16",
+      "A2": "ENCHANTED_ROTTEN_FLESH:16",
+      "A3": "ENCHANTED_ROTTEN_FLESH:16",
+      "B1": "ENCHANTED_ROTTEN_FLESH:16",
       "B2": "SUPER_EGG:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:64",
-      "C1": "ENCHANTED_ROTTEN_FLESH:64",
-      "C2": "ENCHANTED_ROTTEN_FLESH:64",
-      "C3": "ENCHANTED_ROTTEN_FLESH:64"
+      "B3": "ENCHANTED_ROTTEN_FLESH:16",
+      "C1": "ENCHANTED_ROTTEN_FLESH:16",
+      "C2": "ENCHANTED_ROTTEN_FLESH:16",
+      "C3": "ENCHANTED_ROTTEN_FLESH:16"
     },
     "texture": "56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11",
     "wiki": "https://wiki.hypixel.net/Zombie_Pet",
