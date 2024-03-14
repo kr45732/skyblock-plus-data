@@ -18453,7 +18453,12 @@
   },
   "GENERAL_MEDALLION": {
     "name": "General\u0027s Medallion",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:1000000"
+      ]
+    }
   },
   "GHAST_CLOAK": {
     "name": "Ghast Cloak",
@@ -34419,6 +34424,10 @@
     "name": "Lunar Rooster Chicken Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_CHICKEN_NESTED": {
+    "name": "Nested Chicken Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_CHICKEN_RUBBER": {
     "name": "Rubber Chicken Chicken Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rubber_Chicken_Chicken_Skin",
@@ -37888,6 +37897,10 @@
   "RABBIT_HUTCH": {
     "name": "Rabbit Hutch",
     "wiki": "https://wiki.hypixel.net/Rabbit_Hutch",
+    "base_rarity": "EPIC"
+  },
+  "RABBIT_JERRY_ONESIE": {
+    "name": "Rabbit Onesie Jerry Skin",
     "base_rarity": "EPIC"
   },
   "RABBIT_LEGGINGS": {
@@ -41975,8 +41988,19 @@
   },
   "SILENT_PEARL": {
     "name": "Silent Pearl",
+    "recipe": {
+      "A1": "ENDER_STONE:1",
+      "A2": "ENDER_STONE:1",
+      "A3": "ENDER_STONE:1",
+      "B1": "ENDER_STONE:1",
+      "B2": "ENDER_PEARL:8",
+      "B3": "ENDER_STONE:1",
+      "C1": "ENDER_STONE:1",
+      "C2": "ENDER_STONE:1",
+      "C3": "ENDER_STONE:1"
+    },
     "wiki": "https://wiki.hypixel.net/Silent_Pearl",
-    "base_rarity": "RARE",
+    "base_rarity": "UNCOMMON",
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COIN:10000"
