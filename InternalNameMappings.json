@@ -4681,6 +4681,10 @@
     "wiki": "https://wiki.hypixel.net/Furniture",
     "base_rarity": "RARE"
   },
+  "BUNNY_BENCH": {
+    "name": "Bunny Bench",
+    "base_rarity": "EPIC"
+  },
   "BUNNY_JERRY": {
     "name": "Bunny Jerry",
     "wiki": "https://wiki.hypixel.net/Bunny_Jerry",
@@ -6914,10 +6918,22 @@
     "wiki": "https://wiki.hypixel.net/Chicken_Leggs",
     "base_rarity": "RARE"
   },
+  "CHICK_BED": {
+    "name": "Little Chick Bed",
+    "base_rarity": "EPIC"
+  },
+  "CHICK_DRESSER": {
+    "name": "Little Chick Dresser",
+    "base_rarity": "EPIC"
+  },
   "CHICK_NEST": {
     "name": "Chick Nest",
     "wiki": "https://wiki.hypixel.net/Furniture",
     "base_rarity": "RARE"
+  },
+  "CHICK_TEA_TABLE": {
+    "name": "Little Chick Tea Table",
+    "base_rarity": "EPIC"
   },
   "CHILI_PEPPER": {
     "name": "Chili Pepper",
@@ -11266,6 +11282,10 @@
     "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
+  "DYE_LUCKY": {
+    "name": "Lucky Dye",
+    "base_rarity": "MYTHIC"
+  },
   "DYE_MANGO": {
     "name": "Mango Dye",
     "wiki": "https://wiki.hypixel.net/Mango_Dye",
@@ -11455,6 +11475,10 @@
         "SKYBLOCK_COIN:1000"
       ]
     }
+  },
+  "EGG_PAINTING_STATION": {
+    "name": "Egg Painting Station",
+    "base_rarity": "EPIC"
   },
   "EGG_PILE": {
     "name": "Egg Pile",
@@ -27705,6 +27729,10 @@
     "wiki": "https://wiki.hypixel.net/Magmag",
     "base_rarity": "UNCOMMON"
   },
+  "MAGMA_ARROW": {
+    "name": "Magma Arrow",
+    "base_rarity": "EPIC"
+  },
   "MAGMA_BOW": {
     "name": "Magma Bow",
     "wiki": "https://wiki.hypixel.net/Magma_Bow",
@@ -34666,6 +34694,10 @@
   "PET_SKIN_JERRY_HANDSOME": {
     "name": "Handsome Jerry Skin",
     "wiki": "https://wiki.hypixel.net/Pet_Skins",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_JERRY_LEPRECHAUN": {
+    "name": "Leprechaun Jerry Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JERRY_RED_ELF": {
