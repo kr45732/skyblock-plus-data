@@ -35100,10 +35100,26 @@
     "wiki": "https://wiki.hypixel.net/Snow_Owl_Skin",
     "base_rarity": "EPIC"
   },
+  "PET_SKIN_SPIDER_BLACK_WIDOW": {
+    "name": "Black Widow Spider Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_SPIDER_PEACOCK": {
+    "name": "Peacock Spider Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_SQUID_GLOW": {
     "name": "Glow Squid Skin",
     "wiki": "https://wiki.hypixel.net/Glow_Squid_Skin",
     "base_rarity": "MYTHIC"
+  },
+  "PET_SKIN_TARANTULA_GREENBOTTLE": {
+    "name": "Greenbottle Tarantula Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_TARANTULA_PINK": {
+    "name": "Pink Tarantula Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_TIGER_GOLDEN": {
     "name": "Golden Tiger Skin",
