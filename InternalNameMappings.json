@@ -27291,6 +27291,10 @@
     "scrollable": true,
     "base_rarity": "RARE"
   },
+  "LOCKED_BALLOT_BOX": {
+    "name": "Locked Ballot Box",
+    "base_rarity": "SPECIAL"
+  },
   "LOG:1": {
     "name": "Spruce Wood",
     "wiki": "https://wiki.hypixel.net/Spruce_Wood",
