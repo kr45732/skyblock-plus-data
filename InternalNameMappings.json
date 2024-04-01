@@ -1689,6 +1689,10 @@
       "count": 1
     }
   },
+  "AWAKENED_EYE_BACKPACK": {
+    "name": "Awakened Eye Backpack Skin",
+    "base_rarity": "EPIC"
+  },
   "AXE_OF_THE_SHREDDED": {
     "name": "Axe of the Shredded",
     "recipe": {
@@ -6561,6 +6565,10 @@
     "name": "Cheetah Talisman",
     "wiki": "https://wiki.hypixel.net/Cheetah_Talisman",
     "base_rarity": "EPIC"
+  },
+  "CHERRY_BLOSSOM_FLUX": {
+    "name": "Cherry Blossom Power Orb Skin",
+    "base_rarity": "MYTHIC"
   },
   "CHEST": {
     "name": "Chest",
@@ -13346,6 +13354,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Nether_Wart",
     "base_rarity": "UNCOMMON"
+  },
+  "ENCHANTED_NOOK_BARN_SKIN": {
+    "name": "Enchanted Nook Barn Skin",
+    "base_rarity": "EPIC"
   },
   "ENCHANTED_OAK_LOG": {
     "name": "Enchanted Oak Wood",
@@ -34656,6 +34668,10 @@
     "wiki": "https://wiki.hypixel.net/Anubis_Golden_Dragon_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_GRIFFIN_PEAFOWL": {
+    "name": "Peafowl Griffin Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_GRIFFIN_REINDRAKE": {
     "name": "Reindrake Griffin Skin",
     "wiki": "https://wiki.hypixel.net/Pet_Skin",
@@ -34698,6 +34714,10 @@
   "PET_SKIN_JERRY_HANDSOME": {
     "name": "Handsome Jerry Skin",
     "wiki": "https://wiki.hypixel.net/Pet_Skins",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_JERRY_KING": {
+    "name": "King Jerry Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JERRY_LEPRECHAUN": {
@@ -34798,6 +34818,14 @@
     "name": "Gold Macaw Parrot Skin",
     "wiki": "https://wiki.hypixel.net/Gold_Macaw_Parrot_Skin",
     "base_rarity": "RARE"
+  },
+  "PET_SKIN_PARROT_TOUCAN": {
+    "name": "Toucan Parrot Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_PHEONIX_FLAMINGO": {
+    "name": "Flamingo Phoenix Skin",
+    "base_rarity": "EPIC"
   },
   "PET_SKIN_PHOENIX_ICE": {
     "name": "Ice Phoenix Skin",
@@ -52325,6 +52353,10 @@
   "WATER_BUCKET": {
     "name": "Water Bucket",
     "base_rarity": "COMMON"
+  },
+  "WATER_HYDRA_BABY": {
+    "name": "Baby Hydra Skin",
+    "base_rarity": "EPIC"
   },
   "WATER_HYDRA_HEAD": {
     "name": "Water Hydra Head",
