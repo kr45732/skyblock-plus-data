@@ -1197,6 +1197,7 @@
   },
   "ARCHITECT_FIRST_DRAFT": {
     "name": "Architect\u0027s First Draft",
+    "wiki": "https://wiki.hypixel.net/Architect%27s_First_Draft",
     "base_rarity": "EPIC"
   },
   "ARMADILLO;0": {
@@ -1691,6 +1692,7 @@
   },
   "AWAKENED_EYE_BACKPACK": {
     "name": "Awakened Eye Backpack Skin",
+    "wiki": "https://wiki.hypixel.net/Awakened_Eye_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "AXE_OF_THE_SHREDDED": {
@@ -6568,6 +6570,7 @@
   },
   "CHERRY_BLOSSOM_FLUX": {
     "name": "Cherry Blossom Power Orb Skin",
+    "wiki": "https://wiki.hypixel.net/Cherry_Blossom_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
   "CHEST": {
@@ -11292,6 +11295,7 @@
   },
   "DYE_LUCKY": {
     "name": "Lucky Dye",
+    "wiki": "https://wiki.hypixel.net/Lucky_Dye",
     "base_rarity": "MYTHIC"
   },
   "DYE_MANGO": {
@@ -13357,6 +13361,7 @@
   },
   "ENCHANTED_NOOK_BARN_SKIN": {
     "name": "Enchanted Nook Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Nook_Barn_Skin",
     "base_rarity": "EPIC"
   },
   "ENCHANTED_OAK_LOG": {
@@ -14836,6 +14841,7 @@
   },
   "END_BARN_SKIN": {
     "name": "The End Barn Skin",
+    "wiki": "https://wiki.hypixel.net/The_End_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "END_BIOME_STICK": {
@@ -15713,7 +15719,8 @@
       "C2": "ENCHANTED_PUMPKIN:12",
       "C3": "ENCHANTED_PUMPKIN:12"
     },
-    "wiki": "https://wiki.hypixel.net/Farm_Crystal"
+    "wiki": "https://wiki.hypixel.net/Farm_Crystal",
+    "base_rarity": "RARE"
   },
   "FARM_SUIT_BOOTS": {
     "name": "Farm Suit Boots",
@@ -18489,6 +18496,7 @@
   },
   "GENERAL_MEDALLION": {
     "name": "General\u0027s Medallion",
+    "wiki": "https://wiki.hypixel.net/General%27s_Medallion",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -27305,6 +27313,7 @@
   },
   "LOCKED_BALLOT_BOX": {
     "name": "Locked Ballot Box",
+    "wiki": "https://wiki.hypixel.net/Locked_Ballot_Box",
     "base_rarity": "SPECIAL"
   },
   "LOG:1": {
@@ -27747,6 +27756,7 @@
   },
   "MAGMA_ARROW": {
     "name": "Magma Arrow",
+    "wiki": "https://wiki.hypixel.net/Magma_Arrow",
     "base_rarity": "EPIC"
   },
   "MAGMA_BOW": {
@@ -29781,10 +29791,10 @@
       "A2": "",
       "A3": "",
       "B1": "",
-      "B2": "WOOD:1",
+      "B2": "MIRRORED_WOOD:1",
       "B3": "",
       "C1": "",
-      "C2": "WOOD:1",
+      "C2": "MIRRORED_WOOD:1",
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/kcitS",
@@ -29833,7 +29843,8 @@
       "C2": "ENCHANTED_MITHRIL:2",
       "C3": "ENCHANTED_MITHRIL:2"
     },
-    "wiki": "https://wiki.hypixel.net/Mithril_Crystal"
+    "wiki": "https://wiki.hypixel.net/Mithril_Crystal",
+    "base_rarity": "RARE"
   },
   "MITHRIL_DRILL_1": {
     "name": "Mithril Drill SX-R226",
@@ -34386,22 +34397,27 @@
   },
   "PET_SKIN_BEE_BEEDAZZLED": {
     "name": "BeeDazzled Bee Skin",
+    "wiki": "https://wiki.hypixel.net/BeeDazzled_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_BEELOVED": {
     "name": "BeeLoved Bee Skin",
+    "wiki": "https://wiki.hypixel.net/BeeLoved_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_GREAT_GATSBEE": {
     "name": "Great Gats Bee Skin",
+    "wiki": "https://wiki.hypixel.net/Great_Gats_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_HIVE": {
     "name": "Hive Bee Skin",
+    "wiki": "https://wiki.hypixel.net/Hive_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_HONEY": {
     "name": "Honey Bee Skin",
+    "wiki": "https://wiki.hypixel.net/Honey_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_RGBEE": {
@@ -34411,22 +34427,27 @@
   },
   "PET_SKIN_BEE_RUGBEE": {
     "name": "RugBee Bee Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/RugBee_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_SPELLING_BEE": {
     "name": "Spelling Bee Skin",
+    "wiki": "https://wiki.hypixel.net/Spelling_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_USB": {
     "name": "USBee Bee Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/USBee_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_WANNA_BEE": {
     "name": "Wanna Bee Skin",
+    "wiki": "https://wiki.hypixel.net/Wanna_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_WASABEE": {
     "name": "WasaBee Bee Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/WasaBee_Bee_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BEE_ZOMBEE": {
@@ -34466,10 +34487,12 @@
   },
   "PET_SKIN_CHICKEN_LUNAR_ROOSTER": {
     "name": "Lunar Rooster Chicken Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Rooster_Chicken_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_CHICKEN_NESTED": {
     "name": "Nested Chicken Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Nested_Chicken_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_CHICKEN_RUBBER": {
@@ -34484,6 +34507,7 @@
   },
   "PET_SKIN_DOLPHIN_LUNAR_HORSE": {
     "name": "Lunar Sea Horse Dolphin Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Sea_Horse_Dolphin_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_DOLPHIN_SNUBFIN": {
@@ -34643,6 +34667,7 @@
   },
   "PET_SKIN_ENDER_DRAGON_LUNAR": {
     "name": "Lunar Ender Dragon Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Ender_Dragon_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ENDER_DRAGON_UNDEAD": {
@@ -34670,6 +34695,7 @@
   },
   "PET_SKIN_GRIFFIN_PEAFOWL": {
     "name": "Peafowl Griffin Skin",
+    "wiki": "https://wiki.hypixel.net/Peafowl_Griffin_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_GRIFFIN_REINDRAKE": {
@@ -34694,6 +34720,7 @@
   },
   "PET_SKIN_HOUND_LUNAR": {
     "name": "Lunar Dog Hound Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Dog_Hound_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JELLYFISH_LUMINESCENT": {
@@ -34718,10 +34745,12 @@
   },
   "PET_SKIN_JERRY_KING": {
     "name": "King Jerry Skin",
+    "wiki": "https://wiki.hypixel.net/King_Jerry_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JERRY_LEPRECHAUN": {
     "name": "Leprechaun Jerry Skin",
+    "wiki": "https://wiki.hypixel.net/Leprechaun_Jerry_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_JERRY_RED_ELF": {
@@ -34736,10 +34765,12 @@
   },
   "PET_SKIN_LION_HEART": {
     "name": "Heart Lion Skin",
+    "wiki": "https://wiki.hypixel.net/Heart_Lion_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MAGMA_CUBE_CHOCO_CUBE": {
     "name": "Choco Magma Cube Skin",
+    "wiki": "https://wiki.hypixel.net/Choco_Magma_Cube_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_MEGALODON_BABY": {
@@ -34784,6 +34815,7 @@
   },
   "PET_SKIN_MONKEY_LUNAR": {
     "name": "Lunar Monkey Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Monkey_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MONKEY_SEE_HEAR_SPEAK": {
@@ -34793,6 +34825,7 @@
   },
   "PET_SKIN_MOOSHROOM_COW_LUNAR_OX": {
     "name": "Lunar Ox Mooshroom Cow Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Ox_Mooshroom_Cow_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MOOSHROOM_COW_MOOCELIUM": {
@@ -34802,6 +34835,7 @@
   },
   "PET_SKIN_OCELOT_JUNGLE": {
     "name": "Jungle Ocelot Skin",
+    "wiki": "https://wiki.hypixel.net/Jungle_Ocelot_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_OCELOT_SNOW_TIGER": {
@@ -34821,10 +34855,12 @@
   },
   "PET_SKIN_PARROT_TOUCAN": {
     "name": "Toucan Parrot Skin",
+    "wiki": "https://wiki.hypixel.net/Toucan_Parrot_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_PHEONIX_FLAMINGO": {
     "name": "Flamingo Phoenix Skin",
+    "wiki": "https://wiki.hypixel.net/Flamingo_Phoenix_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_PHOENIX_ICE": {
@@ -34834,6 +34870,7 @@
   },
   "PET_SKIN_PIGMAN_LUNAR_PIG": {
     "name": "Lunar Pig Pigman Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Pig_Pigman_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RABBIT": {
@@ -34853,10 +34890,12 @@
   },
   "PET_SKIN_RABBIT_LUNAR_BABY": {
     "name": "Lunar Baby Rabbit Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Baby_Rabbit_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RABBIT_PLUSHIE": {
     "name": "Plushie Rabbit Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Rabbit_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RABBIT_ROSE": {
@@ -34886,6 +34925,7 @@
   },
   "PET_SKIN_RAT_LUNAR": {
     "name": "Lunar Rat Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Rat_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_RAT_MR_CLAWS": {
@@ -34930,6 +34970,7 @@
   },
   "PET_SKIN_REINDEER_PLUSHIE": {
     "name": "Plushie Reindeer Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Reindeer_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ROCK_BLINKING": {
@@ -35004,6 +35045,7 @@
   },
   "PET_SKIN_SCATHA_LUNAR_SNAKE": {
     "name": "Lunar Snake Scatha Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Snake_Scatha_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_BLACK": {
@@ -35013,6 +35055,7 @@
   },
   "PET_SKIN_SHEEP_BLACK_CHROMATIC_CRUSH": {
     "name": "Chromatic Crush Sheep Skin",
+    "wiki": "https://wiki.hypixel.net/Chromatic_Crush_Sheep_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_SHEEP_BLACK_WOOLY": {
@@ -35022,6 +35065,7 @@
   },
   "PET_SKIN_SHEEP_BLUE_CRUSH": {
     "name": "Blue Crush Sheep Skin",
+    "wiki": "https://wiki.hypixel.net/Blue_Crush_Sheep_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_CHROMA_WOOLY": {
@@ -35041,6 +35085,7 @@
   },
   "PET_SKIN_SHEEP_LUNAR_GOAT": {
     "name": "Lunar Goat Sheep Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Goat_Sheep_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_NEON_BLUE": {
@@ -35070,6 +35115,7 @@
   },
   "PET_SKIN_SHEEP_PINK_CRUSH": {
     "name": "Pink Crush Sheep Skin",
+    "wiki": "https://wiki.hypixel.net/Pink_Crush_Sheep_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_PURPLE": {
@@ -35079,6 +35125,7 @@
   },
   "PET_SKIN_SHEEP_PURPLE_CRUSHED": {
     "name": "Purple Crushed Sheep Skin",
+    "wiki": "https://wiki.hypixel.net/Purple_Crushed_Sheep_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SHEEP_WHITE": {
@@ -35133,6 +35180,7 @@
   },
   "PET_SKIN_SNOWMAN_PLUSHIE": {
     "name": "Plushie Snowman Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Snowman_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SNOW_OWL": {
@@ -35142,10 +35190,12 @@
   },
   "PET_SKIN_SPIDER_BLACK_WIDOW": {
     "name": "Black Widow Spider Skin",
+    "wiki": "https://wiki.hypixel.net/Black_Widow_Spider_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SPIDER_PEACOCK": {
     "name": "Peacock Spider Skin",
+    "wiki": "https://wiki.hypixel.net/Peacock_Spider_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_SQUID_GLOW": {
@@ -35155,10 +35205,12 @@
   },
   "PET_SKIN_TARANTULA_GREENBOTTLE": {
     "name": "Greenbottle Tarantula Skin",
+    "wiki": "https://wiki.hypixel.net/Greenbottle_Tarantula_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_TARANTULA_PINK": {
     "name": "Pink Tarantula Skin",
+    "wiki": "https://wiki.hypixel.net/Pink_Tarantula_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_TIGER_GOLDEN": {
@@ -35168,6 +35220,7 @@
   },
   "PET_SKIN_TIGER_LUNAR": {
     "name": "Lunar Tiger Skin",
+    "wiki": "https://wiki.hypixel.net/Lunar_Tiger_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_TIGER_NEON": {
@@ -35217,6 +35270,7 @@
   },
   "PET_SKIN_WOLF_DOGE": {
     "name": "Doge Wolf Skin",
+    "wiki": "https://wiki.hypixel.net/Doge_Wolf_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_WOLF_HUSKY": {
@@ -35231,14 +35285,17 @@
   },
   "PET_SKIN_ZOMBIE_BIG_BRAIN": {
     "name": "Big Brain Zombie Skin",
+    "wiki": "https://wiki.hypixel.net/Big_Brain_Zombie_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ZOMBIE_BRAIN_FREEZE": {
     "name": "Brain Freeze Zombie Skin",
+    "wiki": "https://wiki.hypixel.net/Brain_Freeze_Zombie_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_ZOMBIE_SENTINEL": {
     "name": "Sentinel Zombie Skin",
+    "wiki": "https://wiki.hypixel.net/Sentinel_Zombie_Skin",
     "base_rarity": "EPIC"
   },
   "PHANTOM_ROD": {
@@ -35915,6 +35972,7 @@
   },
   "PORTABLE_WASHER": {
     "name": "Portable Washer",
+    "wiki": "https://wiki.hypixel.net/Portable_Washer",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -36543,6 +36601,7 @@
       "C2": "ENCHANTED_PRISMARINE_CRYSTALS:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Prismarine_Necklace",
     "base_rarity": "UNCOMMON"
   },
   "PRISMARINE_ROD": {
@@ -37989,6 +38048,7 @@
   },
   "RABBIT_JERRY_ONESIE": {
     "name": "Rabbit Onesie Jerry Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rabbit_Onesie_Jerry_Skin",
     "base_rarity": "EPIC"
   },
   "RABBIT_LEGGINGS": {
@@ -41319,7 +41379,8 @@
     "base_rarity": "RARE"
   },
   "SENTINEL_WARDEN": {
-    "name": "Sentinel Warden Skin"
+    "name": "Sentinel Warden Skin",
+    "wiki": "https://wiki.hypixel.net/Sentinel_Warden_Skin"
   },
   "SERRATED_CLAWS": {
     "name": "Serrated Claws",
@@ -45283,6 +45344,7 @@
       "C2": "ENCHANTED_SPONGE:6",
       "C3": "SPONGE:16"
     },
+    "wiki": "https://wiki.hypixel.net/Sponge_Belt",
     "base_rarity": "UNCOMMON"
   },
   "SPONGE_BOOTS": {
@@ -46896,6 +46958,7 @@
       "C2": "THORN_FRAGMENT:1",
       "C3": "THORN_FRAGMENT:1"
     },
+    "wiki": "https://wiki.hypixel.net/⚚_Bone_Necklace",
     "base_rarity": "EPIC"
   },
   "STARRED_BONZO_MASK": {
@@ -52356,6 +52419,7 @@
   },
   "WATER_HYDRA_BABY": {
     "name": "Baby Hydra Skin",
+    "wiki": "https://wiki.hypixel.net/Baby_Hydra_Skin",
     "base_rarity": "EPIC"
   },
   "WATER_HYDRA_HEAD": {
@@ -53558,7 +53622,8 @@
       "C2": "ENCHANTED_BIRCH_LOG:12",
       "C3": "ENCHANTED_BIRCH_LOG:12"
     },
-    "wiki": "https://wiki.hypixel.net/Woodcutting_Crystal"
+    "wiki": "https://wiki.hypixel.net/Woodcutting_Crystal",
+    "base_rarity": "RARE"
   },
   "WOOD_AXE": {
     "name": "Wooden Axe",
