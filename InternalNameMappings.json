@@ -1006,6 +1006,11 @@
       ]
     }
   },
+  "ANKYLOSAURUS;4": {
+    "name": "Legendary Ankylosaurus",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
+  },
   "ANNIHILATION_CLOAK": {
     "name": "Annihilation Cloak",
     "recipe": {
@@ -11233,6 +11238,11 @@
     "wiki": "https://wiki.hypixel.net/Scavenged_Golden_Hammer",
     "base_rarity": "SPECIAL"
   },
+  "DWARVEN_HANDWARMERS": {
+    "name": "Dwarven Handwarmers",
+    "forge": 14400,
+    "base_rarity": "EPIC"
+  },
   "DWARVEN_IRON_HAMMER": {
     "name": "Scavenged Iron Hammer",
     "wiki": "https://wiki.hypixel.net/Scavenged_Iron_Hammer",
@@ -11242,6 +11252,11 @@
     "name": "Scavenged Lapis Sword",
     "wiki": "https://wiki.hypixel.net/Scavenged_Lapis_Sword",
     "base_rarity": "SPECIAL"
+  },
+  "DWARVEN_METAL": {
+    "name": "Dwarven Metal Talisman",
+    "forge": 86400,
+    "base_rarity": "UNCOMMON"
   },
   "DWARVEN_METAL_DETECTOR": {
     "name": "Metal Detector",
@@ -18165,6 +18180,10 @@
     "name": "Fortune IV",
     "base_rarity": "COMMON"
   },
+  "FOSSIL_THE_FISH": {
+    "name": "Fossil the Fish",
+    "base_rarity": "SPECIAL"
+  },
   "FOUL_FLESH": {
     "name": "Foul Flesh",
     "wiki": "https://wiki.hypixel.net/Foul_Flesh",
@@ -19352,6 +19371,11 @@
   "GLACITE_CHESTPLATE": {
     "name": "Glacite Chestplate",
     "wiki": "https://wiki.hypixel.net/Glacite_Chestplate",
+    "base_rarity": "EPIC"
+  },
+  "GLACITE_CHISEL": {
+    "name": "Glacite Chisel",
+    "forge": 64800,
     "base_rarity": "EPIC"
   },
   "GLACITE_HELMET": {
@@ -36259,6 +36283,11 @@
     "wiki": "https://wiki.hypixel.net/Raw_Porkchop",
     "base_rarity": "COMMON"
   },
+  "PORTABLE_CAMPFIRE": {
+    "name": "Portable Campfire",
+    "forge": 1800,
+    "base_rarity": "RARE"
+  },
   "PORTABLE_WASHER": {
     "name": "Portable Washer",
     "wiki": "https://wiki.hypixel.net/Portable_Washer",
@@ -39696,6 +39725,11 @@
   "REINDEER_PLUSH": {
     "name": "Reindeer Plush",
     "wiki": "https://wiki.hypixel.net/Reindeer_Plush",
+    "base_rarity": "RARE"
+  },
+  "REINFORCED_CHISEL": {
+    "name": "Reinforced Chisel",
+    "forge": 43200,
     "base_rarity": "RARE"
   },
   "REINFORCED_IRON_ARROW": {
@@ -45581,6 +45615,11 @@
     "name": "Spine Fossil",
     "base_rarity": "LEGENDARY"
   },
+  "SPINOSAURUS;4": {
+    "name": "Legendary Spinosaurus",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
+  },
   "SPIRIT": {
     "name": "Spirit I Potion",
     "base_rarity": "COMMON",
@@ -50764,6 +50803,11 @@
   "TUNGSTEN_KEY": {
     "name": "Tungsten Key",
     "base_rarity": "EPIC"
+  },
+  "TUNGSTEN_KEYCHAIN": {
+    "name": "Tungsten Keychain",
+    "forge": 21600,
+    "base_rarity": "RARE"
   },
   "TUNGSTEN_PLATE": {
     "name": "Tungsten Plate",
