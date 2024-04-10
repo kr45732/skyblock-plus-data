@@ -1089,6 +1089,10 @@
     "name": "Apple",
     "base_rarity": "COMMON"
   },
+  "AQUAMARINE_CRYSTAL": {
+    "name": "Aquamarine Crystal",
+    "base_rarity": "SPECIAL"
+  },
   "AQUA_AFFINITY;1": {
     "name": "Aqua Affinity I",
     "base_rarity": "COMMON"
@@ -2109,6 +2113,11 @@
     "name": "Barry\u0027s Montgray Pen",
     "wiki": "https://wiki.hypixel.net/Barry%27s_Montgray_Pen",
     "base_rarity": "UNCOMMON"
+  },
+  "BASE_CAMP_TRAVEL_SCROLL": {
+    "name": "Travel Scroll to the Dwarven Base Camp",
+    "forge": 36000,
+    "base_rarity": "RARE"
   },
   "BASE_GRIFFIN_UPGRADE_STONE": {
     "name": "Base Griffin Upgrade Stone",
@@ -6961,6 +6970,10 @@
     "wiki": "https://wiki.hypixel.net/Chirping_Stereo",
     "base_rarity": "LEGENDARY"
   },
+  "CHISEL": {
+    "name": "Chisel",
+    "base_rarity": "COMMON"
+  },
   "CHOCOLATE_CHIP": {
     "name": "Fang-tastic Chocolate Chip",
     "wiki": "https://wiki.hypixel.net/Fang-tastic_Chocolate_Chip",
@@ -7008,6 +7021,14 @@
     "name": "Chyme",
     "wiki": "https://wiki.hypixel.net/Chyme",
     "base_rarity": "RARE"
+  },
+  "CITRINE_CRYSTAL": {
+    "name": "Citrine Crystal",
+    "base_rarity": "SPECIAL"
+  },
+  "CLAW_FOSSIL": {
+    "name": "Claw Fossil",
+    "base_rarity": "LEGENDARY"
   },
   "CLAY": {
     "name": "Clay",
@@ -7324,6 +7345,10 @@
     "name": "Clownfish Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
+  },
+  "CLUBBED_FOSSIL": {
+    "name": "Clubbed Fossil",
+    "base_rarity": "LEGENDARY"
   },
   "CLUCK_THE_FISH": {
     "name": "Cluck the Fish",
@@ -12831,6 +12856,21 @@
     "wiki": "https://wiki.hypixel.net/Enchanted_Ghast_Tear",
     "base_rarity": "UNCOMMON"
   },
+  "ENCHANTED_GLACITE": {
+    "name": "Enchanted Glacite",
+    "recipe": {
+      "A1": "",
+      "A2": "GLACITE:32",
+      "A3": "",
+      "B1": "GLACITE:32",
+      "B2": "GLACITE:32",
+      "B3": "GLACITE:32",
+      "C1": "",
+      "C2": "GLACITE:32",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
   "ENCHANTED_GLISTERING_MELON": {
     "name": "Enchanted Glistering Melon",
     "recipe": {
@@ -14067,6 +14107,25 @@
     },
     "wiki": "https://wiki.hypixel.net/Enchanted_Titanium",
     "base_rarity": "EPIC"
+  },
+  "ENCHANTED_TUNGSTEN": {
+    "name": "Enchanted Tungsten",
+    "recipe": {
+      "A1": "",
+      "A2": "TUNGSTEN:32",
+      "A3": "",
+      "B1": "TUNGSTEN:32",
+      "B2": "TUNGSTEN:32",
+      "B3": "TUNGSTEN:32",
+      "C1": "",
+      "C2": "TUNGSTEN:32",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
+  "ENCHANTED_UMBER": {
+    "name": "Enchanted Umber",
+    "base_rarity": "RARE"
   },
   "ENCHANTED_VAMPIRIC_MELON": {
     "name": "Enchanted Vampiric Melon",
@@ -16413,6 +16472,36 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%88_Fine_Amethyst_Gemstone",
     "base_rarity": "RARE"
   },
+  "FINE_AQUAMARINE_GEM": {
+    "name": "α Fine Aquamarine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FLAWED_AQUAMARINE_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_AQUAMARINE_GEM:16",
+      "B2": "FLAWED_AQUAMARINE_GEM:16",
+      "B3": "FLAWED_AQUAMARINE_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_AQUAMARINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
+  "FINE_CITRINE_GEM": {
+    "name": "☘ Fine Citrine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FLAWED_CITRINE_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_CITRINE_GEM:16",
+      "B2": "FLAWED_CITRINE_GEM:16",
+      "B3": "FLAWED_CITRINE_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_CITRINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
   "FINE_JADE_GEM": {
     "name": "☘ Fine Jade Gemstone",
     "recipe": {
@@ -16445,6 +16534,21 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%81_Fine_Jasper_Gemstone",
     "base_rarity": "RARE"
   },
+  "FINE_ONYX_GEM": {
+    "name": "☠ Fine Onyx Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FLAWED_ONYX_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_ONYX_GEM:16",
+      "B2": "FLAWED_ONYX_GEM:16",
+      "B3": "FLAWED_ONYX_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_ONYX_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
   "FINE_OPAL_GEM": {
     "name": "❂ Fine Opal Gemstone",
     "recipe": {
@@ -16459,6 +16563,21 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Gemstone",
+    "base_rarity": "RARE"
+  },
+  "FINE_PERIDOT_GEM": {
+    "name": "☘ Fine Peridot Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FLAWED_PERIDOT_GEM:16",
+      "A3": "",
+      "B1": "FLAWED_PERIDOT_GEM:16",
+      "B2": "FLAWED_PERIDOT_GEM:16",
+      "B3": "FLAWED_PERIDOT_GEM:16",
+      "C1": "",
+      "C2": "FLAWED_PERIDOT_GEM:16",
+      "C3": ""
+    },
     "base_rarity": "RARE"
   },
   "FINE_RUBY_GEM": {
@@ -17173,6 +17292,36 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%88_Flawed_Amethyst_Gemstone",
     "base_rarity": "UNCOMMON"
   },
+  "FLAWED_AQUAMARINE_GEM": {
+    "name": "α Flawed Aquamarine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "ROUGH_AQUAMARINE_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_AQUAMARINE_GEM:16",
+      "B2": "ROUGH_AQUAMARINE_GEM:16",
+      "B3": "ROUGH_AQUAMARINE_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_AQUAMARINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "UNCOMMON"
+  },
+  "FLAWED_CITRINE_GEM": {
+    "name": "☘ Flawed Citrine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "ROUGH_CITRINE_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_CITRINE_GEM:16",
+      "B2": "ROUGH_CITRINE_GEM:16",
+      "B3": "ROUGH_CITRINE_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_CITRINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "FLAWED_JADE_GEM": {
     "name": "☘ Flawed Jade Gemstone",
     "recipe": {
@@ -17205,6 +17354,21 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%81_Flawed_Jasper_Gemstone",
     "base_rarity": "UNCOMMON"
   },
+  "FLAWED_ONYX_GEM": {
+    "name": "☠ Flawed Onyx Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "ROUGH_ONYX_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_ONYX_GEM:16",
+      "B2": "ROUGH_ONYX_GEM:16",
+      "B3": "ROUGH_ONYX_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_ONYX_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "FLAWED_OPAL_GEM": {
     "name": "❂ Flawed Opal Gemstone",
     "recipe": {
@@ -17219,6 +17383,21 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Gemstone",
+    "base_rarity": "UNCOMMON"
+  },
+  "FLAWED_PERIDOT_GEM": {
+    "name": "☘ Flawed Peridot Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "ROUGH_PERIDOT_GEM:16",
+      "A3": "",
+      "B1": "ROUGH_PERIDOT_GEM:16",
+      "B2": "ROUGH_PERIDOT_GEM:16",
+      "B3": "ROUGH_PERIDOT_GEM:16",
+      "C1": "",
+      "C2": "ROUGH_PERIDOT_GEM:16",
+      "C3": ""
+    },
     "base_rarity": "UNCOMMON"
   },
   "FLAWED_RUBY_GEM": {
@@ -17301,6 +17480,36 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%88_Flawless_Amethyst_Gemstone",
     "base_rarity": "EPIC"
   },
+  "FLAWLESS_AQUAMARINE_GEM": {
+    "name": "α Flawless Aquamarine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FINE_AQUAMARINE_GEM:16",
+      "A3": "",
+      "B1": "FINE_AQUAMARINE_GEM:16",
+      "B2": "FINE_AQUAMARINE_GEM:16",
+      "B3": "FINE_AQUAMARINE_GEM:16",
+      "C1": "",
+      "C2": "FINE_AQUAMARINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
+  "FLAWLESS_CITRINE_GEM": {
+    "name": "☘ Flawless Citrine Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FINE_CITRINE_GEM:16",
+      "A3": "",
+      "B1": "FINE_CITRINE_GEM:16",
+      "B2": "FINE_CITRINE_GEM:16",
+      "B3": "FINE_CITRINE_GEM:16",
+      "C1": "",
+      "C2": "FINE_CITRINE_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
   "FLAWLESS_JADE_GEM": {
     "name": "☘ Flawless Jade Gemstone",
     "recipe": {
@@ -17333,6 +17542,21 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%81_Flawless_Jasper_Gemstone",
     "base_rarity": "EPIC"
   },
+  "FLAWLESS_ONYX_GEM": {
+    "name": "☠ Flawless Onyx Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FINE_ONYX_GEM:16",
+      "A3": "",
+      "B1": "FINE_ONYX_GEM:16",
+      "B2": "FINE_ONYX_GEM:16",
+      "B3": "FINE_ONYX_GEM:16",
+      "C1": "",
+      "C2": "FINE_ONYX_GEM:16",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
   "FLAWLESS_OPAL_GEM": {
     "name": "❂ Flawless Opal Gemstone",
     "recipe": {
@@ -17347,6 +17571,21 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Gemstone",
+    "base_rarity": "EPIC"
+  },
+  "FLAWLESS_PERIDOT_GEM": {
+    "name": "☘ Flawless Peridot Gemstone",
+    "recipe": {
+      "A1": "",
+      "A2": "FINE_PERIDOT_GEM:16",
+      "A3": "",
+      "B1": "FINE_PERIDOT_GEM:16",
+      "B2": "FINE_PERIDOT_GEM:16",
+      "B3": "FINE_PERIDOT_GEM:16",
+      "C1": "",
+      "C2": "FINE_PERIDOT_GEM:16",
+      "C3": ""
+    },
     "base_rarity": "EPIC"
   },
   "FLAWLESS_RUBY_GEM": {
@@ -17779,6 +18018,10 @@
     "wiki": "https://wiki.hypixel.net/Food_Trough",
     "base_rarity": "COMMON"
   },
+  "FOOTPRINT_FOSSIL": {
+    "name": "Footprint Fossil",
+    "base_rarity": "LEGENDARY"
+  },
   "FORAGING_1_PORTAL": {
     "name": "Portal to Birch Park",
     "recipe": {
@@ -18016,6 +18259,10 @@
     "name": "French Fries",
     "wiki": "https://wiki.hypixel.net/French_Fries",
     "base_rarity": "COMMON"
+  },
+  "FRIGID_HUSK": {
+    "name": "Frigid Husk",
+    "base_rarity": "LEGENDARY"
   },
   "FROG_BARN_SKIN": {
     "name": "Frog Barn Skin",
@@ -19089,6 +19336,14 @@
     "wiki": "https://wiki.hypixel.net/Wisp_Pet",
     "base_rarity": "EPIC"
   },
+  "GLACITE": {
+    "name": "Glacite",
+    "base_rarity": "COMMON"
+  },
+  "GLACITE_AMALGAMATION": {
+    "name": "Glacite Amalgamation",
+    "base_rarity": "EPIC"
+  },
   "GLACITE_BOOTS": {
     "name": "Glacite Boots",
     "wiki": "https://wiki.hypixel.net/Glacite_Boots",
@@ -19113,6 +19368,10 @@
     "name": "Glacite Leggings",
     "wiki": "https://wiki.hypixel.net/Glacite_Leggings",
     "base_rarity": "EPIC"
+  },
+  "GLACITE_SHARD": {
+    "name": "Glacite Shard",
+    "base_rarity": "LEGENDARY"
   },
   "GLASS": {
     "name": "Glass",
@@ -30252,6 +30511,11 @@
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
     "base_rarity": "EPIC"
   },
+  "MOLE;4": {
+    "name": "Legendary Mole",
+    "forge": 259200,
+    "base_rarity": "LEGENDARY"
+  },
   "MOLTEN_BELT": {
     "name": "Molten Belt",
     "wiki": "https://wiki.hypixel.net/Molten_Belt",
@@ -31286,33 +31550,23 @@
     "base_rarity": "COMMON"
   },
   "NETHER_BRICK": {
-    "name": "Nether Brick",
+    "name": "Nether Bricks",
     "recipe": {
-      "A1": "",
-      "A2": "",
+      "A1": "NETHER_BRICK_ITEM:1",
+      "A2": "NETHER_BRICK_ITEM:1",
       "A3": "",
-      "B1": "",
-      "B2": "",
+      "B1": "NETHER_BRICK_ITEM:1",
+      "B2": "NETHER_BRICK_ITEM:1",
       "B3": "",
       "C1": "",
       "C2": "",
-      "C3": ""
+      "C3": "",
+      "count": "1"
     },
     "base_rarity": "COMMON"
   },
   "NETHER_BRICK_ITEM": {
     "name": "Nether Brick",
-    "recipe": {
-      "A1": "",
-      "A2": "",
-      "A3": "",
-      "B1": "",
-      "B2": "",
-      "B3": "",
-      "C1": "",
-      "C2": "",
-      "C3": ""
-    },
     "base_rarity": "COMMON"
   },
   "NETHER_BRICK_STAIRS": {
@@ -32539,7 +32793,7 @@
     "base_rarity": "EPIC"
   },
   "ONYX": {
-    "name": "Onyx",
+    "name": "Black Diamond",
     "wiki": "https://wiki.hypixel.net/Onyx",
     "base_rarity": "RARE",
     "npc_buy": {
@@ -32547,6 +32801,10 @@
         "SKYBLOCK_COIN:100"
       ]
     }
+  },
+  "ONYX_CRYSTAL": {
+    "name": "Onyx Crystal",
+    "base_rarity": "SPECIAL"
   },
   "OOPS_THE_FISH": {
     "name": "Oops the Fish",
@@ -32991,6 +33249,11 @@
     "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
+  "PERFECT_AQUAMARINE_GEM": {
+    "name": "α Perfect Aquamarine Gemstone",
+    "forge": 72000,
+    "base_rarity": "LEGENDARY"
+  },
   "PERFECT_BOOTS_1": {
     "name": "Perfect Boots - Tier I",
     "recipe": {
@@ -33381,6 +33644,11 @@
       "C3": ""
     },
     "wiki": "https://wiki.hypixel.net/Perfect_Chestplate_-_Tier",
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_CITRINE_GEM": {
+    "name": "☘ Perfect Citrine Gemstone",
+    "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_FORGE": {
@@ -33792,10 +34060,24 @@
     "wiki": "https://wiki.hypixel.net/Perfect_Leggings_-_Tier",
     "base_rarity": "LEGENDARY"
   },
+  "PERFECT_ONYX_GEM": {
+    "name": "☠ Perfect Onyx Gemstone",
+    "forge": 72000,
+    "base_rarity": "LEGENDARY"
+  },
   "PERFECT_OPAL_GEM": {
     "name": "❂ Perfect Opal Gemstone",
     "wiki": "https://wiki.hypixel.net/Gemstone",
     "forge": 72000,
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_PERIDOT_GEM": {
+    "name": "☘ Perfect Peridot Gemstone",
+    "forge": 72000,
+    "base_rarity": "LEGENDARY"
+  },
+  "PERFECT_PLATE": {
+    "name": "Perfect Plate",
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_RUBY_GEM": {
@@ -33815,6 +34097,10 @@
     "wiki": "https://wiki.hypixel.net/%E2%9C%A7_Perfect_Topaz_Gemstone",
     "forge": 72000,
     "base_rarity": "LEGENDARY"
+  },
+  "PERIDOT_CRYSTAL": {
+    "name": "Peridot Crystal",
+    "base_rarity": "SPECIAL"
   },
   "PERSONAL_BANK_ITEM": {
     "name": "Personal Bank Item",
@@ -39311,6 +39597,14 @@
       ]
     }
   },
+  "REFINED_TUNGSTEN": {
+    "name": "Refined Tungsten",
+    "base_rarity": "EPIC"
+  },
+  "REFINED_UMBER": {
+    "name": "Refined Umber",
+    "base_rarity": "EPIC"
+  },
   "REFLECTION;1": {
     "name": "Reflection I",
     "base_rarity": "COMMON"
@@ -40367,6 +40661,13 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%88_Rough_Amethyst_Gemstone",
     "base_rarity": "COMMON"
   },
+  "ROUGH_AQUAMARINE_GEM": {
+    "name": "α Rough Aquamarine Gemstone"
+  },
+  "ROUGH_CITRINE_GEM": {
+    "name": "☘ Rough Citrine Gemstone",
+    "base_rarity": "COMMON"
+  },
   "ROUGH_JADE_GEM": {
     "name": "☘ Rough Jade Gemstone",
     "wiki": "https://wiki.hypixel.net/%E2%98%98_Rough_Jade_Gemstone",
@@ -40377,9 +40678,17 @@
     "wiki": "https://wiki.hypixel.net/%E2%9D%81_Rough_Jasper_Gemstone",
     "base_rarity": "COMMON"
   },
+  "ROUGH_ONYX_GEM": {
+    "name": "☠ Rough Onyx Gemstone",
+    "base_rarity": "COMMON"
+  },
   "ROUGH_OPAL_GEM": {
     "name": "❂ Rough Opal Gemstone",
     "wiki": "https://wiki.hypixel.net/Gemstone",
+    "base_rarity": "COMMON"
+  },
+  "ROUGH_PERIDOT_GEM": {
+    "name": "☘ Rough Peridot Gemstone",
     "base_rarity": "COMMON"
   },
   "ROUGH_RUBY_GEM": {
@@ -41347,6 +41656,11 @@
     "name": "Redstone Key",
     "wiki": "https://wiki.hypixel.net/Redstone_Key",
     "base_rarity": "RARE"
+  },
+  "SECRET_RAILROAD_PASS": {
+    "name": "Secret Railroad Pass",
+    "forge": 30,
+    "base_rarity": "SPECIAL"
   },
   "SECRET_TRACKER": {
     "name": "Secret Tracker 3000",
@@ -42788,6 +43102,10 @@
     "name": "Legendary Skeleton Horse",
     "texture": "47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a",
     "wiki": "https://wiki.hypixel.net/Skeleton_Horse_Pet",
+    "base_rarity": "LEGENDARY"
+  },
+  "SKELETON_KEY": {
+    "name": "Skeleton Key",
     "base_rarity": "LEGENDARY"
   },
   "SKELETON_LORD_BOOTS": {
@@ -45258,6 +45576,10 @@
   "SPIKED_HOOK;6": {
     "name": "Spiked Hook VI",
     "base_rarity": "RARE"
+  },
+  "SPINE_FOSSIL": {
+    "name": "Spine Fossil",
+    "base_rarity": "LEGENDARY"
   },
   "SPIRIT": {
     "name": "Spirit I Potion",
@@ -48536,6 +48858,10 @@
     "wiki": "https://wiki.hypixel.net/Survivor_Cube",
     "base_rarity": "RARE"
   },
+  "SUSPICIOUS_SCRAP": {
+    "name": "Suspicious Scrap",
+    "base_rarity": "RARE"
+  },
   "SUSPICIOUS_STEW": {
     "name": "Suspicious Stew",
     "recipe": {
@@ -50431,6 +50757,18 @@
     "wiki": "https://wiki.hypixel.net/True_Warden_Skin",
     "base_rarity": "MYTHIC"
   },
+  "TUNGSTEN": {
+    "name": "Tungsten",
+    "base_rarity": "COMMON"
+  },
+  "TUNGSTEN_KEY": {
+    "name": "Tungsten Key",
+    "base_rarity": "EPIC"
+  },
+  "TUNGSTEN_PLATE": {
+    "name": "Tungsten Plate",
+    "base_rarity": "RARE"
+  },
   "TUNING_FORK": {
     "name": "Tuning Fork",
     "wiki": "https://wiki.hypixel.net/Tuning_Fork",
@@ -50653,6 +50991,10 @@
     "wiki": "https://wiki.hypixel.net/Turtle_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "TUSK_FOSSIL": {
+    "name": "Tusk Fossil",
+    "base_rarity": "LEGENDARY"
+  },
   "TUTTI_FRUTTI_POISON": {
     "name": "Tutti-Frutti Flavored Poison",
     "wiki": "https://wiki.hypixel.net/Brews",
@@ -50667,6 +51009,10 @@
     "name": "Twilight Arrow Poison",
     "wiki": "https://wiki.hypixel.net/Twilight_Arrow_Poison",
     "base_rarity": "UNCOMMON"
+  },
+  "UGLY_FOSSIL": {
+    "name": "Ugly Fossil",
+    "base_rarity": "LEGENDARY"
   },
   "ULTIMATE_BANK;1": {
     "name": "Bank I",
@@ -51153,6 +51499,18 @@
     "name": "Ultimate Wise V",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Ultimate_Enchantments",
     "base_rarity": "UNCOMMON"
+  },
+  "UMBER": {
+    "name": "Umber",
+    "base_rarity": "COMMON"
+  },
+  "UMBER_KEY": {
+    "name": "Umber Key",
+    "base_rarity": "EPIC"
+  },
+  "UMBER_PLATE": {
+    "name": "Umber Plate",
+    "base_rarity": "RARE"
   },
   "UNCOMMON_KUUDRA_CHUNK": {
     "name": "Kuudra Chunk",
@@ -52517,6 +52875,10 @@
       "C3": "STRING:1"
     },
     "base_rarity": "UNCOMMON"
+  },
+  "WEBBED_FOSSIL": {
+    "name": "Webbed Fossil",
+    "base_rarity": "LEGENDARY"
   },
   "WEDDING_RING_0": {
     "name": "Shiny Yellow Rock",
