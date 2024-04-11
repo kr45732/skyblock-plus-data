@@ -1008,6 +1008,7 @@
   },
   "ANKYLOSAURUS;4": {
     "name": "Legendary Ankylosaurus",
+    "texture": "c1aa836b9096c417903299a6c5ab41738c19648ac439fed4bcbe6c32605338dc",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -30537,6 +30538,7 @@
   },
   "MOLE;4": {
     "name": "Legendary Mole",
+    "texture": "727baaafc09978d4bda73e16afdde85ec13b0f95ad989524c5fcaa717cf06b4a",
     "forge": 259200,
     "base_rarity": "LEGENDARY"
   },
@@ -45617,6 +45619,7 @@
   },
   "SPINOSAURUS;4": {
     "name": "Legendary Spinosaurus",
+    "texture": "d3c9d479471a2f13f22548315159591720992e70c920fef83a901b7186720e3c",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
