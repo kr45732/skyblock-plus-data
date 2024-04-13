@@ -10734,6 +10734,11 @@
     "forge": 82800,
     "base_rarity": "LEGENDARY"
   },
+  "DIVAN_PENDANT": {
+    "name": "Pendant of Divan",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
+  },
   "DIVER_BOOTS": {
     "name": "Diver\u0027s Boots",
     "recipe": {
@@ -15690,7 +15695,8 @@
       "C2": "DIRT:5",
       "C3": "DIRT:5"
     },
-    "wiki": "https://wiki.hypixel.net/Farming_Island"
+    "wiki": "https://wiki.hypixel.net/Farming_Island",
+    "base_rarity": "COMMON"
   },
   "FARMING_TALISMAN": {
     "name": "Farming Talisman",
@@ -18282,6 +18288,7 @@
   },
   "FRIGID_HUSK": {
     "name": "Frigid Husk",
+    "forge": 36000,
     "base_rarity": "LEGENDARY"
   },
   "FROG_BARN_SKIN": {
@@ -19362,6 +19369,7 @@
   },
   "GLACITE_AMALGAMATION": {
     "name": "Glacite Amalgamation",
+    "forge": 14400,
     "base_rarity": "EPIC"
   },
   "GLACITE_BOOTS": {
@@ -19739,6 +19747,11 @@
   "GLYPH_VIS": {
     "name": "Vis Glyph",
     "base_rarity": "EPIC"
+  },
+  "GOBLIN;4": {
+    "name": "Legendary Goblin",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
   },
   "GOBLIN_BOOTS": {
     "name": "Goblin Boots",
@@ -22230,7 +22243,7 @@
     "base_rarity": "LEGENDARY"
   },
   "HELIX": {
-    "name": "Helix",
+    "name": "Helix Fossil",
     "wiki": "https://wiki.hypixel.net/Helix",
     "base_rarity": "LEGENDARY"
   },
@@ -23164,6 +23177,26 @@
     "name": "Ice Chair",
     "wiki": "https://wiki.hypixel.net/Furniture",
     "base_rarity": "RARE"
+  },
+  "ICE_COLD;1": {
+    "name": "Ice Cold I",
+    "base_rarity": "COMMON"
+  },
+  "ICE_COLD;2": {
+    "name": "Ice Cold II",
+    "base_rarity": "COMMON"
+  },
+  "ICE_COLD;3": {
+    "name": "Ice Cold III",
+    "base_rarity": "COMMON"
+  },
+  "ICE_COLD;4": {
+    "name": "Ice Cold IV",
+    "base_rarity": "COMMON"
+  },
+  "ICE_COLD;5": {
+    "name": "Ice Cold V",
+    "base_rarity": "UNCOMMON"
   },
   "ICE_CREAM_CART": {
     "name": "Ice Cream Cart",
@@ -28568,6 +28601,11 @@
     "wiki": "https://wiki.hypixel.net/Magnetic_Talisman",
     "base_rarity": "UNCOMMON"
   },
+  "MAMMOTH;4": {
+    "name": "Legendary Mammoth",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
+  },
   "MANA": {
     "name": "Mana Potion",
     "base_rarity": "COMMON"
@@ -32837,6 +32875,10 @@
     "wiki": "https://wiki.hypixel.net/Oops_The_Fish",
     "base_rarity": "SPECIAL"
   },
+  "OPAL_CRYSTAL": {
+    "name": "Opal Crystal",
+    "base_rarity": "SPECIAL"
+  },
   "OPAL_POWER_SCROLL": {
     "name": "Opal Power Scroll",
     "recipe": {
@@ -33001,6 +33043,26 @@
       "C3": "STICK:1"
     },
     "base_rarity": "COMMON"
+  },
+  "PALEONTOLOGIST;1": {
+    "name": "Paleontologist I",
+    "base_rarity": "COMMON"
+  },
+  "PALEONTOLOGIST;2": {
+    "name": "Paleontologist II",
+    "base_rarity": "COMMON"
+  },
+  "PALEONTOLOGIST;3": {
+    "name": "Paleontologist III",
+    "base_rarity": "COMMON"
+  },
+  "PALEONTOLOGIST;4": {
+    "name": "Paleontologist IV",
+    "base_rarity": "COMMON"
+  },
+  "PALEONTOLOGIST;5": {
+    "name": "Paleontologist V",
+    "base_rarity": "UNCOMMON"
   },
   "PANDORAS_BOX": {
     "name": "Pandora\u0027s Box",
@@ -33235,6 +33297,11 @@
       ],
       "count": 1
     }
+  },
+  "PENGUIN;4": {
+    "name": "Legendary Penguin",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
   },
   "PENGUIN_BACKPACK": {
     "name": "Penguin Backpack Skin",
@@ -33672,6 +33739,11 @@
     "wiki": "https://wiki.hypixel.net/Perfect_Chestplate_-_Tier",
     "base_rarity": "LEGENDARY"
   },
+  "PERFECT_CHISEL": {
+    "name": "Perfect Chisel",
+    "forge": 86400,
+    "base_rarity": "LEGENDARY"
+  },
   "PERFECT_CITRINE_GEM": {
     "name": "☘ Perfect Citrine Gemstone",
     "forge": 72000,
@@ -34104,6 +34176,7 @@
   },
   "PERFECT_PLATE": {
     "name": "Perfect Plate",
+    "forge": 1800,
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_RUBY_GEM": {
@@ -36645,6 +36718,11 @@
     "name": "Power Crystal",
     "wiki": "https://wiki.hypixel.net/Power_Crystal",
     "forge": 7200,
+    "base_rarity": "EPIC"
+  },
+  "POWER_RELIC": {
+    "name": "Relic of Power",
+    "forge": 28800,
     "base_rarity": "EPIC"
   },
   "POWER_RING": {
@@ -39630,10 +39708,12 @@
   },
   "REFINED_TUNGSTEN": {
     "name": "Refined Tungsten",
+    "forge": 21600,
     "base_rarity": "EPIC"
   },
   "REFINED_UMBER": {
     "name": "Refined Umber",
+    "forge": 21600,
     "base_rarity": "EPIC"
   },
   "REFLECTION;1": {
@@ -40698,7 +40778,8 @@
     "base_rarity": "COMMON"
   },
   "ROUGH_AQUAMARINE_GEM": {
-    "name": "α Rough Aquamarine Gemstone"
+    "name": "α Rough Aquamarine Gemstone",
+    "base_rarity": "COMMON"
   },
   "ROUGH_CITRINE_GEM": {
     "name": "☘ Rough Citrine Gemstone",
@@ -42020,6 +42101,10 @@
     "wiki": "https://wiki.hypixel.net/Sharp_Shark_Tooth_Necklace",
     "base_rarity": "EPIC"
   },
+  "SHATTERED_PENDANT": {
+    "name": "Shattered Locket",
+    "base_rarity": "LEGENDARY"
+  },
   "SHEARS": {
     "name": "Shears",
     "recipe": {
@@ -43142,6 +43227,7 @@
   },
   "SKELETON_KEY": {
     "name": "Skeleton Key",
+    "forge": 1800,
     "base_rarity": "LEGENDARY"
   },
   "SKELETON_LORD_BOOTS": {
@@ -43293,6 +43379,11 @@
   "SKYBLOCK_FLY": {
     "name": "Fly (Rift)",
     "wiki": "https://wiki.hypixel.net/Kat_(Rift)",
+    "base_rarity": "SPECIAL"
+  },
+  "SKYBLOCK_FOSSIL_DUST": {
+    "name": "Fossil Dust",
+    "wiki": "https://wiki.hypixel.net/Fossil_Dust",
     "base_rarity": "SPECIAL"
   },
   "SKYBLOCK_GEM": {
@@ -48902,7 +48993,12 @@
   },
   "SUSPICIOUS_SCRAP": {
     "name": "Suspicious Scrap",
-    "base_rarity": "RARE"
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_FOSSIL_DUST:500"
+      ]
+    }
   },
   "SUSPICIOUS_STEW": {
     "name": "Suspicious Stew",
@@ -50805,6 +50901,7 @@
   },
   "TUNGSTEN_KEY": {
     "name": "Tungsten Key",
+    "forge": 1800,
     "base_rarity": "EPIC"
   },
   "TUNGSTEN_KEYCHAIN": {
@@ -51056,6 +51153,11 @@
     "name": "Twilight Arrow Poison",
     "wiki": "https://wiki.hypixel.net/Twilight_Arrow_Poison",
     "base_rarity": "UNCOMMON"
+  },
+  "TYRANNOSAURUS;4": {
+    "name": "Legendary T-Rex",
+    "forge": 604800,
+    "base_rarity": "LEGENDARY"
   },
   "UGLY_FOSSIL": {
     "name": "Ugly Fossil",
@@ -51553,10 +51655,12 @@
   },
   "UMBER_KEY": {
     "name": "Umber Key",
+    "forge": 1800,
     "base_rarity": "EPIC"
   },
   "UMBER_PLATE": {
     "name": "Umber Plate",
+    "forge": 7200,
     "base_rarity": "RARE"
   },
   "UNCOMMON_KUUDRA_CHUNK": {
