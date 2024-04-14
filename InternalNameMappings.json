@@ -50914,6 +50914,7 @@
   },
   "TUNGSTEN_PLATE": {
     "name": "Tungsten Plate",
+    "forge": 7200,
     "base_rarity": "RARE"
   },
   "TUNING_FORK": {
