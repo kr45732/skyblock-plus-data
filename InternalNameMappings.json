@@ -19750,6 +19750,7 @@
   },
   "GOBLIN;4": {
     "name": "Legendary Goblin",
+    "texture": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -28603,6 +28604,7 @@
   },
   "MAMMOTH;4": {
     "name": "Legendary Mammoth",
+    "texture": "6b10715732cd1fd49fa1b6187947c307dd4687105cf033840607f9d6234743ad",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -33300,6 +33302,7 @@
   },
   "PENGUIN;4": {
     "name": "Legendary Penguin",
+    "texture": "37534e97f36e5a8335928e171ec99608bee7fb16e260afb301025b3b17eeefc4",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -51156,6 +51159,7 @@
   },
   "TYRANNOSAURUS;4": {
     "name": "Legendary T-Rex",
+    "texture": "93f28ec96df59c67e9d2fc2e7e3d055fa31646e4111add9fe26a692801964126",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
