@@ -11319,6 +11319,10 @@
     "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
+  "DYE_CYCLAMEN": {
+    "name": "Cyclamen Dye",
+    "base_rarity": "EPIC"
+  },
   "DYE_DARK_PURPLE": {
     "name": "Dark Purple Dye",
     "wiki": "https://wiki.hypixel.net/Dark_Purple_Dye",
@@ -11337,6 +11341,10 @@
   "DYE_HOLLY": {
     "name": "Holly Dye",
     "wiki": "https://wiki.hypixel.net/Dyes",
+    "base_rarity": "EPIC"
+  },
+  "DYE_ICEBERG": {
+    "name": "Iceberg Dye",
     "base_rarity": "EPIC"
   },
   "DYE_LUCKY": {
