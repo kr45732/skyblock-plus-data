@@ -1009,6 +1009,7 @@
   "ANKYLOSAURUS;4": {
     "name": "Legendary Ankylosaurus",
     "texture": "c1aa836b9096c417903299a6c5ab41738c19648ac439fed4bcbe6c32605338dc",
+    "wiki": "https://wiki.hypixel.net/Ankylosaurus_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -1097,6 +1098,7 @@
   },
   "AQUAMARINE_CRYSTAL": {
     "name": "Aquamarine Crystal",
+    "wiki": "https://wiki.hypixel.net/Aquamarine_Crystal",
     "base_rarity": "SPECIAL"
   },
   "AQUA_AFFINITY;1": {
@@ -2122,6 +2124,7 @@
   },
   "BASE_CAMP_TRAVEL_SCROLL": {
     "name": "Travel Scroll to the Dwarven Base Camp",
+    "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_The_Dwarven_Base_Camp",
     "forge": 36000,
     "base_rarity": "RARE"
   },
@@ -6978,6 +6981,7 @@
   },
   "CHISEL": {
     "name": "Chisel",
+    "wiki": "https://wiki.hypixel.net/Chisel",
     "base_rarity": "COMMON"
   },
   "CHOCOLATE_CHIP": {
@@ -7030,10 +7034,12 @@
   },
   "CITRINE_CRYSTAL": {
     "name": "Citrine Crystal",
+    "wiki": "https://wiki.hypixel.net/Citrine_Crystal",
     "base_rarity": "SPECIAL"
   },
   "CLAW_FOSSIL": {
     "name": "Claw Fossil",
+    "wiki": "https://wiki.hypixel.net/Claw_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "CLAY": {
@@ -7354,6 +7360,7 @@
   },
   "CLUBBED_FOSSIL": {
     "name": "Clubbed Fossil",
+    "wiki": "https://wiki.hypixel.net/Clubbed_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "CLUCK_THE_FISH": {
@@ -10736,6 +10743,7 @@
   },
   "DIVAN_PENDANT": {
     "name": "Pendant of Divan",
+    "wiki": "https://wiki.hypixel.net/Pendant_Of_Divan",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -11246,6 +11254,7 @@
   },
   "DWARVEN_HANDWARMERS": {
     "name": "Dwarven Handwarmers",
+    "wiki": "https://wiki.hypixel.net/Dwarven_Handwarmers",
     "forge": 14400,
     "base_rarity": "EPIC"
   },
@@ -11261,6 +11270,7 @@
   },
   "DWARVEN_METAL": {
     "name": "Dwarven Metal Talisman",
+    "wiki": "https://wiki.hypixel.net/Dwarven_Metal_Talisman",
     "forge": 86400,
     "base_rarity": "UNCOMMON"
   },
@@ -11321,6 +11331,7 @@
   },
   "DYE_CYCLAMEN": {
     "name": "Cyclamen Dye",
+    "wiki": "https://wiki.hypixel.net/Cyclamen_Dye",
     "base_rarity": "EPIC"
   },
   "DYE_DARK_PURPLE": {
@@ -11345,6 +11356,7 @@
   },
   "DYE_ICEBERG": {
     "name": "Iceberg Dye",
+    "wiki": "https://wiki.hypixel.net/Iceberg_Dye",
     "base_rarity": "EPIC"
   },
   "DYE_LUCKY": {
@@ -12898,6 +12910,7 @@
       "C2": "GLACITE:32",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Enchanted_Glacite",
     "base_rarity": "RARE"
   },
   "ENCHANTED_GLISTERING_MELON": {
@@ -14150,10 +14163,12 @@
       "C2": "TUNGSTEN:32",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Enchanted_Tungsten",
     "base_rarity": "RARE"
   },
   "ENCHANTED_UMBER": {
     "name": "Enchanted Umber",
+    "wiki": "https://wiki.hypixel.net/Enchanted_Umber",
     "base_rarity": "RARE"
   },
   "ENCHANTED_VAMPIRIC_MELON": {
@@ -16186,7 +16201,8 @@
     "base_rarity": "LEGENDARY"
   },
   "FERMENTO_ULTIMATE": {
-    "name": "Harvester Helmet Skin"
+    "name": "Harvester Helmet Skin",
+    "wiki": "https://wiki.hypixel.net/Harvester_Helmet_Skin"
   },
   "FEROCIOUS_MANA;1": {
     "name": "Ferocious Mana I",
@@ -17523,6 +17539,7 @@
       "C2": "FINE_AQUAMARINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/α_Flawless_Aquamarine_Gemstone",
     "base_rarity": "EPIC"
   },
   "FLAWLESS_CITRINE_GEM": {
@@ -17585,6 +17602,7 @@
       "C2": "FINE_ONYX_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☠_Flawless_Onyx_Gemstone",
     "base_rarity": "EPIC"
   },
   "FLAWLESS_OPAL_GEM": {
@@ -18050,6 +18068,7 @@
   },
   "FOOTPRINT_FOSSIL": {
     "name": "Footprint Fossil",
+    "wiki": "https://wiki.hypixel.net/Footprint_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "FORAGING_1_PORTAL": {
@@ -18197,6 +18216,7 @@
   },
   "FOSSIL_THE_FISH": {
     "name": "Fossil the Fish",
+    "wiki": "https://wiki.hypixel.net/Fossil_The_Fish",
     "base_rarity": "SPECIAL"
   },
   "FOUL_FLESH": {
@@ -18296,6 +18316,7 @@
   },
   "FRIGID_HUSK": {
     "name": "Frigid Husk",
+    "wiki": "https://wiki.hypixel.net/Frigid_Husk",
     "forge": 36000,
     "base_rarity": "LEGENDARY"
   },
@@ -19373,10 +19394,12 @@
   },
   "GLACITE": {
     "name": "Glacite",
+    "wiki": "https://wiki.hypixel.net/Glacite",
     "base_rarity": "COMMON"
   },
   "GLACITE_AMALGAMATION": {
     "name": "Glacite Amalgamation",
+    "wiki": "https://wiki.hypixel.net/Glacite_Amalgamation",
     "forge": 14400,
     "base_rarity": "EPIC"
   },
@@ -19392,6 +19415,7 @@
   },
   "GLACITE_CHISEL": {
     "name": "Glacite Chisel",
+    "wiki": "https://wiki.hypixel.net/Glacite_Chisel",
     "forge": 64800,
     "base_rarity": "EPIC"
   },
@@ -19412,6 +19436,7 @@
   },
   "GLACITE_SHARD": {
     "name": "Glacite Shard",
+    "wiki": "https://wiki.hypixel.net/Glacite_Shard",
     "base_rarity": "LEGENDARY"
   },
   "GLASS": {
@@ -19759,6 +19784,7 @@
   "GOBLIN;4": {
     "name": "Legendary Goblin",
     "texture": "7309d8dc35a638a04b915a3b15a1452ceeae0d7ea42bcdadb21b03046987515c",
+    "wiki": "https://wiki.hypixel.net/Goblin_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -28613,6 +28639,7 @@
   "MAMMOTH;4": {
     "name": "Legendary Mammoth",
     "texture": "6b10715732cd1fd49fa1b6187947c307dd4687105cf033840607f9d6234743ad",
+    "wiki": "https://wiki.hypixel.net/Mammoth_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -30587,6 +30614,7 @@
   "MOLE;4": {
     "name": "Legendary Mole",
     "texture": "727baaafc09978d4bda73e16afdde85ec13b0f95ad989524c5fcaa717cf06b4a",
+    "wiki": "https://wiki.hypixel.net/Mole_Pet",
     "forge": 259200,
     "base_rarity": "LEGENDARY"
   },
@@ -32878,6 +32906,7 @@
   },
   "ONYX_CRYSTAL": {
     "name": "Onyx Crystal",
+    "wiki": "https://wiki.hypixel.net/Onyx_Crystal",
     "base_rarity": "SPECIAL"
   },
   "OOPS_THE_FISH": {
@@ -32887,6 +32916,7 @@
   },
   "OPAL_CRYSTAL": {
     "name": "Opal Crystal",
+    "wiki": "https://wiki.hypixel.net/Opal_Crystal",
     "base_rarity": "SPECIAL"
   },
   "OPAL_POWER_SCROLL": {
@@ -33752,6 +33782,7 @@
   },
   "PERFECT_CHISEL": {
     "name": "Perfect Chisel",
+    "wiki": "https://wiki.hypixel.net/Perfect_Chisel",
     "forge": 86400,
     "base_rarity": "LEGENDARY"
   },
@@ -34187,6 +34218,7 @@
   },
   "PERFECT_PLATE": {
     "name": "Perfect Plate",
+    "wiki": "https://wiki.hypixel.net/Perfect_Plate",
     "forge": 1800,
     "base_rarity": "LEGENDARY"
   },
@@ -34210,6 +34242,7 @@
   },
   "PERIDOT_CRYSTAL": {
     "name": "Peridot Crystal",
+    "wiki": "https://wiki.hypixel.net/Peridot_Crystal",
     "base_rarity": "SPECIAL"
   },
   "PERSONAL_BANK_ITEM": {
@@ -36371,6 +36404,7 @@
   },
   "PORTABLE_CAMPFIRE": {
     "name": "Portable Campfire",
+    "wiki": "https://wiki.hypixel.net/Portable_Campfire",
     "forge": 1800,
     "base_rarity": "RARE"
   },
@@ -36733,6 +36767,7 @@
   },
   "POWER_RELIC": {
     "name": "Relic of Power",
+    "wiki": "https://wiki.hypixel.net/Relic_Of_Power",
     "forge": 28800,
     "base_rarity": "EPIC"
   },
@@ -39719,11 +39754,13 @@
   },
   "REFINED_TUNGSTEN": {
     "name": "Refined Tungsten",
+    "wiki": "https://wiki.hypixel.net/Refined_Tungsten",
     "forge": 21600,
     "base_rarity": "EPIC"
   },
   "REFINED_UMBER": {
     "name": "Refined Umber",
+    "wiki": "https://wiki.hypixel.net/Refined_Umber",
     "forge": 21600,
     "base_rarity": "EPIC"
   },
@@ -39822,6 +39859,7 @@
   },
   "REINFORCED_CHISEL": {
     "name": "Reinforced Chisel",
+    "wiki": "https://wiki.hypixel.net/Reinforced_Chisel",
     "forge": 43200,
     "base_rarity": "RARE"
   },
@@ -41787,6 +41825,7 @@
   },
   "SECRET_RAILROAD_PASS": {
     "name": "Secret Railroad Pass",
+    "wiki": "https://wiki.hypixel.net/Secret_Railroad_Pass",
     "forge": 30,
     "base_rarity": "SPECIAL"
   },
@@ -42114,6 +42153,7 @@
   },
   "SHATTERED_PENDANT": {
     "name": "Shattered Locket",
+    "wiki": "https://wiki.hypixel.net/Shattered_Locket",
     "base_rarity": "LEGENDARY"
   },
   "SHEARS": {
@@ -43238,6 +43278,7 @@
   },
   "SKELETON_KEY": {
     "name": "Skeleton Key",
+    "wiki": "https://wiki.hypixel.net/Skeleton_Key",
     "forge": 1800,
     "base_rarity": "LEGENDARY"
   },
@@ -45717,11 +45758,13 @@
   },
   "SPINE_FOSSIL": {
     "name": "Spine Fossil",
+    "wiki": "https://wiki.hypixel.net/Spine_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "SPINOSAURUS;4": {
     "name": "Legendary Spinosaurus",
     "texture": "d3c9d479471a2f13f22548315159591720992e70c920fef83a901b7186720e3c",
+    "wiki": "https://wiki.hypixel.net/Spinosaurus_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -49004,6 +49047,7 @@
   },
   "SUSPICIOUS_SCRAP": {
     "name": "Suspicious Scrap",
+    "wiki": "https://wiki.hypixel.net/Suspicious_Scrap",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -50908,20 +50952,24 @@
   },
   "TUNGSTEN": {
     "name": "Tungsten",
+    "wiki": "https://wiki.hypixel.net/Tungsten",
     "base_rarity": "COMMON"
   },
   "TUNGSTEN_KEY": {
     "name": "Tungsten Key",
+    "wiki": "https://wiki.hypixel.net/Tungsten_Key",
     "forge": 1800,
     "base_rarity": "EPIC"
   },
   "TUNGSTEN_KEYCHAIN": {
     "name": "Tungsten Keychain",
+    "wiki": "https://wiki.hypixel.net/Tungsten_Keychain",
     "forge": 21600,
     "base_rarity": "RARE"
   },
   "TUNGSTEN_PLATE": {
     "name": "Tungsten Plate",
+    "wiki": "https://wiki.hypixel.net/Tungsten_Plate",
     "forge": 7200,
     "base_rarity": "RARE"
   },
@@ -51149,6 +51197,7 @@
   },
   "TUSK_FOSSIL": {
     "name": "Tusk Fossil",
+    "wiki": "https://wiki.hypixel.net/Tusk_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "TUTTI_FRUTTI_POISON": {
@@ -51169,11 +51218,13 @@
   "TYRANNOSAURUS;4": {
     "name": "Legendary T-Rex",
     "texture": "93f28ec96df59c67e9d2fc2e7e3d055fa31646e4111add9fe26a692801964126",
+    "wiki": "https://wiki.hypixel.net/T-Rex_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
   "UGLY_FOSSIL": {
     "name": "Ugly Fossil",
+    "wiki": "https://wiki.hypixel.net/Ugly_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "ULTIMATE_BANK;1": {
@@ -51664,15 +51715,18 @@
   },
   "UMBER": {
     "name": "Umber",
+    "wiki": "https://wiki.hypixel.net/Umber",
     "base_rarity": "COMMON"
   },
   "UMBER_KEY": {
     "name": "Umber Key",
+    "wiki": "https://wiki.hypixel.net/Umber_Key",
     "forge": 1800,
     "base_rarity": "EPIC"
   },
   "UMBER_PLATE": {
     "name": "Umber Plate",
+    "wiki": "https://wiki.hypixel.net/Umber_Plate",
     "forge": 7200,
     "base_rarity": "RARE"
   },
@@ -53042,6 +53096,7 @@
   },
   "WEBBED_FOSSIL": {
     "name": "Webbed Fossil",
+    "wiki": "https://wiki.hypixel.net/Webbed_Fossil",
     "base_rarity": "LEGENDARY"
   },
   "WEDDING_RING_0": {
