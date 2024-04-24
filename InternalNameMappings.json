@@ -11326,6 +11326,7 @@
   },
   "DYE_CELADON": {
     "name": "Celadon Dye",
+    "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
   "DYE_CELESTE": {
@@ -15267,7 +15268,7 @@
     }
   },
   "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER": {
-    "name": "Exceedingly Rare Ender Artifact Upgrader",
+    "name": "Exceedingly Rare Ender Artifact Upgrade",
     "wiki": "https://wiki.hypixel.net/Exceedingly_Rare_Ender_Artifact_Upgrader",
     "base_rarity": "LEGENDARY"
   },
@@ -19418,10 +19419,40 @@
     "base_rarity": "EPIC"
   },
   "GLACITE_CHISEL": {
-    "name": "Glacite Chisel",
+    "name": "Glacite-Plated Chisel",
     "wiki": "https://wiki.hypixel.net/Glacite_Chisel",
     "forge": 64800,
     "base_rarity": "EPIC"
+  },
+  "GLACITE_GOLEM;3": {
+    "name": "Epic Glacite Golem",
+    "recipe": {
+      "A1": "FLAWLESS_ONYX_GEM:1",
+      "A2": "GLACITE_AMALGAMATION:4",
+      "A3": "FLAWLESS_CITRINE_GEM:1",
+      "B1": "GLACITE_AMALGAMATION:4",
+      "B2": "SUPER_EGG:1",
+      "B3": "GLACITE_AMALGAMATION:4",
+      "C1": "FLAWLESS_PERIDOT_GEM:1",
+      "C2": "GLACITE_AMALGAMATION:4",
+      "C3": "FLAWLESS_AQUAMARINE_GEM:1"
+    },
+    "base_rarity": "EPIC"
+  },
+  "GLACITE_GOLEM;4": {
+    "name": "Legendary Glacite Golem",
+    "recipe": {
+      "A1": "FLAWLESS_ONYX_GEM:1",
+      "A2": "GLACITE_AMALGAMATION:4",
+      "A3": "FLAWLESS_CITRINE_GEM:1",
+      "B1": "GLACITE_AMALGAMATION:4",
+      "B2": "SUPER_EGG:1",
+      "B3": "GLACITE_AMALGAMATION:4",
+      "C1": "FLAWLESS_PERIDOT_GEM:1",
+      "C2": "GLACITE_AMALGAMATION:4",
+      "C3": "FLAWLESS_AQUAMARINE_GEM:1"
+    },
+    "base_rarity": "LEGENDARY"
   },
   "GLACITE_HELMET": {
     "name": "Glacite Helmet",
@@ -34223,7 +34254,7 @@
   "PERFECT_PLATE": {
     "name": "Perfect Plate",
     "wiki": "https://wiki.hypixel.net/Perfect_Plate",
-    "forge": 1800,
+    "forge": 21600,
     "base_rarity": "LEGENDARY"
   },
   "PERFECT_RUBY_GEM": {
@@ -39724,6 +39755,10 @@
     "name": "Refined Bottle of Jyrre",
     "base_rarity": "LEGENDARY"
   },
+  "REFINED_DARK_CACAO_TRUFFLE": {
+    "name": "Refined Dark Cacao Truffle",
+    "base_rarity": "LEGENDARY"
+  },
   "REFINED_DIAMOND": {
     "name": "Refined Diamond",
     "wiki": "https://wiki.hypixel.net/Refined_Diamond",
@@ -40896,7 +40931,7 @@
     "base_rarity": "RARE"
   },
   "RUBY_POLISHED_DRILL_ENGINE": {
-    "name": "Ruby-polished Drill Engine",
+    "name": "Ruby Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Ruby-polished_Drill_Engine",
     "forge": 72000,
     "base_rarity": "RARE"
@@ -41379,7 +41414,7 @@
     "base_rarity": "RARE"
   },
   "SAPPHIRE_POLISHED_DRILL_ENGINE": {
-    "name": "Sapphire-polished Drill Engine",
+    "name": "Sapphire Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Sapphire-polished_Drill_Engine",
     "forge": 108000,
     "base_rarity": "RARE"
@@ -49047,6 +49082,10 @@
       ]
     }
   },
+  "SUPREME_CHOCOLATE_BAR": {
+    "name": "Supreme Chocolate Bar",
+    "base_rarity": "UNCOMMON"
+  },
   "SURFBOARD": {
     "name": "Surfboard",
     "wiki": "https://wiki.hypixel.net/Surfboard",
@@ -50970,11 +51009,11 @@
   "TUNGSTEN_KEY": {
     "name": "Tungsten Key",
     "wiki": "https://wiki.hypixel.net/Tungsten_Key",
-    "forge": 1800,
+    "forge": 30,
     "base_rarity": "EPIC"
   },
   "TUNGSTEN_KEYCHAIN": {
-    "name": "Tungsten Keychain",
+    "name": "Tungsten Regulator",
     "wiki": "https://wiki.hypixel.net/Tungsten_Keychain",
     "forge": 21600,
     "base_rarity": "RARE"
@@ -51733,7 +51772,7 @@
   "UMBER_KEY": {
     "name": "Umber Key",
     "wiki": "https://wiki.hypixel.net/Umber_Key",
-    "forge": 1800,
+    "forge": 30,
     "base_rarity": "EPIC"
   },
   "UMBER_PLATE": {
