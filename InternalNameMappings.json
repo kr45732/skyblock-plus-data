@@ -802,8 +802,8 @@
     "base_rarity": "EPIC"
   },
   "AMBER_POLISHED_DRILL_ENGINE": {
-    "name": "Amber-polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Amber-polished_Drill_Engine",
+    "name": "Amber-Polished Drill Engine",
+    "wiki": "https://wiki.hypixel.net/Amber-Polished_Drill_Engine",
     "forge": 180000,
     "base_rarity": "RARE"
   },
@@ -28085,6 +28085,10 @@
     "wiki": "https://wiki.hypixel.net/Magical_Water_Bucket",
     "base_rarity": "COMMON"
   },
+  "MAGIC_8_BALL": {
+    "name": "Magic 8 Ball",
+    "base_rarity": "EPIC"
+  },
   "MAGIC_CUBE_FLUX": {
     "name": "Magic Cube Power Orb Skin",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magic_Cube_Power_Orb_Skin",
@@ -40935,8 +40939,8 @@
     "base_rarity": "RARE"
   },
   "RUBY_POLISHED_DRILL_ENGINE": {
-    "name": "Ruby Polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Ruby-polished_Drill_Engine",
+    "name": "Ruby-Polished Drill Engine",
+    "wiki": "https://wiki.hypixel.net/Ruby-Polished_Drill_Engine",
     "forge": 72000,
     "base_rarity": "RARE"
   },
@@ -41418,8 +41422,8 @@
     "base_rarity": "RARE"
   },
   "SAPPHIRE_POLISHED_DRILL_ENGINE": {
-    "name": "Sapphire Polished Drill Engine",
-    "wiki": "https://wiki.hypixel.net/Sapphire-polished_Drill_Engine",
+    "name": "Sapphire-Polished Drill Engine",
+    "wiki": "https://wiki.hypixel.net/Sapphire-Polished_Drill_Engine",
     "forge": 108000,
     "base_rarity": "RARE"
   },
@@ -42983,6 +42987,10 @@
     "name": "Shadows indicate riddles, illuminating unseen stars",
     "wiki": "https://wiki.hypixel.net/Shadows_Indicate_Riddles,_Illuminating_Unseen_Stars",
     "base_rarity": "EPIC"
+  },
+  "SIRIUS_PERSONAL_PHONE_NUMBER": {
+    "name": "Sirius\u0027 Personal Phone Number",
+    "base_rarity": "LEGENDARY"
   },
   "SKELETON;0": {
     "name": "Common Skeleton",
