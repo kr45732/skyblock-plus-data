@@ -9429,6 +9429,11 @@
     "wiki": "https://wiki.hypixel.net/Dark_Bait",
     "base_rarity": "COMMON"
   },
+  "DARK_CACAO_TRUFFLE": {
+    "name": "Dark Cacao Truffle",
+    "wiki": "https://wiki.hypixel.net/Dark_Cacao_Truffle",
+    "base_rarity": "RARE"
+  },
   "DARK_CANDY": {
     "name": "Dark Candy",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Dark_Candy",
@@ -11547,6 +11552,12 @@
   "EGG": {
     "name": "Egg",
     "wiki": "https://wiki.hypixel.net/Egg",
+    "base_rarity": "COMMON"
+  },
+  "EGGLOCATOR": {
+    "name": "Egglocator",
+    "wiki": "https://wiki.hypixel.net/Egglocator",
+    "scrollable": true,
     "base_rarity": "COMMON"
   },
   "EGG_HUNT": {
@@ -18630,6 +18641,10 @@
     "name": "Game Breaker",
     "wiki": "https://wiki.hypixel.net/Game_Breaker",
     "base_rarity": "VERY_SPECIAL"
+  },
+  "GANACHE_CHOCOLATE_SLAB": {
+    "name": "Ganache Chocolate Slab",
+    "base_rarity": "EPIC"
   },
   "GARDEN_SACK": {
     "name": "Garden Sack",
@@ -32005,6 +32020,11 @@
       "count": 1
     }
   },
+  "NIBBLE_CHOCOLATE_STICK": {
+    "name": "Nibble Chocolate Stick",
+    "wiki": "https://wiki.hypixel.net/Nibble_Chocolate_Stick",
+    "base_rarity": "COMMON"
+  },
   "NIGHTMARE_NULLIFIER": {
     "name": "Nightmare Nullifier",
     "wiki": "https://wiki.hypixel.net/Nightmare_Nullifier",
@@ -34531,6 +34551,11 @@
       ]
     }
   },
+  "PET_ITEM_CHOCOLATE_SYRINGE": {
+    "name": "Chocolate Syringe",
+    "wiki": "https://wiki.hypixel.net/Chocolate_Syringe",
+    "base_rarity": "LEGENDARY"
+  },
   "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
     "name": "Combat Exp Boost",
     "wiki": "https://wiki.hypixel.net/Combat_Exp_Boost",
@@ -36957,6 +36982,11 @@
     "name": "Present Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
+  },
+  "PRESTIGE_CHOCOLATE_REALM": {
+    "name": "Prestige Chocolate Realm",
+    "wiki": "https://wiki.hypixel.net/Prestige_Chocolate_Realm",
+    "base_rarity": "LEGENDARY"
   },
   "PRESUMED_GALLON_OF_RED_PAINT": {
     "name": "Presumed Gallon of Red Paint",
@@ -40420,6 +40450,11 @@
         "SKYBLOCK_COIN:100000"
       ]
     }
+  },
+  "RICH_CHOCOLATE_CHUNK": {
+    "name": "Rich Chocolate Chunk",
+    "wiki": "https://wiki.hypixel.net/Rich_Chocolate_Chunk",
+    "base_rarity": "RARE"
   },
   "RIFTWART_ROOTS": {
     "name": "Riftwart Roots",
@@ -44311,6 +44346,11 @@
       "count": 4
     },
     "base_rarity": "COMMON"
+  },
+  "SMOOTH_CHOCOLATE_BAR": {
+    "name": "Smooth Chocolate Bar",
+    "wiki": "https://wiki.hypixel.net/Smooth_Chocolate_Bar",
+    "base_rarity": "UNCOMMON"
   },
   "SMOOTH_STAIRS": {
     "name": "Stone Brick Stairs",
@@ -49096,6 +49136,7 @@
   },
   "SUPREME_CHOCOLATE_BAR": {
     "name": "Supreme Chocolate Bar",
+    "wiki": "https://wiki.hypixel.net/Supreme_Chocolate_Bar",
     "base_rarity": "UNCOMMON"
   },
   "SURFBOARD": {
@@ -55692,5 +55733,10 @@
       ],
       "count": 1
     }
+  },
+  "ZORROS_CAPE": {
+    "name": "Zorro\u0027s Cape",
+    "wiki": "https://wiki.hypixel.net/Zorro\u0027s_Cape",
+    "base_rarity": "LEGENDARY"
   }
 }
