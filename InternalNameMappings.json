@@ -19452,6 +19452,7 @@
       "C2": "GLACITE_AMALGAMATION:4",
       "C3": "FLAWLESS_AQUAMARINE_GEM:1"
     },
+    "texture": "af132a6593876d3c377d503fd66eca3fb938743251f7b16a9870c60b7388c8a3",
     "base_rarity": "EPIC"
   },
   "GLACITE_GOLEM;4": {
@@ -19467,6 +19468,7 @@
       "C2": "GLACITE_AMALGAMATION:4",
       "C3": "FLAWLESS_AQUAMARINE_GEM:1"
     },
+    "texture": "af132a6593876d3c377d503fd66eca3fb938743251f7b16a9870c60b7388c8a3",
     "base_rarity": "LEGENDARY"
   },
   "GLACITE_HELMET": {
