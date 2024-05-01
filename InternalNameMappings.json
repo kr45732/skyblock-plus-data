@@ -12546,7 +12546,7 @@
     "base_rarity": "UNCOMMON"
   },
   "ENCHANTED_COAL_BLOCK": {
-    "name": "Enchanted Block of Coal",
+    "name": "Enchanted Coal Block",
     "recipe": {
       "A1": "",
       "A2": "ENCHANTED_COAL:32",
