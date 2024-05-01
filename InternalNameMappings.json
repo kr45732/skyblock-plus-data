@@ -239,10 +239,6 @@
     "wiki": "https://wiki.hypixel.net/Absolute_Ender_Pearl",
     "base_rarity": "RARE"
   },
-  "ABSORPTION": {
-    "name": "Absorption Potion",
-    "base_rarity": "COMMON"
-  },
   "ACACIA_BIRDHOUSE": {
     "name": "Acacia Birdhouse",
     "recipe": {
@@ -539,10 +535,6 @@
     "wiki": "https://wiki.hypixel.net/Adaptive_Leggings",
     "base_rarity": "EPIC"
   },
-  "ADRENALINE": {
-    "name": "Adrenaline Potion",
-    "base_rarity": "COMMON"
-  },
   "ADVANCED_GARDENING_AXE": {
     "name": "Advanced Gardening Axe",
     "wiki": "https://wiki.hypixel.net/Advanced_Gardening_Axe",
@@ -693,10 +685,6 @@
     "wiki": "https://wiki.hypixel.net/Agarimoo_Tongue",
     "base_rarity": "RARE"
   },
-  "AGILITY": {
-    "name": "Agility Potion",
-    "base_rarity": "COMMON"
-  },
   "AIMING;1": {
     "name": "Dragon Tracer I",
     "base_rarity": "COMMON"
@@ -727,10 +715,6 @@
     "name": "Alchemist Recipe",
     "wiki": "https://wiki.hypixel.net/Alchemist_Recipe",
     "base_rarity": "EPIC"
-  },
-  "ALCHEMY_XP_BOOST": {
-    "name": "Alchemy XP Boost I Potion",
-    "base_rarity": "COMMON"
   },
   "ALERT_FLARE": {
     "name": "Alert Flare",
@@ -1195,10 +1179,6 @@
   "ARCHAEOLOGIST_COMPASS": {
     "name": "Archaeologist\u0027s Compass",
     "wiki": "https://wiki.hypixel.net/Archaeologist%27s_Compass",
-    "base_rarity": "COMMON"
-  },
-  "ARCHERY": {
-    "name": "Archery Potion",
     "base_rarity": "COMMON"
   },
   "ARCHFIEND_DICE": {
@@ -3796,10 +3776,6 @@
     "name": "Blessing VI",
     "base_rarity": "RARE"
   },
-  "BLINDNESS": {
-    "name": "Blindness Potion",
-    "base_rarity": "COMMON"
-  },
   "BLOBFISH_BRONZE": {
     "name": "Blobfish BRONZE",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
@@ -4717,10 +4693,6 @@
   "BUNNY_PERSONALITY": {
     "name": "Bunny Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
-    "base_rarity": "COMMON"
-  },
-  "BURNING": {
-    "name": "Burning Potion",
     "base_rarity": "COMMON"
   },
   "BURNING_AURORA_BOOTS": {
@@ -8115,10 +8087,6 @@
     "name": "Colossal Experience Bottle Upgrade",
     "wiki": "https://wiki.hypixel.net/Colossal_Experience_Bottle_Upgrade"
   },
-  "COMBAT_XP_BOOST": {
-    "name": "Combat XP Boost I Potion",
-    "base_rarity": "COMMON"
-  },
   "COMMAND": {
     "name": "Command Block",
     "base_rarity": "COMMON"
@@ -9302,10 +9270,6 @@
     "name": "Daedalus Stick",
     "wiki": "https://wiki.hypixel.net/Daedalus_Stick",
     "base_rarity": "LEGENDARY"
-  },
-  "DAMAGE": {
-    "name": "Damage Potion",
-    "base_rarity": "COMMON"
   },
   "DANGER_1_PORTAL": {
     "name": "Portal to the Spider\u0027s Den",
@@ -10839,10 +10803,6 @@
   },
   "DIVINE_GIFT;3": {
     "name": "Divine Gift III",
-    "base_rarity": "COMMON"
-  },
-  "DODGE": {
-    "name": "Dodge Potion",
     "base_rarity": "COMMON"
   },
   "DOJO_BLACK_BELT": {
@@ -14256,10 +14216,6 @@
     "wiki": "https://wiki.hypixel.net/Enchanting_Table%2B",
     "base_rarity": "RARE"
   },
-  "ENCHANTING_XP_BOOST": {
-    "name": "Enchanting XP Boost I Potion",
-    "base_rarity": "COMMON"
-  },
   "ENCHANTMENT_TABLE": {
     "name": "Enchantment Table",
     "recipe": {
@@ -15758,10 +15714,6 @@
     "wiki": "https://wiki.hypixel.net/Wand_Of_Farming",
     "base_rarity": "RARE"
   },
-  "FARMING_XP_BOOST": {
-    "name": "Farming XP Boost I Potion",
-    "base_rarity": "COMMON"
-  },
   "FARM_ARMOR_BOOTS": {
     "name": "Farm Armor Boots",
     "recipe": {
@@ -16874,10 +16826,6 @@
     "name": "Fire Protection VII",
     "base_rarity": "EPIC"
   },
-  "FIRE_RESISTANCE": {
-    "name": "Fire Resistance I Potion",
-    "base_rarity": "COMMON"
-  },
   "FIRE_SPIRAL_RUNE;1": {
     "name": "◆ Fire Spiral Rune I",
     "base_rarity": "RARE"
@@ -17153,10 +17101,6 @@
         "SKYBLOCK_COIN:100"
       ]
     }
-  },
-  "FISHING_XP_BOOST": {
-    "name": "Fishing XP Boost I Potion",
-    "base_rarity": "COMMON"
   },
   "FISH_AFFINITY_TALISMAN": {
     "name": "Fish Affinity Talisman",
@@ -18181,10 +18125,6 @@
       "C3": "LOG_2-1:16"
     },
     "wiki": "https://wiki.hypixel.net/Portal_To_Dark_Thicket",
-    "base_rarity": "COMMON"
-  },
-  "FORAGING_XP_BOOST": {
-    "name": "Foraging XP Boost I Potion",
     "base_rarity": "COMMON"
   },
   "FOREST_BIOME_STICK": {
@@ -22034,10 +21974,6 @@
     "name": "Harvesting VI",
     "base_rarity": "RARE"
   },
-  "HASTE": {
-    "name": "Haste Potion",
-    "base_rarity": "COMMON"
-  },
   "HASTE_BLOCK": {
     "name": "Haste Block",
     "recipe": {
@@ -22106,10 +22042,6 @@
     "name": "Hazmat Enderman",
     "wiki": "https://wiki.hypixel.net/Hazmat_Enderman",
     "base_rarity": "LEGENDARY"
-  },
-  "HEALING": {
-    "name": "Healing Potion",
-    "base_rarity": "COMMON"
   },
   "HEALING_MELON": {
     "name": "Healing Melon",
@@ -24641,10 +24573,6 @@
       ]
     }
   },
-  "INVISIBILITY": {
-    "name": "Invisibility I Potion",
-    "base_rarity": "COMMON"
-  },
   "IRON_AXE": {
     "name": "Iron Axe",
     "recipe": {
@@ -25498,10 +25426,6 @@
   "JUMBO_BACKPACK_UPGRADE": {
     "name": "Jumbo Backpack Upgrade",
     "wiki": "https://wiki.hypixel.net/Jumbo_Backpack_Upgrade"
-  },
-  "JUMP_BOOST": {
-    "name": "Jump Boost Potion",
-    "base_rarity": "COMMON"
   },
   "JUNGLE_AMULET": {
     "name": "Jungle Amulet",
@@ -28111,15 +28035,6 @@
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Magic_Cube_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
-  "MAGIC_FIND": {
-    "name": "Magic Find I Potion",
-    "base_rarity": "COMMON",
-    "npc_buy": {
-      "cost": [
-        "GREEN_CANDY:10"
-      ]
-    }
-  },
   "MAGIC_MUSHROOM_SOUP": {
     "name": "Magical Mushroom Soup",
     "recipe": {
@@ -28698,10 +28613,6 @@
     "wiki": "https://wiki.hypixel.net/Mammoth_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
-  },
-  "MANA": {
-    "name": "Mana Potion",
-    "base_rarity": "COMMON"
   },
   "MANA_DISINTEGRATOR": {
     "name": "Mana Disintegrator",
@@ -30095,10 +30006,6 @@
     "wiki": "https://wiki.hypixel.net/Raffle_Ticket",
     "base_rarity": "UNCOMMON"
   },
-  "MINING_XP_BOOST": {
-    "name": "Mining XP Boost I Potion",
-    "base_rarity": "COMMON"
-  },
   "MINION_CHAIR": {
     "name": "Minion Chair",
     "wiki": "https://wiki.hypixel.net/Minion_Chair",
@@ -30955,17 +30862,6 @@
     },
     "wiki": "https://wiki.hypixel.net/Travel_Scroll_To_Museum",
     "base_rarity": "EPIC"
-  },
-  "MUSHED_GLOWY_TONIC": {
-    "name": "Mushed Glowy Tonic I Potion",
-    "base_rarity": "COMMON",
-    "npc_buy": {
-      "cost": [
-        "FULL_CHUM_BUCKET:8",
-        "GLOWING_MUSHROOM:10"
-      ],
-      "count": 1
-    }
   },
   "MUSHED_MUSHROOM_MIXIN": {
     "name": "Glowing Mush Mixin",
@@ -32063,10 +31959,6 @@
     },
     "wiki": "https://wiki.hypixel.net/Night_Saver",
     "base_rarity": "UNCOMMON"
-  },
-  "NIGHT_VISION": {
-    "name": "Night Vision I Potion",
-    "base_rarity": "COMMON"
   },
   "NIGHT_VISION_CHARM": {
     "name": "Night Vision Charm",
@@ -36367,10 +36259,6 @@
     "wiki": "https://wiki.hypixel.net/Poem_Of_True_Love",
     "base_rarity": "EPIC"
   },
-  "POISON": {
-    "name": "Poison Potion",
-    "base_rarity": "COMMON"
-  },
   "POISONED_CANDY": {
     "name": "Poisoned Candy",
     "recipe": {
@@ -36731,9 +36619,73 @@
     "base_rarity": "COMMON",
     "npc_buy": {
       "cost": [
-        "SKYBLOCK_COIN:35000"
+        "SKYBLOCK_COIN:30000"
       ]
     }
+  },
+  "POTION_ABSORPTION;1": {
+    "name": "Absorption I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ABSORPTION;2": {
+    "name": "Absorption II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ABSORPTION;3": {
+    "name": "Absorption III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ABSORPTION;4": {
+    "name": "Absorption IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ABSORPTION;5": {
+    "name": "Absorption V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_ABSORPTION;6": {
+    "name": "Absorption VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_ABSORPTION;7": {
+    "name": "Absorption VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_ABSORPTION;8": {
+    "name": "Absorption VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_ADRENALINE;1": {
+    "name": "Adrenaline I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ADRENALINE;2": {
+    "name": "Adrenaline II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ADRENALINE;3": {
+    "name": "Adrenaline III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ADRENALINE;4": {
+    "name": "Adrenaline IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ADRENALINE;5": {
+    "name": "Adrenaline V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_ADRENALINE;6": {
+    "name": "Adrenaline VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_ADRENALINE;7": {
+    "name": "Adrenaline VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_ADRENALINE;8": {
+    "name": "Adrenaline VIII Potion",
+    "base_rarity": "EPIC"
   },
   "POTION_AFFINITY_TALISMAN": {
     "name": "Potion Affinity Talisman",
@@ -36750,6 +36702,760 @@
     },
     "wiki": "https://wiki.hypixel.net/Potion_Affinity_Talisman",
     "base_rarity": "COMMON"
+  },
+  "POTION_AGILITY;1": {
+    "name": "Agility I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_AGILITY;2": {
+    "name": "Agility II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_AGILITY;3": {
+    "name": "Agility III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_AGILITY;4": {
+    "name": "Agility IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ALCHEMY_XP_BOOST;1": {
+    "name": "Alchemy XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ALCHEMY_XP_BOOST;2": {
+    "name": "Alchemy XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ALCHEMY_XP_BOOST;3": {
+    "name": "Alchemy XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ARCHERY;1": {
+    "name": "Archery I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ARCHERY;2": {
+    "name": "Archery II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ARCHERY;3": {
+    "name": "Archery III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_ARCHERY;4": {
+    "name": "Archery IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_AWKWARD": {
+    "name": "Awkward Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_BLINDNESS;1": {
+    "name": "Blindness I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_BLINDNESS;2": {
+    "name": "Blindness II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_BLINDNESS;3": {
+    "name": "Blindness III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_BURNING;1": {
+    "name": "Burning I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_BURNING;2": {
+    "name": "Burning II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_BURNING;3": {
+    "name": "Burning III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_BURNING;4": {
+    "name": "Burning IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_COLD_RESISTANCE;1": {
+    "name": "Cold Resistance I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_COLD_RESISTANCE;2": {
+    "name": "Cold Resistance II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_COLD_RESISTANCE;3": {
+    "name": "Cold Resistance III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_COLD_RESISTANCE;4": {
+    "name": "Cold Resistance IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_COMBAT_XP_BOOST;1": {
+    "name": "Combat XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_COMBAT_XP_BOOST;2": {
+    "name": "Combat XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_COMBAT_XP_BOOST;3": {
+    "name": "Combat XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_DAMAGE;1": {
+    "name": "Damage I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_DAMAGE;2": {
+    "name": "Damage II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_DAMAGE;3": {
+    "name": "Damage III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_DAMAGE;4": {
+    "name": "Damage IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_DAMAGE;5": {
+    "name": "Damage V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_DAMAGE;6": {
+    "name": "Damage VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_DAMAGE;7": {
+    "name": "Damage VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_DAMAGE;8": {
+    "name": "Damage VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_DODGE;1": {
+    "name": "Dodge I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_DODGE;2": {
+    "name": "Dodge II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_DODGE;3": {
+    "name": "Dodge III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_DODGE;4": {
+    "name": "Dodge IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_DUNGEON;1": {
+    "name": "Dungeon I Potion",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:5000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;2": {
+    "name": "Dungeon II Potion",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:10000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;3": {
+    "name": "Dungeon III Potion",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:15000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;4": {
+    "name": "Dungeon IV Potion",
+    "base_rarity": "UNCOMMON",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:20000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;5": {
+    "name": "Dungeon V Potion",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:25000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;6": {
+    "name": "Dungeon VI Potion",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:30000"
+      ]
+    }
+  },
+  "POTION_DUNGEON;7": {
+    "name": "Dungeon VII Potion",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "SKYBLOCK_COIN:35000"
+      ]
+    }
+  },
+  "POTION_ENCHANTING_XP_BOOST;1": {
+    "name": "Enchanting XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ENCHANTING_XP_BOOST;2": {
+    "name": "Enchanting XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_ENCHANTING_XP_BOOST;3": {
+    "name": "Enchanting XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_EXPERIENCE;1": {
+    "name": "Experience I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_EXPERIENCE;2": {
+    "name": "Experience II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_EXPERIENCE;3": {
+    "name": "Experience III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_EXPERIENCE;4": {
+    "name": "Experience IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_FARMING_XP_BOOST;1": {
+    "name": "Farming XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FARMING_XP_BOOST;2": {
+    "name": "Farming XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FARMING_XP_BOOST;3": {
+    "name": "Farming XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_FIRE_RESISTANCE;1": {
+    "name": "Fire Resistance I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FISHING_XP_BOOST;1": {
+    "name": "Fishing XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FISHING_XP_BOOST;2": {
+    "name": "Fishing XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FISHING_XP_BOOST;3": {
+    "name": "Fishing XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_FORAGING_XP_BOOST;1": {
+    "name": "Foraging XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FORAGING_XP_BOOST;2": {
+    "name": "Foraging XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_FORAGING_XP_BOOST;3": {
+    "name": "Foraging XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_HARVEST_HARBINGER;5": {
+    "name": "Harvest Harbinger V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_HASTE;1": {
+    "name": "Haste I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_HASTE;2": {
+    "name": "Haste II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_HASTE;3": {
+    "name": "Haste III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_HASTE;4": {
+    "name": "Haste IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_HEALING;1": {
+    "name": "Healing I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_HEALING;2": {
+    "name": "Healing II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_HEALING;3": {
+    "name": "Healing III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_HEALING;4": {
+    "name": "Healing IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_HEALING;5": {
+    "name": "Healing V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_HEALING;6": {
+    "name": "Healing VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_HEALING;7": {
+    "name": "Healing VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_HEALING;8": {
+    "name": "Healing VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_INVISIBILITY;1": {
+    "name": "Invisibility I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_JUMP_BOOST;1": {
+    "name": "Jump Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_JUMP_BOOST;2": {
+    "name": "Jump Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_JUMP_BOOST;3": {
+    "name": "Jump Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_JUMP_BOOST;4": {
+    "name": "Jump Boost IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_MAGIC FIND;1": {
+    "name": "Magic Find I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MANA;1": {
+    "name": "Mana I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MANA;2": {
+    "name": "Mana II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MANA;3": {
+    "name": "Mana III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_MANA;4": {
+    "name": "Mana IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_MANA;5": {
+    "name": "Mana V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_MANA;6": {
+    "name": "Mana VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_MANA;7": {
+    "name": "Mana VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_MANA;8": {
+    "name": "Mana VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_MINING_XP_BOOST;1": {
+    "name": "Mining XP Boost I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MINING_XP_BOOST;2": {
+    "name": "Mining XP Boost II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MINING_XP_BOOST;3": {
+    "name": "Mining XP Boost III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_MUSHED_GLOWY_TONIC;1": {
+    "name": "Mushed Glowy Tonic I Potion",
+    "base_rarity": "COMMON",
+    "npc_buy": {
+      "cost": [
+        "FULL_CHUM_BUCKET:8",
+        "GLOWING_MUSHROOM:10"
+      ],
+      "count": 1
+    }
+  },
+  "POTION_NIGHT_VISION;1": {
+    "name": "Night Vision I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_PET_LUCK;1": {
+    "name": "Pet Luck I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_PET_LUCK;2": {
+    "name": "Pet Luck II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_PET_LUCK;3": {
+    "name": "Pet Luck III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_PET_LUCK;4": {
+    "name": "Pet Luck IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_POISON;1": {
+    "name": "Poison I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_POISON;2": {
+    "name": "Poison II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_POISON;3": {
+    "name": "Poison III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_POISON;4": {
+    "name": "Poison IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_REGENERATION;1": {
+    "name": "Regeneration I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_REGENERATION;2": {
+    "name": "Regeneration II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_REGENERATION;3": {
+    "name": "Regeneration III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_REGENERATION;4": {
+    "name": "Regeneration IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_REGENERATION;5": {
+    "name": "Regeneration V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_REGENERATION;6": {
+    "name": "Regeneration VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_REGENERATION;7": {
+    "name": "Regeneration VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_REGENERATION;8": {
+    "name": "Regeneration VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_RESISTANCE;1": {
+    "name": "Resistance I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_RESISTANCE;2": {
+    "name": "Resistance II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_RESISTANCE;3": {
+    "name": "Resistance III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_RESISTANCE;4": {
+    "name": "Resistance IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_RESISTANCE;5": {
+    "name": "Resistance V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_RESISTANCE;6": {
+    "name": "Resistance VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_RESISTANCE;7": {
+    "name": "Resistance VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_RESISTANCE;8": {
+    "name": "Resistance VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_SLOWNESS;1": {
+    "name": "Slowness I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SLOWNESS;2": {
+    "name": "Slowness II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SLOWNESS;3": {
+    "name": "Slowness III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SLOWNESS;4": {
+    "name": "Slowness IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SLOWNESS;5": {
+    "name": "Slowness V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_SLOWNESS;6": {
+    "name": "Slowness VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_SLOWNESS;7": {
+    "name": "Slowness VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_SLOWNESS;8": {
+    "name": "Slowness VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_SPEED;1": {
+    "name": "Speed I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SPEED;2": {
+    "name": "Speed II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SPEED;3": {
+    "name": "Speed III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SPEED;4": {
+    "name": "Speed IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SPEED;5": {
+    "name": "Speed V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_SPEED;6": {
+    "name": "Speed VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_SPEED;7": {
+    "name": "Speed VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_SPEED;8": {
+    "name": "Speed VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_SPELUNKER;1": {
+    "name": "Spelunker I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SPELUNKER;2": {
+    "name": "Spelunker II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SPELUNKER;3": {
+    "name": "Spelunker III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SPELUNKER;4": {
+    "name": "Spelunker IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SPIRIT;1": {
+    "name": "Spirit I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STAMINA;1": {
+    "name": "Stamina I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STAMINA;2": {
+    "name": "Stamina II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STAMINA;3": {
+    "name": "Stamina III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_STAMINA;4": {
+    "name": "Stamina IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_STRENGTH;1": {
+    "name": "Strength I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STRENGTH;2": {
+    "name": "Strength II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STRENGTH;3": {
+    "name": "Strength III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_STRENGTH;4": {
+    "name": "Strength IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_STRENGTH;5": {
+    "name": "Strength V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_STRENGTH;6": {
+    "name": "Strength VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_STRENGTH;7": {
+    "name": "Strength VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_STRENGTH;8": {
+    "name": "Strength VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_STUN;1": {
+    "name": "Stun I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STUN;2": {
+    "name": "Stun II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_STUN;3": {
+    "name": "Stun III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_STUN;4": {
+    "name": "Stun IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_TRUE_DEFENSE;1": {
+    "name": "True Resistance I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_TRUE_DEFENSE;2": {
+    "name": "True Resistance II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_TRUE_DEFENSE;3": {
+    "name": "True Resistance III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_TRUE_DEFENSE;4": {
+    "name": "True Resistance IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WATER_BREATHING;1": {
+    "name": "Water Breathing I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WATER_BREATHING;2": {
+    "name": "Water Breathing II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WATER_BREATHING;3": {
+    "name": "Water Breathing III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WATER_BREATHING;4": {
+    "name": "Water Breathing IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WATER_BREATHING;5": {
+    "name": "Water Breathing V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_WATER_BREATHING;6": {
+    "name": "Water Breathing VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_WEAKNESS;1": {
+    "name": "Weakness I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WEAKNESS;2": {
+    "name": "Weakness II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WEAKNESS;3": {
+    "name": "Weakness III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WEAKNESS;4": {
+    "name": "Weakness IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WEAKNESS;5": {
+    "name": "Weakness V Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_WEAKNESS;6": {
+    "name": "Weakness VI Potion",
+    "base_rarity": "RARE"
+  },
+  "POTION_WEAKNESS;7": {
+    "name": "Weakness VII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_WEAKNESS;8": {
+    "name": "Weakness VIII Potion",
+    "base_rarity": "EPIC"
+  },
+  "POTION_WISP_ICE;1": {
+    "name": "Wisp\u0027s Ice-Flavored Water I Splash Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WOUNDED;1": {
+    "name": "Wounded I Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WOUNDED;2": {
+    "name": "Wounded II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_WOUNDED;3": {
+    "name": "Wounded III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_WOUNDED;4": {
+    "name": "Wounded IV Potion",
+    "base_rarity": "UNCOMMON"
   },
   "POWER;1": {
     "name": "Power I",
@@ -39897,10 +40603,6 @@
     "wiki": "https://wiki.hypixel.net/Booster_Cookie",
     "base_rarity": "LEGENDARY"
   },
-  "REGENERATION": {
-    "name": "Regeneration Potion",
-    "base_rarity": "COMMON"
-  },
   "REHEATED_GUMMY_POLAR_BEAR": {
     "name": "Re-heated Gummy Polar Bear",
     "recipe": {
@@ -40106,10 +40808,6 @@
       "C3": "ENCHANTED_COOKIE:16"
     },
     "base_rarity": "RARE"
-  },
-  "RESISTANCE": {
-    "name": "Resistance Potion",
-    "base_rarity": "COMMON"
   },
   "RESPIRATION;1": {
     "name": "Respiration I",
@@ -43916,10 +44614,6 @@
     "name": "◆ Slimy Rune III",
     "base_rarity": "COMMON"
   },
-  "SLOWNESS": {
-    "name": "Slowness Potion",
-    "base_rarity": "COMMON"
-  },
   "SLUDGE_JUICE": {
     "name": "Sludge Juice",
     "wiki": "https://wiki.hypixel.net/Sludge_Juice",
@@ -45194,10 +45888,6 @@
     "wiki": "https://wiki.hypixel.net/Spectre_Dust",
     "base_rarity": "UNCOMMON"
   },
-  "SPEED": {
-    "name": "Speed Potion",
-    "base_rarity": "COMMON"
-  },
   "SPEEDSTER_BOOTS": {
     "name": "Speedster Boots",
     "recipe": {
@@ -45868,15 +46558,6 @@
     "wiki": "https://wiki.hypixel.net/Spinosaurus_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
-  },
-  "SPIRIT": {
-    "name": "Spirit I Potion",
-    "base_rarity": "COMMON",
-    "npc_buy": {
-      "cost": [
-        "GREEN_CANDY:1"
-      ]
-    }
   },
   "SPIRIT;3": {
     "name": "Epic Spirit",
@@ -47384,10 +48065,6 @@
     },
     "base_rarity": "COMMON"
   },
-  "STAMINA": {
-    "name": "Stamina Potion",
-    "base_rarity": "COMMON"
-  },
   "STARFALL": {
     "name": "Starfall",
     "wiki": "https://wiki.hypixel.net/Starfall",
@@ -48413,10 +49090,6 @@
     "wiki": "https://wiki.hypixel.net/Storm_The_Fish",
     "base_rarity": "SPECIAL"
   },
-  "STRENGTH": {
-    "name": "Strength Potion",
-    "base_rarity": "COMMON"
-  },
   "STRING": {
     "name": "String",
     "wiki": "https://wiki.hypixel.net/String",
@@ -48565,10 +49238,6 @@
     },
     "wiki": "https://wiki.hypixel.net/Stuffed_Chili_Pepper",
     "base_rarity": "RARE"
-  },
-  "STUN": {
-    "name": "Stun Potion",
-    "base_rarity": "COMMON"
   },
   "SUBZERO_INVERTER": {
     "name": "Subzero Inverter",
@@ -51028,10 +51697,6 @@
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
     "base_rarity": "COMMON"
   },
-  "TRUE_DEFENSE": {
-    "name": "True Resistance Potion",
-    "base_rarity": "COMMON"
-  },
   "TRUE_ESSENCE": {
     "name": "True Essence",
     "wiki": "https://wiki.hypixel.net/True_Essence",
@@ -53094,8 +53759,8 @@
     "name": "Water (No Spread)",
     "base_rarity": "COMMON"
   },
-  "WATER_BREATHING": {
-    "name": "Water Breathing Potion",
+  "WATER_BOTTLE": {
+    "name": "Water Bottle",
     "base_rarity": "COMMON"
   },
   "WATER_BUCKET": {
@@ -53136,10 +53801,6 @@
   "WATER_TROUGH": {
     "name": "Water Trough",
     "wiki": "https://wiki.hypixel.net/Water_Trough",
-    "base_rarity": "COMMON"
-  },
-  "WEAKNESS": {
-    "name": "Weakness Potion",
     "base_rarity": "COMMON"
   },
   "WEAK_WOLF_CATALYST": {
@@ -54901,11 +55562,6 @@
     "name": "Worm the Fish",
     "wiki": "https://wiki.hypixel.net/Worm_The_Fish",
     "base_rarity": "SPECIAL"
-  },
-  "WOUNDED": {
-    "name": "Wounded Potion",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Potions",
-    "base_rarity": "COMMON"
   },
   "WRAPPED_GIFT_FOR_JULIETTE": {
     "name": "Secret Gift for Juliette",
