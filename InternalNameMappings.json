@@ -18584,6 +18584,7 @@
   },
   "GANACHE_CHOCOLATE_SLAB": {
     "name": "Ganache Chocolate Slab",
+    "wiki": "https://wiki.hypixel.net/Ganache_Chocolate_Slab",
     "base_rarity": "EPIC"
   },
   "GARDEN_SACK": {
@@ -19393,6 +19394,7 @@
       "C3": "FLAWLESS_AQUAMARINE_GEM:1"
     },
     "texture": "af132a6593876d3c377d503fd66eca3fb938743251f7b16a9870c60b7388c8a3",
+    "wiki": "https://wiki.hypixel.net/Glacite_Golem_Pet",
     "base_rarity": "EPIC"
   },
   "GLACITE_GOLEM;4": {
@@ -19409,6 +19411,7 @@
       "C3": "FLAWLESS_AQUAMARINE_GEM:1"
     },
     "texture": "af132a6593876d3c377d503fd66eca3fb938743251f7b16a9870c60b7388c8a3",
+    "wiki": "https://wiki.hypixel.net/Glacite_Golem_Pet",
     "base_rarity": "LEGENDARY"
   },
   "GLACITE_HELMET": {
@@ -28028,6 +28031,7 @@
   },
   "MAGIC_8_BALL": {
     "name": "Magic 8 Ball",
+    "wiki": "https://wiki.hypixel.net/Magic_8_Ball",
     "base_rarity": "EPIC"
   },
   "MAGIC_CUBE_FLUX": {
@@ -33294,6 +33298,7 @@
   "PENGUIN;4": {
     "name": "Legendary Penguin",
     "texture": "37534e97f36e5a8335928e171ec99608bee7fb16e260afb301025b3b17eeefc4",
+    "wiki": "https://wiki.hypixel.net/Penguin_Pet",
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
@@ -35076,6 +35081,7 @@
   },
   "PET_SKIN_GLACITE_GOLEM_CAVERN": {
     "name": "Cavern Glacite Golem Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Cavern_Glacite_Golem_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_GOLDEN_DRAGON_ANCIENT": {
@@ -35089,6 +35095,7 @@
   },
   "PET_SKIN_GOLEM_END": {
     "name": "End Golem Skin",
+    "wiki": "https://wiki.hypixel.net/End_Golem_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_GRIFFIN_PEAFOWL": {
@@ -35193,6 +35200,7 @@
   },
   "PET_SKIN_MOLE_MINER": {
     "name": "Miner Mole Skin",
+    "wiki": "https://wiki.hypixel.net/Miner_Mole_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_MONKEY_ASTRONAUT": {
@@ -40503,6 +40511,7 @@
   },
   "REFINED_DARK_CACAO_TRUFFLE": {
     "name": "Refined Dark Cacao Truffle",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Refined_Dark_Cacao_Truffle",
     "base_rarity": "LEGENDARY"
   },
   "REFINED_DIAMOND": {
@@ -43725,6 +43734,7 @@
   },
   "SIRIUS_PERSONAL_PHONE_NUMBER": {
     "name": "Sirius\u0027 Personal Phone Number",
+    "wiki": "https://wiki.hypixel.net/Sirius%27_Personal_Phone_Number",
     "base_rarity": "LEGENDARY"
   },
   "SKELETON;0": {
