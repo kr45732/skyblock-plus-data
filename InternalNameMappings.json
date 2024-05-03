@@ -2716,7 +2716,7 @@
   "BEJEWELED_HANDLE": {
     "name": "Bejeweled Handle",
     "wiki": "https://wiki.hypixel.net/Bejeweled_Handle",
-    "forge": 1800,
+    "forge": 30,
     "base_rarity": "RARE"
   },
   "BERBERIS_BLOWGUN": {
@@ -35023,7 +35023,7 @@
   "PET_SKIN_ENDERMAN_NEON": {
     "name": "Neon Enderman Skin",
     "wiki": "https://wiki.hypixel.net/Neon_Enderman_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMAN_SLAYER": {
     "name": "Void Conqueror Enderman Skin",
@@ -35038,7 +35038,7 @@
   "PET_SKIN_ENDERMAN_XENON": {
     "name": "Xenon Enderman Skin",
     "wiki": "https://wiki.hypixel.net/Xenon_Enderman_Skin",
-    "base_rarity": "LEGENDARY"
+    "base_rarity": "MYTHIC"
   },
   "PET_SKIN_ENDERMITE_DYNAMITE": {
     "name": "Dynamite Endermite Skin",
@@ -51751,7 +51751,7 @@
   "TUNGSTEN_PLATE": {
     "name": "Tungsten Plate",
     "wiki": "https://wiki.hypixel.net/Tungsten_Plate",
-    "forge": 7200,
+    "forge": 10800,
     "base_rarity": "RARE"
   },
   "TUNING_FORK": {
@@ -52508,7 +52508,7 @@
   "UMBER_PLATE": {
     "name": "Umber Plate",
     "wiki": "https://wiki.hypixel.net/Umber_Plate",
-    "forge": 7200,
+    "forge": 10800,
     "base_rarity": "RARE"
   },
   "UNCOMMON_KUUDRA_CHUNK": {
