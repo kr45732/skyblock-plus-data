@@ -40557,13 +40557,13 @@
   "REFINED_TUNGSTEN": {
     "name": "Refined Tungsten",
     "wiki": "https://wiki.hypixel.net/Refined_Tungsten",
-    "forge": 21600,
+    "forge": 3600,
     "base_rarity": "EPIC"
   },
   "REFINED_UMBER": {
     "name": "Refined Umber",
     "wiki": "https://wiki.hypixel.net/Refined_Umber",
-    "forge": 21600,
+    "forge": 3600,
     "base_rarity": "EPIC"
   },
   "REFLECTION;1": {
