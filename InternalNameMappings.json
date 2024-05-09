@@ -9377,6 +9377,11 @@
     "wiki": "https://wiki.hypixel.net/Dante_Talisman",
     "base_rarity": "COMMON"
   },
+  "DARK_AUCTION_PORTAL": {
+    "name": "Portal to the Dark Auction",
+    "wiki": "https://wiki.hypixel.net/Portals",
+    "base_rarity": "COMMON"
+  },
   "DARK_BAIT": {
     "name": "Dark Bait",
     "recipe": {
