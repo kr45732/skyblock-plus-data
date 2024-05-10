@@ -11379,6 +11379,10 @@
     "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
+  "DYE_ROSE": {
+    "name": "Rose Dye",
+    "base_rarity": "MYTHIC"
+  },
   "DYE_WARDEN": {
     "name": "Warden Dye",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Warden_Dye",
