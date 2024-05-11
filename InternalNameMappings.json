@@ -44284,7 +44284,7 @@
   },
   "SKYBLOCK_PELT": {
     "name": "Pelt",
-    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelt",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Pelts",
     "base_rarity": "SPECIAL"
   },
   "SKYBLOCK_SILVERFISH": {
@@ -44354,7 +44354,7 @@
     }
   },
   "SLAYER_ENERGY_DRINK": {
-    "name": "Slayer Energy Drink",
+    "name": "Slayer© Energy Drink",
     "wiki": "https://wiki.hypixel.net/Brews",
     "base_rarity": "RARE",
     "npc_buy": {
