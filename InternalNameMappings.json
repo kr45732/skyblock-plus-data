@@ -14153,6 +14153,17 @@
   },
   "ENCHANTED_UMBER": {
     "name": "Enchanted Umber",
+    "recipe": {
+      "A1": "",
+      "A2": "UMBER:32",
+      "A3": "",
+      "B1": "UMBER:32",
+      "B2": "UMBER:32",
+      "B3": "UMBER:32",
+      "C1": "",
+      "C2": "UMBER:32",
+      "C3": ""
+    },
     "wiki": "https://wiki.hypixel.net/Enchanted_Umber",
     "base_rarity": "RARE"
   },
