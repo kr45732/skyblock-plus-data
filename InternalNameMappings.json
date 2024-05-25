@@ -39040,6 +39040,11 @@
     "wiki": "https://wiki.hypixel.net/Rabbit_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "RABBIT;5": {
+    "name": "Mythic Rabbit",
+    "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
+    "base_rarity": "MYTHIC"
+  },
   "RABBIT_AXE": {
     "name": "Rabbit Axe",
     "wiki": "https://wiki.hypixel.net/Rabbit_Axe",
