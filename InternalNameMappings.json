@@ -6961,6 +6961,10 @@
     "wiki": "https://wiki.hypixel.net/Fang-tastic_Chocolate_Chip",
     "base_rarity": "LEGENDARY"
   },
+  "CHOCOLATE_FACTORY_BARN_SKIN": {
+    "name": "Chocolate Factory Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "CHRISTMAS_STOCKING_BACKPACK": {
     "name": "Christmas Stocking Backpack Skin",
     "wiki": "https://wiki.hypixel.net/Christmas_Stocking_Backpack_Skin",
@@ -11302,6 +11306,10 @@
   "DYE_CELESTE": {
     "name": "Celeste Dye",
     "wiki": "https://wiki.hypixel.net/Dyes",
+    "base_rarity": "EPIC"
+  },
+  "DYE_CHOCOLATE": {
+    "name": "Chocolate Dye",
     "base_rarity": "EPIC"
   },
   "DYE_CYCLAMEN": {
@@ -48643,6 +48651,10 @@
     "wiki": "https://wiki.hypixel.net/Steak_Stake",
     "base_rarity": "RARE"
   },
+  "STEAMED_CHOCOLATE_FISH": {
+    "name": "Fish Chocolat à la Vapeur",
+    "base_rarity": "EPIC"
+  },
   "STEAMING_HOT_FLOUNDER_BRONZE": {
     "name": "Steaming-Hot Flounder BRONZE",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
@@ -51487,6 +51499,10 @@
     "name": "Toxic Arrow Poison",
     "wiki": "https://wiki.hypixel.net/Toxic_Arrow_Poison",
     "base_rarity": "UNCOMMON"
+  },
+  "TOXOPHILITE;1": {
+    "name": "Toxophilite I",
+    "base_rarity": "COMMON"
   },
   "TOY": {
     "name": "Toy",
