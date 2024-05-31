@@ -4683,6 +4683,7 @@
   },
   "BUNNY_BENCH": {
     "name": "Bunny Bench",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bunny_Bench",
     "base_rarity": "EPIC"
   },
   "BUNNY_JERRY": {
@@ -6921,10 +6922,12 @@
   },
   "CHICK_BED": {
     "name": "Little Chick Bed",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Little_Chick_Bed",
     "base_rarity": "EPIC"
   },
   "CHICK_DRESSER": {
     "name": "Little Chick Dresser",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Little_Chick_Dresser",
     "base_rarity": "EPIC"
   },
   "CHICK_NEST": {
@@ -6934,6 +6937,7 @@
   },
   "CHICK_TEA_TABLE": {
     "name": "Little Chick Tea Table",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Little_Chick_Tea_Table",
     "base_rarity": "EPIC"
   },
   "CHILI_PEPPER": {
@@ -6963,6 +6967,7 @@
   },
   "CHOCOLATE_FACTORY_BARN_SKIN": {
     "name": "Chocolate Factory Barn Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chocolate_Factory_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "CHRISTMAS_STOCKING_BACKPACK": {
@@ -11310,6 +11315,7 @@
   },
   "DYE_CHOCOLATE": {
     "name": "Chocolate Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Chocolate_Dye",
     "base_rarity": "EPIC"
   },
   "DYE_CYCLAMEN": {
@@ -11389,6 +11395,7 @@
   },
   "DYE_ROSE": {
     "name": "Rose Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Rose_Dye",
     "base_rarity": "MYTHIC"
   },
   "DYE_WARDEN": {
@@ -11549,6 +11556,7 @@
   },
   "EGG_PAINTING_STATION": {
     "name": "Egg Painting Station",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Egg_Painting_Station",
     "base_rarity": "EPIC"
   },
   "EGG_PILE": {
@@ -16527,6 +16535,7 @@
       "C2": "FLAWED_AQUAMARINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/α_Fine_Aquamarine_Gemstone",
     "base_rarity": "RARE"
   },
   "FINE_CITRINE_GEM": {
@@ -16542,6 +16551,7 @@
       "C2": "FLAWED_CITRINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Fine_Citrine_Gemstone",
     "base_rarity": "RARE"
   },
   "FINE_JADE_GEM": {
@@ -16589,6 +16599,7 @@
       "C2": "FLAWED_ONYX_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☠_Fine_Onyx_Gemstone",
     "base_rarity": "RARE"
   },
   "FINE_OPAL_GEM": {
@@ -16620,6 +16631,7 @@
       "C2": "FLAWED_PERIDOT_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Fine_Peridot_Gemstone",
     "base_rarity": "RARE"
   },
   "FINE_RUBY_GEM": {
@@ -17339,6 +17351,7 @@
       "C2": "ROUGH_AQUAMARINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/α_Flawed_Aquamarine_Gemstone",
     "base_rarity": "UNCOMMON"
   },
   "FLAWED_CITRINE_GEM": {
@@ -17354,6 +17367,7 @@
       "C2": "ROUGH_CITRINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Flawed_Citrine_Gemstone",
     "base_rarity": "UNCOMMON"
   },
   "FLAWED_JADE_GEM": {
@@ -17401,6 +17415,7 @@
       "C2": "ROUGH_ONYX_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☠_Flawed_Onyx_Gemstone",
     "base_rarity": "UNCOMMON"
   },
   "FLAWED_OPAL_GEM": {
@@ -17432,6 +17447,7 @@
       "C2": "ROUGH_PERIDOT_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Flawed_Peridot_Gemstone",
     "base_rarity": "UNCOMMON"
   },
   "FLAWED_RUBY_GEM": {
@@ -17543,6 +17559,7 @@
       "C2": "FINE_CITRINE_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Flawless_Citrine_Gemstone",
     "base_rarity": "EPIC"
   },
   "FLAWLESS_JADE_GEM": {
@@ -17622,6 +17639,7 @@
       "C2": "FINE_PERIDOT_GEM:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/☘_Flawless_Peridot_Gemstone",
     "base_rarity": "EPIC"
   },
   "FLAWLESS_RUBY_GEM": {
@@ -33371,6 +33389,7 @@
   },
   "PERFECT_AQUAMARINE_GEM": {
     "name": "α Perfect Aquamarine Gemstone",
+    "wiki": "https://wiki.hypixel.net/α_Perfect_Aquamarine_Gemstone",
     "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
@@ -33774,6 +33793,7 @@
   },
   "PERFECT_CITRINE_GEM": {
     "name": "☘ Perfect Citrine Gemstone",
+    "wiki": "https://wiki.hypixel.net/☘_Perfect_Citrine_Gemstone",
     "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
@@ -34188,6 +34208,7 @@
   },
   "PERFECT_ONYX_GEM": {
     "name": "☠ Perfect Onyx Gemstone",
+    "wiki": "https://wiki.hypixel.net/☠_Perfect_Onyx_Gemstone",
     "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
@@ -34199,6 +34220,7 @@
   },
   "PERFECT_PERIDOT_GEM": {
     "name": "☘ Perfect Peridot Gemstone",
+    "wiki": "https://wiki.hypixel.net/☘_Perfect_Peridot_Gemstone",
     "forge": 72000,
     "base_rarity": "LEGENDARY"
   },
@@ -35128,6 +35150,7 @@
   },
   "PET_SKIN_GRANDMA_WOLF_REAL": {
     "name": "Real Grandma Wolf Skin",
+    "wiki": "https://wiki.hypixel.net/Real_Grandma_Wolf_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_GRIFFIN_PEAFOWL": {
@@ -39051,6 +39074,7 @@
   "RABBIT;5": {
     "name": "Mythic Rabbit",
     "texture": "117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b",
+    "wiki": "https://wiki.hypixel.net/Rabbit_Pet",
     "base_rarity": "MYTHIC"
   },
   "RABBIT_AXE": {
@@ -39359,6 +39383,10 @@
       "C3": ""
     },
     "base_rarity": "COMMON"
+  },
+  "RABBIT_THE_FISH": {
+    "name": "Rabbit the Fish",
+    "base_rarity": "SPECIAL"
   },
   "RACING_HELMET": {
     "name": "Racing Helmet",
@@ -41664,10 +41692,12 @@
   },
   "ROUGH_AQUAMARINE_GEM": {
     "name": "α Rough Aquamarine Gemstone",
+    "wiki": "https://wiki.hypixel.net/α_Rough_Aquamarine_Gemstone",
     "base_rarity": "COMMON"
   },
   "ROUGH_CITRINE_GEM": {
     "name": "☘ Rough Citrine Gemstone",
+    "wiki": "https://wiki.hypixel.net/☘_Rough_Citrine_Gemstone",
     "base_rarity": "COMMON"
   },
   "ROUGH_JADE_GEM": {
@@ -41682,6 +41712,7 @@
   },
   "ROUGH_ONYX_GEM": {
     "name": "☠ Rough Onyx Gemstone",
+    "wiki": "https://wiki.hypixel.net/☠_Rough_Onyx_Gemstone",
     "base_rarity": "COMMON"
   },
   "ROUGH_OPAL_GEM": {
@@ -41691,6 +41722,7 @@
   },
   "ROUGH_PERIDOT_GEM": {
     "name": "☘ Rough Peridot Gemstone",
+    "wiki": "https://wiki.hypixel.net/☘_Rough_Peridot_Gemstone",
     "base_rarity": "COMMON"
   },
   "ROUGH_RUBY_GEM": {
