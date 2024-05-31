@@ -2816,6 +2816,10 @@
     "wiki": "https://wiki.hypixel.net/Berserker_Armor",
     "base_rarity": "EPIC"
   },
+  "BERSERKER_SANDSTORM_CAT": {
+    "name": "Sandstorm Cat Skin",
+    "base_rarity": "EPIC"
+  },
   "BEST_WEAPON_RACK": {
     "name": "Weapon Rack+",
     "wiki": "https://wiki.hypixel.net/Weapon_Rack%2B",
@@ -18404,6 +18408,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Frozen_Blaze_Chestplate",
     "base_rarity": "LEGENDARY"
+  },
+  "FROZEN_BLAZE_FROST_KNIGHT": {
+    "name": "Frost Knight Skin",
+    "base_rarity": "EPIC"
   },
   "FROZEN_BLAZE_HELMET": {
     "name": "Frozen Blaze Helmet",
@@ -45157,6 +45165,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "BURNING_EYE:32"
     },
+    "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972",
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "COMMON"
   },
@@ -45173,6 +45182,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "BURNING_EYE:32"
     },
+    "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972",
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "UNCOMMON"
   },
@@ -45189,6 +45199,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "BURNING_EYE:32"
     },
+    "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972",
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "RARE"
   },
@@ -45205,6 +45216,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "BURNING_EYE:32"
     },
+    "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972",
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "EPIC"
   },
@@ -45221,6 +45233,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "BURNING_EYE:32"
     },
+    "texture": "50a9933a3b10489d38f6950c4e628bfcf9f7a27f8d84666f04f14d5374252972",
     "wiki": "https://wiki.hypixel.net/Snail_Pet",
     "base_rarity": "LEGENDARY"
   },
