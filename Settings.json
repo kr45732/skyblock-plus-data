@@ -2,6 +2,6 @@
   "mojangApiNum": 1,
   "ahApiUrl": "https://auctions.sbplus.codes/",
   "allowMojangApi": true,
-  "neuBranch": "prerelease",
+  "neuBranch": "master",
   "hasteUrl": "https://haste.sbplus.codes/api/"
 }
