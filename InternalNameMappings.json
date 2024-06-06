@@ -37141,6 +37141,18 @@
     "name": "Magic Find I Potion",
     "base_rarity": "COMMON"
   },
+  "POTION_MAGIC_FIND;2": {
+    "name": "Magic Find II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_MAGIC_FIND;3": {
+    "name": "Magic Find III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_MAGIC_FIND;4": {
+    "name": "Magic Find IV Potion",
+    "base_rarity": "UNCOMMON"
+  },
   "POTION_MANA;1": {
     "name": "Mana I Potion",
     "base_rarity": "COMMON"
@@ -37379,6 +37391,18 @@
   "POTION_SPIRIT;1": {
     "name": "Spirit I Potion",
     "base_rarity": "COMMON"
+  },
+  "POTION_SPIRIT;2": {
+    "name": "Spirit II Potion",
+    "base_rarity": "COMMON"
+  },
+  "POTION_SPIRIT;3": {
+    "name": "Spirit III Potion",
+    "base_rarity": "UNCOMMON"
+  },
+  "POTION_SPIRIT;4": {
+    "name": "Spirit IV Potion",
+    "base_rarity": "UNCOMMON"
   },
   "POTION_STAMINA;1": {
     "name": "Stamina I Potion",
