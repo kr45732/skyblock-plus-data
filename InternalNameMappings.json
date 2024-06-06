@@ -5252,6 +5252,10 @@
     "wiki": "https://wiki.hypixel.net/Cake_Soul",
     "base_rarity": "MYTHIC"
   },
+  "CAMPAIGN_POSTER": {
+    "name": "Campaign Poster",
+    "base_rarity": "SPECIAL"
+  },
   "CAMPFIRE": {
     "name": "Fire Pit",
     "wiki": "https://wiki.hypixel.net/Fire_Pit",
