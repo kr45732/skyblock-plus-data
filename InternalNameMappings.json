@@ -1773,6 +1773,10 @@
     "wiki": "https://wiki.hypixel.net/Bal_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "BALLOON_HAT_2024": {
+    "name": "Yellow 5th Anniversary Balloon Hat",
+    "base_rarity": "SPECIAL"
+  },
   "BALLOON_SNAKE": {
     "name": "Balloon Snake",
     "wiki": "https://wiki.hypixel.net/Balloon_Snake",
