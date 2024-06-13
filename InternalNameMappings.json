@@ -33123,6 +33123,10 @@
     "name": "Paleontologist V",
     "base_rarity": "UNCOMMON"
   },
+  "PANDA_SPIRIT": {
+    "name": "Panda Spirit Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "PANDORAS_BOX": {
     "name": "Pandora\u0027s Box",
     "wiki": "https://wiki.hypixel.net/Pandora%27s_Box",
