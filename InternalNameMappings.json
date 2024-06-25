@@ -25543,6 +25543,10 @@
     "wiki": "https://wiki.hypixel.net/Jungle_Biome_Stick",
     "base_rarity": "COMMON"
   },
+  "JUNGLE_CABIN": {
+    "name": "Jungle Cabin",
+    "base_rarity": "EPIC"
+  },
   "JUNGLE_CHAIR": {
     "name": "Jungle Chair",
     "base_rarity": "EPIC"
@@ -25562,6 +25566,10 @@
       "count": 3
     },
     "base_rarity": "COMMON"
+  },
+  "JUNGLE_DRESSER": {
+    "name": "Jungle Dresser",
+    "base_rarity": "EPIC"
   },
   "JUNGLE_FENCE": {
     "name": "Jungle Fence",
