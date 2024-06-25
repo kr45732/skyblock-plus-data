@@ -923,6 +923,10 @@
     "wiki": "https://wiki.hypixel.net/Angler_Chestplate",
     "base_rarity": "COMMON"
   },
+  "ANGLER_DEEP_SEA": {
+    "name": "Deep Sea Skin",
+    "base_rarity": "EPIC"
+  },
   "ANGLER_HELMET": {
     "name": "Angler Helmet",
     "recipe": {
@@ -25519,6 +25523,10 @@
     "wiki": "https://wiki.hypixel.net/Jungle_Axe",
     "base_rarity": "UNCOMMON"
   },
+  "JUNGLE_BED": {
+    "name": "Jungle Bed",
+    "base_rarity": "EPIC"
+  },
   "JUNGLE_BIOME_STICK": {
     "name": "Jungle Biome Stick",
     "recipe": {
@@ -25534,6 +25542,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Jungle_Biome_Stick",
     "base_rarity": "COMMON"
+  },
+  "JUNGLE_CHAIR": {
+    "name": "Jungle Chair",
+    "base_rarity": "EPIC"
   },
   "JUNGLE_DOOR_ITEM": {
     "name": "Jungle Door",
@@ -25782,6 +25794,10 @@
         "SLUDGE_JUICE:200"
       ]
     }
+  },
+  "JUNGLE_TABLE": {
+    "name": "Jungle Table",
+    "base_rarity": "EPIC"
   },
   "JUNGLE_WOOD_STAIRS": {
     "name": "Jungle Wood Stairs",
@@ -48242,6 +48258,10 @@
         "SKYBLOCK_COIN:45000"
       ]
     }
+  },
+  "STARLIGHT_STARKNIGHT": {
+    "name": "Starknight Skin",
+    "base_rarity": "EPIC"
   },
   "STARLIGHT_WAND": {
     "name": "Starlight Wand",
