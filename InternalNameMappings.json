@@ -8055,6 +8055,10 @@
     "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion_IX",
     "base_rarity": "RARE"
   },
+  "COCONUT_DRINK": {
+    "name": "Coconut Drink",
+    "base_rarity": "EPIC"
+  },
   "COCO_CHOPPER": {
     "name": "Cocoa Chopper",
     "wiki": "https://wiki.hypixel.net/Coco_Chopper",
