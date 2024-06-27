@@ -2442,6 +2442,14 @@
     "wiki": "https://wiki.hypixel.net/Beach_Ball",
     "base_rarity": "COMMON"
   },
+  "BEACH_BALL_BARN_SKIN": {
+    "name": "Beach Ball Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
+  "BEACH_BALL_FLUX": {
+    "name": "Beach Ball Power Orb Skin",
+    "base_rarity": "MYTHIC"
+  },
   "BEACH_BALL_PERSONALITY": {
     "name": "Beach Ball Minion Skin",
     "wiki": "https://wiki.hypixel.net/Minion_Skins",
@@ -21648,6 +21656,10 @@
     "wiki": "https://wiki.hypixel.net/Halloween_Scarecrow",
     "base_rarity": "RARE"
   },
+  "HAMBAGGER_BACKPACK": {
+    "name": "Hambagger Backpack Skin",
+    "base_rarity": "EPIC"
+  },
   "HAMMOCK": {
     "name": "Hammock",
     "wiki": "https://wiki.hypixel.net/Hammock",
@@ -34968,6 +34980,14 @@
     "wiki": "https://wiki.hypixel.net/Frozen_Blaze_Skin",
     "base_rarity": "MYTHIC"
   },
+  "PET_SKIN_BLAZE_PLUSHIE": {
+    "name": "Plushie Blaze Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_BLUE_WHALE_PLUSHIE": {
+    "name": "Plushie Blue Whale Skin",
+    "base_rarity": "EPIC"
+  },
   "PET_SKIN_CAT_SPACE_KITTY": {
     "name": "Space Kitty Black Cat Skin",
     "wiki": "https://wiki.hypixel.net/Space_Kitty_Black_Cat_Skin",
@@ -35789,6 +35809,10 @@
   "PET_SKIN_WOLF_DOGE": {
     "name": "Doge Wolf Skin",
     "wiki": "https://wiki.hypixel.net/Doge_Wolf_Skin",
+    "base_rarity": "EPIC"
+  },
+  "PET_SKIN_WOLF_DOGE_PLUSHIE": {
+    "name": "Doge Plushie Wolf Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_WOLF_HUSKY": {
@@ -39584,6 +39608,10 @@
     "name": "◆ Rainbow Rune III",
     "base_rarity": "LEGENDARY"
   },
+  "RAINY_DAY_RUNE;3": {
+    "name": "◆ Rainy Day Rune III",
+    "base_rarity": "LEGENDARY"
+  },
   "RAMPART_BOOTS": {
     "name": "Rampart Boots",
     "wiki": "https://wiki.hypixel.net/Rampart_Boots",
@@ -40866,6 +40894,10 @@
     },
     "wiki": "https://wiki.hypixel.net/Rekindled_Ember_Boots",
     "base_rarity": "EPIC"
+  },
+  "REKINDLED_EMBER_BURNING": {
+    "name": "Smoldering Ember Skin",
+    "base_rarity": "MYTHIC"
   },
   "REKINDLED_EMBER_CHESTPLATE": {
     "name": "Rekindled Ember Chestplate",
