@@ -785,6 +785,11 @@
     "forge": 25200,
     "base_rarity": "EPIC"
   },
+  "AMBER_NECKLACE": {
+    "name": "Amber Necklace",
+    "forge": 64800,
+    "base_rarity": "EPIC"
+  },
   "AMBER_POLISHED_DRILL_ENGINE": {
     "name": "Amber-Polished Drill Engine",
     "wiki": "https://wiki.hypixel.net/Amber-Polished_Drill_Engine",
@@ -811,6 +816,11 @@
     "name": "Amethyst Crystal",
     "wiki": "https://wiki.hypixel.net/Amethyst_Crystal",
     "base_rarity": "RARE"
+  },
+  "AMETHYST_GAUNTLET": {
+    "name": "Amethyst Gauntlet",
+    "forge": 64800,
+    "base_rarity": "EPIC"
   },
   "AMETHYST_POWER_SCROLL": {
     "name": "Amethyst Power Scroll",
@@ -1226,6 +1236,10 @@
     "wiki": "https://wiki.hypixel.net/Armadillo_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "ARMADILLO_MASK": {
+    "name": "Armadillo Mask",
+    "base_rarity": "RARE"
+  },
   "ARMORSHRED_ARROW": {
     "name": "Armorshred Arrow",
     "wiki": "https://wiki.hypixel.net/Armorshred_Arrow",
@@ -1398,6 +1412,21 @@
       ],
       "count": 1
     }
+  },
+  "ARTIFACT_OF_COINS": {
+    "name": "Artifact of Coins",
+    "recipe": {
+      "A1": "",
+      "A2": "FRESHLY_MINTED_COINS:4",
+      "A3": "",
+      "B1": "FRESHLY_MINTED_COINS:4",
+      "B2": "RING_OF_COINS:1",
+      "B3": "FRESHLY_MINTED_COINS:4",
+      "C1": "",
+      "C2": "FRESHLY_MINTED_COINS:4",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
   },
   "ARTIFACT_OF_CONTROL": {
     "name": "Artifact of Control",
@@ -1682,6 +1711,16 @@
     "npc_buy": {
       "cost": [
         "SKYBLOCK_COPPER:2000"
+      ],
+      "count": 1
+    }
+  },
+  "AVARICIOUS_CHALICE": {
+    "name": "Avaricious Chalice",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "STOCK_OF_STONKS:50"
       ],
       "count": 1
     }
@@ -2711,6 +2750,10 @@
   "BEE_HIVE": {
     "name": "Bee Hive",
     "wiki": "https://hypixel-skyblock.fandom.com/wiki/Bee_Hive",
+    "base_rarity": "EPIC"
+  },
+  "BEE_MASK": {
+    "name": "Bee Mask",
     "base_rarity": "EPIC"
   },
   "BEE_PERSONALITY": {
@@ -3920,6 +3963,36 @@
     "wiki": "https://wiki.hypixel.net/Blood_God_Crest",
     "base_rarity": "COMMON"
   },
+  "BLOOD_SOAKED_COINS": {
+    "name": "Blood-Soaked Coins",
+    "recipe": {
+      "A1": "",
+      "A2": "HEMOGLASS:8",
+      "A3": "",
+      "B1": "HEMOGLASS:8",
+      "B2": "BLOOD_STAINED_COINS:1",
+      "B3": "HEMOGLASS:8",
+      "C1": "",
+      "C2": "HEMOGLASS:8",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
+  "BLOOD_STAINED_COINS": {
+    "name": "Blood-Stained Coins",
+    "recipe": {
+      "A1": "",
+      "A2": "HEMOGLASS:1",
+      "A3": "",
+      "B1": "HEMOGLASS:1",
+      "B2": "FRESHLY_MINTED_COINS:1",
+      "B3": "HEMOGLASS:1",
+      "C1": "",
+      "C2": "HEMOGLASS:1",
+      "C3": ""
+    },
+    "base_rarity": "RARE"
+  },
   "BLUETOOTH_RING": {
     "name": "Bluetooth Ring",
     "recipe": {
@@ -4517,6 +4590,10 @@
       ],
       "count": 1
     }
+  },
+  "BROWN_BANDANA": {
+    "name": "Brown Bandana",
+    "base_rarity": "RARE"
   },
   "BROWN_MUSHROOM": {
     "name": "Brown Mushroom",
@@ -5512,6 +5589,27 @@
       "count": 3
     },
     "base_rarity": "RARE"
+  },
+  "CARNIVAL_DART_TUBE": {
+    "name": "Carnival Dart Tube",
+    "scrollable": true,
+    "base_rarity": "UNCOMMON"
+  },
+  "CARNIVAL_FISHING_ROD": {
+    "name": "Carnival Rod",
+    "base_rarity": "UNCOMMON"
+  },
+  "CARNIVAL_MASK_BAG": {
+    "name": "Carnival Mask Bag",
+    "base_rarity": "COMMON"
+  },
+  "CARNIVAL_SHOVEL": {
+    "name": "Carnival Shovel",
+    "base_rarity": "UNCOMMON"
+  },
+  "CARNIVAL_TICKET": {
+    "name": "Carnival Ticket",
+    "base_rarity": "UNCOMMON"
   },
   "CARPENTRY_BENCH": {
     "name": "Carpentry Table",
@@ -8955,6 +9053,21 @@
     "wiki": "https://wiki.hypixel.net/Cropie_Talisman",
     "base_rarity": "COMMON"
   },
+  "CROWN_OF_AVARICE": {
+    "name": "Crown of Avarice",
+    "recipe": {
+      "A1": "GRIFFIN_FEATHER:16",
+      "A2": "ENCHANTED_GOLD_BLOCK:8",
+      "A3": "GRIFFIN_FEATHER:16",
+      "B1": "ENCHANTED_GOLD_BLOCK:8",
+      "B2": "CROWN_OF_GREED:1",
+      "B3": "ENCHANTED_GOLD_BLOCK:8",
+      "C1": "GRIFFIN_FEATHER:16",
+      "C2": "AVARICIOUS_CHALICE:2",
+      "C3": "GRIFFIN_FEATHER:16"
+    },
+    "base_rarity": "LEGENDARY"
+  },
   "CROWN_OF_GREED": {
     "name": "Crown of Greed",
     "wiki": "https://wiki.hypixel.net/Crown_Of_Greed",
@@ -10760,6 +10873,11 @@
     "forge": 604800,
     "base_rarity": "LEGENDARY"
   },
+  "DIVAN_POWDER_COATING": {
+    "name": "Divan\u0027s Powder Coating",
+    "forge": 97200,
+    "base_rarity": "LEGENDARY"
+  },
   "DIVER_BOOTS": {
     "name": "Diver\u0027s Boots",
     "recipe": {
@@ -11864,6 +11982,21 @@
     },
     "wiki": "https://wiki.hypixel.net/Emerald_Armor_Leggings",
     "base_rarity": "EPIC"
+  },
+  "EMERALD_ARTIFACT": {
+    "name": "Emerald Artifact",
+    "recipe": {
+      "A1": "ENCHANTED_EMERALD_BLOCK:6",
+      "A2": "",
+      "A3": "ENCHANTED_EMERALD_BLOCK:6",
+      "B1": "ENCHANTED_EMERALD_BLOCK:6",
+      "B2": "EMERALD_RING:1",
+      "B3": "ENCHANTED_EMERALD_BLOCK:6",
+      "C1": "ENCHANTED_EMERALD_BLOCK:6",
+      "C2": "AVARICIOUS_CHALICE:1",
+      "C3": "ENCHANTED_EMERALD_BLOCK:6"
+    },
+    "base_rarity": "RARE"
   },
   "EMERALD_BLADE": {
     "name": "Emerald Blade",
@@ -16584,6 +16717,10 @@
     "wiki": "https://wiki.hypixel.net/☘_Fine_Citrine_Gemstone",
     "base_rarity": "RARE"
   },
+  "FINE_FLOUR": {
+    "name": "Fine Flour",
+    "base_rarity": "UNCOMMON"
+  },
   "FINE_JADE_GEM": {
     "name": "☘ Fine Jade Gemstone",
     "recipe": {
@@ -18346,6 +18483,16 @@
     "wiki": "https://wiki.hypixel.net/French_Fries",
     "base_rarity": "COMMON"
   },
+  "FRESHLY_MINTED_COINS": {
+    "name": "Freshly-Minted Coins",
+    "base_rarity": "RARE",
+    "npc_buy": {
+      "cost": [
+        "STOCK_OF_STONKS:1"
+      ],
+      "count": 1
+    }
+  },
   "FRIGID_HUSK": {
     "name": "Frigid Husk",
     "wiki": "https://wiki.hypixel.net/Frigid_Husk",
@@ -18356,6 +18503,10 @@
     "name": "Frog Barn Skin",
     "wiki": "https://wiki.hypixel.net/Frog_Barn_Skin",
     "base_rarity": "LEGENDARY"
+  },
+  "FROG_MASK": {
+    "name": "Frog Mask",
+    "base_rarity": "EPIC"
   },
   "FROSTY_CRUX": {
     "name": "Frosty Crux",
@@ -19540,6 +19691,11 @@
       "count": 8
     }
   },
+  "GLEAMING_CRYSTAL": {
+    "name": "Gleaming Crystal",
+    "forge": 32400,
+    "base_rarity": "EPIC"
+  },
   "GLISTENING_MELON_FLUX": {
     "name": "Glistening Melon Power Orb Skin",
     "wiki": "https://wiki.hypixel.net/Fire_Sale",
@@ -19560,6 +19716,85 @@
     },
     "wiki": "https://wiki.hypixel.net/Gloomlock_Grimoire",
     "scrollable": true,
+    "base_rarity": "EPIC"
+  },
+  "GLOSSY_GEMSTONE": {
+    "name": "Glossy Gemstone",
+    "base_rarity": "EPIC"
+  },
+  "GLOSSY_MINERAL_BOOTS": {
+    "name": "Glossy Mineral Boots",
+    "recipe": {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_BOOTS:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2"
+    },
+    "base_rarity": "LEGENDARY"
+  },
+  "GLOSSY_MINERAL_CHESTPLATE": {
+    "name": "Glossy Mineral Chestplate",
+    "recipe": {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_CHESTPLATE:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2"
+    },
+    "base_rarity": "LEGENDARY"
+  },
+  "GLOSSY_MINERAL_HELMET": {
+    "name": "Glossy Mineral Helmet",
+    "recipe": {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_HELMET:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2"
+    },
+    "base_rarity": "LEGENDARY"
+  },
+  "GLOSSY_MINERAL_LEGGINGS": {
+    "name": "Glossy Mineral Leggings",
+    "recipe": {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_LEGGINGS:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2"
+    },
+    "base_rarity": "LEGENDARY"
+  },
+  "GLOSSY_MINERAL_TALISMAN": {
+    "name": "Glossy Mineral Talisman",
+    "recipe": {
+      "A1": "GLOSSY_GEMSTONE:2",
+      "A2": "GLOSSY_GEMSTONE:2",
+      "A3": "GLOSSY_GEMSTONE:2",
+      "B1": "GLOSSY_GEMSTONE:2",
+      "B2": "MINERAL_TALISMAN:1",
+      "B3": "GLOSSY_GEMSTONE:2",
+      "C1": "GLOSSY_GEMSTONE:2",
+      "C2": "GLOSSY_GEMSTONE:2",
+      "C3": "GLOSSY_GEMSTONE:2"
+    },
     "base_rarity": "EPIC"
   },
   "GLOWING_GRAPE_FLUX": {
@@ -20018,6 +20253,16 @@
     "wiki": "https://wiki.hypixel.net/Golden_Ball",
     "base_rarity": "EPIC"
   },
+  "GOLDEN_BOUNTY": {
+    "name": "Golden Bounty",
+    "base_rarity": "LEGENDARY",
+    "npc_buy": {
+      "cost": [
+        "STOCK_OF_STONKS:20"
+      ],
+      "count": 1
+    }
+  },
   "GOLDEN_CARPET_RUNE;3": {
     "name": "◆ Golden Carpet Rune III",
     "base_rarity": "LEGENDARY"
@@ -20078,6 +20323,16 @@
     "name": "Golden Fish SILVER",
     "wiki": "https://wiki.hypixel.net/Trophy_Fish",
     "base_rarity": "LEGENDARY"
+  },
+  "GOLDEN_FRAGMENT": {
+    "name": "Golden Fragment",
+    "base_rarity": "EPIC",
+    "npc_buy": {
+      "cost": [
+        "STOCK_OF_STONKS:3"
+      ],
+      "count": 1
+    }
   },
   "GOLDEN_PLATE": {
     "name": "Golden Plate",
@@ -25189,6 +25444,11 @@
     "wiki": "https://wiki.hypixel.net/Jaderald",
     "base_rarity": "RARE"
   },
+  "JADE_BELT": {
+    "name": "Jade Belt",
+    "forge": 64800,
+    "base_rarity": "EPIC"
+  },
   "JADE_CRYSTAL": {
     "name": "Jade Crystal",
     "wiki": "https://wiki.hypixel.net/Jade_Crystal",
@@ -26819,6 +27079,21 @@
       "C3": "ENCHANTED_COAL:16"
     },
     "wiki": "https://wiki.hypixel.net/Large_Enchanted_Mining_Sack",
+    "base_rarity": "EPIC"
+  },
+  "LARGE_EVENTS_SACK": {
+    "name": "Events Sack",
+    "recipe": {
+      "A1": "CARNIVAL_TICKET:10",
+      "A2": "LARGE_WINTER_SACK:1",
+      "A3": "CARNIVAL_TICKET:10",
+      "B1": "CARNIVAL_TICKET:10",
+      "B2": "LARGE_CANDY_SACK:1",
+      "B3": "CARNIVAL_TICKET:10",
+      "C1": "CARNIVAL_TICKET:10",
+      "C2": "CARNIVAL_TICKET:10",
+      "C3": "CARNIVAL_TICKET:10"
+    },
     "base_rarity": "EPIC"
   },
   "LARGE_FISHING_SACK": {
@@ -30248,6 +30523,16 @@
     "wiki": "https://wiki.hypixel.net/Mite_Gel",
     "base_rarity": "EPIC"
   },
+  "MITHRIL_BELT": {
+    "name": "Mithril Belt",
+    "forge": 2700,
+    "base_rarity": "UNCOMMON"
+  },
+  "MITHRIL_CLOAK": {
+    "name": "Mithril Cloak",
+    "forge": 2700,
+    "base_rarity": "UNCOMMON"
+  },
   "MITHRIL_COAT": {
     "name": "Mithril Coat",
     "recipe": {
@@ -30303,6 +30588,11 @@
     "wiki": "https://wiki.hypixel.net/Mithril-Infused_Fuel_Tank",
     "forge": 36000,
     "base_rarity": "RARE"
+  },
+  "MITHRIL_GAUNTLET": {
+    "name": "Mithril Gauntlet",
+    "forge": 2700,
+    "base_rarity": "UNCOMMON"
   },
   "MITHRIL_GENERATOR_1": {
     "name": "Mithril Minion I",
@@ -30602,6 +30892,11 @@
       "C3": "ENCHANTED_MITHRIL:64"
     },
     "wiki": "https://wiki.hypixel.net/Mithril_Infusion",
+    "base_rarity": "UNCOMMON"
+  },
+  "MITHRIL_NECKLACE": {
+    "name": "Mithril Necklace",
+    "forge": 2700,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_ORE": {
@@ -33249,6 +33544,14 @@
     "wiki": "https://wiki.hypixel.net/Parrot_Pet",
     "base_rarity": "LEGENDARY"
   },
+  "PARROT_MASK": {
+    "name": "Parrot Mask",
+    "base_rarity": "RARE"
+  },
+  "PARTY_GIFT": {
+    "name": "Party Gift",
+    "base_rarity": "UNCOMMON"
+  },
   "PARTY_HAT_CRAB_AQUA": {
     "name": "Aqua Crab Hat of Celebration",
     "wiki": "https://wiki.hypixel.net/Aqua_Crab_Hat_Of_Celebration",
@@ -34517,6 +34820,10 @@
       ],
       "count": 1
     }
+  },
+  "PEST_VEST": {
+    "name": "Pest Vest",
+    "base_rarity": "EPIC"
   },
   "PETRIFIED_STARFALL": {
     "name": "Petrified Starfall",
@@ -40960,6 +41267,21 @@
     "wiki": "https://wiki.hypixel.net/Rekindled_Ember_Leggings",
     "base_rarity": "EPIC"
   },
+  "RELIC_OF_COINS": {
+    "name": "Relic of Coins",
+    "recipe": {
+      "A1": "",
+      "A2": "FRESHLY_MINTED_COINS:16",
+      "A3": "",
+      "B1": "FRESHLY_MINTED_COINS:16",
+      "B2": "ARTIFACT_OF_COINS:1",
+      "B3": "FRESHLY_MINTED_COINS:16",
+      "C1": "",
+      "C2": "FRESHLY_MINTED_COINS:16",
+      "C3": ""
+    },
+    "base_rarity": "EPIC"
+  },
   "REMNANT_OF_THE_EYE": {
     "name": "Remnant of the Eye",
     "wiki": "https://wiki.hypixel.net/Remnant_Of_The_Eye",
@@ -41548,6 +41870,21 @@
     "wiki": "https://wiki.hypixel.net/Ring_Of_Broken_Love",
     "base_rarity": "LEGENDARY"
   },
+  "RING_OF_COINS": {
+    "name": "Ring of Coins",
+    "recipe": {
+      "A1": "",
+      "A2": "FRESHLY_MINTED_COINS:1",
+      "A3": "",
+      "B1": "FRESHLY_MINTED_COINS:1",
+      "B2": "COIN_TALISMAN:1",
+      "B3": "FRESHLY_MINTED_COINS:1",
+      "C1": "",
+      "C2": "FRESHLY_MINTED_COINS:1",
+      "C3": ""
+    },
+    "base_rarity": "UNCOMMON"
+  },
   "RING_POTION_AFFINITY": {
     "name": "Potion Affinity Ring",
     "recipe": {
@@ -42028,6 +42365,10 @@
     "wiki": "https://wiki.hypixel.net/Salmon_Leggings",
     "base_rarity": "RARE"
   },
+  "SALMON_MASK": {
+    "name": "Salmon Mask",
+    "base_rarity": "UNCOMMON"
+  },
   "SALMON_OPAL": {
     "name": "Salmon Opal",
     "wiki": "https://wiki.hypixel.net/Salmon_Opal",
@@ -42347,6 +42688,11 @@
     "name": "Oak Sapling",
     "base_rarity": "COMMON"
   },
+  "SAPPHIRE_CLOAK": {
+    "name": "Sapphire Cloak",
+    "forge": 64800,
+    "base_rarity": "EPIC"
+  },
   "SAPPHIRE_CRYSTAL": {
     "name": "Sapphire Crystal",
     "wiki": "https://wiki.hypixel.net/Sapphire_Crystal",
@@ -42552,6 +42898,36 @@
         "SKYBLOCK_COIN:15000000"
       ]
     }
+  },
+  "SCAVENGER_ARTIFACT": {
+    "name": "Scavenger Artifact",
+    "recipe": {
+      "A1": "BLOOD_SOAKED_COINS:1",
+      "A2": "FRESHLY_MINTED_COINS:4",
+      "A3": "BLOOD_SOAKED_COINS:1",
+      "B1": "FRESHLY_MINTED_COINS:4",
+      "B2": "SCAVENGER_RING:1",
+      "B3": "FRESHLY_MINTED_COINS:4",
+      "C1": "BLOOD_SOAKED_COINS:1",
+      "C2": "FRESHLY_MINTED_COINS:4",
+      "C3": "BLOOD_SOAKED_COINS:1"
+    },
+    "base_rarity": "RARE"
+  },
+  "SCAVENGER_RING": {
+    "name": "Scavenger Ring",
+    "recipe": {
+      "A1": "BLOOD_STAINED_COINS:1",
+      "A2": "FRESHLY_MINTED_COINS:2",
+      "A3": "BLOOD_STAINED_COINS:1",
+      "B1": "FRESHLY_MINTED_COINS:2",
+      "B2": "SCAVENGER_TALISMAN:1",
+      "B3": "FRESHLY_MINTED_COINS:2",
+      "C1": "BLOOD_STAINED_COINS:1",
+      "C2": "FRESHLY_MINTED_COINS:2",
+      "C3": "BLOOD_STAINED_COINS:1"
+    },
+    "base_rarity": "UNCOMMON"
   },
   "SCAVENGER_TALISMAN": {
     "name": "Scavenger Talisman",
@@ -48491,6 +48867,21 @@
     "scrollable": true,
     "base_rarity": "RARE"
   },
+  "STARRED_DAEDALUS_AXE": {
+    "name": "⚚ Daedalus Axe",
+    "recipe": {
+      "A1": "GOLDEN_FRAGMENT:1",
+      "A2": "GOLDEN_FRAGMENT:1",
+      "A3": "GOLDEN_FRAGMENT:1",
+      "B1": "GOLDEN_FRAGMENT:1",
+      "B2": "DAEDALUS_AXE:1",
+      "B3": "GOLDEN_FRAGMENT:1",
+      "C1": "GOLDEN_FRAGMENT:1",
+      "C2": "GOLDEN_FRAGMENT:1",
+      "C3": "GOLDEN_FRAGMENT:1"
+    },
+    "base_rarity": "LEGENDARY"
+  },
   "STARRED_FELTHORN_REAPER": {
     "name": "⚚ Felthorn Reaper",
     "recipe": {
@@ -48572,6 +48963,37 @@
       "C3": "LIVID_FRAGMENT:1"
     },
     "wiki": "https://wiki.hypixel.net/%E2%9A%9A_Last_Breath",
+    "base_rarity": "LEGENDARY"
+  },
+  "STARRED_MIDAS_STAFF": {
+    "name": "⚚ Midas Staff",
+    "recipe": {
+      "A1": "GOLDEN_FRAGMENT:1",
+      "A2": "GOLDEN_FRAGMENT:1",
+      "A3": "GOLDEN_FRAGMENT:1",
+      "B1": "GOLDEN_FRAGMENT:1",
+      "B2": "MIDAS_STAFF:1",
+      "B3": "GOLDEN_FRAGMENT:1",
+      "C1": "GOLDEN_FRAGMENT:1",
+      "C2": "GOLDEN_FRAGMENT:1",
+      "C3": "GOLDEN_FRAGMENT:1"
+    },
+    "scrollable": true,
+    "base_rarity": "LEGENDARY"
+  },
+  "STARRED_MIDAS_SWORD": {
+    "name": "⚚ Midas\u0027 Sword",
+    "recipe": {
+      "A1": "GOLDEN_FRAGMENT:1",
+      "A2": "GOLDEN_FRAGMENT:1",
+      "A3": "GOLDEN_FRAGMENT:1",
+      "B1": "GOLDEN_FRAGMENT:1",
+      "B2": "MIDAS_SWORD:1",
+      "B3": "GOLDEN_FRAGMENT:1",
+      "C1": "GOLDEN_FRAGMENT:1",
+      "C2": "GOLDEN_FRAGMENT:1",
+      "C3": "GOLDEN_FRAGMENT:1"
+    },
     "base_rarity": "LEGENDARY"
   },
   "STARRED_SHADOW_ASSASSIN_BOOTS": {
@@ -51471,6 +51893,16 @@
     "forge": 129600,
     "base_rarity": "EPIC"
   },
+  "TITANIUM_BELT": {
+    "name": "Titanium Belt",
+    "forge": 12150,
+    "base_rarity": "RARE"
+  },
+  "TITANIUM_CLOAK": {
+    "name": "Titanium Cloak",
+    "forge": 12150,
+    "base_rarity": "RARE"
+  },
   "TITANIUM_DRILL_1": {
     "name": "Titanium Drill DR-X355",
     "wiki": "https://wiki.hypixel.net/Titanium_Drill_DR-X355",
@@ -51505,6 +51937,16 @@
     "name": "Titanium-Infused Fuel Tank",
     "wiki": "https://wiki.hypixel.net/Titanium-Infused_Fuel_Tank",
     "forge": 90000,
+    "base_rarity": "RARE"
+  },
+  "TITANIUM_GAUNTLET": {
+    "name": "Titanium Gauntlet",
+    "forge": 12150,
+    "base_rarity": "RARE"
+  },
+  "TITANIUM_NECKLACE": {
+    "name": "Titanium Necklace",
+    "forge": 12150,
     "base_rarity": "RARE"
   },
   "TITANIUM_ORE": {
@@ -56500,6 +56942,10 @@
     "name": "Zombie Lord Leggings",
     "wiki": "https://wiki.hypixel.net/Zombie_Lord_Leggings",
     "base_rarity": "EPIC"
+  },
+  "ZOMBIE_MASK": {
+    "name": "Zombie Mask",
+    "base_rarity": "UNCOMMON"
   },
   "ZOMBIE_PICKAXE": {
     "name": "Zombie Pickaxe",
