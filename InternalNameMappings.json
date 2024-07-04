@@ -42483,6 +42483,10 @@
     },
     "base_rarity": "COMMON"
   },
+  "SAND_CASTLE_BARN_SKIN": {
+    "name": "Sand Castle Barn Skin",
+    "base_rarity": "LEGENDARY"
+  },
   "SAND_GENERATOR_1": {
     "name": "Sand Minion I",
     "recipe": {
