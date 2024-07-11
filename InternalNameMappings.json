@@ -11521,6 +11521,10 @@
     "wiki": "https://wiki.hypixel.net/Dyes",
     "base_rarity": "EPIC"
   },
+  "DYE_PORTAL": {
+    "name": "Portal Dye",
+    "base_rarity": "MYTHIC"
+  },
   "DYE_PURE_BLACK": {
     "name": "Pure Black Dye",
     "wiki": "https://wiki.hypixel.net/Pure_Black_Dye",
