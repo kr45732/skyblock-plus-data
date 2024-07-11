@@ -787,6 +787,7 @@
   },
   "AMBER_NECKLACE": {
     "name": "Amber Necklace",
+    "wiki": "https://wiki.hypixel.net/Amber_Necklace",
     "forge": 86400,
     "base_rarity": "EPIC"
   },
@@ -819,6 +820,7 @@
   },
   "AMETHYST_GAUNTLET": {
     "name": "Amethyst Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Amethyst_Gauntlet",
     "forge": 86400,
     "base_rarity": "EPIC"
   },
@@ -935,6 +937,7 @@
   },
   "ANGLER_DEEP_SEA": {
     "name": "Deep Sea Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Deep_Sea_Skin",
     "base_rarity": "EPIC"
   },
   "ANGLER_HELMET": {
@@ -1238,6 +1241,7 @@
   },
   "ARMADILLO_MASK": {
     "name": "Armadillo Mask",
+    "wiki": "https://wiki.hypixel.net/Armadillo_Mask",
     "base_rarity": "RARE"
   },
   "ARMORSHRED_ARROW": {
@@ -1426,6 +1430,7 @@
       "C2": "FRESHLY_MINTED_COINS:4",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Artifact_Of_Coins",
     "base_rarity": "RARE"
   },
   "ARTIFACT_OF_CONTROL": {
@@ -1717,6 +1722,7 @@
   },
   "AVARICIOUS_CHALICE": {
     "name": "Avaricious Chalice",
+    "wiki": "https://wiki.hypixel.net/Avaricious_Chalice",
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
@@ -2483,10 +2489,12 @@
   },
   "BEACH_BALL_BARN_SKIN": {
     "name": "Beach Ball Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Beach_Ball_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "BEACH_BALL_FLUX": {
     "name": "Beach Ball Power Orb Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Beach_Ball_Power_Orb_Skin",
     "base_rarity": "MYTHIC"
   },
   "BEACH_BALL_PERSONALITY": {
@@ -2754,6 +2762,7 @@
   },
   "BEE_MASK": {
     "name": "Bee Mask",
+    "wiki": "https://wiki.hypixel.net/Bee_Mask",
     "base_rarity": "EPIC"
   },
   "BEE_PERSONALITY": {
@@ -3976,6 +3985,7 @@
       "C2": "HEMOGLASS:8",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Blood-Soaked_Coins",
     "base_rarity": "EPIC"
   },
   "BLOOD_STAINED_COINS": {
@@ -3991,6 +4001,7 @@
       "C2": "HEMOGLASS:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Blood-Stained_Coins",
     "base_rarity": "RARE"
   },
   "BLUETOOTH_RING": {
@@ -4593,6 +4604,7 @@
   },
   "BROWN_BANDANA": {
     "name": "Brown Bandana",
+    "wiki": "https://wiki.hypixel.net/Brown_Bandana",
     "base_rarity": "RARE"
   },
   "BROWN_MUSHROOM": {
@@ -5601,6 +5613,7 @@
   },
   "CARNIVAL_MASK_BAG": {
     "name": "Carnival Mask Bag",
+    "wiki": "https://wiki.hypixel.net/Carnival_Mask_Bag",
     "base_rarity": "COMMON"
   },
   "CARNIVAL_SHOVEL": {
@@ -5609,6 +5622,7 @@
   },
   "CARNIVAL_TICKET": {
     "name": "Carnival Ticket",
+    "wiki": "https://wiki.hypixel.net/Carnival_Ticket",
     "base_rarity": "UNCOMMON"
   },
   "CARPENTRY_BENCH": {
@@ -9066,6 +9080,7 @@
       "C2": "AVARICIOUS_CHALICE:2",
       "C3": "GRIFFIN_FEATHER:16"
     },
+    "wiki": "https://wiki.hypixel.net/Crown_Of_Avarice",
     "base_rarity": "LEGENDARY"
   },
   "CROWN_OF_GREED": {
@@ -10875,6 +10890,7 @@
   },
   "DIVAN_POWDER_COATING": {
     "name": "Divan\u0027s Powder Coating",
+    "wiki": "https://wiki.hypixel.net/Divan%27s_Powder_Coating",
     "forge": 129600,
     "base_rarity": "LEGENDARY"
   },
@@ -11523,6 +11539,7 @@
   },
   "DYE_PORTAL": {
     "name": "Portal Dye",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Portal_Dye",
     "base_rarity": "MYTHIC"
   },
   "DYE_PURE_BLACK": {
@@ -12000,6 +12017,7 @@
       "C2": "AVARICIOUS_CHALICE:1",
       "C3": "ENCHANTED_EMERALD_BLOCK:6"
     },
+    "wiki": "https://wiki.hypixel.net/Emerald_Artifact",
     "base_rarity": "RARE"
   },
   "EMERALD_BLADE": {
@@ -16723,6 +16741,7 @@
   },
   "FINE_FLOUR": {
     "name": "Fine Flour",
+    "wiki": "https://wiki.hypixel.net/Fine_Flour",
     "base_rarity": "UNCOMMON"
   },
   "FINE_JADE_GEM": {
@@ -18489,6 +18508,7 @@
   },
   "FRESHLY_MINTED_COINS": {
     "name": "Freshly-Minted Coins",
+    "wiki": "https://wiki.hypixel.net/Freshly-Minted_Coins",
     "base_rarity": "RARE",
     "npc_buy": {
       "cost": [
@@ -18510,6 +18530,7 @@
   },
   "FROG_MASK": {
     "name": "Frog Mask",
+    "wiki": "https://wiki.hypixel.net/Frog_Mask",
     "base_rarity": "EPIC"
   },
   "FROSTY_CRUX": {
@@ -19697,6 +19718,7 @@
   },
   "GLEAMING_CRYSTAL": {
     "name": "Gleaming Crystal",
+    "wiki": "https://wiki.hypixel.net/Gleaming_Crystal",
     "forge": 32400,
     "base_rarity": "EPIC"
   },
@@ -19724,6 +19746,7 @@
   },
   "GLOSSY_GEMSTONE": {
     "name": "Glossy Gemstone",
+    "wiki": "https://wiki.hypixel.net/Glossy_Gemstone",
     "base_rarity": "EPIC"
   },
   "GLOSSY_MINERAL_BOOTS": {
@@ -19739,6 +19762,7 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Boots",
     "base_rarity": "LEGENDARY"
   },
   "GLOSSY_MINERAL_CHESTPLATE": {
@@ -19754,6 +19778,7 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Chestplate",
     "base_rarity": "LEGENDARY"
   },
   "GLOSSY_MINERAL_HELMET": {
@@ -19769,6 +19794,7 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Helmet",
     "base_rarity": "LEGENDARY"
   },
   "GLOSSY_MINERAL_LEGGINGS": {
@@ -19784,6 +19810,7 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Leggings",
     "base_rarity": "LEGENDARY"
   },
   "GLOSSY_MINERAL_TALISMAN": {
@@ -19799,6 +19826,7 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     },
+    "wiki": "https://wiki.hypixel.net/Glossy_Mineral_Talisman",
     "base_rarity": "EPIC"
   },
   "GLOWING_GRAPE_FLUX": {
@@ -20259,6 +20287,7 @@
   },
   "GOLDEN_BOUNTY": {
     "name": "Golden Bounty",
+    "wiki": "https://wiki.hypixel.net/Golden_Bounty",
     "base_rarity": "LEGENDARY",
     "npc_buy": {
       "cost": [
@@ -20330,6 +20359,7 @@
   },
   "GOLDEN_FRAGMENT": {
     "name": "Golden Fragment",
+    "wiki": "https://wiki.hypixel.net/Golden_Fragment",
     "base_rarity": "EPIC",
     "npc_buy": {
       "cost": [
@@ -21921,6 +21951,7 @@
   },
   "HAMBAGGER_BACKPACK": {
     "name": "Hambagger Backpack Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Hambagger_Backpack_Skin",
     "base_rarity": "EPIC"
   },
   "HAMMOCK": {
@@ -25450,6 +25481,7 @@
   },
   "JADE_BELT": {
     "name": "Jade Belt",
+    "wiki": "https://wiki.hypixel.net/Jade_Belt",
     "forge": 86400,
     "base_rarity": "EPIC"
   },
@@ -27098,6 +27130,7 @@
       "C2": "CARNIVAL_TICKET:10",
       "C3": "CARNIVAL_TICKET:10"
     },
+    "wiki": "https://wiki.hypixel.net/Events_Sack",
     "base_rarity": "EPIC"
   },
   "LARGE_FISHING_SACK": {
@@ -30529,11 +30562,13 @@
   },
   "MITHRIL_BELT": {
     "name": "Mithril Belt",
+    "wiki": "https://wiki.hypixel.net/Mithril_Belt",
     "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_CLOAK": {
     "name": "Mithril Cloak",
+    "wiki": "https://wiki.hypixel.net/Mithril_Cloak",
     "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
@@ -30595,6 +30630,7 @@
   },
   "MITHRIL_GAUNTLET": {
     "name": "Mithril Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Mithril_Gauntlet",
     "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
@@ -30900,6 +30936,7 @@
   },
   "MITHRIL_NECKLACE": {
     "name": "Mithril Necklace",
+    "wiki": "https://wiki.hypixel.net/Mithril_Necklace",
     "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
@@ -33550,10 +33587,12 @@
   },
   "PARROT_MASK": {
     "name": "Parrot Mask",
+    "wiki": "https://wiki.hypixel.net/Parrot_Mask",
     "base_rarity": "RARE"
   },
   "PARTY_GIFT": {
     "name": "Party Gift",
+    "wiki": "https://wiki.hypixel.net/Party_Gift",
     "base_rarity": "UNCOMMON"
   },
   "PARTY_HAT_CRAB_AQUA": {
@@ -34827,6 +34866,7 @@
   },
   "PEST_VEST": {
     "name": "Pest Vest",
+    "wiki": "https://wiki.hypixel.net/Pest_Vest",
     "base_rarity": "EPIC"
   },
   "PETRIFIED_STARFALL": {
@@ -35297,10 +35337,12 @@
   },
   "PET_SKIN_BLAZE_PLUSHIE": {
     "name": "Plushie Blaze Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Blaze_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_BLUE_WHALE_PLUSHIE": {
     "name": "Plushie Blue Whale Skin",
+    "wiki": "https://wiki.hypixel.net/Plushie_Blue_Whale_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_CAT_SPACE_KITTY": {
@@ -35505,6 +35547,7 @@
   },
   "PET_SKIN_FLYING_FISH_HARLEQUIN": {
     "name": "Harlequin Flying Fish Skin",
+    "wiki": "https://wiki.hypixel.net/Harlequin_Flying_Fish_Skin",
     "base_rarity": "MYTHIC"
   },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
@@ -36132,6 +36175,7 @@
   },
   "PET_SKIN_WOLF_DOGE_PLUSHIE": {
     "name": "Doge Plushie Wolf Skin",
+    "wiki": "https://wiki.hypixel.net/Doge_Plushie_Wolf_Skin",
     "base_rarity": "EPIC"
   },
   "PET_SKIN_WOLF_HUSKY": {
@@ -41216,6 +41260,7 @@
   },
   "REKINDLED_EMBER_BURNING": {
     "name": "Smoldering Ember Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Smoldering_Ember_Skin",
     "base_rarity": "MYTHIC"
   },
   "REKINDLED_EMBER_CHESTPLATE": {
@@ -41284,6 +41329,7 @@
       "C2": "FRESHLY_MINTED_COINS:16",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Relic_Of_Coins",
     "base_rarity": "EPIC"
   },
   "REMNANT_OF_THE_EYE": {
@@ -41887,6 +41933,7 @@
       "C2": "FRESHLY_MINTED_COINS:1",
       "C3": ""
     },
+    "wiki": "https://wiki.hypixel.net/Ring_Of_Coins",
     "base_rarity": "UNCOMMON"
   },
   "RING_POTION_AFFINITY": {
@@ -42371,6 +42418,7 @@
   },
   "SALMON_MASK": {
     "name": "Salmon Mask",
+    "wiki": "https://wiki.hypixel.net/Salmon_Mask",
     "base_rarity": "UNCOMMON"
   },
   "SALMON_OPAL": {
@@ -42489,6 +42537,7 @@
   },
   "SAND_CASTLE_BARN_SKIN": {
     "name": "Sand Castle Barn Skin",
+    "wiki": "https://wiki.hypixel.net/Sand_Castle_Barn_Skin",
     "base_rarity": "LEGENDARY"
   },
   "SAND_GENERATOR_1": {
@@ -42698,6 +42747,7 @@
   },
   "SAPPHIRE_CLOAK": {
     "name": "Sapphire Cloak",
+    "wiki": "https://wiki.hypixel.net/Sapphire_Cloak",
     "forge": 86400,
     "base_rarity": "EPIC"
   },
@@ -42920,6 +42970,7 @@
       "C2": "FRESHLY_MINTED_COINS:4",
       "C3": "BLOOD_SOAKED_COINS:1"
     },
+    "wiki": "https://wiki.hypixel.net/Scavenger_Artifact",
     "base_rarity": "RARE"
   },
   "SCAVENGER_RING": {
@@ -42935,6 +42986,7 @@
       "C2": "FRESHLY_MINTED_COINS:2",
       "C3": "BLOOD_STAINED_COINS:1"
     },
+    "wiki": "https://wiki.hypixel.net/Scavenger_Ring",
     "base_rarity": "UNCOMMON"
   },
   "SCAVENGER_TALISMAN": {
@@ -48699,6 +48751,7 @@
   },
   "STARLIGHT_STARKNIGHT": {
     "name": "Starknight Skin",
+    "wiki": "https://hypixel-skyblock.fandom.com/wiki/Starknight_Skin",
     "base_rarity": "EPIC"
   },
   "STARLIGHT_WAND": {
@@ -51903,11 +51956,13 @@
   },
   "TITANIUM_BELT": {
     "name": "Titanium Belt",
+    "wiki": "https://wiki.hypixel.net/Titanium_Belt",
     "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_CLOAK": {
     "name": "Titanium Cloak",
+    "wiki": "https://wiki.hypixel.net/Titanium_Cloak",
     "forge": 16200,
     "base_rarity": "RARE"
   },
@@ -51949,11 +52004,13 @@
   },
   "TITANIUM_GAUNTLET": {
     "name": "Titanium Gauntlet",
+    "wiki": "https://wiki.hypixel.net/Titanium_Gauntlet",
     "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_NECKLACE": {
     "name": "Titanium Necklace",
+    "wiki": "https://wiki.hypixel.net/Titanium_Necklace",
     "forge": 16200,
     "base_rarity": "RARE"
   },
@@ -56957,6 +57014,7 @@
   },
   "ZOMBIE_MASK": {
     "name": "Zombie Mask",
+    "wiki": "https://wiki.hypixel.net/Zombie_Mask",
     "base_rarity": "UNCOMMON"
   },
   "ZOMBIE_PICKAXE": {
